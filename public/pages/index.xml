@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Stuart&#39;s Notes</title>
-    <link>http://blog.srackham.com/pages/</link>
-    <description>Recent content in Pages on Stuart&#39;s Notes</description>
+    <title>Pages on wordbit</title>
+    <link>http://wordbit.com/pages/</link>
+    <description>Recent content in Pages on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://blog.srackham.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://wordbit.com/pages/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://blog.srackham.com/pages/about/</link>
+      <link>http://wordbit.com/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.srackham.com/pages/about/</guid>
+      <guid>http://wordbit.com/pages/about/</guid>
       <description>
 
 &lt;h1 id=&#34;stuart-rackham-s-blog:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Stuart Rackham&amp;rsquo;s Blog&lt;/h1&gt;
@@ -21,9 +21,9 @@
 
 &lt;p&gt;This blog site is built by &lt;a href=&#34;http://hugo.spf13.com&#34;&gt;Hugo&lt;/a&gt; and is hosted on &lt;a href=&#34;https://github.com/srackham/stuarts-notes&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The look and feel is based on a theme &lt;a href=&#34;https://github.com/spencerlyon2/hugo_gh_blog&#34;&gt;adapted by Spencer Lyons&lt;/a&gt; from &lt;a href=&#34;http://lanyon.getpoole.com&#34;&gt;Jekyll&amp;rsquo;s Lanyon theme&lt;/a&gt;. More details in my &lt;a href=&#34;http://blog.srackham.com/posts/porting-my-blog-to-hugo/&#34;&gt;Porting my blog to Hugo&lt;/a&gt; blog post.&lt;/p&gt;
+&lt;p&gt;The look and feel is based on a theme &lt;a href=&#34;https://github.com/spencerlyon2/hugo_gh_blog&#34;&gt;adapted by Spencer Lyons&lt;/a&gt; from &lt;a href=&#34;http://lanyon.getpoole.com&#34;&gt;Jekyll&amp;rsquo;s Lanyon theme&lt;/a&gt;. More details in my &lt;a href=&#34;http://wordbit.com/posts/porting-my-blog-to-hugo/&#34;&gt;Porting my blog to Hugo&lt;/a&gt; blog post.&lt;/p&gt;
 
-&lt;p&gt;I &lt;a href=&#34;http://blog.srackham.com/posts/porting-my-blog-with-hugo&#34;&gt;ported this blog from WordPress&lt;/a&gt; at the beginning of 2015, my old blog site can &lt;a href=&#34;http://srackham.wordpress.com/&#34;&gt;be found here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I &lt;a href=&#34;http://wordbit.com/posts/porting-my-blog-with-hugo&#34;&gt;ported this blog from WordPress&lt;/a&gt; at the beginning of 2015, my old blog site can &lt;a href=&#34;http://srackham.wordpress.com/&#34;&gt;be found here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;I update my posts to fix errors; refine content; add additional content; delete outdated content or make changes because I&amp;rsquo;ve change my mind. I do not document the changes in the posts &amp;ndash; you can see the changes I&amp;rsquo;ve made by looking at the &lt;a href=&#34;https://github.com/srackham/stuarts-notes&#34;&gt;Github repository&lt;/a&gt;.&lt;/p&gt;
 </description>
