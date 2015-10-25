@@ -5,7 +5,7 @@ publishdir: "public"
 indexes:
   category: "categories"
 baseurl: "http://wordbit.com"
-canonifyurls: true
+canonifyurls: false
 title: "wordbit"
 params:
   MastheadTitle: "wordbit"
