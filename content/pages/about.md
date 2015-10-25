@@ -1,11 +1,3 @@
-# Stuart Rackham's Blog
+# Antoine Giraud's Blog
 
-My name is Stuart and I've been programming computers professionally since the early Eighties.
-
-This blog site is built by [Hugo](http://hugo.spf13.com) and is hosted on [Github](https://github.com/srackham/stuarts-notes).
-
-The look and feel is based on a theme [adapted by Spencer Lyons](https://github.com/spencerlyon2/hugo_gh_blog) from [Jekyll's Lanyon theme](http://lanyon.getpoole.com). More details in my [Porting my blog to Hugo](/posts/porting-my-blog-to-hugo/) blog post.
-
-I [ported this blog from WordPress](/posts/porting-my-blog-with-hugo) at the beginning of 2015, my old blog site can [be found here](http://srackham.wordpress.com/).
-
-I update my posts to fix errors; refine content; add additional content; delete outdated content or make changes because I've change my mind. I do not document the changes in the posts -- you can see the changes I've made by looking at the [Github repository](https://github.com/srackham/stuarts-notes).
+Greetings netizen – thanks for stopping by. My name is Antoine and this is my personal blog. I’ve been blogging online since 2003 and am a writer by trade. Here you’ll find longform posts covering a variety of topics that interest me. This blog is pretty simple and you won’t find anything except pure unadulterated content here; however, you’re welcome to talk to me about anything I’ve written about on [Twitter](https://twitter.com/wordbit). In case you were wondering, I try to post at least once a month. Thanks again for reading and welcome to my home on the Internet.
