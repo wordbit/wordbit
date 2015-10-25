@@ -1,0 +1,12 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://wordbit.com"
+canonifyurls: true
+title: "wordbit"
+params:
+  MastheadTitle: "wordbit"
+...

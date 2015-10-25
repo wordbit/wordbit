@@ -1,0 +1,1556 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stuart&#39;s Notes</title>
+    <link>http://blog.srackham.com/</link>
+    <description>Recent content on Stuart&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 10 Feb 2015 10:49:00 +1300</lastBuildDate>
+    <atom:link href="http://blog.srackham.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building Apps with Riot, ES6 and Webpack</title>
+      <link>http://blog.srackham.com/posts/riot-es6-webpack-apps/</link>
+      <pubDate>Tue, 10 Feb 2015 10:49:00 +1300</pubDate>
+      
+      <guid>http://blog.srackham.com/posts/riot-es6-webpack-apps/</guid>
+      <description>
+
+&lt;p&gt;I arrived at &lt;a href=&#34;https://muut.com/riotjs/&#34;&gt;Riot&lt;/a&gt;  after reading the Muut &lt;a href=&#34;https://muut.com/blog/technology/frameworkless-javascript.html&#34;&gt;Frameworkless JavaScript&lt;/a&gt; blog post &amp;ndash; read this first!  The Muut programmers have put their money where their mouths are and built Riot, a minimalist &lt;a href=&#34;https://muut.com/blog/technology/riot-2.0/&#34;&gt;Reactjs-like library&lt;/a&gt; called &lt;a href=&#34;https://muut.com/riotjs/&#34;&gt;Riot&lt;/a&gt; for building reactive UI components.&lt;/p&gt;
+
+&lt;p&gt;Reading the Riot documentation the thing that struck me was how easy Riot is to understand &amp;ndash; there are very few new terms and concepts to learn compared to React (which, to be fair, is also straight-forward compared to e.g. Polymer and Angular).&lt;/p&gt;
+
+&lt;p&gt;To help me learn Riot I ported my React &lt;a href=&#34;https://github.com/srackham/flux-backbone-todo&#34;&gt;Flux Backbone Todos Example&lt;/a&gt; to a &lt;a href=&#34;https://github.com/srackham/riot-todo&#34;&gt;Riot Todo app&lt;/a&gt;. This post is a compilation of notes I made documenting the experience.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read&#34;&gt;tl;dr&lt;/a&gt; answers are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Riot really does live up to its minimalist motto. The (unminified) Riot version of the Todo weighs in at a tiny 32KB compared to 964KB for the React version (600KB after subtracting Backbone and JQuery which are not used in the Riot version). However you look at it that&amp;rsquo;s a huge difference.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Riot has that rare Goldilocks &amp;ldquo;just right&amp;rdquo; feel about it and is a joy to use.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Riot is a relatively new project, I was unable to find statistics on how it scales performance-wise in larger projects. How it fares alongside the Rect juggernaut is an open question &amp;ndash; I hope it does well.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you&amp;rsquo;re not familiar with Riot take a look at the &lt;a href=&#34;https://muut.com/riotjs/&#34;&gt;Riot website&lt;/a&gt; &amp;ndash; the documentation is first class. So rather than discussing how Riot works I&amp;rsquo;ll just list things I&amp;rsquo;ve learnt that may not be obvious reading the documentation.&lt;/p&gt;
+
+&lt;h2 id=&#34;using-es6-with-riot:b2eb1aea6ec0dfb6c22bb643e9bdf105&#34;&gt;Using ES6 with Riot&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://github.com/srackham/riot-todo&#34;&gt;example app&lt;/a&gt; is written in ES6, I use the &lt;a href=&#34;http://6to5.org/&#34;&gt;6to5&lt;/a&gt; transpiler to convert it to ES5 and &lt;a href=&#34;http://webpack.github.io/&#34;&gt;Webpack&lt;/a&gt; to bundle the compiled code along with required libraries. This approach necessitates combining JavaScript modules &amp;ndash; working in ES6 is particularly nice as you get to take advantage of the new ES6 import and export statements (see &lt;a href=&#34;https://github.com/srackham/riot-todo/blob/master/src/index.js&#34;&gt;this example&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Webpack &lt;a href=&#34;https://github.com/srackham/riot-todo/blob/master/webpack.config.js&#34;&gt;is configured&lt;/a&gt; to use the &lt;code&gt;6to5-loader&lt;/code&gt; which automatically converts ES6 source to CommonJS formatted ES5 modules that are then bundled into the single &lt;code&gt;bundle.js&lt;/code&gt; distributable file.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-i-don-t-use-riot-tag-files:b2eb1aea6ec0dfb6c22bb643e9bdf105&#34;&gt;Why I don&amp;rsquo;t use Riot .tag files&lt;/h2&gt;
+
+&lt;p&gt;Riot tag files are HTML templates containing HTML markup along with JavaScript UI logic.
+If you&amp;rsquo;ve looked at the &lt;a href=&#34;https://github.com/srackham/riot-todo&#34;&gt;Todo app&lt;/a&gt; app you are probably wondering where the tag files are &amp;ndash; the answer is that I no longer use them, preferring JavaScript instead. By eliminating &lt;code&gt;.tag&lt;/code&gt; files I&amp;rsquo;ve simplified my coding, tooling and workflow. For me, tag file complexity and limitations outweigh any perceived benefits.&lt;/p&gt;
+
+&lt;p&gt;This is not a criticism of Riot, the neat thing about tag files is that they&amp;rsquo;re entirely optional and I&amp;rsquo;m documenting why I don&amp;rsquo;t use them.&lt;/p&gt;
+
+&lt;p&gt;When you examine the compiled JavaScript you see that Riot tag files are a thin layer of syntactic sugar.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;They add an additional conceptual layer &amp;ndash; new(ish) syntax and semantics have to be learned.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;They add an additional compilation step.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The tag file compiler dictates the languages and templates you can use (CoffeeScript, ES6, Jade) contradicting the &amp;ldquo;Use your favorite tools&amp;rdquo; mantra.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The tag constructor-body logic is out of context:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It is not amenable to editor/IDE linting and other tooling.&lt;/li&gt;
+&lt;li&gt;Referencing &lt;code&gt;this&lt;/code&gt; out of context means the code is not legal JavaScript and generates errors in editors/IDEs.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;There is currently no support for module formats (CommonJS, AMD) &amp;ndash; tag files compile to plain JavaScript .&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Tag files require tag loaders to be used directly in build tools such as Webpack and Browserify.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The &amp;ldquo;ES6-like&amp;rdquo; constructor methods are nice but they are not legal JavaScript and are likely to always be a source of ongoing confusion (syntax and semantics). You can use &lt;em&gt;ES6 arrow functions&lt;/em&gt; to achieve the same semantics (lexically bound &lt;code&gt;this&lt;/code&gt;) with almost the same brevity, for example:&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;this.add = (e) =&amp;gt; {
+  var input = e.target[0]
+  this.items.push(input.value)
+  input.value = &#39;&#39;
+};
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Here&amp;rsquo;s &lt;a href=&#34;https://github.com/srackham/riot-todo/blob/0.1.1/src/tags.js&#34;&gt;an example of an ES6 JavaScript tags file&lt;/a&gt; using ES6 template strings and arrow functions.&lt;/p&gt;
+
+&lt;p&gt;ES6 Template Strings aid the readability of tag HTML templates. Similarly, if you are using CoffeeScript you can use CoffeeScript Block Strings. &lt;a href=&#34;http://facebook.github.io/jsx/&#34;&gt;JSX&lt;/a&gt; is another possibility &amp;ndash; React&amp;rsquo;s JSX transformer could be modified to emit a string literal and you could then take advantage of existing JSX tooling support.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-fundamental-difference-between-riot-and-react:b2eb1aea6ec0dfb6c22bb643e9bdf105&#34;&gt;The fundamental difference between Riot and React&lt;/h2&gt;
+
+&lt;p&gt;The most significant difference lies in how the UI markup templates are declared:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In React the UI template markup is baked in your JavaScript source (using the JSX language extension).&lt;/li&gt;
+&lt;li&gt;Riot inverts the React model by putting the markup and logic in an HTML (tag) file.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The upshot of this inversion is that the React template DSL language is JavaScript whereas Riot relies on a custom template DSL (implemented with custom tags). Here are two simplified examples that generate a list from an array of todo items: the first is React JavaScript the second is the equivalent Riot tag markup:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;ul&amp;gt;
+  todos.map(todo =&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;TodoItemComponent todo={todo} /&amp;gt;&amp;lt;/li&amp;gt;)
+&amp;lt;/ul&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;ul&amp;gt;
+  &amp;lt;li each=&amp;quot;{todo in todos}&amp;quot;&amp;gt;
+    &amp;lt;todo-item todo=&amp;quot;{todo}&amp;quot;&amp;gt;
+  &amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The first example uses JavaScript&amp;rsquo;s &lt;code&gt;map&lt;/code&gt; function to generate a list of &lt;code&gt;&amp;lt;li&amp;gt;&lt;/code&gt; elements; the second uses Riot&amp;rsquo;s custom &lt;code&gt;each&lt;/code&gt; template attribute.&lt;/p&gt;
+
+&lt;p&gt;Steve Luscher explains why he thinks JavaScript is better than custom template DSLs &lt;a href=&#34;https://www.youtube.com/watch?v=rI0GQc__0SM#t=1325&#34;&gt;towards the end of this video&lt;/a&gt; &amp;ndash; not only do you have to learn a custom DSL you are also constrained by the features the DSL offers. For small common use-case examples like ones above there is little to choose between the two approaches, but when it comes to larger highly dynamic UI compositions the power and flexibility of React&amp;rsquo;s JavaScript approach is clearly superior.&lt;/p&gt;
+
+&lt;h2 id=&#34;tips:b2eb1aea6ec0dfb6c22bb643e9bdf105&#34;&gt;Tips&lt;/h2&gt;
+
+&lt;h3 id=&#34;avoid-self-closing-xhtml-style-tags:b2eb1aea6ec0dfb6c22bb643e9bdf105&#34;&gt;Avoid self-closing XHTML style tags&lt;/h3&gt;
+
+&lt;p&gt;Do not close tags with &lt;code&gt;/&amp;gt;&lt;/code&gt; as it does not always immediately close the tag.  When dealing with HTML5 elements &lt;code&gt;&amp;lt;foo /&amp;gt;&lt;/code&gt; means &lt;code&gt;&amp;lt;foo&amp;gt;&lt;/code&gt; (whereas in XHTML &lt;code&gt;&amp;lt;foo /&amp;gt;&lt;/code&gt; means &lt;code&gt;&amp;lt;foo&amp;gt;&amp;lt;/foo&amp;gt;&lt;/code&gt;) i.e. HTML5 ignores the &lt;code&gt;/&lt;/code&gt; character. See this &lt;a href=&#34;http://stackoverflow.com/a/9845124/1136455&#34;&gt;Stackoverflow post&lt;/a&gt; on the subject. See also:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://muut.com/riotjs/forum/#!/using:closing-html5-tags-with-&#34;&gt;Closing HTML5 tags with /&amp;gt; can produce unexpected results&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://muut.com/riotjs/forum/#!/using:misplaced-form-end-tag&#34;&gt;Misplaced form end-tags&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;bind-tag-event-handlers-to-this:b2eb1aea6ec0dfb6c22bb643e9bdf105&#34;&gt;Bind tag event handlers to this&lt;/h3&gt;
+
+&lt;p&gt;Bind tag event handlers to &lt;code&gt;this&lt;/code&gt; to ensure they are always fired with the tag context (alternatively use the &lt;code&gt;var self = this&lt;/code&gt; idiom). For example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;this.clear = function(e) {
+  dispatcher.trigger(dispatcher.CLEAR_TODOS);
+}.bind(this);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;With ES6 you can achieve the same thing with lexically bound ES6 &lt;em&gt;arrow functions&lt;/em&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;this.clear = (e) =&amp;gt; {
+  dispatcher.trigger(dispatcher.CLEAR_TODOS);
+};
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;referencing-loop-items:b2eb1aea6ec0dfb6c22bb643e9bdf105&#34;&gt;Referencing Loop items&lt;/h3&gt;
+
+&lt;p&gt;Use the &lt;code&gt;each=&amp;quot;{item in items}&amp;quot;&lt;/code&gt; construct to pass the current looped item to a child custom tag. In the following example the code in the custom &lt;code&gt;todo-item&lt;/code&gt; tag can refer to the current todo item with &lt;code&gt;opts.todo&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;ul&amp;gt;
+ &amp;lt;li each=&amp;quot;{todo in opts.store.todos}&amp;quot;&amp;gt;
+   &amp;lt;todo-item store=&amp;quot;{parent.opts.store}&amp;quot; todo=&amp;quot;{todo}&amp;quot;&amp;gt;
+ &amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;namespace-event-names:b2eb1aea6ec0dfb6c22bb643e9bdf105&#34;&gt;Namespace event names&lt;/h3&gt;
+
+&lt;p&gt;Use the colon namespacing convention to group application event names e.g. &lt;code&gt;admin:edit&lt;/code&gt;, &lt;code&gt;admin:delete&lt;/code&gt;, &lt;code&gt;admin:new&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;you-can-use-custom-tag-names-in-css-files:b2eb1aea6ec0dfb6c22bb643e9bdf105&#34;&gt;You can use custom tag names in CSS files&lt;/h3&gt;
+
+&lt;p&gt;Custom tags are rendered into the DOM and so they can be used for CSS selection and DOM interrogation, here&amp;rsquo;s &lt;a href=&#34;https://github.com/srackham/riot-todo/blob/master/dist/index.css&#34;&gt;an example&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;debugging:b2eb1aea6ec0dfb6c22bb643e9bdf105&#34;&gt;Debugging&lt;/h2&gt;
+
+&lt;p&gt;When bundling with Webpack you need to use the &lt;a href=&#34;https://github.com/srackham/riot-todo/blob/master/webpack.config.js&#34;&gt;devtool source-map configuration option&lt;/a&gt; to produce a &lt;a href=&#34;http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/&#34;&gt;source map&lt;/a&gt; file for you bundled app. This allows you to debug from the ES6 source code files.&lt;/p&gt;
+
+&lt;p&gt;To browse and debug the source code open your browser&amp;rsquo;s &lt;em&gt;Sources window&lt;/em&gt; and navigate to the folder &lt;code&gt;webpack:///.&lt;/code&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In Firefox: open the Debugger (Ctrl+Shift+S).&lt;/li&gt;
+&lt;li&gt;In Google Chrome: open the Console (Ctrl+Shift+J) then click on the &lt;em&gt;Sources&lt;/em&gt; tab to view the Sources panel.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I&amp;rsquo;m not big on debuggers and break points &amp;ndash; most of the time I just put strategically placed temporary &lt;code&gt;console.log()&lt;/code&gt; statements in the code.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-big-picture:b2eb1aea6ec0dfb6c22bb643e9bdf105&#34;&gt;The Big Picture&lt;/h2&gt;
+
+&lt;p&gt;Riot (like React) is a UI library, not a framework. This is good (I prefer a small set of focused libraries to an all encompassing framework) but non-trivial applications need a coherent high-level structure (an architecture) to ease scalability, evolution and maintainability. &lt;a href=&#34;https://www.npmjs.com/package/flux&#34;&gt;Flux&lt;/a&gt; is increasing the architecture of choice for React-like apps. I like Flux because it&amp;rsquo;s easy to understand and because it makes intuitive sense (not out of any theoretical conviction). The &lt;a href=&#34;https://github.com/srackham/riot-todo&#34;&gt;Riot Todo app&lt;/a&gt; uses the &lt;a href=&#34;https://github.com/jimsparkman/RiotControl&#34;&gt;RiotControl&lt;/a&gt; flux-style dispatcher (slightly modified) to implement the Flux architecture.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Easier Terminal pasting in Ubuntu</title>
+      <link>http://blog.srackham.com/posts/easier-terminal-pasting-in-ubuntu/</link>
+      <pubDate>Sun, 04 Jan 2015 19:58:37 +1300</pubDate>
+      
+      <guid>http://blog.srackham.com/posts/easier-terminal-pasting-in-ubuntu/</guid>
+      <description>&lt;p&gt;Everyone knows about the traditional clipboard where you explicitly
+copy the text selection using the application&amp;rsquo;s &lt;em&gt;Copy&lt;/em&gt; command, but
+few know that there is a second called the &lt;em&gt;primary selection&lt;/em&gt; that
+always holds the current text selection i.e. you don&amp;rsquo;t have to copy to
+it.&lt;/p&gt;
+
+&lt;p&gt;This reduces &lt;em&gt;select-&amp;gt;copy-&amp;gt;paste&lt;/em&gt; to &lt;em&gt;select-&amp;gt;paste&lt;/em&gt; which I find
+incredibly helpful as I spend much of my computer time inside a
+terminal am constantly copying and pasting text.&lt;/p&gt;
+
+&lt;p&gt;You can paste the primary selection by clicking the middle button on the
+mouse. The Terminal application also assigns the &lt;em&gt;Shift+Insert&lt;/em&gt;
+keyboard shortcut to paste the primary selection.&lt;/p&gt;
+
+&lt;p&gt;So, if you&amp;rsquo;re in the Terminal and want to paste the text selection to
+the cursor just middle-click the mouse or press &lt;em&gt;Shift+Insert&lt;/em&gt; (a lot
+less tedious than &lt;em&gt;Ctrl+Shift+C&lt;/em&gt; plus &lt;em&gt;Ctrl+Shift+V&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s another tip: Use &lt;code&gt;xclip(1)&lt;/code&gt; to copy and paste between the
+terminal and Desktop applications (first you&amp;rsquo;ll need to install &lt;code&gt;xclip&lt;/code&gt;
+with &lt;code&gt;sudo apt-get install xclip&lt;/code&gt;).&lt;/p&gt;
+
+&lt;p&gt;Example usage:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    cat pages.html | xclip -sel clip  # Copy file to clipboard.
+    xclip -sel clip -o &amp;gt; foo.txt      # Write clipboard to file.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;By default &lt;code&gt;xclip(1)&lt;/code&gt; uses the primary selection (not the clipboard)
+so I&amp;rsquo;ve added the following alias in my &lt;code&gt;~/.bashrc&lt;/code&gt; file:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    alias xclip=&#39;xclip -sel clip&#39;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This makes working with the clipboard less verbose:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    cat pages.html | xclip    # Copy file to clipboard.
+    xclip -o &amp;gt; foo.txt        # Write clipboard to file.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Bonus tip&lt;/strong&gt;: To select text column-wise hold down the &lt;em&gt;Ctrl&lt;/em&gt; key then select the
+text with the mouse.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Porting my blog with Hugo</title>
+      <link>http://blog.srackham.com/posts/porting-my-blog-with-hugo/</link>
+      <pubDate>Tue, 30 Dec 2014 19:31:33 +1300</pubDate>
+      
+      <guid>http://blog.srackham.com/posts/porting-my-blog-with-hugo/</guid>
+      <description>
+
+&lt;p&gt;I&amp;rsquo;ve just ported &lt;a href=&#34;http://srackham.wordpress.com/&#34;&gt;my Wordpress blog&lt;/a&gt; to &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt; using &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-not-use-jekyll:a6ec2c1a4d1e8d4e138ddf9de13db838&#34;&gt;Why not use Jekyll?&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt; is currently the de facto choice for
+building Github hosted static websites, I choose Hugo (after first
+trying Jekyll) primarily because, for me,  Hugo has an ineffable
+&lt;em&gt;Goldilocks&lt;/em&gt; quality.  Post facto rationale:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hugo is &lt;a href=&#34;http://fredrikloch.me/post/2014-08-12-Jekyll-and-its-alternatives-from-a-site-generation-point-of-view/&#34;&gt;much
+faster&lt;/a&gt;
+than Jekyll.&lt;/li&gt;
+&lt;li&gt;Hugo has a really useful &lt;code&gt;--watch&lt;/code&gt; option.&lt;/li&gt;
+&lt;li&gt;With Jekyll you have to install and maintain the Ruby/Rake/Gems ecosystem &amp;ndash; Hugo is just a single executable with no dependencies.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;choosing-a-theme:a6ec2c1a4d1e8d4e138ddf9de13db838&#34;&gt;Choosing a theme&lt;/h2&gt;
+
+&lt;p&gt;My objective requirements were:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Phone and tablet friendly.&lt;/li&gt;
+&lt;li&gt;Minimal customization required (I find HTML/CSS twiddling such a
+time sink).&lt;/li&gt;
+&lt;li&gt;Straight-forward and uncluttered appearance.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The hard part is largely subjective: finding a look and feel that you
+actually like (look and feel is notoriously subtle and personal).
+After lots of trawling the Web I stumbled on a &lt;a href=&#34;http://sglyon.com/hugo_gh_blog/&#34;&gt;Hugo
+port&lt;/a&gt; of the &lt;a href=&#34;http://lanyon.getpoole.com/&#34;&gt;Jekyll Lanyon
+theme&lt;/a&gt; &amp;ndash; it is really nice and by happy
+coincidence is the basis for the excellent Hugo tutorial &lt;a href=&#34;http://gohugo.io/tutorials/github_pages_blog/&#34;&gt;Hosting on
+GitHub Pages&lt;/a&gt; by
+&lt;a href=&#34;http://sglyon.com/&#34;&gt;Spencer Lyon&lt;/a&gt;. The example repo is &lt;a href=&#34;https://github.com/spencerlyon2/hugo_gh_blog&#34;&gt;on
+Github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My blog&amp;rsquo;s Github repository can be found &lt;a href=&#34;https://github.com/srackham/stuarts-notes&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;implementation-and-deployment:a6ec2c1a4d1e8d4e138ddf9de13db838&#34;&gt;Implementation and Deployment&lt;/h2&gt;
+
+&lt;p&gt;Couldn&amp;rsquo;t be easier: All you have to do is read and follow the &lt;a href=&#34;http://gohugo.io/tutorials/github_pages_blog/&#34;&gt;Hosting
+on GitHub Pages&lt;/a&gt;
+tutorial.&lt;/p&gt;
+
+&lt;h3 id=&#34;additional-notes:a6ec2c1a4d1e8d4e138ddf9de13db838&#34;&gt;Additional notes&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Edit URLs in &lt;code&gt;config.yaml&lt;/code&gt; and &lt;code&gt;deploy.sh&lt;/code&gt; to reflect those of your Github repository.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;After cloning the &lt;a href=&#34;https://github.com/spencerlyon2/hugo_gh_blog&#34;&gt;example repo&lt;/a&gt; you can start from scratch with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;rm -rf .git
+git init
+git add --all
+git commit -am &amp;quot;Initial commit of pristine https://github.com/spencerlyon2/hugo_gh_blog master.&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;After creating an empty repo on Github push your local repo master to Github with (use your own Git URL though):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git remote add origin git@github.com:srackham/stuarts-notes.git
+git push -u origin master
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I got errors trying to set up the &lt;code&gt;gh-pages&lt;/code&gt; subtree branch using steps outlined in the &lt;a href=&#34;http://gohugo.io/tutorials/github_pages_blog/&#34;&gt;Hosting on GitHub Pages&lt;/a&gt; tutorial. A much easier solution is given &lt;a href=&#34;https://gist.github.com/cobyism/4730490&#34;&gt;here&lt;/a&gt; &amp;ndash; just push the &lt;code&gt;public&lt;/code&gt; subtree to &lt;code&gt;gh-pages&lt;/code&gt;, when you do this for the first time local and remote &lt;code&gt;gh-pages&lt;/code&gt; branches are created automatically
+(i.e. there&amp;rsquo;s no need to explicitly setup the &lt;code&gt;gh-pages&lt;/code&gt; branch, just run the &lt;code&gt;deploy.sh&lt;/code&gt; script):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git subtree push --prefix public origin gh-pages
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Before running &lt;code&gt;deploy.sh&lt;/code&gt; make sure any files you not want in your repository are excluded by your &lt;code&gt;.gitignore&lt;/code&gt; file&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I configured a custom domain name (&lt;code&gt;http://blog.srackham.com/&lt;/code&gt;) for my blog&amp;rsquo;s Github Pages website by adding a &lt;code&gt;CNAME&lt;/code&gt; file to the &lt;code&gt;static&lt;/code&gt; directory &amp;ndash; see &lt;a href=&#34;https://help.github.com/articles/adding-a-cname-file-to-your-repository/&#34;&gt;the Github documentation&lt;/a&gt; for details.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;There are &lt;a href=&#34;http://gohugo.io/templates/404/&#34;&gt;Hugo instruction&lt;/a&gt; and &lt;a href=&#34;https://help.github.com/articles/custom-404-pages/&#34;&gt;Github instructions&lt;/a&gt; explaining how to create a custom 404 (page not found) page.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;customization:a6ec2c1a4d1e8d4e138ddf9de13db838&#34;&gt;Customization&lt;/h3&gt;
+
+&lt;p&gt;Rather than change existing CSS files I customize the look of the site with a separate (&lt;code&gt;./static/css/custom.css&lt;/code&gt;) file. Don&amp;rsquo;t forget to add a &lt;code&gt;link&lt;/code&gt; tag to the new CSS file in the &lt;code&gt;./layouts/chrome/head_includes.html&lt;/code&gt; template.&lt;/p&gt;
+
+&lt;p&gt;I did have to make one change to &lt;a href=&#34;https://github.com/spencerlyon2/hugo_gh_blog/blob/master/static/css/poole.css&#34;&gt;poole.css from the example repo&lt;/a&gt;: For some reason lists were styled to render like paragraphs &amp;ndash; fixed by deleting from &lt;code&gt;poole.css&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;/* Lists */
+ul, ol, dl {
+  margin-top: 0;
+  padding-left: 0;
+  margin-bottom: 1rem;
+  list-style-type: none;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;importing-posts-from-wordpress:a6ec2c1a4d1e8d4e138ddf9de13db838&#34;&gt;Importing posts from WordPress&lt;/h3&gt;
+
+&lt;p&gt;I used &lt;a href=&#34;https://github.com/thomasf/exitwp&#34;&gt;Exitwp&lt;/a&gt; to import the exported WordPress posts to Hugo &amp;ndash; it worked like a charm and saved me hours of drudgery.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Export all WordPress data to an XML file &amp;ndash; see the &lt;a href=&#34;http://en.support.wordpress.com/export/&#34;&gt;WordPress support&lt;/a&gt; pages for instructions.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Convert to Jekyll format following the  &lt;a href=&#34;https://github.com/thomasf/exitwp&#34;&gt;Exitwp&lt;/a&gt; instructions.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Copy the posts from (in &lt;code&gt;./build/jekyll/&amp;lt;wordpress-site&amp;gt;/_posts/&lt;/code&gt;) to Hugo&amp;rsquo;s &lt;code&gt;./content/posts/&lt;/code&gt; directory.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;You will probably need to tweak the imported Markdown files:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I had to drop the &lt;code&gt;layout&lt;/code&gt; parameter from the front matter header because it was set to &lt;code&gt;post&lt;/code&gt; (my posts layout is in &lt;code&gt;posts&lt;/code&gt;). This can be automated using &lt;a href=&#34;http://www.perl.com/pub/2004/08/09/commandline.html&#34;&gt;command-line Perl&lt;/a&gt; e.g. this deletes lines containing &lt;em&gt;author&lt;/em&gt;, &lt;em&gt;comments&lt;/em&gt;, &lt;em&gt;layout&lt;/em&gt; and &lt;em&gt;wordpress_id&lt;/em&gt; front matter parameters from all Markdown files and renames the original files with a &lt;code&gt;.BAK&lt;/code&gt; extension:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;perl -i.BAK -ne &amp;quot;print unless /^(author|comments|layout|wordpress_id): /&amp;quot; *.md
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Image URLs were pointing back to the WordPress site, to make them
+local I copied the images to &lt;code&gt;./satic/images/&lt;/code&gt; and adjusted the
+links in the Markdown source to &lt;code&gt;/images/&amp;lt;image-file-name&amp;gt;&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;things-i-ve-learnt:a6ec2c1a4d1e8d4e138ddf9de13db838&#34;&gt;Things I&amp;rsquo;ve learnt&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;If you are deploying to a &lt;a href=&#34;http://ifyoucodeittheywill.com/2009/03/absolute-relative-and-root-relative-urls/&#34;&gt;non-root base URL&lt;/a&gt; (e.g. &lt;code&gt;http://srackham.github.io/stuarts-notes/&lt;/code&gt;) you will need to add &lt;code&gt;canonifyurls: true&lt;/code&gt; to your &lt;code&gt;config.yaml&lt;/code&gt; file. If you don&amp;rsquo;t, the root-relative URLs (for example, in the CSS file links) will not work. For the same reason, you will also have this problem If you run the &lt;code&gt;hugo server&lt;/code&gt; command and view the site locally. I no longer have this issue because my base URL is a root URL (&lt;code&gt;http://blog.srackham.com/&lt;/code&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I commit the changes outside the &lt;code&gt;public&lt;/code&gt; directory separately prior to running &lt;code&gt;deploy.sh&lt;/code&gt;, this keeps content and configuration changes separate from the website files and makes tracking content changes easier.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Hugo strips HTML comments from templates when building &amp;ndash; nice!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The &lt;code&gt;hugo server&lt;/code&gt; command builds the site with base URL set to the local server root, this means you must make sure you rebuild with the &lt;code&gt;hugo&lt;/code&gt; command before deployment.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Using Hugo&amp;rsquo;s server command &lt;code&gt;--watch&lt;/code&gt; option in conjunction with the browser make writing and proofing much more dynamic.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Static assets (CSS, images, icons) go in &lt;code&gt;./static/&lt;/code&gt;, Hugo copies them to &lt;code&gt;./public/&lt;/code&gt; when it builds the site (&lt;code&gt;./public/&lt;/code&gt; is a transient website staging directory).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Using Hugo, Git and Github Pages makes for a much easier workflow than I had previously.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As a side note, I like the &lt;a href=&#34;https://lauris.github.io/2014/08/14/blog-like-theres-nobody-reading/&#34;&gt;Blog like there&amp;rsquo;s nobody
+reading&lt;/a&gt;
+philosopy, but it has it&amp;rsquo;s limits. There&amp;rsquo;s a lot more work goes into a readable and useful blog post than just throwing on-the-fly notes over the wall. On the plus side, putting my notes into a blog ensures that I understand them more then six months later.&lt;/p&gt;
+
+&lt;h2 id=&#34;todo-list:a6ec2c1a4d1e8d4e138ddf9de13db838&#34;&gt;Todo list&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Enable blog comments &lt;a href=&#34;http://gohugo.io/extras/comments/&#34;&gt;using Disqus&lt;/a&gt; &amp;ndash; maybe.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Enable syntax &lt;a href=&#34;http://gohugo.io/extras/highlighting/&#34;&gt;highlighting&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publishing a project website to Github Pages</title>
+      <link>http://blog.srackham.com/posts/publishing-a-project-website-to-github-pages/</link>
+      <pubDate>Sun, 14 Dec 2014 02:10:13 +0000</pubDate>
+      
+      <guid>http://blog.srackham.com/posts/publishing-a-project-website-to-github-pages/</guid>
+      <description>&lt;p&gt;I recently was faced with moving the website of one of my Github hosted projects from its current non-Github location to Github Pages.&lt;/p&gt;
+
+&lt;p&gt;At first glance publishing a project website to &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github pages&lt;/a&gt; appears fiddly and error prone because you have to bounce between normal code branches and the Github Pages  branch which have completely different files and directory structures. This is even trickier when your project&amp;rsquo;s build workflow also builds your web pages (as mine does).&lt;/p&gt;
+
+&lt;p&gt;I initially tried &lt;code&gt;git-subtree&lt;/code&gt; techniques for GitHub Pages deployment (see &lt;a href=&#34;http://stevenclontz.com/blog/2014/05/08/git-subtree-push-for-deployment/&#34;&gt;here&lt;/a&gt;, &lt;a href=&#34;https://gist.github.com/cobyism/4730490&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;http://yeoman.io/learning/deployment.html&#34;&gt;here&lt;/a&gt;) but found them brittle and arcane. Then I came across &lt;a href=&#34;https://gist.github.com/chrisjacob/825950&#34;&gt;this Github Gist&lt;/a&gt; which neatly solved the problem viz.  keep your code branches in one local repository and the &lt;code&gt;gh-pages&lt;/code&gt; branch in another. Locate the Github Pages repo on an ignored &lt;code&gt;gh-pages&lt;/code&gt; sub-directory of the local code branches repository.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Both local repositories use the same remote Github repository: the local code repository contains code branches, the local website repository contains only the &lt;code&gt;gh-pages&lt;/code&gt; branch.&lt;/li&gt;
+&lt;li&gt;Typically the project build process generates the project website pages in HTML format which it copies to the local &lt;code&gt;gh-pages&lt;/code&gt; sub-directory (along with any other generated webpage assets).&lt;/li&gt;
+&lt;li&gt;To publish the Github Pages repo:
+
+&lt;ol&gt;
+&lt;li&gt;Change directory to the &lt;code&gt;gh-pages&lt;/code&gt; sub-directory.&lt;/li&gt;
+&lt;li&gt;Commit the changes and push them to the &lt;code&gt;gh-pages&lt;/code&gt; branch at Github.&lt;/li&gt;
+&lt;li&gt;Then cd back up to the project root and continue coding.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The steps to achive this are outlined below and were based on this &lt;a href=&#34;https://gist.github.com/chrisjacob/825950&#34;&gt;Github Gist&lt;/a&gt; (the Gist assumes the &lt;code&gt;gh-pages&lt;/code&gt; branch already exists in the Github repo whereas my example does not).&lt;/p&gt;
+
+&lt;p&gt;Before starting it is assumed that:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Your project code has already been published to Github.&lt;/li&gt;
+&lt;li&gt;Your local project repository is up to date  with the remote Github repo.&lt;/li&gt;
+&lt;li&gt;The &lt;code&gt;gh-pages&lt;/code&gt; branch has not yet been created either locally or remotely.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following commands add a local repo in the &lt;code&gt;gh-pages&lt;/code&gt; sub-directory and then creates a &lt;code&gt;gh-pages&lt;/code&gt; branch which is pushed to Github (&lt;code&gt;&amp;lt;username&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;projectnames&amp;gt;&lt;/code&gt; refer to your Github user name and project name respectively):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# Go to local project code repository.
+$ cd myproject
+
+# Code repo ignores the documentation repo.
+$ echo gh-pages/ &amp;gt;&amp;gt; .gitignore
+
+# Make another repo in gh-pages sub-directory.
+# There is nothing magic about the sub-directory name, it can be anything you like.
+$ git clone https://github.com/&amp;lt;username&amp;gt;/&amp;lt;projectname&amp;gt;.git gh-pages
+
+# Create gh-pages branch and push it to Github.
+# See https://help.github.com/articles/creating-project-pages-manually/
+$ cd gh-pages
+$ git checkout --orphan gh-pages
+$ git rm -rf .
+$ echo &amp;quot;Nothing to see yet, move along...&amp;quot; &amp;gt; index.html
+$ git add index.html
+$ git commit -am &amp;quot;First pages commit&amp;quot;
+$ git push origin gh-pages
+$ git branch -u origin/gh-pages   # Track gh-pages branch on remote.
+
+$ git branch -D master  # We don&#39;t need code branches.
+$ cd ..                 # Return to code repo.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The documentation can be viewed at &lt;code&gt;http://&amp;lt;username&amp;gt;.github.io/&amp;lt;projectname&amp;gt;&lt;/code&gt; (keep in mind that it can take up to 30 minutes for the web pages to appear at Github the first time after creating the &lt;code&gt;gh-pages&lt;/code&gt; remote branch).&lt;/p&gt;
+
+&lt;p&gt;If your project already has an existing &lt;code&gt;gh-pages&lt;/code&gt; branch the above can be reduced to:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cd &amp;lt;projectname&amp;gt;
+$ echo gh-pages/ &amp;gt;&amp;gt; .gitignore
+$ git clone --branch gh-pages https://github.com/&amp;lt;username&amp;gt;/&amp;lt;projectname&amp;gt;.git gh-pages
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;From here on you treat the local Github Pages repo just like any other Github repository except that when you push it to Gitub you use the &lt;code&gt;gh-pages&lt;/code&gt; branch name:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ git push origin gh-pages
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Here&amp;rsquo;s &lt;a href=&#34;https://github.com/srackham/flux-backbone-todo/blob/master/deploy-gh-pages.sh&#34;&gt;an example bash script&lt;/a&gt;  that I use to automate deployment of the &lt;code&gt;gh-pages&lt;/code&gt; branch.&lt;/p&gt;
+
+&lt;p&gt;On a side-note, you can use a custom domain name for your project&amp;rsquo;s Github Pages website by adding a &lt;code&gt;CNAME&lt;/code&gt; file to the &lt;code&gt;gh-pages&lt;/code&gt; branch &amp;ndash; see &lt;a href=&#34;https://help.github.com/articles/adding-a-cname-file-to-your-repository/&#34;&gt;the Github documentation&lt;/a&gt; for details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flux Backbone Todos Example</title>
+      <link>http://blog.srackham.com/posts/flux-backbone-todos-example/</link>
+      <pubDate>Mon, 24 Nov 2014 20:34:41 +0000</pubDate>
+      
+      <guid>http://blog.srackham.com/posts/flux-backbone-todos-example/</guid>
+      <description>
+
+&lt;p&gt;This didactic Todo app was written to illustrate the &lt;a href=&#34;http://facebook.github.io/react/blog/2014/05/06/flux.html&#34;&gt;Flux&lt;/a&gt; DSV (Dispatch Store View) design pattern.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://srackham.github.io/flux-backbone-todo/&#34;&gt;Live Demo&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/srackham/flux-backbone-todo/tree/1.1.0&#34;&gt;Version 1.1.0&lt;/a&gt;&lt;/strong&gt; (30 November 2014), persist Todos to LocalStorage.&lt;br&gt;
+&lt;strong&gt;&lt;a href=&#34;https://github.com/srackham/flux-backbone-todo/tree/1.0.0&#34;&gt;Version 1.0.0&lt;/a&gt;&lt;/strong&gt; (14 November 2014).&lt;/p&gt;
+
+&lt;p&gt;This post is a copy of the &lt;a href=&#34;https://github.com/srackham/flux-backbone-todo&#34;&gt;Github project&lt;/a&gt; README.&lt;/p&gt;
+
+&lt;p&gt;Flux is a design pattern for building scaleable applications using a Unidirectional Data Flow (it is not a Web development framework), the Flux library implements a Dispatcher which works well with the Flux design pattern.&lt;/p&gt;
+
+&lt;p&gt;The Todo app is implemented using &lt;a href=&#34;http://facebook.github.io/react/blog/2014/05/06/flux.html&#34;&gt;Flux&lt;/a&gt;, &lt;a href=&#34;http://backbonejs.org/&#34;&gt;Backbone&lt;/a&gt; and &lt;a href=&#34;http://facebook.github.io/react/index.html&#34;&gt;React&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;architecture-and-implementation:d4c146d4ac97c61e4f68a6e6013156ba&#34;&gt;Architecture and Implementation&lt;/h2&gt;
+
+&lt;p&gt;The Flux/React combination results in a highly decoupled declarative application structure. Here is the actual code:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;var dispatcher = new Flux.Dispatcher();
+var todoStore = new TodoStore([], {dispatcher: dispatcher});
+
+React.render(
+    &amp;lt;div&amp;gt;
+      &amp;lt;h3&amp;gt;Todos&amp;lt;/h3&amp;gt;
+      &amp;lt;TodoFormComponent store={todoStore} /&amp;gt;
+      &amp;lt;TodoListComponent store={todoStore} /&amp;gt;
+      &amp;lt;p&amp;gt;
+      Want a second fully synchronized list? Just declare another list component: no code required,
+      no events to wire up!
+      &amp;lt;/p&amp;gt;
+      &amp;lt;TodoListComponent store={todoStore} /&amp;gt;
+    &amp;lt;/div&amp;gt;,
+    document.getElementById(&#39;app&#39;)
+);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Just declare the Dispatcher, Store and View and you&amp;rsquo;re done. The Flux unidirectional &lt;em&gt;Dispatcher-&amp;gt;Store-&amp;gt;View&lt;/em&gt; dependencies are obvious.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;code&gt;todoStore&lt;/code&gt; is passed the &lt;code&gt;dispatcher&lt;/code&gt; (as a constructor argument) when it is instantiated.&lt;/li&gt;
+&lt;li&gt;UI components that display or update the Todo list are passed the &lt;code&gt;todoStore&lt;/code&gt; (as a property) when they are instantiated.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Displaying a second fully synchronized Todo list is a bit nonsensical but it graphically illustrates the power of the Flux architecture &amp;ndash; try doing this in any other framework.&lt;/p&gt;
+
+&lt;h2 id=&#34;data-flow:d4c146d4ac97c61e4f68a6e6013156ba&#34;&gt;Data flow&lt;/h2&gt;
+
+&lt;p&gt;Data flows unidirectionally in a circular path &lt;em&gt;Dispatcher-&amp;gt;Store-&amp;gt;View-&amp;gt;Dispatcher-&amp;gt; …&lt;/em&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;code&gt;todoStore&lt;/code&gt; listens for &lt;code&gt;dispatcher&lt;/code&gt; actions (messages) and updates itself in response to these messages.&lt;/li&gt;
+&lt;li&gt;UI components listen for Backbone events from the &lt;code&gt;todoStore&lt;/code&gt; informing them of changes to the store that need to be displayed in the UI.&lt;/li&gt;
+&lt;li&gt;UI components send actions (messages) to the &lt;code&gt;dispatcher&lt;/code&gt; in response to user input &amp;ndash; components do not mutate the store directly.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-store:d4c146d4ac97c61e4f68a6e6013156ba&#34;&gt;The Store&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The store is a Black Box containing the application&amp;rsquo;s state and the logic to execute dispatcher actions which update (mutate) the store.&lt;/li&gt;
+&lt;li&gt;Externally there is no way to mutate the store other than indirectly via dispatcher actions.&lt;/li&gt;
+&lt;li&gt;The store emits change events to subscribers (UI view components).&lt;/li&gt;
+&lt;li&gt;The store has no knowledge of its external environment.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Backbone is used to implement a pub/sub data store for the Todos list with Backbone Models and Collections (Backbone is not used as a development framework). Backbone unburdens the app from having to implement a pub/sub event emitter for the store (as well as providing a rich model/collection API).&lt;/p&gt;
+
+&lt;p&gt;Storing the component state in a mutative Backbone store instead of using an immutable component &lt;code&gt;State&lt;/code&gt; object means we need to use the React &lt;a href=&#34;http://facebook.github.io/react/docs/component-api.html#forceupdate&#34;&gt;forceUpdate&lt;/a&gt; API which could have performance implications for complex React UIs. See this &lt;a href=&#34;http://stackoverflow.com/questions/21709905/can-i-avoid-forceupdate-when-using-react-with-backbone&#34;&gt;excellent discussion&lt;/a&gt; explains the issue and, if necessary, strategies to resolve it.  React does a great job of DOM update optimization so I would stick with the simplicity of using &lt;code&gt;forceUpdate&lt;/code&gt; until confronted with a real use-case to the contrary.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;TodoStore&lt;/code&gt; collection and &lt;code&gt;TodoItem&lt;/code&gt; models are passed a Flux dispatcher when they are instantiated. &lt;code&gt;TodoItem&lt;/code&gt; models are instantiated by the Backbone Collection &lt;code&gt;add&lt;/code&gt; method which passes the dispatcher option to the &lt;code&gt;TodoItem&lt;/code&gt; model&amp;rsquo;s &lt;code&gt;initialize&lt;/code&gt; function.&lt;/p&gt;
+
+&lt;h2 id=&#34;building-and-running:d4c146d4ac97c61e4f68a6e6013156ba&#34;&gt;Building and Running&lt;/h2&gt;
+
+&lt;p&gt;The app is developed and built in a node/npm environment. To install and run:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Make sure you have node and npm installed.&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Clone the Github repo:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/srackham/flux-backbone-todo.git
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Install npm dependencies:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cd flux-backbone-todo
+npm install
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Build the app &lt;code&gt;app/bundle.js&lt;/code&gt; bundle (although JQuery is not required by Backbone I had to include it to satisfy webpack which thought it was a dependency):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;webpack
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Start the app in a server:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;npm start
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Open your Web browser at &lt;a href=&#34;http://localhost:8888/&#34;&gt;http://localhost:8888/&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;lessons-learnt:d4c146d4ac97c61e4f68a6e6013156ba&#34;&gt;Lessons learnt&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;As always in JavaScript, when you pass a callback you need to ensure that they are bound to the correct context. In the following example the Backbone Model event handler&amp;rsquo;s context is bound to the current object:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;this.props.store.on(&#39;change&#39;,
+    function() {
+      this.forceUpdate();
+    }.bind(this)
+);
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;When binding you need to take caller and callee arguments into consideration. The previous example can be simplified by passing &lt;code&gt;forceUpdate&lt;/code&gt; as the change handler callback, but if you do not remember to explicitly bind the &lt;code&gt;forceUpdate&lt;/code&gt; first argument to &lt;code&gt;null&lt;/code&gt; the program will throw an error because &lt;code&gt;forceUpdate&lt;/code&gt; would be called by the Backbone event dispatcher with a first argument that is not a callback (namely the changed Backbone model):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;this.props.store.on(&#39;change&#39;,
+  this.forceUpdate.bind(this, null)
+);
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Backbone Model attributes are not model properties &amp;ndash; access them with &lt;code&gt;get()&lt;/code&gt; and &lt;code&gt;set()&lt;/code&gt; not with the dot syntax.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I spent far to much time debugging what is a very simple application, most of the time could have been saved if I had been using a language with type checking &amp;ndash; &lt;em&gt;ES6 + JSX + type annotations + type checking&lt;/em&gt;  would be nice (this is a criticism of JavaScript in general, not of the application architecture or the tools).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Switching from Grunt to Jake</title>
+      <link>http://blog.srackham.com/posts/switching-from-grunt-to-jake/</link>
+      <pubDate>Sat, 23 Aug 2014 01:48:19 +0000</pubDate>
+      
+      <guid>http://blog.srackham.com/posts/switching-from-grunt-to-jake/</guid>
+      <description>
+
+&lt;p&gt;This post discusses why I switched my Rimu Markup project&amp;rsquo;s build tool to &lt;a href=&#34;http://jakejs.com/&#34;&gt;Jake&lt;/a&gt;, having previously &lt;a href=&#34;http://blog.srackham.com/posts/porting-from-make-to-grunt/&#34;&gt;ported the same project from Make to Grunt&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: This post has been revised since original publication to more clearly explain Jake synchronicity and to show how I now process task shell commands in parallel.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-jake-instead-of-grunt:d59e538816865701dae92a2cf97758ea&#34;&gt;Why Jake instead of Grunt&lt;/h2&gt;
+
+&lt;p&gt;Jake (like Grunt) is a JavaScript application for building JavaScript projects. Jake is modeled after &lt;a href=&#34;https://github.com/jimweirich/rake&#34;&gt;Rake&lt;/a&gt; (a Make-like program implemented in Ruby). If you know Rake or Make you&amp;rsquo;ll be right at home with Jake.&lt;/p&gt;
+
+&lt;p&gt;Grunt is currently the most popular JavaScript build tool and this is one of the reasons I first ported my project to Grunt, but at the end of the day Grunt&amp;rsquo;s limitations and its philosophical bent pushed me to Jake.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s why I switched to Jake:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Grunt is plugin-centric &amp;ndash; its default usage paradigm is &lt;em&gt;plugins and configuration over scripting&lt;/em&gt; &amp;ndash; this is one of those things that sounds good in theory but is not so good in practice (see my &lt;a href=&#34;http://blog.srackham.com/posts/porting-from-make-to-grunt/&#34;&gt;previous post&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;Jake files are JavaScript code which is more readable and (crucially) more flexible than Grunt&amp;rsquo;s JSON configuration file format.&lt;/li&gt;
+&lt;li&gt;Grunt does not have built-in file dependency management and only rudimentary &lt;a href=&#34;https://github.com/gruntjs/grunt/issues/968&#34;&gt;task dependency management&lt;/a&gt; &amp;ndash; dependency management is what build tools should be all about and these are real deficiencies (especially if you come from Make, Rake or Jake).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So why isn&amp;rsquo;t Jake more popular? The &lt;a href=&#34;http://en.wikipedia.org/wiki/Herd_mentality&#34;&gt;herd mentality&lt;/a&gt; aside, I think part of the answer is that Jake is not as immediately accessible as Grunt &amp;ndash; the Grunt website does an excellent job of introducing Grunt and getting users started. Another reason may be that the command-line is not the primary UI for many Windows developers.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s the full &lt;a href=&#34;https://github.com/srackham/rimu/blob/v3.0.10/Jakefile.js&#34;&gt;Jakefile.js&lt;/a&gt; and here&amp;rsquo;s the legacy &lt;a href=&#34;https://github.com/srackham/rimu/blob/c1e37b408e0a31d4051229654c2331c6cbc9a49b/Gruntfile.js&#34;&gt;Gruntfile.js&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;task-synchronicity:d59e538816865701dae92a2cf97758ea&#34;&gt;Task synchronicity&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Tasks should execute serially, but shell commands within a task should be run in parallel&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Shell commands executed with &lt;code&gt;jake.exec&lt;/code&gt; (or Node&amp;rsquo;s &lt;code&gt;child_process.exec&lt;/code&gt;) are synchronous i.e. they return immediately after starting the command &amp;ndash; command completion is handled with callbacks. This can be good because it allows you to execute multiple shell commands in parallel, but it can also be bad because the next task will start before the current task has completed.  Task dependencies become impossible to manage unless tasks execute sequentially.&lt;/p&gt;
+
+&lt;p&gt;Jake has a &lt;a href=&#34;http://jakejs.com/docs#tasks&#34;&gt;clever technique&lt;/a&gt; for ensuring that tasks with asynchronous code execute sequentially (i.e. the next task is not started until the current task has finished)): Set the task&amp;rsquo;s &lt;code&gt;async&lt;/code&gt; option to &lt;code&gt;true&lt;/code&gt; and then call &lt;code&gt;complete()&lt;/code&gt; once all task processing has finished (this signals Jake that the task is done and the next task can be started). Making all tasks execute sequentially also ensures task dependencies are run in declaration order.&lt;/p&gt;
+
+&lt;p&gt;I wrote the following &lt;code&gt;exec&lt;/code&gt; wrapper task to execute multiple shell commands in parallel:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;/*
+  Execute shell commands in parallel then run the callback when they have all finished.
+  `callback` defaults to the Jake async `complete` function.
+  Abort if an error occurs.
+  Write command output to the inherited stdout (unless the Jake --quiet option is set).
+  Print a status message when each command starts and finishes (unless the Jake --quiet option is set).
+
+  NOTE: This function is similar to the built-in jake.exec function
+  but is twice as fast.
+*/
+function exec(commands, callback) {
+  if (typeof commands === &#39;string&#39;) {
+    commands = [commands];
+  }
+  callback = callback || complete;
+  var remaining = commands.length;
+  commands.forEach(function(command) {
+    jake.logger.log(&#39;Starting: &#39; + command);
+    child_process.exec(command, function (error, stdout, stderr) {
+        jake.logger.log(&#39;Finished: &#39; + command);
+        if (!jake.program.opts.quiet) {
+          process.stdout.write(stdout);
+        }
+        if (error !== null) {
+          fail(error, error.code);
+        }
+        remaining--;
+        if (remaining === 0) {
+          callback();
+        }
+      });
+    });
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Here&amp;rsquo;s an example of its use (&lt;code&gt;SOURCE&lt;/code&gt; is an array of TypeScript source file names):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;desc(&#39;Lint TypeScript source files.&#39;);
+task(&#39;tslint&#39;, {async: true}, function() {
+  var commands = SOURCE.map(function(file) { return &#39;tslint -f &#39; + file; });
+  exec(commands);
+});
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;By default &lt;code&gt;exec&lt;/code&gt; executes the Jake &lt;code&gt;complete&lt;/code&gt; function once all shell commands have finished. The above example runs over seven times faster than it would if the &lt;code&gt;tslint&lt;/code&gt; commands were run sequentially.&lt;/p&gt;
+
+&lt;h2 id=&#34;use-jake-exec-to-run-interactive-tasks:d59e538816865701dae92a2cf97758ea&#34;&gt;Use jake.exec to run interactive tasks&lt;/h2&gt;
+
+&lt;p&gt;For example if you want your Git commit task to solicit your commit message using the editor:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;jake.exec(&#39;git commit -a&#39;, {interactive: true}, complete);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;use-file-tasks-to-suppress-unnecessary-commands:d59e538816865701dae92a2cf97758ea&#34;&gt;Use file tasks to suppress unnecessary commands&lt;/h2&gt;
+
+&lt;p&gt;Use Jake &lt;a href=&#34;http://jakejs.com/docs#tasks_file-tasks&#34;&gt;file tasks&lt;/a&gt; to avoid rerunning commands whose prerequisite files have not changed &amp;ndash; typically doing things like compiling and documention generation. For example the Rimu project build command executes up to twice as fast using file tasks (the Jake &lt;code&gt;-B&lt;/code&gt; option forces unconditional task execution):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ time jake build -B -q
+
+real    0m17.280s
+user    0m8.909s
+sys     0m7.580s
+
+$ time jake build -q
+
+real    0m7.939s
+user    0m4.112s
+sys     0m5.204s
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;use-shell-commands-not-plugins:d59e538816865701dae92a2cf97758ea&#34;&gt;Use shell commands not plugins&lt;/h2&gt;
+
+&lt;p&gt;Use the &lt;em&gt;ShellJS&lt;/em&gt; library to leverage your existing knowledge and to make your Jakefiles easier to read.  Plugins are a systemic problem and I avoid them like the plague &amp;ndash; see &lt;a href=&#34;http://blog.srackham.com/posts/porting-from-make-to-grunt/&#34;&gt;Use ShellJS instead of Grunt plugins&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-about-gulp:d59e538816865701dae92a2cf97758ea&#34;&gt;What about Gulp?&lt;/h2&gt;
+
+&lt;p&gt;Gulp is the new kid on the block and is kind of interesting:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gulp configuration files are JavaScript code (a Node.js application).&lt;/li&gt;
+&lt;li&gt;Gulp tasks are composed using Node.js streams which is quite different to Grunt&amp;rsquo;s sequential task-by-task execution.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I ported my Rimu Jake file to Gulp but abandoned the effort because of plugin problems.&lt;/p&gt;
+
+&lt;h2 id=&#34;references:d59e538816865701dae92a2cf97758ea&#34;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://howtonode.org/intro-to-jake&#34;&gt;Intro to Jake&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jakejs.com/&#34;&gt;Jake website&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cappuccino-project.org/blog/2010/04/introducing-jake-a-build-tool-for-javascript.html&#34;&gt;Introducing Jake&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Porting from Make to Grunt</title>
+      <link>http://blog.srackham.com/posts/porting-from-make-to-grunt/</link>
+      <pubDate>Sat, 16 Aug 2014 03:14:00 +0000</pubDate>
+      
+      <guid>http://blog.srackham.com/posts/porting-from-make-to-grunt/</guid>
+      <description>
+
+&lt;p&gt;This post documents my experience porting a &lt;a href=&#34;https://github.com/srackham/rimu/blob/v3.0.7/Makefile&#34;&gt;Makefile&lt;/a&gt; to a &lt;a href=&#34;https://github.com/srackham/rimu/blob/c1e37b408e0a31d4051229654c2331c6cbc9a49b/Gruntfile.js&#34;&gt;Gruntfile&lt;/a&gt; in my &lt;a href=&#34;https://github.com/srackham/rimu&#34;&gt;Rimu Markup project&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: Since first writing this post I have &lt;a href=&#34;http://blog.srackham.com/posts/switching-from-grunt-to-jake/&#34;&gt;switched the same project from Grunt to Jake&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-grunt:384df9d0dc753c35f9a70fa207d7f4ce&#34;&gt;Why Grunt&lt;/h2&gt;
+
+&lt;p&gt;My reasons for porting were to:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Learn about Grunt (it seems to be the de facto nodejs/JavaScript build tool).&lt;/li&gt;
+&lt;li&gt;Make the build process cross-platform.&lt;/li&gt;
+&lt;li&gt;End up with a build script that is more widely understood.&lt;/li&gt;
+&lt;li&gt;End up with a build script that is easier to write, maintain and test.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;what-differentiates-grunt-from-make:384df9d0dc753c35f9a70fa207d7f4ce&#34;&gt;What differentiates Grunt from Make&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://gruntjs.com/&#34;&gt;Grunt&lt;/a&gt; is similar to Make in that it provides a mechanism for running tasks (JavaScript functions) along with &lt;a href=&#34;http://gruntjs.com/api/grunt&#34;&gt;helpers&lt;/a&gt; that assist the definition and execution of tasks.&lt;/li&gt;
+&lt;li&gt;Unlike Make, Grunt does not have built-in file dependency management and only rudimentary &lt;a href=&#34;https://github.com/gruntjs/grunt/issues/968&#34;&gt;task dependency management&lt;/a&gt; &amp;ndash; in short Grunt, on it&amp;rsquo;s own, doesn&amp;rsquo;t do a lot.&lt;/li&gt;
+&lt;li&gt;Grunt files are cross-platform whereas Make files are only cross-platform across UNIX type systems (e.g. Linux, BSD, OSX).  GNU Make can be run under Cgywin on Windows but, in my opinion, it&amp;rsquo;s not as good the real thing.&lt;/li&gt;
+&lt;li&gt;Gruntfiles can be written in JavaScript or CoffeeScript &amp;ndash; for me this is the biggest advantage over Makefiles (which are an arcane mix of UNIX shell script and Makefile syntax). There&amp;rsquo;s just no comparison between the two when it comes to writing non-trivial scripts especially when coupled with the huge ecosystem of nodejs libraries.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;use-shelljs-instead-of-grunt-plugins:384df9d0dc753c35f9a70fa207d7f4ce&#34;&gt;Use ShellJS instead of Grunt plugins&lt;/h2&gt;
+
+&lt;p&gt;My first porting attempt was based on the de facto Grunt scripting model i.e.  &lt;em&gt;use &lt;a href=&#34;http://gruntjs.com/plugins&#34;&gt;Grunt Plugins&lt;/a&gt; to run development tools&lt;/em&gt;. I soon became frustrated, for every build tool I wanted to run I had to:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Find a corresponding Grunt plugin (often having to choose from competing plugins).&lt;/li&gt;
+&lt;li&gt;Install the plugin and add the &lt;code&gt;devDependencies&lt;/code&gt; to the &lt;code&gt;package.json&lt;/code&gt; file.&lt;/li&gt;
+&lt;li&gt;Learn the plugin&amp;rsquo;s JSON configuration syntax and mentally map it onto the tool&amp;rsquo;s command-line arguments.&lt;/li&gt;
+&lt;li&gt;Load the plugin in the Gruntfile.&lt;/li&gt;
+&lt;li&gt;Cross my fingers and hope that the plugin developers keep the plugin bug free and in sync with both new releases of the build tool and Grunt.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For example, my Makefile&amp;rsquo;s &lt;em&gt;lint&lt;/em&gt; target (task) runs a &lt;code&gt;jshint&lt;/code&gt; command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;lint:
+        jshint test/spans.js test/blocks.js bin/rimuc.js
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Aside from installing &lt;code&gt;jshint&lt;/code&gt; that&amp;rsquo;s it, it&amp;rsquo;s that simple &amp;ndash; plus I know exactly what it does because I already know how to use the &lt;code&gt;jshint&lt;/code&gt; command.&lt;/p&gt;
+
+&lt;p&gt;Now consider doing it with Grunt using the &lt;code&gt;grunt-contrib-jshint&lt;/code&gt; plugin:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;grunt.initConfig({
+  jshint: {
+    files: [&#39;test/spans.js&#39;, &#39;test/blocks.js&#39;, &#39;bin/rimuc.js&#39;],
+    options: {
+      jshintrc: true
+    }
+  }
+});
+
+grunt.loadNpmTasks(&#39;grunt-contrib-jshint&#39;);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;All this crazy extra work and stuff to learn for nothing! I was about to pack it in when I discovered &lt;a href=&#34;https://github.com/arturadib/shelljs&#34;&gt;ShellJS&lt;/a&gt;, a great library that gives you cross-platform UNIX-like shell capabilities. The above plugin code can now be replaced by:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;grunt.registerTask(&#39;lint&#39;, &#39;Lint Javascript files&#39;, function() {
+  shelljs.exec(&#39;jshint test/spans.js test/blocks.js bin/rimuc.js&#39;);
+});
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;No plugin, nothing new to learn, easy to read, easy to verify from command-line &amp;ndash; what&amp;rsquo;s not to like!&lt;/p&gt;
+
+&lt;p&gt;See the full &lt;a href=&#34;https://github.com/srackham/rimu/blob/c1e37b408e0a31d4051229654c2331c6cbc9a49b/Gruntfile.js&#34;&gt;Gruntfile.js&lt;/a&gt; for more examples of the use of ShellJS functions.&lt;/p&gt;
+
+&lt;h2 id=&#34;lessons-learnt:384df9d0dc753c35f9a70fa207d7f4ce&#34;&gt;Lessons Learnt&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Do not use Grunt plugins that are just wrappers for existing command-line tools (I&amp;rsquo;m not the only one who thinks this way, see &lt;a href=&#34;http://blog.millermedeiros.com/node-js-ant-grunt-and-other-build-tools/&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Be very selective of the plugins you do use &amp;ndash; weigh carefully plugins verses your own JavaScript code.&lt;/li&gt;
+&lt;li&gt;Use the &lt;em&gt;ShellJS&lt;/em&gt; library to leverage your existing knowledge and to make your Gruntfiles easily readable by users that are not Grunt experts.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello World written in Kotlin using Android Studio</title>
+      <link>http://blog.srackham.com/posts/hello-world-written-in-kotlin-using-android-studio/</link>
+      <pubDate>Sat, 15 Mar 2014 09:28:53 +0000</pubDate>
+      
+      <guid>http://blog.srackham.com/posts/hello-world-written-in-kotlin-using-android-studio/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://kotlin.jetbrains.org/&#34;&gt;Kotlin&lt;/a&gt; is Jetbrains successor to Java, it&amp;rsquo;s evolving rapidly and what documentation there is for writing Android apps is pretty soon out of date to the point where even getting the canonical &lt;em&gt;Hello World&lt;/em&gt; up and running can be a frustrating experience.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s how to get a Kotlin version &lt;em&gt;Hello World&lt;/em&gt; running on Android using Android Studio 0.5.1.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;IMPORTANT&lt;/strong&gt;: This is based on Android Studio 0.5.1 and Kotlin 0.7.115 (the latest versions when I wrote this post) &amp;ndash; it will probably be broken on other versions Studio/Kotlin.&lt;/p&gt;
+
+&lt;p&gt;Assuming you have already installed &lt;a href=&#34;https://developer.android.com/sdk/installing/studio.html&#34;&gt;Android Studio&lt;/a&gt;, Follow these instructions:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Install the nightly build of the Kotlin plugin in Android Studio (I had to add the Kotlin plugin repository manually because it was not in the list of JetBrains plugins, though it will probably reappear once Android Studio and Kotlin begin to stabilize):
+
+&lt;ol&gt;
+&lt;li&gt;Open the &lt;em&gt;Settings&lt;/em&gt; dialog and go to the &lt;em&gt;Plugins&lt;/em&gt; section.&lt;/li&gt;
+&lt;li&gt;Click &lt;em&gt;Browse Repositories…&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Click &lt;em&gt;Manage Repositories…&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Add the following &lt;a href=&#34;http://confluence.jetbrains.com/display/Kotlin/Getting+Started&#34;&gt;IDEA 13 EAP repository&lt;/a&gt; URL &lt;code&gt;http://teamcity.jetbrains.com/guestAuth/repository/download/bt345/.lastSuccessful/updatePlugins.xml&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Search for the &lt;code&gt;kotlin-plugin&lt;/code&gt; in the &lt;em&gt;Browse Repositories&lt;/em&gt; dialog; right-click on it and select &lt;em&gt;Download and install&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Create a Java version of &lt;em&gt;Hello World&lt;/em&gt;: From the Android Studio &lt;em&gt;File&lt;/em&gt; menu select &lt;em&gt;New Project…&lt;/em&gt; and set the &lt;em&gt;Application name&lt;/em&gt; to &lt;em&gt;HelloKotlin&lt;/em&gt; (or whatever takes you fancy) and accept all the remaining &lt;em&gt;New Project Wizard&lt;/em&gt; settings.&lt;/li&gt;
+&lt;li&gt;Rename the &lt;code&gt;app/src/main/java&lt;/code&gt; directory to &lt;code&gt;app/src/main/kotlin&lt;/code&gt; (right-click on the &lt;code&gt;app/src/main/kotlin&lt;/code&gt; directory in the &lt;em&gt;Project Tool&lt;/em&gt; window and select the &lt;em&gt;Refactor-&amp;gt;Rename…&lt;/em&gt; menu command).&lt;/li&gt;
+&lt;li&gt;Open the &lt;code&gt;app/src/main/kotlin/MainActivity.java&lt;/code&gt; file in the editor and run the &lt;em&gt;Code-&amp;gt;Kotlin-&amp;gt;Convert Java File to Kotlin File&lt;/em&gt; menu command (no need to save a backup).&lt;/li&gt;
+&lt;li&gt;Run the &lt;em&gt;Tools-&amp;gt;Kotlin-&amp;gt;Configure Kotlin in Project&lt;/em&gt; menu command &amp;ndash; this will update the project&amp;rsquo;s &lt;code&gt;build.gradle&lt;/code&gt; file with Kotlin libraries, plugins and other Kotlin specific configuration requirements.&lt;/li&gt;
+&lt;li&gt;Now compile and build the project using the &lt;em&gt;Build-&amp;gt;Make Project&lt;/em&gt; menu command.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Because the Java to Kotlin converter does not differentiate between nullable and non-nulable Java method arguments you will get compilation errors and you need to manually modify the converted Kotlin source code. The error messages are not always self explanatory e.g.  this error &lt;code&gt;&#39;onCreate&#39; overrides nothing&lt;/code&gt; in this line:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;override fun onCreate(savedInstanceState: Bundle) {
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Is resolved by making the &lt;code&gt;savedInstanceState&lt;/code&gt; argument nullable:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;override fun onCreate(savedInstanceState: Bundle?) {
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This error &lt;code&gt;Only safe (?.) or non-null asserted (!!.) calls are allowed on a nullable receiver&lt;/code&gt; in this line:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;val id = item.getItemId()
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Is because the &lt;code&gt;item&lt;/code&gt; method argument has been made nullable, it can be resolved using the &lt;a href=&#34;http://confluence.jetbrains.com/display/Kotlin/Null-safety&#34;&gt;safe call&lt;/a&gt; operator:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;val id = item?.getItemId()
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Here&amp;rsquo;s the resulting &lt;code&gt;app/src/main/kotlin/MainActivity.kt&lt;/code&gt; file:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;package com.example.hellokotlin.app
+
+import android.support.v7.app.ActionBarActivity
+import android.os.Bundle
+import android.view.Menu
+import android.view.MenuItem
+
+
+public class MainActivity() : ActionBarActivity() {
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+    }
+
+
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.main, menu)
+        return true
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem?): Boolean {
+        // Handle action bar item clicks here. The action bar will
+        // automatically handle clicks on the Home/Up button, so long
+        // as you specify a parent activity in AndroidManifest.xml.
+        val id = item!!.getItemId()
+        if (id == R.id.action_settings) {
+            return true
+        }
+        return super.onOptionsItemSelected(item)
+    }
+
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Here&amp;rsquo;s the Gradle build file (&lt;code&gt;app/build.gradle&lt;/code&gt;) which required no manual editing &amp;ndash; it was created by the &lt;em&gt;New Project&lt;/em&gt; wizard and updated by the Kotlin plugin &lt;em&gt;Tools-&amp;gt;Kotlin-&amp;gt;Configure Kotlin in Project&lt;/em&gt; menu command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;apply plugin: &#39;android&#39;
+apply plugin: &#39;kotlin-android&#39;
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion &amp;quot;19.0.1&amp;quot;
+
+    defaultConfig {
+        minSdkVersion 8
+        targetSdkVersion 19
+        versionCode 1
+        versionName &amp;quot;1.0&amp;quot;
+    }
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile(&#39;proguard-android.txt&#39;), &#39;proguard-rules.txt&#39;
+        }
+    }
+    sourceSets {
+        main.java.srcDirs += &#39;src/main/kotlin&#39;
+    }
+}
+
+dependencies {
+    compile &#39;com.android.support:appcompat-v7:+&#39;
+    compile fileTree(dir: &#39;libs&#39;, include: [&#39;*.jar&#39;])
+    compile &amp;quot;org.jetbrains.kotlin:kotlin-stdlib:$ext.kotlin_version&amp;quot;
+}
+buildscript {
+    ext.kotlin_version = &#39;0.7.115&#39;
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath &amp;quot;org.jetbrains.kotlin:kotlin-gradle-plugin:$ext.kotlin_version&amp;quot;
+    }
+}
+repositories {
+    mavenCentral()
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Writing Android event handlers in Kotlin</title>
+      <link>http://blog.srackham.com/posts/writing-android-event-handlers-in-kotlin/</link>
+      <pubDate>Mon, 08 Jul 2013 09:07:03 +0000</pubDate>
+      
+      <guid>http://blog.srackham.com/posts/writing-android-event-handlers-in-kotlin/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://kotlin.jetbrains.org/&#34;&gt;Kotlin&lt;/a&gt; is Jetbrains successor to Java, this brief post illustrates how Kotlin&amp;rsquo;s &lt;a href=&#34;http://blog.jetbrains.com/kotlin/2013/06/kotlin-m5-3-idea-13-delegated-properties-and-more/&#34;&gt;SAM conversions&lt;/a&gt; can simplify Android event handlers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Updated&lt;/strong&gt;: 2013-08-20: For Kotlin M6 compatibility.&lt;/p&gt;
+
+&lt;p&gt;Kotlin can synthesize anonymous SAM class instances, this removes all the redundant verbosity of Java-style handlers. All you need to provide is the event handler in the form of a function literal. For example, this Android &lt;em&gt;onClick&lt;/em&gt; handler written in Java:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;button1.setOnClickListener(new OnClickListener() {
+    public void onClick(View v) {
+        // Handler code here.
+        Toast.makeText(this.MainActivity, &amp;quot;Button 1&amp;quot;,
+                Toast.LENGTH_LONG).show();
+    }
+});
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Translates literally to this Kotlin code:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;button1.setOnClickListener(object: View.OnClickListener {
+    override fun onClick(view: View): Unit {
+        // Handler code here.
+        Toast.makeText(this@MainActivity, &amp;quot;Button 1&amp;quot;,
+                Toast.LENGTH_LONG).show()
+    }
+})
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Which is equivalent (courtesy of an implicit SAM conversion) to this beautifully simple idiomatic Kotlin code:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;button1.setOnClickListener {
+    // Handler code here.
+    Toast.makeText(this, &amp;quot;Button 1&amp;quot;,
+            Toast.LENGTH_LONG).show()
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It&amp;rsquo;s not necessary to declare the single &lt;em&gt;view&lt;/em&gt; function parameter, use the implicitly declared &lt;em&gt;it&lt;/em&gt; parameter.&lt;/li&gt;
+&lt;li&gt;Argument parentheses can be omitted from &lt;code&gt;View.setOnClickListener&lt;/code&gt; because it is passed a single function literal argument.&lt;/li&gt;
+&lt;li&gt;In the Java-style examples &lt;em&gt;this&lt;/em&gt; inside the handler refers to the anonymous class instance; in the final idiomatic Kotlin example &lt;em&gt;this&lt;/em&gt; refers to the instance lexically enclosing the handler not the anonymous class object (which makes a lot more sense).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;See also &lt;a href=&#34;http://blog.jetbrains.com/kotlin/2013/06/kotlin-m5-3-idea-13-delegated-properties-and-more/&#34;&gt;First Steps in SAM Conversions&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Configuring NUT for the Eaton 3S UPS on Ubuntu Linux</title>
+      <link>http://blog.srackham.com/posts/configuring-nut-for-the-eaton-3s-ups-on-ubuntu-linux/</link>
+      <pubDate>Wed, 27 Feb 2013 00:54:22 +0000</pubDate>
+      
+      <guid>http://blog.srackham.com/posts/configuring-nut-for-the-eaton-3s-ups-on-ubuntu-linux/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: Since this post was published I&amp;rsquo;ve installed and tests on Ubuntu Server 14.04 and have highlighted the difference between Ubuntu 14.04 and 12.04 &lt;a href=&#34;http://blog.srackham.com/posts/configuring-nut-for-the-eaton-3s-ups-on-ubuntu-linux/#ubuntu-1404&#34;&gt;at the end of this post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This post explains how to configure &lt;a href=&#34;http://www.networkupstools.org/&#34;&gt;Network UPS Tools (NUT)&lt;/a&gt; to work with an &lt;a href=&#34;http://powerquality.eaton.com/Products-services/Backup-Power-UPS/3S.aspx&#34;&gt;Eaton 3S UPS&lt;/a&gt; on a stand-alone Ubuntu 12.04 PC (Nut version 2.6.3).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.networkupstools.org/&#34;&gt;Network UPS Tools (NUT)&lt;/a&gt; seems to be the most widely supported and used UPS management package for Linux. It is extremely flexible and caters for a wide range of UPS makes, models and deployment scenarios. The sheer scope and flexibility of NUT makes UPS selection and configuration daunting. The purpose of this article is to illustrate a minimal configuration to achieve stand-alone UPS management of a single Ubuntu 12.04 based PC.&lt;/p&gt;
+
+&lt;h2 id=&#34;nut-configuration:a975f74fb09f98c141378d190c4f4bd4&#34;&gt;NUT configuration&lt;/h2&gt;
+
+&lt;p&gt;Here&amp;rsquo;s how this configuration works: when power has dropped out for more than 3 minutes NUT triggers a shutdown. The shutdown sequence closes down Ubuntu; commands the UPS to commence shutdown; and then turns off the PC. Once the PC is off the UPS turns off to conserve the UPS battery. When power is reestablished the UPS powers up and reapplies power to the PC (whether your PC turns on automatically at power resumption is determined by it&amp;rsquo;s BIOS settings).&lt;/p&gt;
+
+&lt;p&gt;Here are the minimal NUT configuration files:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;/etc/nut/nut.conf&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# Set MODE=none to disable UPS monitoring, MODE=standalone to enable UPS monitoring.
+MODE=standalone
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;/etc/nut/ups.conf&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[eaton3s]
+driver=usbhid-ups
+port=auto
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;/etc/nut/upsd.conf&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;/etc/nut/upsmon.conf&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;MONITOR eaton3s@localhost 1 monuser pass master
+SHUTDOWNCMD &amp;quot;/sbin/shutdown -P now&amp;quot;
+POWERDOWNFLAG /etc/killpower
+
+NOTIFYFLAG ONBATT SYSLOG+WALL+EXEC
+NOTIFYFLAG ONLINE SYSLOG+WALL+EXEC
+NOTIFYCMD &amp;quot;/etc/nut/notifycmd&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;/etc/nut/upssched.conf&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;/etc/nut/upsd.users&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[monuser]
+password=pass
+upsmon master
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The following &lt;code&gt;notifycmd&lt;/code&gt; bash script handles NUT &lt;em&gt;ONBATT&lt;/em&gt; and &lt;em&gt;ONLINE&lt;/em&gt; events. Put it in &lt;code&gt;/etc/nut&lt;/code&gt;, it is executed when NUT detects power resumption (prior to the 3 minute timeout) and when NUT detects the UPS has switched to battery (power outage). Don&amp;rsquo;t forget to make this script executable (&lt;code&gt;sudo chmod +x /etc/nut/notifycmd&lt;/code&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;/etc/nut/notifycmd&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;#!/bin/bash
+#
+# NUT NOTIFYCMD script
+
+PATH=/sbin:/usr/sbin:/bin:/usr/bin:/usr/local/sbin:/usr/local/bin
+
+trap &amp;quot;exit 0&amp;quot; SIGTERM
+
+if [ &amp;quot;$NOTIFYTYPE&amp;quot; = &amp;quot;ONLINE&amp;quot; ]
+then
+        echo $0: power restored | wall
+        # Cause all instances of this script to exit.
+        killall -s SIGTERM `basename $0`
+fi
+
+if [ &amp;quot;$NOTIFYTYPE&amp;quot; = &amp;quot;ONBATT&amp;quot; ]
+then
+        echo $0: 3 minutes till system powers down... | wall
+        # Loop with one second interval to allow SIGTERM reception.
+        let &amp;quot;n = 180&amp;quot;
+        while [ $n -ne 0 ]
+        do
+                sleep 1
+                let &amp;quot;n--&amp;quot;
+        done
+        echo $0: commencing shutdown | wall
+        upsmon -c fsd
+fi
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;testing-the-ups:a975f74fb09f98c141378d190c4f4bd4&#34;&gt;Testing the UPS&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Check NUT status:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  $ sudo service nut status
+  Checking status of Network UPS Tools
+  * upsd is running
+  * upsmon is running
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If necessary start NUT:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  $ sudo service nut start
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Plug in USB cable and check it&amp;rsquo;s been detected:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  $ lsusb
+    :
+  Bus 005 Device 003: ID 0463:ffff MGE UPS Systems UPS
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Check the UPS status:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  $ sudo upsc eaton3s
+
+
+  battery.charge: 100
+  battery.charge.low: 20
+  battery.runtime: 3000
+  battery.type: PbAc
+  device.mfr: EATON
+  device.model: Eaton 3S 700
+    :
+  ups.status: OL CHRG
+  ups.timer.shutdown: -1
+  ups.timer.start: -1
+  ups.vendorid: 0463
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Check power off/on status by unplugging the power to the UPS until it beeps a few times then plug it back in. You will get the following console messages:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Broadcast Message from nut@nas1
+        (somewhere) at 13:23 ...
+
+
+UPS eaton3s@localhost on battery
+
+
+Broadcast Message from nut@nas1
+        (somewhere) at 13:23 ...
+
+
+/etc/nut/notifycmd: 3 minutes till system powers down...
+
+
+Broadcast Message from nut@nas1
+        (somewhere) at 13:23 ...
+
+
+UPS eaton3s@localhost on line power
+
+
+Broadcast Message from nut@nas1
+        (somewhere) at 13:23 ...
+
+
+/etc/nut/notifycmd: power restored
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The &lt;code&gt;/var/log/syslog&lt;/code&gt; should have two messages like:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Feb 19 11:37:54 nas1 upsmon[3044]: UPS eaton3s@localhost on battery
+Feb 19 11:38:14 nas1 upsmon[3044]: UPS eaton3s@localhost on line power
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Simulate a power outage (NOTE: this will take the PC to shutdown &lt;strong&gt;immediately&lt;/strong&gt;):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  $ sudo upsmon -c fsd
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Test the &lt;code&gt;/etc/nut/notifycmd&lt;/code&gt; script fully by unplugging the power from the UPS and waiting until the full shutdown sequence is played out (takes 3 minutes). Look for the message:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  /etc/nut/notifycmd: 3 minutes till system powers down...
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;ups-selection:a975f74fb09f98c141378d190c4f4bd4&#34;&gt;UPS selection&lt;/h2&gt;
+
+&lt;p&gt;The key to using a UPS with NUT is getting a UPS that is fully supported by the NUT version you are using (Ubuntu 12.04 has NUT 2.6.3).  Here&amp;rsquo;s why I chose the Eaton 3S:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;It is &lt;a href=&#34;http://www.networkupstools.org/stable-hcl.html&#34;&gt;fully supported by NUT UPS Tools 2.6.3&lt;/a&gt; on Unbuntu 12.04 with the &lt;em&gt;usbhid-ups&lt;/em&gt; driver.&lt;/li&gt;
+&lt;li&gt;The vendor has a Linux commitment &amp;ndash; they provide their own &lt;a href=&#34;http://pqsoftware.eaton.com/explore/eng/ipp/default.htm?lang=en&#34;&gt;Intelligent Power Protector&lt;/a&gt; (IPP) software for Linux (I didn&amp;rsquo;t use it, choosing NUT instead).&lt;/li&gt;
+&lt;li&gt;Readily available replacement battery.&lt;/li&gt;
+&lt;li&gt;Other users report &lt;a href=&#34;http://askubuntu.com/questions/107883/how-to-use-a-eaton-3s-700va-ups-with-ubuntu-server&#34;&gt;it works with Ubuntu 12.04&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;ubuntu-14-04-a-name-ubuntu-1404-a:a975f74fb09f98c141378d190c4f4bd4&#34;&gt;Ubuntu 14.04 &lt;a name=&#34;ubuntu-1404&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Since this post was originally published I&amp;rsquo;ve installed and tested Nut on Ubuntu Server 14.04 (Nut version 2.7.1) where I encountered an intermittent startup error viz. about one boot in six the UPS driver failed to connect leaving the following error in the &lt;em&gt;syslog&lt;/em&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Poll UPS [eaton3s@localhost] failed - Driver not connected
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I tried unsuccessfully to find the root of the problem by changing the startup order, in the end I worked around it by starting the Nut server at the end of the boot from &lt;code&gt;/etc/rc.local&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# If UPS server driver is not connected then restart the server.
+/bin/upsc eaton3s || /usr/sbin/service nut-server restart
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: NUT in 14.04 has two startup services (replacing the single &lt;code&gt;nut&lt;/code&gt; in 12.04): &lt;code&gt;nut-client&lt;/code&gt; and &lt;code&gt;nut-server&lt;/code&gt; &amp;ndash; they are both started at reboot, aside from the startup error I have encountered no other differences in the move from Ubuntu 12.04 to 14.04.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building heterogeneous TypeScript libraries</title>
+      <link>http://blog.srackham.com/posts/building-heterogeneous-typescript-libraries/</link>
+      <pubDate>Tue, 20 Nov 2012 23:19:15 +0000</pubDate>
+      
+      <guid>http://blog.srackham.com/posts/building-heterogeneous-typescript-libraries/</guid>
+      <description>
+
+&lt;p&gt;A technique for compiling one or more TypeScript source files to a single JavaScript library file that can be used in both the browser and by Node.js applications.&lt;/p&gt;
+
+&lt;h2 id=&#34;by-way-of-example:5ad45d3af3763888490facc519c78483&#34;&gt;By way of example&lt;/h2&gt;
+
+&lt;p&gt;Our library source consists of a single TypeScript module called &lt;em&gt;Lib&lt;/em&gt; spread across multiple source files (&lt;code&gt;lib1.ts&lt;/code&gt; and &lt;code&gt;lib2.ts&lt;/code&gt;) that exports a public API:&lt;/p&gt;
+
+&lt;h4 id=&#34;lib1-ts:5ad45d3af3763888490facc519c78483&#34;&gt;lib1.ts&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;module Lib {
+  export function f() {}
+}
+
+declare var exports: any;
+if (typeof exports != &#39;undefined&#39;) {
+  exports.f = Lib.f;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&#34;lib2-ts:5ad45d3af3763888490facc519c78483&#34;&gt;lib2.ts&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;module Lib {
+  export var v = {foo: 42};
+}
+
+declare var exports: any;
+if (typeof exports != &#39;undefined&#39;) {
+  exports.v = Lib.v;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The source file are compiled to a single JavaScript library &lt;code&gt;lib.js&lt;/code&gt; using the TypeScript compiler:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;tsc --out lib.js lib1.ts lib2.ts
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&#34;lib-js:5ad45d3af3763888490facc519c78483&#34;&gt;lib.js&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;var Lib;
+(function (Lib) {
+    function f() {
+    }
+    Lib.f = f;
+})(Lib || (Lib = {}));
+if(typeof exports != &#39;undefined&#39;) {
+    exports.f = Lib.f;
+}
+var Lib;
+(function (Lib) {
+    Lib.v = {
+        foo: 42
+    };
+})(Lib || (Lib = {}));
+if(typeof exports != &#39;undefined&#39;) {
+    exports.v = Lib.v;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;code&gt;lib.js&lt;/code&gt; file now can be included on an HTML page with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;lib.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Or in a Node.js application with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;var Lib = require(&#39;./lib.js&#39;);
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The APIs are accessed via the module name e.g. &lt;code&gt;Lib.f()&lt;/code&gt;, &lt;code&gt;Lib.v&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;explanatory-notes:5ad45d3af3763888490facc519c78483&#34;&gt;Explanatory notes&lt;/h2&gt;
+
+&lt;p&gt;The key to being able to import the code into Node.js with &lt;code&gt;require(&#39;./lib.js&#39;)&lt;/code&gt; is conditionally assigning public API objects to properties of the global &lt;code&gt;exports&lt;/code&gt; object e.g.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;declare var exports: any;
+if (typeof exports != &#39;undefined&#39;) {
+  exports.f = Lib.f;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;exports&lt;/code&gt; is a global object defined by CommonJS compatible loaders such as Node&amp;rsquo;s.&lt;/li&gt;
+&lt;li&gt;This code must be placed at the end of the source file outside the module declaration.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;exports&lt;/code&gt; will not be assigned in the browser (or any non-CommonJS environment where &lt;em&gt;exports&lt;/em&gt; is not defined).&lt;/li&gt;
+&lt;li&gt;To minimize browser global namespace pollution all source is enveloped in a single open module (&lt;em&gt;Lib&lt;/em&gt;) &amp;ndash; this is not necessary in a module loader environment (e.g. Node.js).&lt;/li&gt;
+&lt;li&gt;Multi-file &amp;ldquo;open&amp;rdquo; modules are not truly open &amp;ndash; you must export any module objects that need to be accessed across file boundaries.&lt;/li&gt;
+&lt;li&gt;TypeScript can emit CommonJS modules directly by prefixing &lt;em&gt;module&lt;/em&gt; with the &lt;em&gt;export&lt;/em&gt; keyword and using the compiler &lt;code&gt;--module commonjs&lt;/code&gt; option, but there are two problems with this approach:
+
+&lt;ol&gt;
+&lt;li&gt;The generated code can only be loaded with a module loader and cannot be used in a browser unless you also depoly a suitable browser module loader.&lt;/li&gt;
+&lt;li&gt;External modules must reside in a single source file (they are not open).&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;scoping-function-wrapper:5ad45d3af3763888490facc519c78483&#34;&gt;Scoping function wrapper&lt;/h2&gt;
+
+&lt;p&gt;A variation of the above technique is to wrap the combined compiled file with a &lt;em&gt;scoping function&lt;/em&gt;. This will ensure non-exported top level objects do not pollute the browser global namespace:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;(function() {
+  :
+})();
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The browser API is hoisted to the global namespace by assignment to the browser &lt;code&gt;window&lt;/code&gt; object. The previous example becomes:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;declare var exports: any;
+if (typeof exports != &#39;undefined&#39;) {
+  exports.f = Lib.f;
+}
+else if (typeof window !== &#39;undefined&#39;) {
+  window[&#39;f&#39;] = Lib.f;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;references:5ad45d3af3763888490facc519c78483&#34;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://know.cujojs.com/tutorials/modules/authoring-cjs-modules&#34;&gt;Authoring CommonJS modules&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.typescriptlang.org/Handbook#modules&#34;&gt;TypeScript Handbook&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://typescript.codeplex.com/wikipage?title=Modules%20in%20TypeScript&#34;&gt;Modules in TypeScript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://caolanmcmahon.com/posts/writing_for_node_and_the_browser/&#34;&gt;Writing for node and the browser&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pixelsvsbytes.com/blog/2013/02/js-require-for-browsers-better-faster-stronger/&#34;&gt;JS require() for browsers – better, faster, stronger&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nodejs.org/api/modules.html&#34;&gt;Node.js modules documentation&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://requirejs.org/&#34;&gt;RequireJS&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bash completion for Grunt files</title>
+      <link>http://blog.srackham.com/posts/bash-completion-for-grunt-files/</link>
+      <pubDate>Sat, 10 Nov 2012 21:46:17 +0000</pubDate>
+      
+      <guid>http://blog.srackham.com/posts/bash-completion-for-grunt-files/</guid>
+      <description>&lt;p&gt;I modified my &lt;a href=&#34;https://srackham.wordpress.com/2011/11/01/bash-completion-for-cake-files/&#34;&gt;cake bash completion script&lt;/a&gt; for &lt;a href=&#34;http://gruntjs.com/&#34;&gt;Grunt&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;All you need to do is add this completion function and command to your &lt;code&gt;~/.bashrc&lt;/code&gt; file:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# Task name completion for grunt files.
+function _grunt() {
+    local cur tasks
+    cur=${COMP_WORDS[COMP_CWORD]}
+    # Extract list of task names from help text.
+    tasks=&amp;quot;$(grunt --help --no-color | awk &#39;task==1 {print $1} /Available tasks/ {task=1} /^$/ {task=0}&#39;)&amp;quot;
+    if [ $COMP_CWORD -eq 1 ]; then
+        # Task name completion for first argument.
+        COMPREPLY=( $(compgen -W &amp;quot;$tasks&amp;quot; $cur) )
+    else
+        # File name completion for other arguments.
+        COMPREPLY=( $(compgen -f $cur) )
+    fi
+}
+complete -o default -F _grunt grunt g
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now it you type &lt;code&gt;grunt &amp;lt;Tab&amp;gt;&lt;/code&gt; at the bash command prompt you will get a list of tasks from the current Grunt file.  As with all bash completions, if you start typing a name and press Tab then bash will complete the name for you.&lt;/p&gt;
+
+&lt;p&gt;To cut down key strokes I&amp;rsquo;ve also added a &lt;em&gt;g&lt;/em&gt; alias for &lt;em&gt;grunt&lt;/em&gt; to &lt;code&gt;~/.bashrc&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;alias g=&#39;grunt&#39;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reclaiming the Windows 8 Desktop</title>
+      <link>http://blog.srackham.com/posts/reclaiming-the-windows-8-desktop/</link>
+      <pubDate>Fri, 26 Oct 2012 22:19:01 +0000</pubDate>
+      
+      <guid>http://blog.srackham.com/posts/reclaiming-the-windows-8-desktop/</guid>
+      <description>
+
+&lt;p&gt;Window 8 has a touch-screen user interface designed for media consumption on small-screen devices (phones and tablets) &amp;ndash; the default Metro user interface is &lt;a href=&#34;http://youtu.be/WTYet-qf1jo&#34;&gt;unusable for content creation tasks&lt;/a&gt; on desktop PCs.  If you are new to Windows 8 and  you plan to use it on a desktop PC with existing desktop applications you will find the out-of-the-box experience miserably frustrating. This article will help you transform your Windows 8 desktop into a sane Windows 7 style desktop.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s what we are going to do:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Restore the Windows Start Menu.&lt;/li&gt;
+&lt;li&gt;Boot directly to the Windows 8 desktop (and optionally bypass the login screen).&lt;/li&gt;
+&lt;li&gt;Restore the Quick Launch toolbar and the Show Desktop icon.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Here is a screenshot of the reconfigured Windows 8 desktop (note the Start Menu and the Quick Launch toolbar at the bottom left):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://blog.srackham.com/images/win8-desktop.png&#34; alt=&#34;win8-desktop.png&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TIP&lt;/strong&gt;: Press the &lt;em&gt;Windows&lt;/em&gt; key to switch from the Metro user interface to the traditional Desktop user interface.&lt;/p&gt;
+
+&lt;h2 id=&#34;restoring-the-start-menu:fab9c96ac69131ea699d42725abbbea1&#34;&gt;Restoring the Start Menu&lt;/h2&gt;
+
+&lt;p&gt;There are a number of Windows 8 Start Menu apps available but by far the best I was able to find is &lt;a href=&#34;http://www.stardock.com/products/start8/&#34;&gt;Start8&lt;/a&gt;, it&amp;rsquo;s not free but it&amp;rsquo;s the best five bucks I&amp;rsquo;ve spent in long while.&lt;/p&gt;
+
+&lt;p&gt;Once you&amp;rsquo;ve installed Start8 you not only have a nice Windows 8 themed Start Menu but you can also automatically go to the Desktop when you sign in to Windows (right-click on the Start Menu button and select &lt;em&gt;Configure Start8…&lt;/em&gt; to customize).&lt;/p&gt;
+
+&lt;h2 id=&#34;bypass-login-screen:fab9c96ac69131ea699d42725abbbea1&#34;&gt;Bypass login screen&lt;/h2&gt;
+
+&lt;p&gt;If you don&amp;rsquo;t want the bother of having to type your login name every time you start your PC follow this &lt;a href=&#34;http://news.cnet.com/8301-10805_3-57457967-75/how-to-bypass-the-windows-8-log-in-screen/&#34;&gt;CNET article&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;restore-the-quick-launch-toolbar-and-the-show-desktop-icon:fab9c96ac69131ea699d42725abbbea1&#34;&gt;Restore the Quick Launch toolbar and the Show Desktop icon&lt;/h2&gt;
+
+&lt;p&gt;See this excellent EightForumks tutorial explaining &lt;a href=&#34;http://www.eightforums.com/tutorials/5069-quick-launch-add-taskbar-windows-8-a.html&#34;&gt;How to Add Quick Launch to the Taskbar in Windows 8&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a paraphrased how-to:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Right-click on the Taskbar and select &lt;em&gt;Toolbars-&amp;gt;New Toolbar…&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Paste &lt;code&gt;%userprofile%\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch&lt;/code&gt; into the &lt;em&gt;Folder&lt;/em&gt; input and click &lt;em&gt;Select Folder&lt;/em&gt;. The Quick Launch toolbar will appear, next we will change it&amp;rsquo;s appearence and reposition it.&lt;/li&gt;
+&lt;li&gt;Unlock the Taskbar (right-click Taskbar and untick &lt;em&gt;Lock the taskbar&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;Right-click on Quick Launch toolbar and untick &lt;em&gt;Show Text&lt;/em&gt; and &lt;em&gt;Show Title&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Right-click on Quick Launch toolbar and select &lt;em&gt;View…&lt;/em&gt; to set the desired Quick Launch toolbar icon size.&lt;/li&gt;
+&lt;li&gt;Reposition and resize the Quick Launch toolbar next to the Start Menu.&lt;/li&gt;
+&lt;li&gt;Finally lock the Taskbar (right-click Taskbar and tick &lt;em&gt;Lock the taskbar&lt;/em&gt;).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To add application icons to the Quick Launch toolbar find the application shortcut using the File Explorer then drag and drop it onto the Quick Launch toolbar, here how:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;First you need to show hidden files:
+
+&lt;ol&gt;
+&lt;li&gt;Open the &lt;em&gt;Control Panel&lt;/em&gt; search for &lt;em&gt;folder&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Click on &lt;em&gt;Show hidden files and folders&lt;/em&gt; then select the &lt;em&gt;Show hidden files, folders and drives&lt;/em&gt; option.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Now open &lt;em&gt;File Explorer&lt;/em&gt; (&lt;em&gt;Start Menu-&amp;gt;All Programs-&amp;gt;System Tools-&amp;gt;File Explorer&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;Navigate to the folder &lt;code&gt;C:\ProgramData\Microsoft\Windows\Start Menu\Programs&lt;/code&gt; then drap-and-drop program shortcuts to the Quick Launch toolbar.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;resize-windows-borders:fab9c96ac69131ea699d42725abbbea1&#34;&gt;Resize windows borders&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://winaero.com/comment.php?comment.news.96&#34;&gt;Tiny Windows Borders&lt;/a&gt; tool can be used to make the annoyingly large Windows 8 border widths small.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blogger Backend for AsciiDoc</title>
+      <link>http://blog.srackham.com/posts/blogger-backend-for-asciidoc/</link>
+      <pubDate>Tue, 11 Sep 2012 04:33:59 +0000</pubDate>
+      
+      <guid>http://blog.srackham.com/posts/blogger-backend-for-asciidoc/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;http://www.methods.co.nz/asciidoc/&#34;&gt;AsciiDoc&lt;/a&gt; backend plugin for Google&amp;rsquo;s &lt;a href=&#34;http://blogger.com/&#34;&gt;Blogger&lt;/a&gt; blog hosting service is &lt;a href=&#34;https://github.com/srackham/asciidoc-blogger-backend&#34;&gt;hosted on Github&lt;/a&gt;, it generates Blogger friendly HTML markup from AsciiDoc source.&lt;/p&gt;
+
+&lt;p&gt;The backend consists of a single &lt;a href=&#34;https://github.com/srackham/asciidoc-blogger-backend/blob/master/blogger.conf&#34;&gt;blogger.conf&lt;/a&gt; configuration file.&lt;/p&gt;
+
+&lt;p&gt;To install the Blogger plugin download &lt;a href=&#34;https://github.com/downloads/srackham/asciidoc-blogger-backend/blogger.zip&#34;&gt;blogger.zip&lt;/a&gt; and install it with &lt;code&gt;asciidoc&lt;/code&gt; (you will need AsciiDoc version 8.6.6 or newer):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;asciidoc --backend install blogger.zip
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;HTML generated by the &lt;em&gt;blogger&lt;/em&gt; backend can be pasted directly into your Blogger post&amp;rsquo;s HTML edit box:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Login and create a new post or edit an existing one.&lt;/li&gt;
+&lt;li&gt;Select the &lt;em&gt;HTML&lt;/em&gt; edit option.&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Convert your post&amp;rsquo;s AsciiDoc source to Blogger friendly HTML.  For example, this command converts the &lt;a href=&#34;https://asciidoc.googlecode.com/hg/doc/article.txt&#34;&gt;article.txt&lt;/a&gt; source file to &lt;code&gt;article.html&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;asciidoc -b blogger -a iconsdir=./icons article.txt
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Open the generated HTML file in a text editor then select and copy all the text (typically with &lt;em&gt;Ctrl+A&lt;/em&gt; then &lt;em&gt;Ctrl+C&lt;/em&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Paste the copied text into the Blogger edit window in the browser:&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;NOTE&lt;/strong&gt;:
+Specifying the location of the admonition icons by setting the &lt;em&gt;iconsdir&lt;/em&gt; attribute has been rendered unnecessary by &lt;a href=&#34;https://code.google.com/p/asciidoc/source/detail?r=dd07b38888fdfe8cd80d18f12aa7d21e3dd11eb6&#34;&gt;a commit&lt;/a&gt; made on 11-September-2012.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://blog.srackham.com/images/asciidoc-blogger-backend-1.png&#34; alt=&#34;asciidoc-blogger-backend-1.png&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a partial screenshot of the post (you can view the example post &lt;a href=&#34;http://srackham.blogspot.co.nz/2012/09/test-article.html&#34;&gt;here&lt;/a&gt;):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://blog.srackham.com/images/asciidoc-blogger-backend-2.png&#34; alt=&#34;asciidoc-blogger-backend-2.png&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NOTE&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;By default linked images and admonition icons will be embedded in the generated HTML using the &lt;a href=&#34;https://en.wikipedia.org/wiki/Data_URI_scheme&#34;&gt;data URI scheme&lt;/a&gt; (AsciiDoc &lt;em&gt;data-uri&lt;/em&gt; and &lt;em&gt;icons&lt;/em&gt; attributes are set in the plugin&amp;rsquo;s &lt;code&gt;blogger.conf&lt;/code&gt; file).&lt;/li&gt;
+&lt;li&gt;Older browsers (notably IE8) limit the size of data URIs.&lt;/li&gt;
+&lt;li&gt;You will need AsciiDoc version 8.6.6 or newer to use the Blogger backend.&lt;/li&gt;
+&lt;li&gt;Defining the backend &lt;em&gt;atom&lt;/em&gt; attribute will envelope the post in an Atom &lt;code&gt;&amp;lt;entry&amp;gt;&lt;/code&gt; element for the &lt;a href=&#34;https://developers.google.com/blogger/docs/2.0/developers_guide_protocol#CreatingEntries&#34;&gt;Blogger 2.0 API&lt;/a&gt; &amp;ndash; this feature is experimental and I never got round to trying it.  See also &lt;a href=&#34;http://gdatatips.blogspot.co.nz/2008/08/post-on-blogger-using-curl.html&#34;&gt;Post on Blogger using curl&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bash completion for Jake files</title>
+      <link>http://blog.srackham.com/posts/bash-completion-for-jake-files/</link>
+      <pubDate>Sun, 17 Jun 2012 20:41:05 +0000</pubDate>
+      
+      <guid>http://blog.srackham.com/posts/bash-completion-for-jake-files/</guid>
+      <description>&lt;p&gt;To implement &lt;a href=&#34;http://www.gnu.org/software/bash/manual/html_node/Programmable-Completion.html#Programmable-Completion&#34;&gt;bash(1) tab completion&lt;/a&gt; for &lt;a href=&#34;https://github.com/mde/jake&#34;&gt;Jakefile&lt;/a&gt; task names all you need to do is add this completion function and command to your &lt;code&gt;~/.bashrc&lt;/code&gt; file:&lt;/p&gt;
+
+&lt;p&gt;See also my previous post &lt;a href=&#34;https://srackham.wordpress.com/2011/11/01/bash-completion-for-cake-files/&#34;&gt;Bash completion for cake files&lt;/a&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# Task name completion for Jake files.
+function _jake() {
+    local cur tasks
+    cur=${COMP_WORDS[COMP_CWORD]}
+    # The sed command strips terminal escape sequences.
+    tasks=$(jake -T \
+          | sed -r &#39;s/\x1b[[()=][;?0-9]*[0-9A-Za-z]?//g&#39; \
+          | awk &#39;{print $2}&#39;)
+    if [ $COMP_CWORD -eq 1 ]; then
+        # Task name completion for first argument.
+        COMPREPLY=( $(compgen -W &amp;quot;$tasks&amp;quot; $cur) )
+    else
+        # File name completion for other arguments.
+        COMPREPLY=( $(compgen -f $cur) )
+    fi
+}
+complete -o default -F _jake jake j
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now it you type &lt;code&gt;jake &amp;lt;Tab&amp;gt;&lt;/code&gt; at the bash command prompt you will get a list of tasks from the current &lt;code&gt;Jakefile&lt;/code&gt;.  As with all bash completions, if you start typing a name and press Tab then bash will complete the name for you.&lt;/p&gt;
+
+&lt;p&gt;To cut down key strokes I&amp;rsquo;ve also added a &lt;em&gt;j&lt;/em&gt; alias for &lt;em&gt;jake&lt;/em&gt; to &lt;code&gt;~/.bashrc&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;alias j=&#39;jake&#39;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
