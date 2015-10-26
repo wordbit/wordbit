@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on wordbit</title>
+    <link>http://wordbit.com/categories/blogs/</link>
+    <description>Recent content in Blogs on wordbit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 10 Jan 2008 04:03:00 +0000</lastBuildDate>
+    <atom:link href="http://wordbit.com/categories/blogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What makes a great blog?</title>
+      <link>http://wordbit.com/posts/what-makes-a-great-blog/</link>
+      <pubDate>Thu, 10 Jan 2008 04:03:00 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/what-makes-a-great-blog/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://wordbitarchives.files.wordpress.com/2008/01/blog.jpg&#34;&gt;&lt;img src=&#34;http://wordbitarchives.files.wordpress.com/2008/01/blog.jpg?w=300&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;One of my favourite blogs has to be Derek Miller&amp;rsquo;s &lt;a href=&#34;http://www.penmachine.com/&#34;&gt;Penmachine&lt;/a&gt;. I really enjoy this blog because Derek writes well and he writes often. Derek usually writes about technology, gadgets, software, and other geektastic topics. After getting cancer a year ago, however, his posts have been a lot more personal. He has unceasingly blogged about his harrowing experiences and shared every tear and every joy with his readers, writing in a straightforward, honest style. He recently redesigned his blog and made it a lot cleaner, using a lot of white space and an elegant simplicity (which I like).&lt;/p&gt;
+
+&lt;p&gt;Another blog I enjoy reading is Tom Johnson&amp;rsquo;s &lt;a href=&#34;http://www.idratherbewriting.com/&#34;&gt;I&amp;rsquo;d Rather Be Writing&lt;/a&gt;. Tom is a tech writer who feeds his need to write by blogging on technical communication. He also runs a popular tech writing podcast. I like his blog because he writes clearly and is passionate about what he does. His website is also clean, with lots of white space and minimal clutter.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

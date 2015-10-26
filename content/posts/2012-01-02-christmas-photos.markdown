@@ -1,0 +1,20 @@
+---
+author: wordbitmaster
+comments: true
+date: 2012-01-02 00:47:00+00:00
+excerpt: Here are some pictures from the Christmas season. Included are Mia opening
+  her presents, visits to family, and our trip to Stanley Park???s Bright Nights.
+  Enjoy!
+layout: post
+slug: christmas-photos
+title: Christmas photos
+wordpress_id: 41
+tags:
+- christmas
+- mia
+---
+
+Here are some pictures from the Christmas season. Included are Mia opening her presents, visits to family, and our trip to Stanley Park's Bright Nights. Enjoy!
+
+[![Dsc_0200](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0200.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0200.jpg)[![Dsc_0252](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0252.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0252.jpg)[![Dsc_0267](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0267.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0267.jpg)[![Dsc_0297](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0297.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0297.jpg)[![Dsc_0371](http://wordbitarchives.files.wordpress.com/2013/02/dsc_03711.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/dsc_03711.jpg)[![Dsc_0207](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0207.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0207.jpg)[![Dsc_0425](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0425.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0425.jpg)[![Dsc_0451](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0451.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0451.jpg)[![Dsc_0432](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0432.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0432.jpg)[![Dsc_0461](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0461.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0461.jpg)[![Dsc_0515](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0515.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0515.jpg)[![Dsc_0533](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0533.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0533.jpg)[![Dsc_0551](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0551.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0551.jpg)[![Dsc_0540](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0540.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0540.jpg)[![Dsc02318](http://wordbitarchives.files.wordpress.com/2013/02/dsc02318.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/dsc02318.jpg)![Dsc02325](http://wordbitarchives.files.wordpress.com/2013/02/dsc02325.jpg?w=200)[![Dsc_0561](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0561.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0561.jpg)[![Dsc_0604](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0604.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0604.jpg)[![Dsc_0590](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0590.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0590.jpg)[![Dsc_0570](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0570.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0570.jpg)[![Dsc_0603](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0603.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0603.jpg)[![Dsc_0574](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0574.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0574.jpg)[![Dsc_0602](http://wordbitarchives.files.wordpress.com/2013/02/dsc_0602-scaled-500.jpg?w=300)](http://getfile5.posterous.com/getfile/files.posterous.c
+om/wordbit/60Hz9Xq1bVPP48zsFQCeIo8IRRJHDiDNWM16uzDlpPFmocMy6VdggZUiNSjY/DSC_0602.jpg)

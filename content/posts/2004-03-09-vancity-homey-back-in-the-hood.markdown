@@ -1,0 +1,17 @@
+---
+author: wordbitmaster
+comments: true
+date: 2004-03-09 22:37:00+00:00
+layout: post
+slug: vancity-homey-back-in-the-hood
+title: Vancity homey back in the hood
+wordpress_id: 532
+---
+
+Today I realized I actually am experiencing some sort of reverse culture shock. The thing is, with all the traveling I've done, I'm insensitive to the symptoms, sort of like when you get a cold. You've had a cold so many times before that most of the time you're not cognizant of being ill until you hack up some flem or have to blow your nose.
+
+After a few false starts, Jenny and I drove downtown and briefly checked out the beach; the wind was howling like a wounded banshee...it was so beautiful...walked down Robson and went shopping *grimace*...It was awesome to check out the old haunts, but I definitely feel weird and disconnected, like a tourist. I remember living downtown clearly, but place-names and small details are hard to recall, like trying to remember a dream... Part of it is that I don't really know anyone in Vancouver anymore, all the friends I had here have all moved away at some point, leaving Vancouver like a pristine queen, chillingly beautiful but superficial, inaccessible, this city holds you away at arms length and says "admire me, I'm beautiful but don't get too close". It's hard to explain these feelings where everything is so familiar yet foreign...where new aspects of the city are revealed to me at certain times and places...the pristine queen is constantly trying on new dresses and her mood shifts and changes unpredictably. 
+
+Anyways, we hooked up with Jenny's friend, Ahmin, sorry dude I can't spell your name, he's a really cool guy with an insane sense of humour, likes to find peoples buttons and push them, but not in a malicious way - more like shock therapy to get people to confront their issues. We went for the all-you-can-eat-sushi at Tanpopos, that awesome Sushi place on Denman. It's been a while since I've had grade-A Vancity style sushi, I was in heaven! 
+
+One thing that amazed me was all the Korean I started seeing around Vancouver, now that I can read it, it just pops out at you and I've discovered there's loads of _PC-bangs_ and Korean movie stores and restaurants of course. The writing seemed so out of context and really exemplified for me the vast differences between what constitutes "Asian culture" over here and what it's _really_ like over there. It's awesome that Vancouver is so "Asian" though...just being in a heterogeneous society again is so refreshing and provides a rich sort of variety that I was missing in _the hermit kingdom_. Even in the Japanese restaurant I felt compelled to bow copiously and wanted to burst out in Korean to the waiters - _Yogi Yo! Yogi Yo! Mul juseyo! _, which just shows you how confused I am, a white guy bellowing in Korean in a Japanese restaurant in the West End. I think it's going to take a while...

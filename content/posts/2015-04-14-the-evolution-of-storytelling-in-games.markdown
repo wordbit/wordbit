@@ -1,0 +1,33 @@
+---
+author: wordbitmaster
+comments: true
+date: 2015-04-14 00:13:20+00:00
+layout: post
+slug: the-evolution-of-storytelling-in-games
+title: The evolution of storytelling in games
+wordpress_id: 1269
+---
+
+Tens of thousands of years ago, humans would gather around the fire at night and share stories. We craved narratives to explain our world. And in the crackling fires of the darkest nights, myth and legend was born. As the oral tradition was displaced by the written word, our appetite for storytelling only increased. For thousands of years, from the Bible to Shakespeare - we've clung especially tight to those narratives that define the very essence of humanity, through courage, conflict, betrayal, and love.
+
+The relatively recent medium of film (which is only about 130 years old) has spawned a multi-billion dollar industry whose sole purpose is to entertain, delight - and even challenge us - through storytelling. Recent technological advancements have allowed the moviemakers of the 21st century to transport us to fictional worlds and depict fantastical creatures that are completely believable. But, without a good story, even the best special effects won't save a terrible plot. See exhibit A: the _Transformers_ franchise.
+
+The history of storytelling in games is an even shorter one. As a kid, my brother and I spent hours shooting extraterrestrials in _Space Invaders_. But we never did find out why those aliens were so intent on destroying planet Earth. Fast forward thirty years later to the alien invasion in _Mass Effect_, and it's a whole different story (sorry).
+
+The 1990s brought us so many amazing story-driven adventure games from publishers such as _Sierra_ and _Lucasarts_. Man, I loved those games. As a kid who grew up devouring books, adventure games were a natural extension of the _Choose Your Own Adventure_ style of interactivity that allowed you to actually be in the story.
+
+Then, it all fell apart. There came a terrible dry spell for a decade or so where first-person shooter after first-person shooter was threatening to sink the industry into a mire of prepubescent bloodlust devoid of any plausible exposition whatsoever. But, I think we're mostly over that now.
+
+Yes, there is still a lot of shooting going on in games today. Some games, such as the _Uncharted_ series, pull it off by throwing you into ridiculous action-movie style set pieces that you can't help but love. Maybe it's a guy thing, like enjoying the _Fast and Furious_ movies. Other shooting games - I'm looking at you _Call of Duty - _just come off as recruiting tools for the US army.
+
+But, I'm extremely encouraged by the recent wave of indie games that are trying to push storytelling in games into different directions. In _Papo and Yo_, an alcoholic father forces a young Brazilian boy to cower in the closet, where he retreats into a dream-like world and eventually finds catharsis. _Gone Home_ tells its story through contextual exploration, where you read notes and letters while rifling through the belongings of an absentee family. There are no guns in sight. Even more commercial games, such as _The Walking Dead_, are welcome revivals of the adventure genre, and explore relationships in parallel with the splitting open of zombie heads.
+
+Speaking of relationships, I'm playing _Dragon Age II_ right now. Bioware is well-known for compelling RPGs with great storytelling and even characters you can pursue romances with. _Dragon Age II_ was criticized for a weak plot, and I can definitely see why. Although the meticulous attention to world-building is there, the lack of a narrative thread leaves the game feeling listless. In response, Bioware made sure the writing in _Dragon Age: Inquisition_ was top-notch (or so I hear - it'll be while before I get around to playing it, I'm sure). The point is, the story is no longer an afterthought in gaming these days. People really care about good writing. In fact, it can make or break a game, regardless of how good the graphics are.
+
+As games continues to evolve, it seems obvious that storytelling will surge into the forefront of bleeding-edge game design. In retrospect, we can see how faster graphics processing allowed game designers to move from linear-track shooters to creating massive open worlds. I believe the same will happen with storytelling, where advances in Artificial Intelligence (AI) will allow a deep and profound interaction with non-player characters (NPCs). Gamers will be able to influence and engage in the complex moving parts of plot and character development in unimaginable ways. A truly idiosyncratic gaming experience will become possible, where no two playthroughs could ever be alike.
+
+Do you think five possible endings sounds impressive? How about thousands of variations. Tens of thousands. Millions. How about an infinite number of parallel universes for you to explore in your own virtual reality. Games won't be "games" anymore, they'll be alternative realities, every bit as real as this reality. NPCs will be indistinguishable from your friends. Heck, they'll probably be your only friends. At that point, that great human accomplishment - the ability to tell a good story, will be eclipsed by the ability of the machine to tell an infinite variation of stories.
+
+I hope this never happens though. I'd like to think we can step back from that inevitable abyss and appreciate the art of the story, which is really a celebration of our imagination. Sometimes too much choice overwhelms us. What we really want is to just relax in front of the fire and listen to a story being told.
+
+In fact, I have a confession. Whenever I'm confronted with a terrible in-game choice, it paralyzes me. Do I save Carley or Doug from the zombie attack? Do I upload the Reaper code to the Geth collective? Do I kill that little boy, Connor, because he is possessed by a demon? In the end, I always check out both alternatives. And I'm always relieved to find out that neither choice really changes the main plot. It was all smoke and mirrors - the illusion of choice. The story goes on as it was meant to, guided by the storyteller's deft hand. That, in the end, is as comforting as the crackle and hiss of that flickering fire, keeping the terrible unknowns of the night at bay.

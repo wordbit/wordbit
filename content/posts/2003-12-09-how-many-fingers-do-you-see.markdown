@@ -1,0 +1,15 @@
+---
+author: wordbitmaster
+comments: true
+date: 2003-12-09 22:03:00+00:00
+layout: post
+slug: how-many-fingers-do-you-see
+title: How many fingers do you see?
+wordpress_id: 520
+---
+
+One amusing thing happened today which stuck with me. I popped out between classes to buy one of my favourite Korean snacks. It's a kind of pastry shaped like a fish with black bean paste inside. I forget the name. Anyway, I asked the guy at the food stand how much it was and he relayed to me that it was 1000 won for four by holding up four fingers. Or was it three fingers? The thing was that he had one finger missing, chopped off at the knuckle. So, I'm thinking, "Does he mean three for a thousand, or four?" Without language as a mediator these small things become quite important. I was so confused by his fingers that a lady next to him held up her four fingers at which point I went "Aaaaah! OK" and we all had a good laugh about it!
+
+On a side note, our supervisor wants us to watch our open class video tapes and write an essay on the good and bad points of our class and what we're going to do to change it, then Won Jang Nim will call a meeting and discuss it some more. I don't know what I'm missing here, but do they know I'm leaving in two months? What use is all this self-evaluation crap now! Especially when writing papers isn't exactly on my list of things to do in the evenings these days. 
+
+Yes, I know it's even more ineffectual spending my evenings complaining about it on the internet, don't worry, the irony has not escaped me. You know, we also have to write these daily reports of how our classes went, and what we did wrong or did well and who was the best and worst student etc. etc. It's a bit of a joke really, because I amuse myself by writing these bombastic, overly verbose comments that I know nobody would ever understand. Stuff like _"I interjected the principal exclamatory portion of today's expression, with an aim to incorporate the proclamatory extrapolation at an appropriate later stage...Kitten class picked it up quite well."_ Nobody has said anything about it and I figure they don't want to appear ignorant of the English language so they keep their mouths shut. It may seem to you that I don't take my work seriously, but the truth is that I do, and I have the best interests of the kids at heart in all I do. I just don't see the point of endless mental self-flagellation, that's all.

@@ -1,0 +1,17 @@
+---
+author: wordbitmaster
+comments: true
+date: 2003-12-15 21:18:00+00:00
+layout: post
+slug: imagine-all-the-people
+title: Imagine all the people
+wordpress_id: 521
+---
+
+Not much to say really... Recently I've become wary of being too friendly with strangers because so many people are just hungering for their very own foreign English teacher, whenever I hear the words "I'm very interested in English!!!" I cringe inwardly because I know what's coming next. The guy I met in the park wanted me to teach him English, the guy on the bus, the guy in my apartment building, even the lady who came to check for gas leaks in my gas furnace wanted me to teach her kids English. Now, don't get me wrong, I wouldn't do it _gratis_, the going rate is about $30 - $40 Cdn an hour over here for private tutoring, but I just don't have the time or energy to teach 24 hours a day. Maybe I should become a recruiter. Remember the big talker anthropologist Dean from OZ (check my first entry)? Well, he called me up from Australia the other day and asked me if I could set him up with a job. Seems he regrets leaving Korea in the first place because all he ended up doing back home was managing his dad's wheat silo in the outback. Not very anthropologically exciting by any stretch of the imagination and not exactly wondering through India like a "transcendental ascetic". Dean, if you're reading this, and I don't think you ever would, then I'm sorry mate! Sarcasm is my trademark man. Actually, Dean is a really good bloke :) 
+
+On the other end of the 'people spectrum', I've had William's darling parents feeling bad that I live alone and inviting me to come in live in their home. Apparently they're quite wealthy and own a mansion of sorts, I would have never thought it considering how humble and modest they were. What great folks. Er, I'm hardly going to move in though, as great as it would be for the kids to have an English teacher around at home :) Sora's been a really fantastic friend too, we went out to my favourite Guemchon restaurant last week and had some really good conversation, she's definitely one of the people I'll miss when I leave. She's trying to teach me Korean, but by making me memorizing the transcripts from her TESOL studies. The kids may have good memorization skills but mine suck, I don't think it's the best approach to learning a language. Besides what use is being able to recite "To be honest with you, Mr. Smith, I just don't think I can hack it" in perfect Korean? Shame, her heart's in the right place. Yesterday I went out again to VIPS in Ilsan with Brian and Maike and totally attacked the salad bar. Good food, good company, afterwards Brian and I went on a midnight photoshoot because the moon was looking photogenic, but I'm not sure that I got any good ones.    
+
+More free apples from the _ajummas_ in the produce section at LG supermarket. Thanks ladies!!!
+
+Anyways, I think this whole entry is coming off with a rather cynical tone, which isn't what I intended, oh well, too late now. Did I mention we went on a field trip last week? We saw another play called "Dokemi Nanta", about these traditional Korean monsters who play wicked drums and turn people into rats and remove warts from people's faces and stuff like that. It was in Korean obviously so I'm a bit misty on the plot, the drumming was really good though! I think the kids really digged it too, better than the Korean kiddie-version of "cats" which was really too lame for words.

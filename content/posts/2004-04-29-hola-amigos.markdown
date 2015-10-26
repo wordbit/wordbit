@@ -1,0 +1,15 @@
+---
+author: wordbitmaster
+comments: true
+date: 2004-04-29 14:38:00+00:00
+layout: post
+slug: hola-amigos
+title: Hola amigos!!!
+wordpress_id: 536
+---
+
+As you´ve guessed I´m writing this from Mexico and have been here about a week already. We´re currently in Puerto Escondido, this awesome Surfing Mecca on the Oaxacan coast. A lot of gringos around, but otherwise great vibe and the biggest waves I´ve ever seen. Yesterday I wiped out on my boogie-board and I´m sure I cracked a rib after getting hurled beneath several monster waves. I guess I should tone down the risk-factor. Angela got burned to a nice toasty red colour. Well, we haven´t died from the food yet, which by the way, is absolutely amazing. 
+
+We stayed a few days in Veracruz on the gulf of mexico and enjoyed this very musical town by checking out the traditional dances in the square and this bizarre Salsa club where they dance like it´s in the circus. We then headed into the interior to Oaxaca, the city where Cortez himself started building his estate. The Spanish colonial archetecture that remains is truly charming. I enjoyed this place a lot, they love chocolate here and make it fresh right before your eyes with any ingredient you want. We also took a tour to Monte Alban, an ancient Zapotec archaeological site where they had somely fairly impressive ruins and some really well preserved artefacts. We also headed out into the desert to this wild place in the middle of nowhere, there was a pool on the mountainside formed by natural spring water and a calcified waterfall, basically a rock structure formed by an ongoing mineralizxation process that forms a crystalline and quite ´frozen´waterfall. Anyways, just been chilling here on the Pacific coast, we have to head down to Guetamala really soon, because we have to make our way down to Costa Rica for the tour. We have been catching buses, and I tell you, white-knuckle rollercoaster doesn´t begin to describe the hell-raising experience of hurtling around hair-pin corners in the middle of the night. All part of the fun though!!! 
+
+Well, that´s a brief synopsis for now, there´s too much to tell really, maybe I´ll update further along the journey if it´s possible. Just wanted yáll to know I´m still alive and having a great time. Adios for now!

@@ -1,0 +1,23 @@
+---
+author: wordbitmaster
+comments: true
+date: 2011-03-21 18:06:00+00:00
+excerpt: via dailymail.co.uk The Daily Mail newspaper in the U.K. has published a
+  great article on Jonathan Ive (although the newspaper itself is poorly edited, so
+  take it with a pinch of salt). The article provides some interesting insights into
+  Ive's des...
+layout: post
+slug: apples-jonathan-ive
+title: Apple's Jonathan Ive
+wordpress_id: 997
+tags:
+- design
+- geeky
+- technology
+---
+
+[![Media_httpidailymailc_ygyca](http://wordbitarchives.files.wordpress.com/2013/02/media_httpidailymailc_ygyca-scaled1000.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/media_httpidailymailc_ygyca-scaled1000.jpg)
+
+via [dailymail.co.uk](http://www.dailymail.co.uk/home/moslive/article-1367481/Apples-Jonathan-Ive-How-did-British-polytechnic-graduate-design-genius.html)
+
+The Daily Mail newspaper in the U.K. has published a great article on Jonathan Ive (although the newspaper itself is poorly edited, so take it with a pinch of salt). The article provides some interesting insights into Ive's design process. For instance, Ives has spent time with Japan's secretive Samurai sword forgers to learn how they push metallurgy to the edge. Another example of his fastidiousness is that he spent months obsessing over the iMac stand so that its aesthetics would convey the balance and curves of a sunflower stalk. With this much attention to detail, it's no wonder that so many, myself included, are willing to pay a premium for a product that is just gorgeous to look at.

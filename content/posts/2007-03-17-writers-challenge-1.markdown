@@ -1,0 +1,27 @@
+---
+author: wordbitmaster
+comments: true
+date: 2007-03-17 07:27:00+00:00
+layout: post
+slug: writers-challenge-1
+title: 'Writer''s challenge #1'
+wordpress_id: 74
+categories:
+- technical writing
+- technology
+- the writing challenge
+- writing
+---
+
+As promised in my last post, here is a little segment I'm going to call...(insert  drum-roll here)...THE WRITER'S ![](http://wordbit.freehostia.com/wp-content/uploads/2007/03/WindowsLiveWriter/Writerschallenge1_378/puzzled%5B4%5D.gif)CHALLENGE! Will you muster your courage and face the cunning challenge I've set before you?
+
+Here it is:
+
+I am holding an object in my hand. Guess what the object is by reading it's [patent description](http://www.patentstorm.us/patents/7004655-fulltext.html).
+
+Let me warn you, this is some of the most convoluted, ridiculously bloated writing I have ever seen being used to describe something that is deceptively simple. You will get a point if you can tell me what this object is. Two points if you can tell me what it's used for. Three if you can tell me who the users are. Finally, if you can successfully draw a picture of the object, or locate a photograph of it, you will get a full five points.
+
+Good luck!
+
+
+###### In the event that nobody guesses what this object is, I will reveal the answer at a later time.

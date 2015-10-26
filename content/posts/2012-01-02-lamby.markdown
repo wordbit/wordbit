@@ -1,0 +1,19 @@
+---
+author: wordbitmaster
+comments: true
+date: 2012-01-02 01:15:55+00:00
+excerpt: Here's a fun little movie I made with Mia and a particularly disturbing toy.
+layout: post
+slug: lamby
+title: Lamby
+wordpress_id: 1047
+tags:
+- humour
+- mia
+- spoof
+- video
+---
+
+Here's a fun little movie I made with Mia and a particularly disturbing toy. 
+
+[youtube http://www.youtube.com/watch?v=Epy9t0uQ3OY?wmode=transparent]

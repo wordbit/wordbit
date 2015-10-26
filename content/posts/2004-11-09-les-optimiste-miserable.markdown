@@ -1,0 +1,13 @@
+---
+author: wordbitmaster
+comments: true
+date: 2004-11-09 19:02:00+00:00
+layout: post
+slug: les-optimiste-miserable
+title: Les Optimiste Miserable
+wordpress_id: 546
+---
+
+That's what we poets are. Fueled by magic and mayhem and the rich darkness that lurks in the deepest recesses of our souls, we seek the sources of our gloom and inspiration . There is a kind of poignancy and immediacy in our search, as if the infinite universe itself constantly clouds our vision with ubiquitous stars yet sears our dreams with the touch of God. We are _les optimiste miserable_, oxymorons of the dreamer, plagued with incompetence, completely ineffectual in the social worlds we inhabit, yet branded with the essence of life itself. For there is no room for us in this time, in this place, where romantic notions are laughed at, where the poet's sensitivity goes unrecognized, shunned, debased, to the point when that miserable optimist questions his own worth. To the point where the dreams take over, once energetic and vibrant, now grey and numbing, lulling the soul to sleep with slow poisonous lullabies. Our own art turned against us. When did we pervert the smile? Feigning good will for profit and gain, the insidious tool of anonymous greed. When did we demote love and sex from the sacred to the secular? Now love has been lost and sex rendered meaningless, and hardly a soul left who knows the difference. When love is charading as _love_ who would know?
+
+Can I still win this fight? Disentangle myself from death's embrace and flee the dance in lucid fear. How the years have accumulated, oh how weary I feel, a ghost of a man in the weak winter mornings, the mockery of youth still slaved to my identity. No passion,  no profession, no honest labour for this ridiculous person that I am ashamed to call myself. Will the grey dreams lighten, will their colour return, like a rainbow's promise? Or is the pattern crystallized, the laws governing my conduct immutable and set in their obstinate spirals of decay? I would say time will tell, but aghast I cry “Time has told!” and I am left holding the book of my life to God with trembling hands, every page empty except for one. That page is this, the page no-one would read.

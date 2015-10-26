@@ -1,0 +1,18 @@
+---
+author: wordbitmaster
+comments: true
+date: 2008-06-18 22:17:57+00:00
+layout: post
+slug: new-job
+title: New job
+wordpress_id: 170
+categories:
+- employment
+- technical writing
+---
+
+[![vtlogo](http://wordbit.freehostia.com/wp-content/uploads/2008/06/vtlogo.gif)](http://shop.vtechcanada.com/vtt/en/?) I've just signed a 6-month contract with [Vtech](http://shop.vtechcanada.com/vtt/en/?) to work as a technical writer in their engineering department! As you probably know, Vtech primarily designs and manufactures cordless phones as well as other wireless devices. 
+
+The company usually outsources their documentation to the States. Presently, however, they're developing a completely new product line (sorry, I can't say what it is) and need a writer in-house. This is a new position, so the challenge for me will be in ensuring that I get the information I need from the engineers without taking too much time away from their primary tasks. There are other challenges which I won't get into, suffice to say I'll be involved in some hardcore digital asset management and interface design... 
+
+If the position works out, I could get a permanent position down the road. Anyway, It's exactly what I've been looking for, so I'm excited to start next week!

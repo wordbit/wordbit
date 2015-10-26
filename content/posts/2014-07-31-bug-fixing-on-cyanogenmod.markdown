@@ -1,0 +1,17 @@
+---
+author: wordbitmaster
+comments: true
+date: 2014-07-31 00:12:25+00:00
+layout: post
+slug: bug-fixing-on-cyanogenmod
+title: Bug fixing on Cyanogenmod
+wordpress_id: 1213
+---
+
+About two months after [flashing my ROM](http://wordbit.com/flashing-a-custom-rom-on-the-htc-one-s/), I encountered my first serious bug. Basically, the software wouldn't recognize my WiFi radio. This issue wasn't actually a big deal because I have unlimited data. In fact, my battery life improved somewhat. But, I wanted to fix it anyway so I found the issue on Cyanogenmod's [bug tracking wiki](https://jira.cyanogenmod.org/secure/Dashboard.jspa), called JIRA. I up-voted the bug and set an email alert on it. Other users weighed in and the issue was eventually resolved by a developer. For the record, if you have an HTC-unlocked phone with S-ON, you have to extract and flash the boot.img file to the boot partition for every ROM release you flash via recovery. Good to know!
+
+Then it struck me - on what other platform can you get bugs and security patches resolved so quickly? Cyanogenmod now puts out a stable release every month. Each release includes bug fixes that users have entered in JIRA. Official Android and Apple software releases are far more sporadic and removed from user involvement. The Cyanogenmod community really impressed me. Here are a bunch of enthusiastic users committed to keeping legacy devices running the latest software far beyond the official expiry date.
+
+Forced obsolescence is frustrating. A typical $800 flagship phone only gets two years worth of software support. Of course this time span is in-line with the typical two-year contract your service provider gets you to sign in exchange for a subsidy on the up-front cost of the phone. But with the pace of smartphone advancement levelling off, older phones are more than capable of keeping up with the latest and greatest. And with prices for decent unlocked phones - such the Google Nexus - dropping to all-time lows, more and more people will be happy to buy their own phone and avoid a punitive contract. This trend is a healthy one - for your pocketbook, as well as the environment, which gets flooded with vast amounts of e-waste from discarded electronic devices that still work.
+
+I think that Cyanogenmod is just getting started, and will ride a wave of support from budget-conscious and environmentally-aware people who are pushing back against the two-year upgrade cycle. They will continue to make it easier for newbs to get in on the action, cause right now the flashing process is, admittedly, pretty awful. But the most important thing is that they are listening to the community - and when you get a bug, because let's be honest - you will, you won't have to wait six months for it to be fixed.
