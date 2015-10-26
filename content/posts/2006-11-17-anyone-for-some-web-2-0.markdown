@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-11-17 08:49:00+00:00
-layout: post
 slug: anyone-for-some-web-2-0
 title: Anyone for some Web 2.0?
-wordpress_id: 565
 ---
 
 A couple of things.

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-11-02 21:03:00+00:00
-layout: post
 slug: snippets-of-a-life-dangling-their-legs-in-the-water-to-catch-pretend-fish
 title: Snippets of a life - 'dangling their legs in the water to catch pretend fish'
-wordpress_id: 511
 ---
 
 Since I haven't written for a while, I guess I'll have to settle for an imagistic, yet succinct style and avoid expounding on some trivial event for the sake of play. For surely that is what all writing is, to "move or operate freely within a bounded space", unlike the machine whose movements are sure and calculated, a writer's words move like the water within a fountain, bounded by no immutable law except the limitations of the medium itself. 

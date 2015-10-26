@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2013-05-15 23:37:20+00:00
-layout: post
 slug: thoughts-on-google-io-2013
 title: Thoughts on Google I/O 2013
-wordpress_id: 1090
 ---
 
 There were no skydivers at this year's Google I/O keynote. Nor were there any hardware announcements really, or even a new version of Android. Yet, despite a more subdued vibe, this year's I/O was more grounded. Rich with developer tools and APIs, this year was a call to action for developers. A smart move. Google played to its strengths today: big data. And what better way to coral the developer community than handing them the keys to it. It was great to see continuing innovations on the UX side as well. Zero-touch natural language search is definitely taking off in a Star Trek kind of way.

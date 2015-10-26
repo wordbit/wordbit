@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2005-10-20 13:22:00+00:00
-layout: post
 slug: please-support-our-teachers
 title: Please support our teachers
-wordpress_id: 556
 ---
 
 The (illegal) strike by teachers in B.C. is causing a dangerous and detrimental societal rift. The government refuses to open up a dialogue with the B.C. Teachers Federation and resolve several key issues, including class sizes, support for special needs children and bargaining rights. The government has frozen the union's assets. They have behaved like children. Yet it is the 600 000 children of this province who are being denied their education by the vulgar hubris of the government. Please email our premier, Gordon Campbell and tell him you support our teachers. Tell him to sit down and negotiate with them.   

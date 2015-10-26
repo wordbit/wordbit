@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-11-30 00:27:39+00:00
-layout: post
 slug: the-ice-cage-2
 title: The ice cage
-wordpress_id: 604
 tags:
 - pictures
 ---

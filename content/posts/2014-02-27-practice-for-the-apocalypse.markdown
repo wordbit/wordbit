@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2014-02-27 00:21:33+00:00
-layout: post
 slug: practice-for-the-apocalypse
 title: Practice for the apocalypse
-wordpress_id: 1105
 ---
 
 Post-apocalyptic books such as _The Road_, or TV shows such as _The Walking Dead_ give us a glimpse into the aftermath of an extinction event where only tenacious bands of humans are left to cling to survival. But what if there were simulations of such scenarios - how would a mad scramble for remaining resources actually play out?

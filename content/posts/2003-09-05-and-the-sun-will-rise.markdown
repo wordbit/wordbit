@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-09-05 22:59:00+00:00
-layout: post
 slug: and-the-sun-will-rise
 title: '...and the sun will rise...'
-wordpress_id: 491
 ---
 
 It might be the fact that it's finally the week-end, but I seem to have regained my peace of mind. Hell, I'm even thinking about staying in Korea another year. If I did though, I would shoot for a university position. Nothing more prestigious than being an English prof 'ey. I'm certainly not going to let a bunch of five year olds push me around. I've started integrating an aggressive point scoring system into the very fibre of the classroom experience. I'm going to refrain from using any physical punishment or excessive verbalization. I have to be patient because their training (read: taming) will be a slow and agonizing process. Like dripping water erodes even the hardest rock over time so will I persist in turning these kids into respectable members of society. I must say though, given my own independent nature it's rather tiresome to keep on hassling the kids again and again to sit nicely, don't speak in Korean, do your homework or to eat their food and brush their teeth and go to the washroom and all that stuff. I reckon I'm going to be a crackerjack father after all this.

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-05-07 03:22:17+00:00
-layout: post
 slug: doctrain-day-1-simplified-technical-english
 title: DocTrain Day 1 - Simplified Technical English
-wordpress_id: 162
 categories:
 - conference
 - DocTrain West 2008

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-09-17 21:06:00+00:00
-layout: post
 slug: on-dreams
 title: On dreams
-wordpress_id: 497
 ---
 
 Whenever I am abruptly awoken from my dreams, the level of exhaustion I feel henceforth seems far more intense than if I hadn't been dreaming. My limbs feel like lead, a latent paralysis seems to dog my movements. I believe it has something to do with a certain chemical, a muscle inhibitor released during dream sleep to stop your body from physically acting out the dreams we perceive as reality. I don't think this chemical fully dissipates from my body for several hours. 

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2013-12-30 20:28:28+00:00
-layout: post
 slug: '650'
 title: No Content Found
-wordpress_id: 650
 post_format:
 - Image
 ---

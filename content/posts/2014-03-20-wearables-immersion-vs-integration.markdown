@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2014-03-20 17:58:48+00:00
-layout: post
 slug: wearables-immersion-vs-integration
 title: 'Wearables: immersion vs integration'
-wordpress_id: 1109
 ---
 
 With Google releasing their [Android Wear developer preview](http://developer.android.com/wear/index.html) this week, and with their hardware partners announcing support for the platform, it feels like the wearables are starting to enter the mainstream. I say that with optimism because I think these guys are finally starting to figure out what people actually want. And when you look at the sociological big picture, it seems astoundingly obvious.

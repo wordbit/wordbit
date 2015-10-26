@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-08-15 05:04:07+00:00
-layout: post
 slug: warning-from-south-african-police
 title: Warning from South African police
-wordpress_id: 659
 tags:
 - crime
 - scams

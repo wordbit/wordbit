@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-02-05 05:56:49+00:00
-layout: post
 slug: come-to-northern-voice-2008
 title: Come to Northern Voice 2008
-wordpress_id: 131
 categories:
 - blogging
 - events

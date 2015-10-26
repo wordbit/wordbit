@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-02-21 05:48:01+00:00
-layout: post
 slug: what-does-your-business-card-say-about-you
 title: What does your business card say about you?
-wordpress_id: 56
 categories:
 - marketing
 - technology

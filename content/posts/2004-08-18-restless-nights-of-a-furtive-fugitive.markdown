@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2004-08-18 20:21:00+00:00
-layout: post
 slug: restless-nights-of-a-furtive-fugitive
 title: Restless nights of a furtive fugitive...
-wordpress_id: 543
 ---
 
 A fugitive from my own inevitable doom to be sure...It's been a rough couple of weeks. The workload quadrupled overnight as my practicum kicked in two weeks ago. Since then I've been racking my brains 24-7, trying to come up with decent lesson plans. I've taken to cornering the students and desperately interviewing them...What do you want to do tomorrow? Isn't there anything you want to learn about? What do you find fun? Last week was particularly hellish, my mentor teacher was a notorious nazi with dragon blood in her veins. It was a beginner class, not exactly my forte, but I tried my best. Didn't get such a hot evaluation, but at least dragon-lady gave me some good feedback. This week I've had the advanced class, which suits me better, because I'm more "intellectual" whatever that means, and can engage the students in analytical thought. My evaluation is substantially better and my mentor teacher is way more laid back. Here is something I wrote about a week ago: 

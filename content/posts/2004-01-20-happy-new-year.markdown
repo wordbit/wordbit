@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2004-01-20 22:31:00+00:00
-layout: post
 slug: happy-new-year
 title: Happy New Year!
-wordpress_id: 527
 ---
 
 Er, that's happy Lunar new year, for those who are scratching their heads at my apparent lapse of chronological acuity. This means a _cinq jours vacance pour moi_, a much needed vacation, yes oh yes oh yes. The reason I haven't written for a while is because I'd just be complaining about stuff and quite frankly I have better things to do. Things are going okay I guess, those boys in the morning class are really good and should actually be a couple of levels up, but somehow they got put in the lowest level, probably because they were really shy at first and were assessed incorrectly. Today was cool, all the kindergarten kids dressed up in their _hanboks_ (traditional costumes) and learned how to bow correctly to their parents. It's a sign of deep respect, but it's also a request for money and good fortune. The parents then present them with some money in a red envelope. I took some pictures I'll put up on the site soon. Then they made _mandu_ (dumplings), sang songs and played traditional games. In the kitchen Alice dropped all the _mandu_ they had made on the floor, but this incident quickly became an incident that never happened if you know what I mean. I hope I didn't eat it for lunch though.

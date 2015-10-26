@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-11-17 19:17:11+00:00
-layout: post
 slug: interstellar-review-sort-of
 title: Interstellar review (sort of)
-wordpress_id: 1230
 ---
 
 _This post contains spoilers (at the end). Read on at your own risk._

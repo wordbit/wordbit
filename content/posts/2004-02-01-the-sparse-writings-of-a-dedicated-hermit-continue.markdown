@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2004-02-01 15:38:00+00:00
-layout: post
 slug: the-sparse-writings-of-a-dedicated-hermit-continue
 title: The sparse writings of a dedicated hermit continue...
-wordpress_id: 528
 ---
 
 I have a feeling this journal will soon fade into obscurity and neglect, as often happens when people no longer feel the need to communicate their lives to others outside of their immediate social context. I hesitate to cease these writings entirely, but at the end of the month I will no longer be a hermit in the hermit kingdom, and this journal will have served it's purpose. I am not one to constantly barrage an internet vacuum with the minutiae of my daily life but... it is kind of cool having a blog I guess! I may just breathe new life into it and birth a more introspective, philosophical writing forum, I don't know, I certainly will have the time when I'm finished up here, but quite frankly, I don't think I have a huge following except for a few very cool people like yourselves, so this thing won't be missed I'm sure. 

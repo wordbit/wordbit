@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-11-28 08:27:42+00:00
-layout: post
 slug: my-big-audience
 title: My big audience
-wordpress_id: 94
 categories:
 - editing
 - working

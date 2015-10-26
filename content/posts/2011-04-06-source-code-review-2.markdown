@@ -1,15 +1,11 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-04-06 22:26:56+00:00
 excerpt: 'Warning: this is not a movie for angry nerds. If you ponder over the concepts
   of multiple dimensions and consciousness and that sort of esoteric stuff more deeply,
   the purist in you will start to bristle. And don''t even start to go down the road
   o...'
-layout: post
 slug: source-code-review-2
 title: Source Code Review
-wordpress_id: 794
 tags:
 - movies
 - review

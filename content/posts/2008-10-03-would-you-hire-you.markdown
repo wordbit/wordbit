@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-10-03 05:01:32+00:00
-layout: post
 slug: would-you-hire-you
 title: Would you hire you?
-wordpress_id: 176
 categories:
 - employment
 - marketing

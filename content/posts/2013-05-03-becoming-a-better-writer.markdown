@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2013-05-03 19:24:58+00:00
-layout: post
 slug: becoming-a-better-writer
 title: Becoming a "better" writer
-wordpress_id: 1089
 ---
 
 I've been trying to articulate to myself why most writing on the internet leaves me feeling hollow - my own writing included. In doing so, I've had to look beyond the mechanics of writing. Certainly, good writers use words judiciously and move beyond pure grammatical correctness to craft a personal style and weave a sense of play into their prose. But what's missing is a piece of the soul.

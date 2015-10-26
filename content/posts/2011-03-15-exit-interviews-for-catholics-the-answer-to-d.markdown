@@ -1,15 +1,11 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-03-15 23:51:00+00:00
 excerpt: via utne.com Interesting idea. However, a qualitative approach like this
   one will do little to change the traditions of the church. The Catholic church moves
   at a glacial pace and will not change to meet the needs of an increasingly disenchanted
   p...
-layout: post
 slug: exit-interviews-for-catholics-the-answer-to-d
 title: Exit interviews for Catholics the answer to declining attendance?
-wordpress_id: 796
 ---
 
      

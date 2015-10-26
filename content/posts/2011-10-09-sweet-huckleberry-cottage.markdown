@@ -1,15 +1,11 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-10-09 03:48:00+00:00
 excerpt: Our vacation at Sweet Huckleberry Cottage on the Olympic Peninsula in Washington,
   BC was quite splendid. We rented a cabin on a hatchery lake with only two other
   houses on the whole lake. Colin and Sarah joined us for the weekend too. Mia enjoyed
   ...
-layout: post
 slug: sweet-huckleberry-cottage
 title: Sweet Huckleberry Cottage
-wordpress_id: 1048
 tags:
 - mia
 - summer

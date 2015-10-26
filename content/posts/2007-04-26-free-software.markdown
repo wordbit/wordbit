@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-04-26 05:36:27+00:00
-layout: post
 slug: free-software
 title: Free software
-wordpress_id: 78
 categories:
 - software
 - working

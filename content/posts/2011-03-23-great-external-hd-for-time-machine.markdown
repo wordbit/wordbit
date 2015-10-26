@@ -1,15 +1,11 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-03-23 23:36:00+00:00
 excerpt: MiniMax??? FireWire 800/USB 2.0 Desktop Hard Drives For PC and Mac --&gt;
   The Iomega ? MiniMax??? Desktop Hard Drive is stackable storage for your Apple ?
   Mac ? mini and includes 2 fast FireWire ? 800 interfaces and a USB 2.0 hub. The
   Iomega Protecti...
-layout: post
 slug: great-external-hd-for-time-machine
 title: Great external HD for Time Machine
-wordpress_id: 983
 tags:
 - computers
 - geeky

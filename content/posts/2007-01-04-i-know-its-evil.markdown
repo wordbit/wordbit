@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-01-04 19:01:22+00:00
-layout: post
 slug: i-know-its-evil
 title: I know it’s evil…
-wordpress_id: 628
 tags:
 - Games
 ---

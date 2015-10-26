@@ -1,14 +1,10 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-05-23 22:30:00+00:00
 excerpt: It's been a wonderful two weeks spending time with our new baby girl. Sadly,I'm
   back at work tomorrow. Sigh. Here are some pics of her at two weeks. She has changed
   already since her birthday.
-layout: post
 slug: baby-mia-two-weeks-old
 title: Baby Mia - Two weeks old
-wordpress_id: 1058
 tags:
 - mia
 ---

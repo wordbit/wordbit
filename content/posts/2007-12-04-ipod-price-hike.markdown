@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-12-04 21:09:39+00:00
-layout: post
 slug: ipod-price-hike
 title: iPod price hike?
-wordpress_id: 95
 categories:
 - politics
 - technology

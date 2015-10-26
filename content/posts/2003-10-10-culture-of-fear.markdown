@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-10-10 00:49:00+00:00
-layout: post
 slug: culture-of-fear
 title: Culture of fear
-wordpress_id: 507
 ---
 
 I was channel surfing the other morning during breakfast when I came across an episode of _Oprah_. She was talking about women in their late thirties and forties who were shocked to find out they couldn't have children anymore. These women focused on their career, got rich and got married and bought six bedroom houses intending to fill them with kids only to find out their biological clocks had timed out and they were infertile. A tragedy attested to by images of sobbing women proclaiming they had missed out on 'one of life's miracles'. I was swept up by the whole thing, and was sparking conversations that day with "_Hey, did you know a woman's fertility starts declining at age 27? Did you know 90% of a woman's finite egg supply are gone by the time you reach 40?"_ 

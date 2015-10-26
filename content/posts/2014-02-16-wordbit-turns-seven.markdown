@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2014-02-16 22:12:38+00:00
-layout: post
 slug: wordbit-turns-seven
 title: wordbit turns seven
-wordpress_id: 1107
 ---
 
 On February 16th, 2007, I wrote my first post for wordbit.com, entitled [What is a wordbit, anyway?](http://wordbit.freehostia.com/what-is-a-wordbit-anyway/) That was seven years ago today - happy seventh birthday, wordbit!

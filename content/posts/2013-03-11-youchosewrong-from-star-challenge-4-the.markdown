@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2013-03-11 21:39:27+00:00
-layout: post
 slug: youchosewrong-from-star-challenge-4-the
 title: No Content Found
-wordpress_id: 656
 post_format:
 - Image
 ---

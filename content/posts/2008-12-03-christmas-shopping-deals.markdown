@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-12-03 05:56:00+00:00
-layout: post
 slug: christmas-shopping-deals
 title: Christmas shopping deals
-wordpress_id: 185
 categories:
 - deals
 - resources

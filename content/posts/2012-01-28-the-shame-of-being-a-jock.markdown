@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-01-28 05:32:05+00:00
-layout: post
 slug: the-shame-of-being-a-jock
 title: The shame of being a jock
-wordpress_id: 674
 tags:
 - commentary
 - culture

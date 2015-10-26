@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-02-02 04:13:06+00:00
-layout: post
 slug: rise-of-the-book-thieves
 title: Rise of the book thieves
-wordpress_id: 670
 tags:
 - Amazon
 - Apple

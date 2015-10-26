@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-01-03 19:00:28+00:00
-layout: post
 slug: i-never-thought-it-would-happen-to-me
 title: I never thought it would happen to me
-wordpress_id: 626
 tags:
 - Anecdotes
 - technology

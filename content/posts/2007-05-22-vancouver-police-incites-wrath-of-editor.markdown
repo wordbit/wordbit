@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-05-22 06:59:05+00:00
-layout: post
 slug: vancouver-police-incites-wrath-of-editor
 title: Vancouver police incites wrath of editor
-wordpress_id: 84
 categories:
 - journalism
 - politics

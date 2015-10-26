@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2013-10-17 22:27:18+00:00
-layout: post
 slug: the-spoiler-wars
 title: The spoiler wars
-wordpress_id: 1093
 ---
 
 I am a cord cutter. And having paid my last cable bill about two years ago, I'm never going back. Instead, I've opted for high-speed internet, apple TV, and Netflix. For news and sports, I've set up an antenna for over-the-air broadcasts of local TV stations. This arrangement works for everyone in the family. But having joined the growing group of cord cutters, I've noticed that war is coming.

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2015-01-27 22:45:16+00:00
-layout: post
 slug: the-intersection-of-vr-and-ai
 title: The intersection of VR and AI
-wordpress_id: 1243
 ---
 
 The ultimate dystopian future has to be the one where the culmination of Virtual Reality (VR) and Artificial Intelligence (AI) results in our unwitting enslavement by a machine mind. Fifteen years ago, _The Matrix_ nailed it brilliantly:

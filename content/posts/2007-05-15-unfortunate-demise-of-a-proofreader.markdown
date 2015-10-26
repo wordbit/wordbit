@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-05-15 03:00:05+00:00
-layout: post
 slug: unfortunate-demise-of-a-proofreader
 title: Unfortunate demise of a proofreader
-wordpress_id: 82
 categories:
 - working
 - writing humour

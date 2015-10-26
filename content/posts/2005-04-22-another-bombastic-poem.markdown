@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2005-04-22 00:19:00+00:00
-layout: post
 slug: another-bombastic-poem
 title: Another bombastic poem...
-wordpress_id: 552
 ---
 
 And here it is...

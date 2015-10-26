@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-06-03 16:46:55+00:00
-layout: post
 slug: latest-netflix-releases-june-2
 title: Latest Netflix releases June 2
-wordpress_id: 213
 categories:
 - movies
 - Netflix

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-03-07 21:57:00+00:00
-layout: post
 slug: colour-culture-web-design
 title: Colour, culture, web design
-wordpress_id: 1125
 categories:
 - colour
 - culture

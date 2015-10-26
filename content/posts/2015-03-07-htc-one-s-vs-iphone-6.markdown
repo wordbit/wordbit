@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2015-03-07 00:07:59+00:00
-layout: post
 slug: htc-one-s-vs-iphone-6
 title: HTC One S vs iPhone 6
-wordpress_id: 1258
 ---
 
 At the end of this year, I'll finally be upgrading to a new phone. After three years with the HTC One S, I've realized that... three years is a long time. So, I'll be skipping the entry-level and mid-tier phones and just shell out for a flagship. For a device you use everyday, it's worth getting the best.

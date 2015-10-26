@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2010-04-08 18:56:01+00:00
-layout: post
 slug: why-ill-pass-on-the-ipad
 title: Why I’ll pass on the iPad
-wordpress_id: 196
 categories:
 - culture
 - technology

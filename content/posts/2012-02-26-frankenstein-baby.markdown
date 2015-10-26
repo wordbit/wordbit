@@ -1,15 +1,11 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-02-26 05:04:00+00:00
 excerpt: So it is official! We have a toddling Frankenstein on our hands! She weighs
   15 lbs and dwarfs most lap dogs and her name is Mia! But instead of menacing stares,
   she is puttering around with rabid giggles, and in times of sheer determination
   some o...
-layout: post
 slug: frankenstein-baby
 title: Frankenstein Baby
-wordpress_id: 1064
 tags:
 - mia
 ---

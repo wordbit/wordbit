@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2015-02-04 00:04:24+00:00
-layout: post
 slug: how-to-grow-up-in-6-simple-steps
 title: How to grow up in 6 simple steps
-wordpress_id: 1245
 ---
 
 I tried to think of a Buzzfeed-worthy headline and this is all I could come up with. The truth is I hate most self-improvement articles (or are they calling them "life hacks" these days?) even though I still read them. But I thought I'd write one anyway because I'm all grown up now and am supposed to have accumulated a modicum of wisdom.

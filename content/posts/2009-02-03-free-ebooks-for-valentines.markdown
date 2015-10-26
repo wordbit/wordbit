@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2009-02-03 06:23:01+00:00
-layout: post
 slug: free-ebooks-for-valentines
 title: Free eBooks for Valentines
-wordpress_id: 191
 categories:
 - inspiration
 - marketing

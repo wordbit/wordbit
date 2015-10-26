@@ -1,15 +1,11 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-03-22 18:45:00+00:00
 excerpt: We've checked out What To Expect When You're Expecting, and it's ok, albeit
   a little on the alarmist side. But it turns out, one of the most straightforward
   and well laid out books is the one published by Health Canada. Unfortunately, they
   stopped...
-layout: post
 slug: the-best-baby-book-is-also-a-free-baby-book
 title: The best baby book is also a free baby book
-wordpress_id: 795
 tags:
 - baby
 - books

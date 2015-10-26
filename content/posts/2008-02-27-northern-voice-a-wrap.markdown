@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-02-27 08:11:57+00:00
-layout: post
 slug: northern-voice-a-wrap
 title: Northern Voice a wrap
-wordpress_id: 136
 categories:
 - blogging
 - events

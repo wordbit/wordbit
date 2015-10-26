@@ -1,14 +1,10 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-05-27 00:27:13+00:00
 excerpt: I've created a new professional website to replace this aging one that doesn't
   even render properly in most resolutions. I bought the URL vancouverwriter.ca and
   put up something a little more modern. Just to be clear, I'm still happy in my present...
-layout: post
 slug: new-professional-website-2
 title: New professional website
-wordpress_id: 1050
 tags:
 - employment
 - website

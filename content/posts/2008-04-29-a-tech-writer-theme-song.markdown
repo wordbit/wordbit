@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-04-29 19:37:09+00:00
-layout: post
 slug: a-tech-writer-theme-song
 title: A tech writer theme song
-wordpress_id: 157
 categories:
 - technical writing
 - writing humour

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-10-19 18:47:00+00:00
-layout: post
 slug: friends-romans-countrymen-lend-me-your-ears
 title: Friends, Romans, countrymen, lend me your ears....
-wordpress_id: 509
 ---
 
 I'm feeling rather ill right now with some sort of pre-winter bug, so bear with me if this entry seems disjointed, I beg you.

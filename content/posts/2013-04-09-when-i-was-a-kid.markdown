@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2013-04-09 00:10:01+00:00
-layout: post
 slug: when-i-was-a-kid
 title: When I was a kid...
-wordpress_id: 1087
 ---
 
 This has been going around the internet. I have no idea who the source is, although they could ease up on the exclamation marks. It's all spot on though - especially the part about playing _Asteroids_ and _Space Invaders_. After the Atari 2600 came our first PC, running at 1 MHz and sporting a two-colour CGA monitor (orange and black). My brother and I begged and begged my Dad for a colour monitor and when that day finally came it blew our minds. So yeah, kids are definitely spoiled these days...

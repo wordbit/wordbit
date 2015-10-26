@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-03-08 06:48:16+00:00
-layout: post
 slug: over-120000-free-technical-writing-articles
 title: Over 120000 free technical writing articles
-wordpress_id: 65
 categories:
 - resources
 - technical writing

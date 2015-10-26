@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-12-09 01:05:16+00:00
-layout: post
 slug: win-an-ipad-3thousand
 title: Win an iPad 3…thousand!
-wordpress_id: 231
 categories:
 - humour
 ---

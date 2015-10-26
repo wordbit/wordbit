@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-10-26 01:02:54+00:00
-layout: post
 slug: telemarketers-bane
 title: Telemarketer's bane
-wordpress_id: 177
 categories:
 - marketing
 - politics

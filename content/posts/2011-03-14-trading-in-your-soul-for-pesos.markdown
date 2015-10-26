@@ -1,15 +1,11 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-03-14 18:03:25+00:00
 excerpt: Yesterday, my wife went to church and was helping out on coffee duty. She
   had left her purse unattended for a few minutes and some low-life cowardly thief
   took off with it. She lost her wallet with credit cards, bank cards, driver's licence,
   car k...
-layout: post
 slug: trading-in-your-soul-for-pesos
 title: Trading in your soul for pesos
-wordpress_id: 38
 tags:
 - vent
 ---

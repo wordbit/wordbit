@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-02-11 04:34:05+00:00
-layout: post
 slug: a-free-ride-to-us-content-sorry-no
 title: A free ride to US content? Sorry, no.
-wordpress_id: 662
 tags:
 - copyright
 - netflix

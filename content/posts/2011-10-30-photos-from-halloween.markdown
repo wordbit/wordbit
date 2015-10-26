@@ -1,14 +1,10 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-10-30 23:55:00+00:00
 excerpt: For the fall, a visit to the pumpkin patch was in order where Mia picked
   out her first pumpkin. For Halloween, Mia was a both a cute bug and a flower child
   of hippie parents.
-layout: post
 slug: photos-from-halloween
 title: Halloween
-wordpress_id: 1061
 tags:
 - halloween
 - mia

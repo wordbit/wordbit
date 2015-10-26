@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-06-15 14:30:00+00:00
-layout: post
 slug: unsophisticated-bottle-of-fog-dust
 title: unsophisticated bottle of fog-dust
-wordpress_id: 467
 ---
 
 I know the title doesn't make much sense, but I saw it painted on a garage door somewhere in Point Grey, and thought it was kind of cool. I've just received an e-mail from Dean, the anthropologist I met at Mount Namsan - he's back in Melbourne! I guess all his plans to wander through India like a traveling ascetic was just all talk.

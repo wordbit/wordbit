@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-11-29 23:13:52+00:00
-layout: post
 slug: no-rest-for-the-deadbattery
 title: No rest for the dead…battery
-wordpress_id: 229
 categories:
 - article
 - freelancing

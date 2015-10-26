@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-02-19 01:21:08+00:00
-layout: post
 slug: the-agony
 title: the agony
-wordpress_id: 711
 tags:
 - poetry
 ---

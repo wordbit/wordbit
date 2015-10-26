@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-06-25 23:02:45+00:00
-layout: post
 slug: google-google-everywhere
 title: Google google everywhere
-wordpress_id: 1207
 ---
 
 Today's Google I/O conference keynote felt messy. Google everywhere - on your phone, on your computer, on your TV, in your car, on your body, at your work, even in developing countries teeming with future customers frothing at the bit to get a smartphone. Google wants to aggressively expand and rapid expansion always brings messiness. The keynote definitely reflected this: there were protesters heckling the presenters. Demo fails. Kinetic art. It was a carnival.

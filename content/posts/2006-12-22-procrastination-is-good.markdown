@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-12-22 18:54:57+00:00
-layout: post
 slug: procrastination-is-good
 title: Procrastination is good
-wordpress_id: 619
 tags:
 - pictures
 ---

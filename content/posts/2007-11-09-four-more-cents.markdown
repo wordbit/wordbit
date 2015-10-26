@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-11-09 20:32:13+00:00
-layout: post
 slug: four-more-cents
 title: Four more cents
-wordpress_id: 91
 categories:
 - politics
 - writing

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-11-24 02:19:00+00:00
-layout: post
 slug: stanley-milgrams-unethical-experiments-on-human-torture
 title: Stanley Milgram's unethical experiments on human torture
-wordpress_id: 567
 ---
 
 We watched this video in our research course today. I managed to track down the original 1962 video and am posting it here because it is absolutely fascinating. Ever wonder wonder how much pain somebody will afflict on another merely because they were told to do so by an authority figure? Stanley Milgram, observed the Nuremberg Trials and wondered the same thing. How could so many Nazis, seemingly decent, ordinary people, justify the slaughter of others. They said that they were "just following orders". Stanley Milgram conducted the following experiment in the United States, confident that the results would show that Americans were vastly more humane than Europeans. 

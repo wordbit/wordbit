@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-01-04 02:38:27+00:00
-layout: post
 slug: wordbits-spiffy-new-logo
 title: Wordbit's spiffy new logo
-wordpress_id: 117
 categories:
 - site Announcements
 ---

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-06-10 16:43:33+00:00
-layout: post
 slug: netflix-new-releases-for-june-10
 title: Netflix new releases for June 10
-wordpress_id: 218
 categories:
 - movies
 - Netflix

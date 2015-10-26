@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2013-03-07 23:38:44+00:00
-layout: post
 slug: tearing-down-the-house
 title: Tearing down the house
-wordpress_id: 1081
 ---
 
 You have to destroy to re-build. So, once again, wordbit.com gets a makeover.

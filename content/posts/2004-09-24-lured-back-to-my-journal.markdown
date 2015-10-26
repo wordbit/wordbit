@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2004-09-24 12:41:00+00:00
-layout: post
 slug: lured-back-to-my-journal
 title: Lured back to my journal
-wordpress_id: 544
 ---
 
 Yes, I've been momentarily enticed back to my journal... I finished my course a few weeks ago and graduated with flying colours, if you'll excuse the expression. My instructor even pulled me aside and offered me his job, as he was being promoted to a university prep. course. Unfortunately, my instructor is full of extremely hot air and the reality of the situation is that the owner of the school is a bit of a... Well, it's not my place to say anything. I read in the newspaper the other day that some guy working at Starbucks got fired for saying that his boss (who's name had been changed for his protection) was a bit of a wanker or something to that effect. I would never say anything so derogatory about potential employers, no sir, not me, mmm mmm...especially anything relating to their masturbatory habits, that would be totally uncalled for, oh yes, how shocking...mmm.mmm.mmm... Anyway, the bottom line is that, although the prestige of being a TESL instructor is not to be sneered at, it would be somewhat overwhelming given my limited experience. Not to mention that solid lecturing from 9:30-5:30 is very very intensive. 

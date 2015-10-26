@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-11-19 00:16:43+00:00
-layout: post
 slug: the-politics-of-tetris
 title: The politics of Tetris
-wordpress_id: 592
 tags:
 - Politics
 - video

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-10-06 07:00:00+00:00
-layout: post
 slug: remembering-the-man-who-changed-everything-2
 title: Remembering the man who changed everything
-wordpress_id: 698
 tags:
 - Apple
 - RIP

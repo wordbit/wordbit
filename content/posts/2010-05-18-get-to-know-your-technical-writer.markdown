@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2010-05-18 02:21:11+00:00
-layout: post
 slug: get-to-know-your-technical-writer
 title: Get to know your technical writer
-wordpress_id: 197
 categories:
 - documentation
 - technical writing

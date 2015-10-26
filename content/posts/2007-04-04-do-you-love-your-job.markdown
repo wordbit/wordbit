@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-04-04 23:07:43+00:00
-layout: post
 slug: do-you-love-your-job
 title: Do you love your job?
-wordpress_id: 77
 categories:
 - productivity
 - working

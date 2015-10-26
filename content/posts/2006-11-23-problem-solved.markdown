@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-11-23 00:22:59+00:00
-layout: post
 slug: problem-solved
 title: problem solved
-wordpress_id: 598
 tags:
 - Site Meta
 ---

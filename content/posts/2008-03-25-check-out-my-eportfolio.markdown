@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-03-25 03:22:47+00:00
-layout: post
 slug: check-out-my-eportfolio
 title: Check out my ePortfolio
-wordpress_id: 142
 categories:
 - employment
 - site Announcements

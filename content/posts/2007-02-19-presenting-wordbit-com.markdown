@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-02-19 19:07:16+00:00
-layout: post
 slug: presenting-wordbit-com
 title: Presenting wordbit.com
-wordpress_id: 638
 tags:
 - Site Meta
 - writing

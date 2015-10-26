@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2004-07-26 21:31:00+00:00
-layout: post
 slug: dont-speak-korean-thwock
 title: '"Don''t speak Korean! Thwock!"'
-wordpress_id: 542
 ---
 
 I had an observation today at an elementary school. The teacher had a class full of precocious little Korean boys who wouldn't stop babbling away in their mother tongue. I must say I was quite impressed with the teacher, who refrained from rapping on any of the boys heads with his blackboard marker. Thwock! Something I was guilty of doing when I was in a similar situation day in and day out not too long ago. I am actually about halfway through my course already. Despite feeling a little overwhelmed with the workload, I've been learning lots of interesting things and delving a little into pedagogical theory, something I realize now that I sorely lacked when teaching before. I've also met lots of great people...indeed I live with half the world, from Mexico to Japan. I'm learning new levels of patience as I adjust to the noise of living with fifteen people. 

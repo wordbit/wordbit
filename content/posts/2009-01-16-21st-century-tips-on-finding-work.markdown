@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2009-01-16 05:38:43+00:00
-layout: post
 slug: 21st-century-tips-on-finding-work
 title: 21st century tips on finding work
-wordpress_id: 190
 categories:
 - employment
 - freelancing

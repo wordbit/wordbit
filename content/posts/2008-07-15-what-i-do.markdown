@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-07-15 04:23:05+00:00
-layout: post
 slug: what-i-do
 title: What I do
-wordpress_id: 171
 categories:
 - documentation
 - employment

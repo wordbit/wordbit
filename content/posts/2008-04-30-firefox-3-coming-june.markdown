@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-04-30 19:14:58+00:00
-layout: post
 slug: firefox-3-coming-june
 title: Firefox 3 coming June
-wordpress_id: 158
 categories:
 - software
 - the internet

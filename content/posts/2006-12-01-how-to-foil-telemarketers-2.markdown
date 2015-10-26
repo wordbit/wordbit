@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-12-01 18:44:37+00:00
-layout: post
 slug: how-to-foil-telemarketers-2
 title: How to foil telemarketers…
-wordpress_id: 609
 tags:
 - technology
 ---

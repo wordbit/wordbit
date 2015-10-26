@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-07-12 16:56:00+00:00
-layout: post
 slug: perhaps-even-these-things-one-day-will-be-pleasing-to-remember-virgil
 title: '"Perhaps even these things, one day, will be pleasing to remember..." (Virgil)'
-wordpress_id: 474
 ---
 
 This week doesn't seem to have made much of an impression on me, so I suppose it was a fairly benevolent one, if you can characterize the passing of time as benevolent, that is. Yet I may also suppose that one's daily trivia adds up to a life, and this is my life, as banal as it may be. So, let's see what happened...

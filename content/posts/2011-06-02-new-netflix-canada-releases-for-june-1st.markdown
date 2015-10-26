@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-06-02 18:21:21+00:00
-layout: post
 slug: new-netflix-canada-releases-for-june-1st
 title: New Netflix Canada releases for June 1st
-wordpress_id: 212
 categories:
 - movies
 - Netflix

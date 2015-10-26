@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-08-16 19:24:00+00:00
-layout: post
 slug: sunsangnim-is-now-officially-on-line
 title: Sunsangnim is now officially on-line!
-wordpress_id: 485
 ---
 
 The sunset is really amazing right now and a cricket has just landed on my window-screen and is blasting his siren-like music into my apartment. I've just gotten cable-internet hooked up in my apartment and I must say it's very very sweet! I guess I now have no excuses to update my journal more often, although that means the entries will be getting progressively more stilted as I reach for something interesting to say. I have a feeling 120 gigs won't last long once I'm in downloading heaven. 

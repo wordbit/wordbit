@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-06-01 17:38:00+00:00
-layout: post
 slug: so-it-begins
 title: So, it begins...
-wordpress_id: 464
 ---
 
 Although I have no illusions about this journal being widely read by anyone, it's purpose is to supplant lengthy expository e-mails while I'm in South Korea. What you'll find here will be factual accounts of my days, or at best incoherent ramblings representing the remnants of some vague, out-of-context thought that may have splurged accidently onto the screen. I make no promises as to consistency or regularity or for that matter rigorous censorship. This journal is a companion to my [website](http://www.geocities.com/antoinehenrigiraud/). Check it out for some scanned photographs of SK.

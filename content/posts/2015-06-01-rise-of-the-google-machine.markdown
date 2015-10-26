@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2015-06-01 23:38:09+00:00
-layout: post
 slug: rise-of-the-google-machine
 title: Rise of the google machine
-wordpress_id: 1277
 ---
 
 At Google I/O last week, developments in Android M (Milkshake? Macaroon?), Android Pay, Android Wear, Internet of Things, and VR all made an appearance.

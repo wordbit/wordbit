@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-10-30 23:59:38+00:00
-layout: post
 slug: halloween
 title: Halloween
-wordpress_id: 579
 tags:
 - Videos
 ---

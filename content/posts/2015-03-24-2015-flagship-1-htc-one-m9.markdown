@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2015-03-24 17:53:34+00:00
-layout: post
 slug: 2015-flagship-1-htc-one-m9
 title: '2015 Flagship 1: HTC One M9'
-wordpress_id: 1263
 ---
 
 ![htc_one_m9](https://wordbitarchives.files.wordpress.com/2015/03/htc_one_m9.jpg)

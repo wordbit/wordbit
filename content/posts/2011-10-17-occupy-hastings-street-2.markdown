@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-10-17 07:00:00+00:00
-layout: post
 slug: occupy-hastings-street-2
 title: Occupy Hastings Street
-wordpress_id: 699
 tags:
 - humour
 - occupy movement

@@ -1,14 +1,10 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-03-26 23:28:00+00:00
 excerpt: Here are the latest ultrasounds. As usual they don't reveal much, besides
   from evoke an irrational fear that baby might not be very cute. But apparently babies
   look better with skin covering their bones, so there is hope yet.
-layout: post
 slug: latest-ultrasounds
 title: Latest ultrasounds
-wordpress_id: 44
 tags:
 - baby
 - mia

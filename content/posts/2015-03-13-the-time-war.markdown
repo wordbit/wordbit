@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2015-03-13 18:13:46+00:00
-layout: post
 slug: the-time-war
 title: The time war
-wordpress_id: 1261
 ---
 
 Everybody wants your attention. There's an invisible war raging out there and it's all about where you are focusing your engagement. The victor of this war gets the spoils - your precious time.

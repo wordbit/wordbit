@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-06-30 21:59:00+00:00
-layout: post
 slug: do-or-do-not-there-is-no-try-yoda
 title: '"Do, or do not. There is no ''try''." - Yoda'
-wordpress_id: 471
 ---
 
 Last week was pretty tough going, in addition to inane phone teaching there was a field trip and a story contest. The field trip was an outing to the movies where we watched 'Finding Nemo' (dubbed into Korean of course). Aaah Disney, what more can I say. The cinema was at the top of a giant mall. We actually managed to squeeze all thirty or so kids into one elevator, much to the indignation of several elderly shoppers who braced themselves against the elevator walls in terror. But how could you not love all those little happy faces staring up at you? 

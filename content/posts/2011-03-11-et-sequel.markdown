@@ -1,12 +1,8 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-03-11 04:00:02+00:00
 excerpt: This is pretty funny. E.T. returns...
-layout: post
 slug: et-sequel
 title: E.T. Sequel
-wordpress_id: 781
 tags:
 - humour
 - video

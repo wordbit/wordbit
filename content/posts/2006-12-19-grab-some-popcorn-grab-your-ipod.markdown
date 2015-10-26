@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-12-19 18:49:42+00:00
-layout: post
 slug: grab-some-popcorn-grab-your-ipod
 title: Grab some popcorn, grab your iPod
-wordpress_id: 617
 tags:
 - Podcasts
 - Videos

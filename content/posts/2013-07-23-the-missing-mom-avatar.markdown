@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2013-07-23 21:52:57+00:00
-layout: post
 slug: the-missing-mom-avatar
 title: The missing mom avatar
-wordpress_id: 1091
 ---
 
 Why aren't there more mom avatars in video gaming? I'm just throwing that out there. I haven't done much research on this topic, but I can speculate. As the protagonist in the game's narrative, the avatar has become more complex and interesting these days, which is great. And it seems that there are more options for female gamers, as far as customization goes. I'm thinking of the FemShep in the _Mass Effect_ trilogy, and so on. There's still plenty of objectification (maybe more-so in sub-cultures like the Japanese game industry), but overall strong female characters are out there (looking at you Lara Craft).

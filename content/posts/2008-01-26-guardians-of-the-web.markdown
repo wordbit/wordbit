@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-01-26 03:55:00+00:00
-layout: post
 slug: guardians-of-the-web
 title: Guardians of the web
-wordpress_id: 1127
 ---
 
 [![](http://wordbitarchives.files.wordpress.com/2008/01/img_w3c_13.gif?w=300)](http://wordbitarchives.files.wordpress.com/2008/01/img_w3c_13.gif)  

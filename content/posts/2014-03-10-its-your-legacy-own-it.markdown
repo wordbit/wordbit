@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2014-03-10 23:10:43+00:00
-layout: post
 slug: its-your-legacy-own-it
 title: It's your legacy - own it
-wordpress_id: 1108
 ---
 
 If you were offered a writing job where you would get paid $5 to write an article - would you take it? How about $2? How about 99 cents? How about free? If your outrage increased with each subsequent low-ball offer, then at least you have your priorities straight. But maybe you paused at free. After all, many of us write for enjoyment, or validation, or exposure, or whatever without being paid a cent. But here's an ugly fact - when you put your writing on the Internet, somebody is making money off your writing - and it's not you.

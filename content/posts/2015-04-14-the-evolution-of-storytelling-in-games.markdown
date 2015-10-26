@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2015-04-14 00:13:20+00:00
-layout: post
 slug: the-evolution-of-storytelling-in-games
 title: The evolution of storytelling in games
-wordpress_id: 1269
 ---
 
 Tens of thousands of years ago, humans would gather around the fire at night and share stories. We craved narratives to explain our world. And in the crackling fires of the darkest nights, myth and legend was born. As the oral tradition was displaced by the written word, our appetite for storytelling only increased. For thousands of years, from the Bible to Shakespeare - we've clung especially tight to those narratives that define the very essence of humanity, through courage, conflict, betrayal, and love.

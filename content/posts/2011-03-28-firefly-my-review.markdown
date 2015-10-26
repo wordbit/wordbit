@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-03-28 20:57:54+00:00
-layout: post
 slug: firefly-my-review
 title: 'Firefly: My review'
-wordpress_id: 202
 categories:
 - geeky
 - Netflix

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-02-09 06:12:05+00:00
-layout: post
 slug: how-to-write-well
 title: How to write well
-wordpress_id: 663
 tags:
 - advice
 - literature

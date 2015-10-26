@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-07-24 00:28:19+00:00
-layout: post
 slug: the-black-hat-writer
 title: The black-hat writer
-wordpress_id: 1211
 ---
 
 _At the height of the long wet summer of the Seventy-Seventh Year of Sendovani, the Thiefmaker of Camorr paid a sudden and unannounced visit to the Eyeless Priest at the Temple of Perelandro, desperately hoping to sell him the Lamora boy._

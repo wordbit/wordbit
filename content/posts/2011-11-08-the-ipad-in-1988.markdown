@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-11-08 20:21:22+00:00
-layout: post
 slug: the-ipad-in-1988
 title: The iPad in 1988
-wordpress_id: 226
 categories:
 - technology
 tags:

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-05-22 06:21:16+00:00
-layout: post
 slug: writers-challenge-answer-revealed
 title: Writer's Challenge answer revealed
-wordpress_id: 83
 categories:
 - the writing challenge
 ---

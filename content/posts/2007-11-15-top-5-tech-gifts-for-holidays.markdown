@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-11-15 06:38:13+00:00
-layout: post
 slug: top-5-tech-gifts-for-holidays
 title: Top 5 tech gifts for holidays
-wordpress_id: 92
 categories:
 - technology
 ---

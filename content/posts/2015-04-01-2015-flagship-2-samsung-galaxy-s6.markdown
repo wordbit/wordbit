@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2015-04-01 17:52:36+00:00
-layout: post
 slug: 2015-flagship-2-samsung-galaxy-s6
 title: '2015 Flagship 2: Samsung Galaxy S6'
-wordpress_id: 1266
 ---
 
 ![samsung_galaxy_s6](https://wordbitarchives.files.wordpress.com/2015/04/samsung_galaxy_s6.png)

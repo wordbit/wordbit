@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-12-21 00:38:00+00:00
-layout: post
 slug: its-a-wonderful-life
 title: It's a wonderful life
-wordpress_id: 523
 ---
 
 [I've updated my website! Click here to check out my latest photographs!  A little composition I've entitled "surreal"](http://www.geocities.com/antoinehenrigiraud/photo8.html)

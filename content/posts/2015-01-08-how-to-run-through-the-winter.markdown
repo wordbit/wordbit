@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2015-01-08 01:10:13+00:00
-layout: post
 slug: how-to-run-through-the-winter
 title: How to run through the winter
-wordpress_id: 1241
 ---
 
 Ah, January. A new year always brings on a fresh batch of fresh-faced fools who hit the road hard until fading back into obscurity by February. Don't judge me as a snob - I don't find pleasure in bragging about every run I take by posting a map of my running route on Facebook (yes, people actually do this).

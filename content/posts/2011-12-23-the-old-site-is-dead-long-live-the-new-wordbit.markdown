@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-12-23 18:13:00+00:00
-layout: post
 slug: the-old-site-is-dead-long-live-the-new-wordbit
 title: The old site is dead. Long live the new wordbit!
-wordpress_id: 694
 tags:
 - site update
 - wordbit

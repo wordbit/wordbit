@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2004-05-27 13:50:00+00:00
-layout: post
 slug: the-dreamer-awakens
 title: The dreamer awakens
-wordpress_id: 538
 ---
 
 Back from my whirlwind vacation to Central America and _ay carumba_ was it action packed! A lot happened and I couldn't be bothered to write it all up, but I did keep a "laundry-list" factual account of the things we did, if you're interested you can read more about it below. 

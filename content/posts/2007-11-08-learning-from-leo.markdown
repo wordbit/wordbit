@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-11-08 07:14:29+00:00
-layout: post
 slug: learning-from-leo
 title: Learning from Leo
-wordpress_id: 89
 categories:
 - inspiration
 - productivity

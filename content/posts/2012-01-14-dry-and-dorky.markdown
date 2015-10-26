@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-01-14 05:17:06+00:00
-layout: post
 slug: dry-and-dorky
 title: Dry and dorky
-wordpress_id: 1072
 tags:
 - design
 - humour

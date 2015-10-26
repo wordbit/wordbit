@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2014-02-12 22:23:47+00:00
-layout: post
 slug: keep-it-coming-google
 title: Keep it coming, Google
-wordpress_id: 1106
 ---
 
 With my HTC One S being frozen at Android 4.1.1, I wasn't expecting any more bug fixes. But Google is doing a great job of circumventing firmware upgrades by quietly updating their apps, which seem to handle a lot of the core services. For example, [I'd given up on using Google Now in my car](http://wordbit.com/thoughts-on-google-io-2013/) because using a bluetooth speaker with my One S just defaults to the horrid Cyberon Voice Commander app which seems to come pre-installed on most HTC phones.

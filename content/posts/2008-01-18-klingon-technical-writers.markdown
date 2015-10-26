@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-01-18 06:02:41+00:00
-layout: post
 slug: klingon-technical-writers
 title: Klingon technical writers
-wordpress_id: 123
 categories:
 - technical writing
 - writing humour

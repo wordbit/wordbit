@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-07-04 02:53:52+00:00
-layout: post
 slug: latest-developments
 title: Latest developments
-wordpress_id: 86
 categories:
 - podcast
 - site Announcements

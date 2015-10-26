@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-12-24 08:03:23+00:00
-layout: post
 slug: vista-1-disappointment-of-2007
 title: 'Vista #1 disappointment of 2007'
-wordpress_id: 96
 categories:
 - software
 - technology

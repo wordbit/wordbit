@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-11-19 23:37:35+00:00
-layout: post
 slug: why-phablets-dont-make-sense
 title: Why phablets don't make sense
-wordpress_id: 1233
 ---
 
 Here we are, at the end of 2014, and it is not a good time to buy a new phone. Flagship phones have steadily ballooned in size to the point where they've morphed into phablets, effectively killing the small tablet market. This year's Nexus has a gigantic 6-inch screen. Google discontinued their 7-inch tablets to make room in the market for this beast. Apple hedged their bets by launching both a 4.7-inch iPhone and a 5.5-inch iPhone Plus. Similar to Google, Apple didn't even grace their iPad Mini with a proper update this year.

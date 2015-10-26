@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-08-29 20:39:00+00:00
-layout: post
 slug: words-from-the-waking-world
 title: Words from the waking world...
-wordpress_id: 489
 ---
 
 I'm perpetually tired these days so it's become the status quo. Sometimes I'll wake up after a long sleep and feel strangely alive, realizing with a surprised recollection that this is what it feels like to be fully awake. It's odd how one learns to adapt to altered physiological states. I have this long running argument with a friend who says that humans don't need to sleep at all, we've only been socialized to. I'm sure this is bollocks but perhaps there is a grain of truth in that idea somewhere.

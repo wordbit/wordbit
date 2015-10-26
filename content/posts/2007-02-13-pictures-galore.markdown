@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-02-13 19:06:12+00:00
-layout: post
 slug: pictures-galore
 title: Pictures galore
-wordpress_id: 636
 tags:
 - pictures
 - Site Meta

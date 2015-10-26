@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-01-22 01:19:47+00:00
-layout: post
 slug: macbook-air-saves-the-day
 title: MacBook Air could save your day
-wordpress_id: 126
 categories:
 - technology
 - writing humour

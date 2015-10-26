@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-03-11 08:41:49+00:00
-layout: post
 slug: its-your-english-fight-for-it
 title: It's your English - fight for it!
-wordpress_id: 68
 categories:
 - documentation
 - technical writing

@@ -1,13 +1,9 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-05-10 01:38:00+00:00
 excerpt: Our beautiful baby girl, Mia, was born May 7 at 2:35pm. She weighs 6 pounds
   11. She is an adorable little peanut, even though she kept us up all night.
-layout: post
 slug: baby-mia-arrival
 title: Baby Mia arrival
-wordpress_id: 1066
 tags:
 - mia
 ---

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-10-11 20:45:49+00:00
-layout: post
 slug: seadragon-changes-the-way-we-manipulate-images
 title: Seadragon changes the way we manipulate images
-wordpress_id: 88
 categories:
 - technology
 ---

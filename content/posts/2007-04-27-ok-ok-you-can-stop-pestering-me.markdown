@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-04-27 06:16:55+00:00
-layout: post
 slug: ok-ok-you-can-stop-pestering-me
 title: ok, ok, you can stop pestering me...
-wordpress_id: 79
 categories:
 - the writing challenge
 ---

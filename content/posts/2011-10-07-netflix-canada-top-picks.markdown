@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-10-07 19:26:13+00:00
-layout: post
 slug: netflix-canada-top-picks
 title: Netflix Canada top picks
-wordpress_id: 224
 categories:
 - movies
 - Netflix

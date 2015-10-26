@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-01-10 23:03:03+00:00
-layout: post
 slug: skid-marks-on-your-soul
 title: Skid marks on your soul
-wordpress_id: 118
 categories:
 - culture
 - marketing

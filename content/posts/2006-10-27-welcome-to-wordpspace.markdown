@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-10-27 23:55:09+00:00
-layout: post
 slug: welcome-to-wordpspace
 title: Welcome to Wordpspace
-wordpress_id: 577
 tags:
 - Site Meta
 ---

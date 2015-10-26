@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-11-17 20:14:00+00:00
-layout: post
 slug: quote-of-the-day
 title: Quote of the day
-wordpress_id: 514
 ---
 
 "Whenever I watch TV and I see those poor starving kids all over the world, I can't help but cry. I mean I would love to be skinny like that, but not with all those flies and death and stuff." 

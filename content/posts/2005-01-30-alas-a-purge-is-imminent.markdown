@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2005-01-30 15:59:00+00:00
-layout: post
 slug: alas-a-purge-is-imminent
 title: Alas! A purge is imminent!
-wordpress_id: 549
 ---
 
 Occasional journal writer that I am, it never fails to amaze me how insipid this whole thing is, or why I even bother at all. Yet, the idea of disbanding seems fatalistic somehow, like you're leaving your public persona in the lurch or something. Anyhow, while I can hardly call this immersing oneself in the creative process, it is at least some form of writing...these days a sporadic poem hastily scribbled at the back of my notebook is about the extent of my creative endeavours. 

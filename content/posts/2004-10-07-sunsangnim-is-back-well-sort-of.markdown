@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2004-10-07 15:49:00+00:00
-layout: post
 slug: sunsangnim-is-back-well-sort-of
 title: Sunsangnim is back, well, sort of...
-wordpress_id: 545
 ---
 
 For the past two weeks I've been teaching a class for two hours every morning at a school up the street. It was convenient and I needed the money. Full-time job prospects are not looking great right now, but I do have my name on a subbing list at a fairly good school in downtown Vancouver. "But out here, in the perimeter, out here we are stoned immaculate...doo dee doo dee doo..." That's such a great Doors song. The perimeter I'm referring to is Canadian suburbia. The school I teach at in the mornings is located in a mall (along with just about every other business in the suburbs) and is rather ill-equipped. I have a strong dislike for malls. The washrooms are located behind the scenes down some long labyrinthine corridors and one morning last week one of the maintenance staff locked me in. I had to bang on the door for a while until somebody let me out. 

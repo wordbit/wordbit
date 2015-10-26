@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2015-02-14 00:49:35+00:00
-layout: post
 slug: driverless-cars-in-sci-fi-movies
 title: Driverless cars in Sci-Fi movies
-wordpress_id: 1247
 ---
 
 Cars are so integral to American culture, that it's no surprise they often appear in Hollywood movies about the future. But with self-driving cars rapidly gaining traction (sorry) in the public imagination, we are getting a better idea of what a realistic future of autonomous vehicles may look like. So, the question is, which science fiction movies got it right, and who got it wrong?

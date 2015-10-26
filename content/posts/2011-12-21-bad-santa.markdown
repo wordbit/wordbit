@@ -1,13 +1,9 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-12-21 04:41:00+00:00
 excerpt: Mia's first picture with Santa and the guy looks like a deer in the headlights.
   At least Mia looks cute though.
-layout: post
 slug: bad-santa
 title: Bad Santa
-wordpress_id: 1068
 tags:
 - christmas
 - mia

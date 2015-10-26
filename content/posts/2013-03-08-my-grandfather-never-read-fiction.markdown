@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2013-03-08 23:49:36+00:00
-layout: post
 slug: my-grandfather-never-read-fiction
 title: My grandfather never read fiction
-wordpress_id: 1082
 ---
 
 I'm currently reading the excellent book _Speaker for the Dead_ by Orson Scott Card. In case you haven't read it, the speaker investigates a deceased person's life and then delivers a true account of the person - a sort of honest eulogy if you will - where the truth is told in place of polite praise, even if it hurts.

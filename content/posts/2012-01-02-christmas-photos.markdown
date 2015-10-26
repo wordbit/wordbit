@@ -1,14 +1,10 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-01-02 00:47:00+00:00
 excerpt: Here are some pictures from the Christmas season. Included are Mia opening
   her presents, visits to family, and our trip to Stanley Park???s Bright Nights.
   Enjoy!
-layout: post
 slug: christmas-photos
 title: Christmas photos
-wordpress_id: 41
 tags:
 - christmas
 - mia

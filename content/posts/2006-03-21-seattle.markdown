@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-03-21 14:57:00+00:00
-layout: post
 slug: seattle
 title: Seattle
-wordpress_id: 560
 ---
 
 Here is a link to some [pictures](http://community.webshots.com/album/548795372pyXQFB/0) I took while in Seattle recently, enjoy.

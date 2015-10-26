@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-11-07 05:11:35+00:00
-layout: post
 slug: surfs-up-and-so-is-your-heart-rate
 title: Surf's up - and so is your heart rate
-wordpress_id: 182
 categories:
 - article
 - reading

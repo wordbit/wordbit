@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-12-19 04:47:57+00:00
-layout: post
 slug: cheap-winter-thrills
 title: Cheap winter thrills
-wordpress_id: 186
 categories:
 - article
 - writing

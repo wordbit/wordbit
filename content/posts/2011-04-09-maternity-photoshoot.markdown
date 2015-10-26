@@ -1,15 +1,11 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-04-09 22:49:00+00:00
 excerpt: Here are the photos from our Maternity photoshoot. The photographer's name
   is Natalia Ignatova and she was terrific. I have a feeling we won't be able to afford
   her in a few years. I know most guys go misty-eyed at the prospect of taking their
   shi...
-layout: post
 slug: maternity-photoshoot
 title: Maternity Photoshoot
-wordpress_id: 995
 tags:
 - baby
 - mia

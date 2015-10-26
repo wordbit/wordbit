@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-11-19 05:01:16+00:00
-layout: post
 slug: delete-your-itunes
 title: Delete your iTunes
-wordpress_id: 184
 categories:
 - music
 - software

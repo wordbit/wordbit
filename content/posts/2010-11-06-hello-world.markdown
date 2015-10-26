@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2010-11-06 00:07:51+00:00
-layout: post
 slug: hello-world
 title: What I ate for breakfast and other oddities
-wordpress_id: 1118
 categories:
 - Just another opinion
 ---

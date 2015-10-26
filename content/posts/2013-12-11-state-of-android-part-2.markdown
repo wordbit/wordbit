@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2013-12-11 19:43:42+00:00
-layout: post
 slug: state-of-android-part-2
 title: 'State of Android: Part 2'
-wordpress_id: 1100
 ---
 
 Kit Kat has been out for a while now and [I wrote about it](http://wordbit.com/state-of-android/) on launch day, but I'd like to talk more about Android phone hardware.

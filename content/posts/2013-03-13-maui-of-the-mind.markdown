@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2013-03-13 00:42:20+00:00
-layout: post
 slug: maui-of-the-mind
 title: Maui of the mind
-wordpress_id: 1084
 ---
 
 I recently read a newsletter from a writer who flew off to this tropical paradise to relax and soak up some sun. She claimed that this getaway really helped her writing - whenever it rains (and in Vancouver, it does - a lot), she closes her eyes and remembers the warmth of the sun on her face. Energized, she then writes with new vigour.

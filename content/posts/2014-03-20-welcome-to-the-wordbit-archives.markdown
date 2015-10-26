@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-03-20 23:36:56+00:00
-layout: post
 slug: welcome-to-the-wordbit-archives
 title: Welcome to the wordbit archives
-wordpress_id: 1115
 ---
 
 This blog serves as an archive for my blogging activity over the years, stretching back to 2003. This blog is not regularly updated, but rather serves as a collection of posts merged from the following sources:

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-04-14 00:31:35+00:00
-layout: post
 slug: new-published-articles
 title: New published articles
-wordpress_id: 209
 categories:
 - article
 - freelancing

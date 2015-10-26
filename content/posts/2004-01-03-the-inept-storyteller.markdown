@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2004-01-03 01:34:00+00:00
-layout: post
 slug: the-inept-storyteller
 title: The inept storyteller
-wordpress_id: 525
 ---
 
 One always dies too soon - or too late. And yet one's whole life is complete at that moment, with a line drawn neatly under it, ready for the summing up. You are - your life and nothing else.

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-10-29 05:54:32+00:00
-layout: post
 slug: eleven-ways-to-sell-technical-writing
 title: Eleven ways to sell technical writing
-wordpress_id: 179
 categories:
 - documentation
 - marketing

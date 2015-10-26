@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2005-04-27 00:25:00+00:00
-layout: post
 slug: greetings-netizens
 title: Greetings Netizens
-wordpress_id: 553
 ---
 
 Well, my parents made it back safely from South Africa and they seem to have had a good time, they came back plumper and in good spirits. This week-end Angela and I are going up to Whistler for our one year anniversary. It should be awesome. Anyways, here is the weekly poem, as promised. You didn't think I was going to talk about me did you? No, never!

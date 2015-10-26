@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2013-11-30 01:26:11+00:00
-layout: post
 slug: beyond-star-trek
 title: Beyond Star Trek
-wordpress_id: 1097
 ---
 
 When he introduced the iPad Air in October, Tim Cook said this was "going to be an iPad Christmas," and he was right. At least for me anyway. I mentioned recently that I was thinking of entering the tablet market. All the major players have laid down their cards for 2013 - ranging from Microsoft's Surface 2 to Lenovo's Yoga Tablet. But then the reviews rolled in. And nobody could come close to the iPad. Google could have had a shot if they released a successor to the Nexus 10, but they chose not to.

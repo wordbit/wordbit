@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-11-29 02:45:00+00:00
-layout: post
 slug: art-science-or-just-plain-twisted
 title: Art, science, or just plain twisted?
-wordpress_id: 568
 tags:
 - Anecdotes
 - pictures

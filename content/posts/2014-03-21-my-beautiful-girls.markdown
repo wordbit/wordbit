@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-03-21 22:56:55+00:00
-layout: post
 slug: my-beautiful-girls
 title: My beautiful girls
-wordpress_id: 1177
 ---
 
 Here are a couple of shots of my lovely ladies:

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-12-24 22:52:00+00:00
-layout: post
 slug: merry-christmas-everyone
 title: Merry Christmas everyone!!!
-wordpress_id: 524
 ---
 
 Well, today was one crazy day with the kids. Even though I begged and pleaded with just about everybody at work, and even outside of work, to play Santa, I was the one saddled with the duty of being 'the evil one'. Yes, friends, I've been decidedly anti-Santa of late. Yesterday, I was so mad that nobody was respecting my sensitivities to the omniscient old man in red, especially our dear D, that I was quite curt and short-tempered with everybody. But then I felt bad and wrote them all really nice Christmas cards (Of course they were all horrified that they'd overlooked this 'western custom' and all ran out to buy Christmas cards for me. You can never win at this time of year, there's always some guilt involved).

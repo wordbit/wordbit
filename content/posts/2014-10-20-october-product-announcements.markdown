@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-10-20 23:43:16+00:00
-layout: post
 slug: october-product-announcements
 title: October product announcements
-wordpress_id: 1226
 ---
 
 October is when most companies hope to grab some mindshare in the run-up to the Christmas shopping season. These days, I'm mostly interested in what Google and Apple have to offer. But there are some intriguing developments blossoming elsewhere as well. Here are my thoughts.

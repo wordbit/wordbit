@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-04-25 03:46:36+00:00
-layout: post
 slug: dangers-of-boring-work
 title: Dangers of boring work
-wordpress_id: 154
 categories:
 - technology
 - working

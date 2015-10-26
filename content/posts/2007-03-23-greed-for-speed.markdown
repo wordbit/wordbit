@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-03-23 04:19:59+00:00
-layout: post
 slug: greed-for-speed
 title: Greed for speed
-wordpress_id: 76
 categories:
 - technology
 ---

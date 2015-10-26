@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-02-03 04:37:05+00:00
-layout: post
 slug: amazing-two-ontario-teenagers-spent-400-to-get
 title: No Content Found
-wordpress_id: 668
 post_format:
 - Video
 tags:

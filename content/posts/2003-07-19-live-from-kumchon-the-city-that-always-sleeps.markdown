@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-07-19 20:55:00+00:00
-layout: post
 slug: live-from-kumchon-the-city-that-always-sleeps
 title: Live from Kumchon, the city that always sleeps...
-wordpress_id: 476
 ---
 
 Last night we went drinking at "The Posse". I last went there a few months ago with the cowboy Sean. There are lots of surreal kinds of 'American' bars in this town I've noticed. Pirates and Indians seem to be huge cultural icons (stereotypes) and a must when planning the interior decorating. The bartender/owner Storm still works there, he's pretty cool, mostly because he understands what drinks you're ordering. We also went to "The Sunset", which has been renamed "rpm 8000" and doesn't have live music anymore, just a lot of fairy lights and an odd smell. Sulu was happy though because of the behemoth bourbon and cokes. What can I say, Kumchon doesn't have a lot to offer but at least you can always get a table.

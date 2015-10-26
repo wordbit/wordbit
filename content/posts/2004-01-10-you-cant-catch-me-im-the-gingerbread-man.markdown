@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2004-01-10 19:51:00+00:00
-layout: post
 slug: you-cant-catch-me-im-the-gingerbread-man
 title: You can't catch me I'm the gingerbread man
-wordpress_id: 526
 ---
 
 Well, back into work full swing, and I have extra classes this month because of the special Winter program. The thing is that there's only two boys in the program, which mean a staff allocation of three teachers for the two boys, adjusted schedules and me waking up an hour earlier every day... just for two lads. At least they're nice boys and they do their homework and everything, but still, it's a little ridiculous. We also had lots of new students in the other classes and nobody ever tells me I'm getting new students so it's always a surprise. Consequently, I gave up trying to give them their English names with thought and consideration. "OK, your name is....er....Matt....no....er, Dan, ok? Hi Dan!" Or alternatively sticking my head into the teacher's room and yelling _"Somebody give me an English name, quick!"_    

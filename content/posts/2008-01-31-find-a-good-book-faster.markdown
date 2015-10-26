@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-01-31 05:52:27+00:00
-layout: post
 slug: find-a-good-book-faster
 title: Find a good book faster
-wordpress_id: 130
 categories:
 - reading
 ---

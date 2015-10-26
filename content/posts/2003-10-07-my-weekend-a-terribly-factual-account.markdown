@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-10-07 22:07:00+00:00
-layout: post
 slug: my-weekend-a-terribly-factual-account
 title: My weekend. A terribly factual account.
-wordpress_id: 505
 ---
 
 On Saturday I woke up late feeling refreshed after my forgetful Friday and decided to go sight-seeing. I set off with Tolstoy and Kimbap stowed safely in my backpack and the warm Autumn sun on my head. I felt like visiting some of the older, prehistorical archaeological sites I haven't been to yet. My first destination was Amsa-Dong where I visited [the excavation site of a Neolithic settlement.](http://english.metro.seoul.kr/visitors/toppic/traditional/amsadong/index.cfm) There were some interesting pit-house reconstructions and a decent display of arrowheads to see and the park-like setting was quite picturesque. Not really a 'must see' though unless you're into the Neolithic. Personally, I've had more than my fill of stone flakes, pottery shards and arrowheads. I ate my Kimbap under a huge weeping willow . 

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-01-24 00:50:04+00:00
-layout: post
 slug: the-rhetoric-of-dog-pee
 title: The rhetoric of dog pee
-wordpress_id: 451
 tags:
 - funny
 - life

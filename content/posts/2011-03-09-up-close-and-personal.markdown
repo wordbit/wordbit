@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-03-09 04:19:44+00:00
-layout: post
 slug: up-close-and-personal
 title: Up close and personal
-wordpress_id: 198
 categories:
 - blogging
 - site Announcements

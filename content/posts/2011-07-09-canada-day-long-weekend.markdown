@@ -1,15 +1,11 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-07-09 22:44:00+00:00
 excerpt: On the Canada Day long weekend we went camping at Conkle Lake. It was a 450km
   drive, the last 25km on a dirt track in the middle of nowhere. We arrived at 10:30pm
   and discovered the campsite was pretty much full. Luckily for us though, we managed
   ...
-layout: post
 slug: canada-day-long-weekend
 title: Canada Day long weekend
-wordpress_id: 1046
 tags:
 - life
 - mia

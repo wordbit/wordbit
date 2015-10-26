@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-01-26 04:43:05+00:00
-layout: post
 slug: virtual-windows-7-free
 title: Virtual Windows 7 - free!
-wordpress_id: 678
 tags:
 - cloud computing
 - free software

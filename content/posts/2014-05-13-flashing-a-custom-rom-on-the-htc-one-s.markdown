@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-05-13 00:33:00+00:00
-layout: post
 slug: flashing-a-custom-rom-on-the-htc-one-s
 title: Flashing a custom ROM on the HTC One S
-wordpress_id: 1193
 ---
 
 I've been lamenting the dearth of software upgrades on my HTC One S [for a while now](http://wordbit.com/state-of-android/). Over the past year or so I've been happy to simulate a stock experience by using Nova launcher, along with some custom UI tweaks. But under the hood, a sense-infused Jelly Bean 4.1.1 was starting to show its age. Sluggish response times were easily solved through a factory reset, but this wasn't nearly satisfying enough. And to top it off, [4.1.1 is the only software version vulnerable to the heartbleed bug](http://mashable.com/2014/04/11/devices-running-android-4-1-1-vulnerable-to-heartbleed/). To give HTC some credit, they are preparing a patch, but who knows when it will trickle down through their torturous certification process.

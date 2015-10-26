@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-10-05 20:46:34+00:00
-layout: post
 slug: even-hitler-hates-the-new-iphone
 title: Even Hitler hates the new iPhone
-wordpress_id: 222
 categories:
 - humour
 - technology

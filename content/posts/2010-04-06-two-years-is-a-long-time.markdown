@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2010-04-06 19:32:53+00:00
-layout: post
 slug: two-years-is-a-long-time
 title: Two years is a long time…
-wordpress_id: 195
 categories:
 - employment
 - technical writing

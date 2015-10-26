@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-03-17 20:32:53+00:00
-layout: post
 slug: does-tech-writing-bore-you
 title: Does tech writing bore you?
-wordpress_id: 75
 categories:
 - technical writing
 ---

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-01-25 19:02:18+00:00
-layout: post
 slug: wordspace-in-limbo
 title: Wordspace in limbo
-wordpress_id: 630
 tags:
 - Site Meta
 ---

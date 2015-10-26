@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2014-01-31 00:05:29+00:00
-layout: post
 slug: the-next-big-thing
 title: The next big thing
-wordpress_id: 1103
 ---
 
 Predicting the future is not just a fun exercise for the imagination - it takes an uncanny awareness, not of where the ball is, but where it's going to land. Futurists have to marry emerging technologies with emerging market opportunities to come up with a future scenario that actually comes to be. Only in retrospect can we see whether these social scientists were fanciful fools or crackerjack seers with a remarkable talent for predicting the future.

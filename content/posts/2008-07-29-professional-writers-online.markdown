@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-07-29 04:30:03+00:00
-layout: post
 slug: professional-writers-online
 title: Professional writers online
-wordpress_id: 172
 categories:
 - employment
 - Print Futures

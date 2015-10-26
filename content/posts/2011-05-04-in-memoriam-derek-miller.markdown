@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-05-04 17:12:51+00:00
-layout: post
 slug: in-memoriam-derek-miller
 title: 'In Memoriam: Derek Miller'
-wordpress_id: 210
 categories:
 - death
 - life

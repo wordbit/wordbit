@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-04-07 04:55:38+00:00
-layout: post
 slug: easy-access-to-private-blog
 title: Easy access to private blog
-wordpress_id: 208
 categories:
 - blogging
 - site Announcements

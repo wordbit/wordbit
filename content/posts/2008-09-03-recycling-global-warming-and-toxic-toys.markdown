@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-09-03 04:10:38+00:00
-layout: post
 slug: recycling-global-warming-and-toxic-toys
 title: Recycling, global warming, and toxic toys
-wordpress_id: 173
 categories:
 - article
 - writing

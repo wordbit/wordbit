@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-04-08 02:23:02+00:00
-layout: post
 slug: print-futures-2008-portfolio-show
 title: Print Futures 2008 Portfolio Show
-wordpress_id: 153
 categories:
 - events
 - writing

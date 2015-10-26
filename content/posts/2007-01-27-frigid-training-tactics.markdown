@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-01-27 19:03:06+00:00
-layout: post
 slug: frigid-training-tactics
 title: Frigid training tactics
-wordpress_id: 632
 tags:
 - pictures
 ---

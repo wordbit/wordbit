@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-09-03 21:25:00+00:00
-layout: post
 slug: rant-from-the-shadows
 title: Rant from the shadows
-wordpress_id: 490
 ---
 
 Warning: I had a bad day, this will not be a cheery entry. Turn back now. 

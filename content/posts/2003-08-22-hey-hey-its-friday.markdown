@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-08-22 21:35:00+00:00
-layout: post
 slug: hey-hey-its-friday
 title: Hey, hey It's Friday!
-wordpress_id: 487
 ---
 
 Good evening one and all. First of all, I can see! Although I think I've merely become accustomed to sub-standard vision, that discomforting sensation of squinting through a fog has passed. I do tend to over-dramatize things, I know, but regardless I really was concerned. Tonight the other teachers were scuttling around in a working frenzy, and you should have seen the look of horror on their faces when I left 'early'. It seems a travesty to leave before the whole group does, but it was nine o clock, I'd just had the longest week of my life putting in these damn twelve hour days and I was finished. So I handed Debbie my report cards and monthly syllabuses and said "Sianara baby". "You're going home!?" she says incredulously. Next week I'll be putting in long nights doing phone teaching, so I think the disdain is unnecessary. I just have to laugh though at the Korean way of doing things. I don't think they could ever fully comprehend the phrase "take it easy". Lexically, of course they could, but not the psychological mindset that accompanies said phrase. 

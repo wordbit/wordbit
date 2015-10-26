@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-07-30 22:04:00+00:00
-layout: post
 slug: its-getting-a-bit-difficult-thinking-up-good-titles
 title: It's getting a bit difficult  thinking up good titles.
-wordpress_id: 480
 ---
 
 Shudder. I just witnessed a guy on his scooter getting whacked by a car. I was just looking right at him when it happened too, thinking how dangerous it is to ride around on scooters without helmets. Everybody whips around on their scooters without protection, it's a death wish, especially considering how c-r-a-z-y Korean drivers are. The insane traffic took a while to get used to, when I first got here I stood waiting at a Zebra crossing for five minutes until Sean explained to me that cars never stop at crossings. They're just painted on the the road for insurance purposes apparently. Don't worry, the guy wasn't hurt too badly, he was hopping around with only one shoe swearing at the car driver, so I think he'll live.

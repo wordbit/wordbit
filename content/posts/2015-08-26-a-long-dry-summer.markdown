@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2015-08-26 22:16:29+00:00
-layout: post
 slug: a-long-dry-summer
 title: A long, dry summer
-wordpress_id: 1294
 ---
 
 It's been a long, dry summer - and I'm not just talking about the weather. My series on flagship phones has been somewhat stymied by some recent changes in the industry. I was expecting some more flagships to emerge from big boys like Sony and Motorola, but instead there has been a surge of mid-range devices.

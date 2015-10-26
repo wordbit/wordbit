@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-02-04 06:03:06+00:00
-layout: post
 slug: what-kind-of-phone-do-you-have
 title: What kind of phone do you have?
-wordpress_id: 667
 tags:
 - geek cred
 - Limor Fried

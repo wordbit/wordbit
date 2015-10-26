@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-10-26 01:25:31+00:00
-layout: post
 slug: want-to-write-for-wired
 title: Want to write for Wired?
-wordpress_id: 178
 categories:
 - documentation
 - freelancing

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-06-09 20:10:00+00:00
-layout: post
 slug: isnt-it-ironic-dont-you-think
 title: Isn't it ironic....don't you think?
-wordpress_id: 466
 ---
 
 Greetings loyal readers, and thanks for joining me once again, here in South Korea, at once so bizarre yet so familiar. Let's see, an update of my long week-end is in order. Friday was memorial day, a day to remember those brave Korean soldiers who died during Japanese occupation and in the Korean war. A few of us teachers hired the school bus driver to drive us in the school bus to an island - Mwi-do (do=island) off the West coast. Unfortunately it was an appallingly wet and windy day, ironically, our most tempestuous so far. The disgruntled bus driver kept wanting to turn back, but we urged him on by feeding him lots of chips and kimbap (seaweed rolls). Surprisingly, a few hundred other keen vacationers decided to visit the island, so we spent a good while waiting for the rusty little ferry to shuttle a few cars across at a time. Since Koreans don't get many holidays, a little rain (or even a lot) doesn't deter them, and the beach was swarming with keen crab-hunters. After our rather miserable, yet tasty, barbeque, we put on our rubber gloves and went hunting ourselves. Our counselor, Alice, was prancing about, flinging over rocks and snatching up the crabs with nimble fingers. I wasn't too keen on eating the poor creatures myself so I let my crabs go. After the wind became a gale we huddled next to another group's fire trying to stay dry and decided to call it quits. On the way back we stopped off at this live shell restaurant where one of our ex-teachers works and gorged oursleves on assorted shells, limpets, crabs and ther unidentifiable crustaceans. Poor Sora had a severe toothache and a cold and sat in the bus crying while we ate, I felt so bad for her. On the way home one of the larger crabs with a feisty temperament cut his way loose and was scurrying around on the bus. It didn't stand much of a chance with Alice's lightening fast reflexes, she would do well on fear factor. Today I discovered that no-one wanted to eat the crabs and Sora's dad threw them all into the river yesterday. I hope they find new homes, although somehow I don't think they will find Paju very hospitable.

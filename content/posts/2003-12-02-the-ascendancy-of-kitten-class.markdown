@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-12-02 19:34:00+00:00
-layout: post
 slug: the-ascendancy-of-kitten-class
 title: The ascendancy of Kitten class.
-wordpress_id: 518
 ---
 
 Well, today was my dreaded open class, without a doubt the most nerve-racking thing we've ever had to do at the school. I must say though, if they'd sprung it on me a few months back I would have crumpled under the pressure but these days I'm a real trooper. This time there was a full compliment of mothers eager to see their well-trained darlings perform for them. There were no major transgressions of our rules, nobody spoke Korean, nobody tried to steal my flashcards or use me as a human punching bag or set anything on fire. So, by my desperate standards they were positively angelic. I was more worried that the mothers would see that I wasn't exactly a crackerjack teacher. I fully acknowledge that I'm not the world's greatest kindergarten teacher, but I have learnt a few tricks of the trade. Anyways, the feedback I got was that the mothers were 'satisfied with my teaching', so I guess I did ok. 

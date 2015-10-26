@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-07-31 00:12:25+00:00
-layout: post
 slug: bug-fixing-on-cyanogenmod
 title: Bug fixing on Cyanogenmod
-wordpress_id: 1213
 ---
 
 About two months after [flashing my ROM](http://wordbit.com/flashing-a-custom-rom-on-the-htc-one-s/), I encountered my first serious bug. Basically, the software wouldn't recognize my WiFi radio. This issue wasn't actually a big deal because I have unlimited data. In fact, my battery life improved somewhat. But, I wanted to fix it anyway so I found the issue on Cyanogenmod's [bug tracking wiki](https://jira.cyanogenmod.org/secure/Dashboard.jspa), called JIRA. I up-voted the bug and set an email alert on it. Other users weighed in and the issue was eventually resolved by a developer. For the record, if you have an HTC-unlocked phone with S-ON, you have to extract and flash the boot.img file to the boot partition for every ROM release you flash via recovery. Good to know!

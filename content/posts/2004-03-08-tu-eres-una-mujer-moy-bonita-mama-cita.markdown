@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2004-03-08 21:31:00+00:00
-layout: post
 slug: tu-eres-una-mujer-moy-bonita-mama-cita
 title: Tu eres una mujer moy bonita!!! Mama Cita!!!!
-wordpress_id: 531
 ---
 
 Hey, it's the only Spanish I know, ok!!! I learned that from this Colombian girl I was going out with briefly before she decided to stop returning my calls. But that dear friends is another story. Suffice to say that I think speaking the same language is a 'must' in any romantic relationship. 

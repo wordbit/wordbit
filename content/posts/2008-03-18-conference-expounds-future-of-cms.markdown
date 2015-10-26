@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-03-18 00:56:20+00:00
-layout: post
 slug: conference-expounds-future-of-cms
 title: Conference expounds future of CMS
-wordpress_id: 141
 categories:
 - cci2008
 - events

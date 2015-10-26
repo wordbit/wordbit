@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-11-23 00:21:23+00:00
-layout: post
 slug: known-technical-issues
 title: Known technical issues
-wordpress_id: 596
 tags:
 - Site Meta
 ---

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-01-12 05:00:06+00:00
-layout: post
 slug: steve-jobs-bio-review
 title: Steve Jobs bio review
-wordpress_id: 1073
 tags:
 - Apple
 - Biography

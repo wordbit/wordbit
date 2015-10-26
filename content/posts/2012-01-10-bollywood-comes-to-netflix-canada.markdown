@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-01-10 05:00:05+00:00
-layout: post
 slug: bollywood-comes-to-netflix-canada
 title: Bollywood comes to Netflix Canada
-wordpress_id: 688
 tags:
 - Bollywood
 - movies

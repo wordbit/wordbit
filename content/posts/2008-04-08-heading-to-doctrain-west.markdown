@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-04-08 02:13:55+00:00
-layout: post
 slug: heading-to-doctrain-west
 title: Heading to DocTrain West
-wordpress_id: 152
 categories:
 - conference
 - events

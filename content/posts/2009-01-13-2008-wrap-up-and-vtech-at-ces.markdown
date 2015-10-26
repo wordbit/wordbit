@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2009-01-13 05:43:45+00:00
-layout: post
 slug: 2008-wrap-up-and-vtech-at-ces
 title: 2008 wrap-up and Vtech at CES
-wordpress_id: 187
 categories:
 - employment
 - technology

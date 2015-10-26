@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-12-08 22:45:00+00:00
-layout: post
 slug: ive-been-dreaming-of-a-moon-shadow-moon-shadow-moon-shadow
 title: '"I''ve been dreaming of a moon shadow, moon shadow, moon shadow..."'
-wordpress_id: 519
 ---
 
 I'm not impressed about a lot of things right now, but I'll only share a little of my non-impressed ill feelings with you this evening because nobody wants to read a laundry list of complaints I'm sure. This is just a passing dark cloud, things in general are really quite good! Actually I've just been out in the chilly -4 degree centigrade night for a mini-photo shoot, it's a full moon and the lighting is quite good. I got some good shots. It snowed last night, but just a light dusting. I'm sure we'll get truckloads of snow soon, especially being inland and all. Those icy Siberian winds blasting down from the Russian plains onto the peninsula are even harsher than the bone-chilling Arctic winds from the Yukon that ravage western Canada. Sigh. I really need to get out of the Northern hemisphere. 

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-02-07 04:07:05+00:00
-layout: post
 slug: find-your-niche-in-the-washroom
 title: Find your niche... in the washroom
-wordpress_id: 665
 tags:
 - business
 - CES

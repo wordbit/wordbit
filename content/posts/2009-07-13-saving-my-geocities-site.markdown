@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2009-07-13 06:03:44+00:00
-layout: post
 slug: saving-my-geocities-site
 title: Saving my Geocities site
-wordpress_id: 192
 categories:
 - site Announcements
 - websites

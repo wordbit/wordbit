@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-05-16 23:26:48+00:00
-layout: post
 slug: when-cars-become-trucks
 title: When cars become trucks
-wordpress_id: 1197
 ---
 
 At the All Things Digital conference in 2010, Walt Mossberg asked Steve Jobs if he thought the iPad would supplant the PC. Steve paused to think for a long moment. then this is what he said:

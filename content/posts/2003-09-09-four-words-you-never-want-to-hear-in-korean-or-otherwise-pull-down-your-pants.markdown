@@ -1,12 +1,8 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-09-09 21:10:00+00:00
-layout: post
 slug: four-words-you-never-want-to-hear-in-korean-or-otherwise-pull-down-your-pants
 title: 'Four words you never want to hear (in Korean or otherwise): Pull down your
   pants....'
-wordpress_id: 493
 ---
 
 Today I woke up with an annoying ear ache so Debbie accompanied me to the doctor today, she also had to go because of a sore throat. It was my first time, but I had heard the anecdotes from the previous foreign teacher on Korean doctors so I kind of knew what to expect. 

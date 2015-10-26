@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-06-05 02:33:02+00:00
-layout: post
 slug: the-writers-bane-iswriting
 title: The writer's bane is...writing
-wordpress_id: 167
 categories:
 - books
 - inspiration

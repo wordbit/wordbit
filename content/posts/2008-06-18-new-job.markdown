@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-06-18 22:17:57+00:00
-layout: post
 slug: new-job
 title: New job
-wordpress_id: 170
 categories:
 - employment
 - technical writing

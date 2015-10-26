@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-03-06 01:18:09+00:00
-layout: post
 slug: google-accelerator-killed-my-website
 title: Google Accelerator killed my website
-wordpress_id: 64
 categories:
 - site Announcements
 - technology

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-02-28 09:24:51+00:00
-layout: post
 slug: cultural-sensitivity-in-user-documentation
 title: Cultural sensitivity in user documentation
-wordpress_id: 63
 categories:
 - culture
 - documentation

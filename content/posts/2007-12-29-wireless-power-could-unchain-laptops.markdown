@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-12-29 06:05:52+00:00
-layout: post
 slug: wireless-power-could-unchain-laptops
 title: Wireless power could unchain laptops
-wordpress_id: 97
 categories:
 - technology
 ---

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-02-15 23:12:27+00:00
-layout: post
 slug: internet-privacy-that-saves-lives
 title: Internet privacy saves lives
-wordpress_id: 134
 categories:
 - politics
 - software

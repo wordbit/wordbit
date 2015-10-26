@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-07-29 14:00:00+00:00
-layout: post
 slug: je-suis-en-vacance-mes-amis
 title: Je suis en vacance mes amis...
-wordpress_id: 479
 ---
 
 Well, now I don't feel like writing a long update. I'll make sure this entry is peppered with links for those who wish to learn more and expand their knowledge-bases. Let's see...Two Sundays ago I went to the [Sodaemun Prison Hall](http://www.okstaykorea.com/board/announce/content.asp?board=e_tournews&a_idx=412). This was a Japanese prison camp for political prisoners and activists during their occupation of Korea. All the original buildings remain, including the execution chamber and various torture devices, which you can try out if you are so inclined. I wasn't inclined. In the basement they have recreated gruesome torture and rape scenes with animatronic dummies. It was quite nightmarish, especially for kids I would think. The place felt very, very haunted.

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-10-13 20:57:00+00:00
-layout: post
 slug: yay-monday
 title: yay  Monday
-wordpress_id: 508
 ---
 
 So yesterday I hooked up with my ex adult students and Sulu and went to some festivals around Paju. The first was a children's book festival but they had art as well. We just strolled around drinking coffee and checking out the artwork. A major publishing house has just opened in Paju, which is an economic boon for the area. What I found most interesting was the blacksmith demonstrations. They were hammering shapes out of the metal. Next we went to another art festival where they were making all sorts of traditional Korean crafts and displaying architectural designs. There was also some Korean traditional music which I enjoyed very much, I liked the sound of the violin-thingy (_Hae gum_). We had some good food with _Makoli_ (rice wine) and was nicely mellowed out, even though it was raining. I came home and had the first nap I've had in months.

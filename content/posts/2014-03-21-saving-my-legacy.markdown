@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-03-21 22:44:32+00:00
-layout: post
 slug: saving-my-legacy
 title: Saving my legacy
-wordpress_id: 1175
 ---
 
 I recently wrote[ a blog post](http://wordbit.com/its-your-legacy-own-it/) about owning your digital legacy instead of giving it away to sites like Medium. At the end I considered what would happen if I reached the clearing at the end of the road. That is, if I moved onto the next world. Basically, my blog would die  along with me. And that made me a bit sad. So, I've decided to create an archive of every blog post since the Livejournal days of 2003.

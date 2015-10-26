@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-09-11 13:20:00+00:00
-layout: post
 slug: wooo-hooo
 title: Wooo hooo!
-wordpress_id: 494
 ---
 
 Yesterday Sulu and I went to [Everland](http://eng.everland.com/), the seventh largest amusement park in the world. Unfortunately for us, yesterday was also the first day of Chuseok, which meant about 12 million Koreans were making the exodus south to their hometowns. In a fantastically unwise move, we took public transit...so, we ended up standing in a crowded bus in a traffic jam for about four hours (it usually takes 40 minutes). I've never seen a traffic jam on a scale of this magnitude before, it was pure and utter torture. When we all finally tumbled off the bus everyone started stretching and jumping around for joy. 

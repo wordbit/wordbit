@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-05-08 06:19:48+00:00
-layout: post
 slug: doctrain-day-2-xml-jockeys-flock-to-the-podium
 title: DocTrain Day 2 - XML jockeys flock to the podium
-wordpress_id: 163
 categories:
 - conference
 - DocTrain West 2008

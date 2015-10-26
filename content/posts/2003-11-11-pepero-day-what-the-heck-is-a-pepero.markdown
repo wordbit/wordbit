@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-11-11 20:17:00+00:00
-layout: post
 slug: pepero-day-what-the-heck-is-a-pepero
 title: Pepero day??? What the heck is a pepero?
-wordpress_id: 513
 ---
 
 Today was Pepero day.  As far as I can make out it's a kind of Korean Valentines' day where you're obliged to give peperos to your girlfriend/boyfriend/good friend/anyone really. So what are peperos? [Well, check it out - they're long, thin chocolate straws](http://web.wanadoo.be/tmk/pocky/pepero%20300.htm). They look like number ones, in other words like 11/11. Clever, isn't it? But not as clever as the confectionary industry who no doubt spawned this little holiday!

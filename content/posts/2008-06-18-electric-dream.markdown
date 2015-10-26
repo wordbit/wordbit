@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-06-18 06:00:26+00:00
-layout: post
 slug: electric-dream
 title: Electric dream
-wordpress_id: 169
 categories:
 - technology
 ---

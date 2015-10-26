@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2004-05-10 21:12:00+00:00
-layout: post
 slug: on-the-volcano
 title: On the Volcano
-wordpress_id: 537
 ---
 
 We´re having the best time!!! we arrived in La Fortuna yesterday, here in Costa Rica. One of the first places we went was the natural hot springs, heated by the Volcano and just relaxed in successively hotter pools. Angela amazed our tour guide by jumping into the hottest pool at the top, over 65 degrees centigrade. On the lower levels they had a swim up bar and they didn´t mind taking wet money. It was all rather luxurious and ostentatious but we loved it. Today we went white water rafting on a class 3 river, it was lots of fun shooting the rapids and ducking under vines and checking out the awesome birds and scenery. We then went on a Volcano hike throught the rainforest and our guide pointed out some animals, like spider monkeys. We arrived at the viewpoint at sunset and watched the lava rocks tumble down the volcano like bright red stars, it was quite a sight. 

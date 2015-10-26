@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-07-05 00:03:26+00:00
-layout: post
 slug: bullish-on-music-streaming
 title: Bullish on music streaming
-wordpress_id: 1209
 ---
 
 When Google Play Music All Access finally came to Canada I was overjoyed. I'd been waiting for an opportunity to jump into the streaming scene and the introductory $8 a month deal sealed the deal for me. Rdio is the other excellent streaming service available in Canada, but costs $10 a month.

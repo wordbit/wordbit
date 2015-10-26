@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-08-01 23:12:24+00:00
-layout: post
 slug: the-dive
 title: the dive
-wordpress_id: 715
 tags:
 - poetry
 ---

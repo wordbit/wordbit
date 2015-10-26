@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2015-06-09 21:58:20+00:00
-layout: post
 slug: the-apple-dance
 title: The Apple dance
-wordpress_id: 1279
 ---
 
 Yesterday, WWDC 2015 (Apple's developer conference) showcased what's new in OS X, iOS, and watchOS. There was also an unsurprising "one more thing" with the introduction of Apple Music. Unlike the massive redesign from[ last year](http://wordbit.com/its-a-sunny-day-in-cupertino/), it was a pretty low-key affair, with Apple focusing on tweaking and stabilizing its evolving platforms. If there was one theme that emerged from the keynote, however, it would be this: Apple is no software company.

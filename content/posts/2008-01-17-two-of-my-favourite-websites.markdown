@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-01-17 21:55:00+00:00
-layout: post
 slug: two-of-my-favourite-websites
 title: Two of my favourite websites
-wordpress_id: 1128
 categories:
 - websites
 ---

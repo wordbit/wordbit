@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-03-04 03:31:37+00:00
-layout: post
 slug: pearls-book-launch
 title: Pearls book launch
-wordpress_id: 137
 categories:
 - events
 - writing

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-11-16 00:11:52+00:00
-layout: post
 slug: handsome-is-as-handsome-does-2
 title: Handsome is as handsome does
-wordpress_id: 588
 tags:
 - pictures
 - writing

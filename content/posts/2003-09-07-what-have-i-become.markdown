@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-09-07 23:47:00+00:00
-layout: post
 slug: what-have-i-become
 title: What have I become....
-wordpress_id: 492
 ---
 
 I've just taken the [Star Wars personality test](http://www.matthewbarr.co.uk/personality/) and found out that I'm most like Emperor Palpatine! Oh no! I've become an old man with evil powers who likes to wear flowing robes and cackle at other people's misfortunes. So be it. At last now I know the true nature of the dark side.

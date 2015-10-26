@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-11-09 00:54:51+00:00
-layout: post
 slug: three-amazing-new-technologies-that-will-blow-your-mind
 title: Three amazing new technologies that will blow your mind
-wordpress_id: 228
 categories:
 - geeky
 - technology

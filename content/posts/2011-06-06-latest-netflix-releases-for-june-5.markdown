@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-06-06 16:47:20+00:00
-layout: post
 slug: latest-netflix-releases-for-june-5
 title: Latest Netflix releases for June 5
-wordpress_id: 217
 categories:
 - movies
 - Netflix

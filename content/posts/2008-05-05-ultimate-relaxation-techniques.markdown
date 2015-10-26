@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-05-05 18:35:27+00:00
-layout: post
 slug: ultimate-relaxation-techniques
 title: Ultimate relaxation techniques
-wordpress_id: 161
 categories:
 - article
 - culture

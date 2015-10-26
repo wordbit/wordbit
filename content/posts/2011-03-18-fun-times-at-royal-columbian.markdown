@@ -1,14 +1,10 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-03-18 22:15:01+00:00
 excerpt: My poor wife hasn't had much luck lately. First she was robbed by an incorrigible
   scoundrel in church, who as I mentioned, will probably burn in hell. Then, yesterday,
   she caught a stomach bug and couldn't keep anything down. So for about 4 hours ...
-layout: post
 slug: fun-times-at-royal-columbian
 title: Fun times at Royal Columbian
-wordpress_id: 996
 tags:
 - baby
 - life

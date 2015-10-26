@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-05-13 02:09:25+00:00
-layout: post
 slug: musical-cross-pollination-with-the-tech-industry
 title: Musical cross-pollination with the tech industry
-wordpress_id: 165
 categories:
 - marketing
 - music

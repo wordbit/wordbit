@@ -1,14 +1,10 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-03-11 02:59:00+00:00
 excerpt: We recently went on one of those all-inclusive vacations to Puerto Aventuras,
   Mexico (South of Cancun on the Mayan Riviera). It was out first time doing the all-inclusive
   thing, but we were suitably impressed. The weather was fantastic and the foo...
-layout: post
 slug: our-holiday-in-mexico-january-2011
 title: Our holiday in Mexico - January 2011
-wordpress_id: 780
 tags:
 - pictures
 - vacation

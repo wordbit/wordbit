@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-03-17 07:27:00+00:00
-layout: post
 slug: writers-challenge-1
 title: 'Writer''s challenge #1'
-wordpress_id: 74
 categories:
 - technical writing
 - technology

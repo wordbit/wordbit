@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-12-23 18:56:12+00:00
-layout: post
 slug: rhetoric-of-threat-letters
 title: Rhetoric of threat letters
-wordpress_id: 621
 tags:
 - Anecdotes
 - pictures

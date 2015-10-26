@@ -1,12 +1,8 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-02-06 17:47:39+00:00
-layout: post
 published: false
 slug: looking-for-love-at-all-the-wrong-urls
 title: Looking for love at all the wrong URLs
-wordpress_id: 666
 tags:
 - humour
 - internet

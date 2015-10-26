@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-12-17 00:36:00+00:00
-layout: post
 slug: there-is-some-truth-to-this
 title: No Content Found
-wordpress_id: 703
 post_format:
 - Image
 tags:

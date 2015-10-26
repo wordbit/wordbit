@@ -1,15 +1,11 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-03-31 18:24:00+00:00
 excerpt: I'm a little late to the party, but I finished reading this Swedish crime
   thriller last night. It's been on the best seller lists for a while and thought
   I would give it a go. The story centres on a downtrodden journalist, Mikael Blomkvist
   as he i...
-layout: post
 slug: my-review-of-the-girl-with-the-dragon-tattoo-2
 title: My review of The Girl with the Dragon Tattoo
-wordpress_id: 71
 tags:
 - books
 - review

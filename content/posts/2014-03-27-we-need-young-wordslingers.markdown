@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-03-27 23:07:07+00:00
-layout: post
 slug: we-need-young-wordslingers
 title: We need young wordslingers
-wordpress_id: 1179
 ---
 
 I'm wont to pontificate about the illiteracy of Generation Y (or whatever we're calling teenagers these days) as much as the next grizzled intellectual. But what purpose does that serve really, except to betray the self-righteous that comes with age?

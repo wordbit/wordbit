@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-09-24 23:57:16+00:00
-layout: post
 slug: 90s-bands-youve-never-heard-of
 title: 90s bands you've never heard of
-wordpress_id: 1223
 ---
 
 The 90s was a great decade for music. Grunge music spread that rainy, depressing Seattle vibe across the planet, and rap took off in a big way thanks to hyper-local artists like Dr. Dre making sure even kids in Africa knew where Compton was.

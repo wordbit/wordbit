@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-09-12 02:30:00+00:00
-layout: post
 slug: corny-south-african-joke
 title: Corny South African joke.
-wordpress_id: 495
 ---
 
 A businessman’s car breaks down on his way to an important meeting. The only way to get there on time is to catch a minibus taxi, something he’s never done before. Hailing one down, he jumps into the only available seat, next to the driver.

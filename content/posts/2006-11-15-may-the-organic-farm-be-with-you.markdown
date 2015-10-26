@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-11-15 00:08:25+00:00
-layout: post
 slug: may-the-organic-farm-be-with-you
 title: May the (organic) farm be with you
-wordpress_id: 585
 tags:
 - Videos
 ---

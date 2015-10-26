@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2010-12-04 01:26:03+00:00
-layout: post
 slug: a-spoiler-free-harry-potter-movie
 title: A spoiler-free Harry Potter movie
-wordpress_id: 1119
 categories:
 - Just another opinion
 ---

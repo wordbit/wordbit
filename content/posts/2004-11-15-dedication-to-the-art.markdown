@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2004-11-15 19:21:00+00:00
-layout: post
 slug: dedication-to-the-art
 title: Dedication to the art
-wordpress_id: 547
 ---
 
 I always say I'm going to spend more time writing, but never do. Well, I mean it this time, and that means updating my journal more regularly. I'll freely admit that life is tough right now, but isn't it for everyone? I may as well share my angst. I wasn't going to post that last entry, which I cut and pasted from another 'secret' journal, but I thought it was fittingly angst-ridden that I may as well go public with it. 

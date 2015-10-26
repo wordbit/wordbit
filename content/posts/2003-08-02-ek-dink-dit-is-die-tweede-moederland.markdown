@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-08-02 14:28:00+00:00
-layout: post
 slug: ek-dink-dit-is-die-tweede-moederland
 title: Ek dink dit is die tweede moederland.
-wordpress_id: 481
 ---
 
 I woke up this morning with a mysterious throbbing headache, which I attribute to the heat, although there are a myriad of other possible causes. I'm becoming increasingly aware of potential health hazards in my environment, including the water, which I believe is quite toxic no matter how many times you boil and filter it. Thank goodness I am still young and somewhat hardy, although I have been feeling a bit fragile of late. Well, no need to complain, let's get to it.

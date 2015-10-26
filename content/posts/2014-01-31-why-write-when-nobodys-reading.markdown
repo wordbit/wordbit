@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2014-01-31 22:48:10+00:00
-layout: post
 slug: why-write-when-nobodys-reading
 title: Why write when nobody's reading?
-wordpress_id: 1104
 ---
 
 There is an obvious difference between blogging and an intimate late-night scribble in your diary. If you indulge in the latter you can safely assume that absolutely nobody will share in your angst or be privy to your confessions or guilty misuse of grammar and syntax. Writing in a vacuum can be a cathartic experience, but is better left to smolder in your bedside notebook or private blog.

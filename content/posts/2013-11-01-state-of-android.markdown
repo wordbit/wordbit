@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2013-11-01 00:07:43+00:00
-layout: post
 slug: state-of-android
 title: State of Android
-wordpress_id: 1094
 ---
 
 Google released Kit Kat today, their latest iteration of Android, along with the Nexus 5. As a flagship nexus device, the 5 looks awesome, but I'm still not sold on LG as a manufacturer.

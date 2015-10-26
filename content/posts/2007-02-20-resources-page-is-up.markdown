@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-02-20 09:22:09+00:00
-layout: post
 slug: resources-page-is-up
 title: Resources Page is up
-wordpress_id: 54
 categories:
 - site Announcements
 ---

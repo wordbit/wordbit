@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-03-13 00:35:06+00:00
-layout: post
 slug: content-convergence-integration-2008
 title: Content Convergence & Integration 2008
-wordpress_id: 139
 categories:
 - cci2008
 - documentation

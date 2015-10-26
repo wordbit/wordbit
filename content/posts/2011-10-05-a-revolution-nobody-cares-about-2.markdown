@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-10-05 07:00:00+00:00
-layout: post
 slug: a-revolution-nobody-cares-about-2
 title: A revolution nobody cares about
-wordpress_id: 695
 post_format:
 - Video
 tags:

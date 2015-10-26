@@ -1,12 +1,8 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-06-12 00:16:00+00:00
 excerpt: Here are the pics from Mia's photoshoot with Natalya.
-layout: post
 slug: mias-photoshoot
 title: Mia's photoshoot
-wordpress_id: 1059
 tags:
 - mia
 ---

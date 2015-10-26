@@ -1,15 +1,11 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-07-08 21:07:00+00:00
 excerpt: Thanks to modern technology, Google street view now stretches just about
   everywhere. Even the lonely street in South Africa where I grew up in the 80s and
   90s. Here is the house my dad built. It appears relatively unchanged. The only difference
   I ...
-layout: post
 slug: the-house-my-dad-built
 title: The house my dad built
-wordpress_id: 1063
 tags:
 - life
 - nostalgia

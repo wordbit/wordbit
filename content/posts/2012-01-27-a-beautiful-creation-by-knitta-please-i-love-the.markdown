@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-01-27 05:03:05+00:00
-layout: post
 slug: a-beautiful-creation-by-knitta-please-i-love-the
 title: No Content Found
-wordpress_id: 675
 post_format:
 - Image
 tags:

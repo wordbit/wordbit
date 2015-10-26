@@ -1,15 +1,11 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-04-05 02:49:00+00:00
 excerpt: On Saturday we picked our crib up from the border without any hassles then
   went to out maternity photoshoot. I'll upload the pics from those later. On Sunday,
   we attended the Vancouver International Auto show. It was in the new convention
   centre t...
-layout: post
 slug: photos-from-vancouver-car-show-2011
 title: Photos from Vancouver Car Show 2011
-wordpress_id: 797
 tags:
 - cars
 - pictures

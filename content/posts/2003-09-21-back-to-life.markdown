@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-09-21 16:04:00+00:00
-layout: post
 slug: back-to-life
 title: Back to life
-wordpress_id: 499
 ---
 
 I feel so good right now, the sunshine has been blazing after the recent rains, I walk outside in bliss with my eyes half closed just soaking it in. It's much cooler now too at the onset of fall, gone are those muggy, humid days. Yesterday I decided I needed a physical challenge so I took on the lesser of the three peaks of Bukhansan. So many people climb these mountains, I believe it's the busiest national park in the world with over five million visitors a year. On the north shore in Vancouver you could choose a mountain and probably be one of three people climbing it that day. I found it tough going because I'm totally out of shape and as always I'm put to shame by all the old grannies and little kids prancing around at the top. And groups of Korean men getting sauced on Soju, who incredibly never seem to take a nasty fall off the mountain, although it does happen quite often I believe.  

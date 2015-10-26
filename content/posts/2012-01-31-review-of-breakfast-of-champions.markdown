@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-01-31 04:08:06+00:00
-layout: post
 slug: review-of-breakfast-of-champions
 title: Review of Breakfast of Champions
-wordpress_id: 673
 tags:
 - book review
 - Breakfast of Champions

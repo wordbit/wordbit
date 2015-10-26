@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-11-27 23:01:00+00:00
-layout: post
 slug: i-write-to-you-now-at-the-turn-of-the-tide
 title: I write to you now at the turn of the tide...
-wordpress_id: 515
 ---
 
 I like that bit of poetic nonsense, ripped off from the Two Towers in case you didn't pick it up. I guess that was my clumsy attempt at a reference since these days I'm adverse to any kind of plagiarism. I haven't written for a while because I've been under a lot of stress lately. We've been preparing for these open classes, where the parents of our kindergarten students come and watch the class. The whole fiasco gets videotaped, archived and forwarded to post-production analysis and critique of course. 

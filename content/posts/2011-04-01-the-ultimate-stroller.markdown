@@ -1,15 +1,11 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-04-01 18:05:00+00:00
 excerpt: My wife really wanted this Phil and Ted's Explorer stroller. We checked out
   Babies R Us, but as expected, the customer service was poor. No disrespect to all
   those hard-working retail people - I was one of them once - but this lady did not
   know an...
-layout: post
 slug: the-ultimate-stroller
 title: The ultimate stroller
-wordpress_id: 125
 tags:
 - baby
 ---

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2014-01-06 20:16:51+00:00
-layout: post
 slug: kill-your-lists-and-be-happy-in-2014
 title: Kill your lists and be happy in 2014
-wordpress_id: 1102
 ---
 
 I have a confession to make: I have too many lists. And I'm not just talking about to-do lists and shopping lists. I'm talking about lists of books to read, movies to watch, and games to play. Netflix queues. Amazon wishlists. App wishlists. Pocket queues.

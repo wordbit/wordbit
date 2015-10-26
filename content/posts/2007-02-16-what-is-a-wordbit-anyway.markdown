@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-02-16 23:25:38+00:00
-layout: post
 slug: what-is-a-wordbit-anyway
 title: What is a wordbit anyway?
-wordpress_id: 37
 categories:
 - site Announcements
 ---

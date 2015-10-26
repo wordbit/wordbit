@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2013-10-04 22:37:22+00:00
-layout: post
 slug: the-perfect-apple-device
 title: The perfect apple device
-wordpress_id: 1092
 ---
 
 The recent iPhone event was a triumph for apple's marketing division. By putting last year's model in a new plastic housing and adding a splash of colour, what is old is new again (iPhone 5C). And a tip of the hat can go to the engineering team for beefing up security with the fingerprint sensor (iPhone 5S). But at this year's apple party, there was a once venerated apple device that was notably absent - the iPod. I can honestly say, that this is the one apple product I use the most:

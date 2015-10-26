@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-06-12 05:40:53+00:00
-layout: post
 slug: one-month-till-iphone-gets-here
 title: One month till iPhone gets here
-wordpress_id: 168
 categories:
 - technology
 ---

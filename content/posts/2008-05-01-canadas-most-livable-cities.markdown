@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-05-01 19:09:19+00:00
-layout: post
 slug: canadas-most-livable-cities
 title: Canada's most livable cities
-wordpress_id: 159
 categories:
 - culture
 - local news

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2004-05-27 20:17:00+00:00
-layout: post
 slug: ok-here-are-the-pictures
 title: Ok, here are the pictures!
-wordpress_id: 539
 ---
 
 I've just spent a couple of hours updating my website and posting a few pictures of our recent vacation, [click on this link to go straight there....](http://www.geocities.com/antoinehenrigiraud/mphoto1.html)

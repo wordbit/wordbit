@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-10-08 00:24:00+00:00
-layout: post
 slug: howdy-yall
 title: Howdy y'all.
-wordpress_id: 506
 ---
 
 My internet connection has been down, so the last entry was posted late, it should be retro-dated to Sunday. Anyways, to illustrate some of the events of the weekend, [click on this link and check out the latest pictures on my website](http://www.geocities.com/antoinehenrigiraud/photo5). The one of Kumchon from it's outskirts is really cool. You can get a good idea of the sort of nucleus clustering of settlements I was talking about once. 

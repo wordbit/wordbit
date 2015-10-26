@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-06-21 16:59:00+00:00
-layout: post
 slug: abandon-all-hope-ye-who-enter-here
 title: '...abandon all hope ye who enter here...'
-wordpress_id: 469
 ---
 
 ...for this is no spicy narrative...I'm sitting here in air-conditioned bliss...it's swelteringly hot outside, and the sticky monsoon season is upon us. It's market day in Kumchon and the local vendors have taken over the crooked streets and spread their wares out under colourful beach umbrellas. The smell of raw fish and Kimchi wafts through the streets. 

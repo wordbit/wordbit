@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2010-03-20 22:48:41+00:00
-layout: post
 slug: it-pays-to-be-paranoid
 title: It pays to be paranoid
-wordpress_id: 194
 categories:
 - article
 - freelancing

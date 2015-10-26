@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-01-10 04:03:00+00:00
-layout: post
 slug: what-makes-a-great-blog
 title: What makes a great blog?
-wordpress_id: 1129
 categories:
 - blogs
 - writing

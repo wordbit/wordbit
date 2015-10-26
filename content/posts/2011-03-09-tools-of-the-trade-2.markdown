@@ -1,15 +1,11 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-03-09 23:44:00+00:00
 excerpt: I work on a computer all day for my writing job - it's a plain old generic
   desktop with a 2.66Ghz CPU, 2.5GB of RAM and a 100GB hard drive. I have dual 19-inch
   monitors, which is nice. I have windows XP installed. But what I really love is
   the new...
-layout: post
 slug: tools-of-the-trade-2
 title: Tools of the trade
-wordpress_id: 793
 tags:
 - computers
 - geeky

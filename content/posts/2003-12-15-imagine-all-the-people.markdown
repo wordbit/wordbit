@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-12-15 21:18:00+00:00
-layout: post
 slug: imagine-all-the-people
 title: Imagine all the people
-wordpress_id: 521
 ---
 
 Not much to say really... Recently I've become wary of being too friendly with strangers because so many people are just hungering for their very own foreign English teacher, whenever I hear the words "I'm very interested in English!!!" I cringe inwardly because I know what's coming next. The guy I met in the park wanted me to teach him English, the guy on the bus, the guy in my apartment building, even the lady who came to check for gas leaks in my gas furnace wanted me to teach her kids English. Now, don't get me wrong, I wouldn't do it _gratis_, the going rate is about $30 - $40 Cdn an hour over here for private tutoring, but I just don't have the time or energy to teach 24 hours a day. Maybe I should become a recruiter. Remember the big talker anthropologist Dean from OZ (check my first entry)? Well, he called me up from Australia the other day and asked me if I could set him up with a job. Seems he regrets leaving Korea in the first place because all he ended up doing back home was managing his dad's wheat silo in the outback. Not very anthropologically exciting by any stretch of the imagination and not exactly wondering through India like a "transcendental ascetic". Dean, if you're reading this, and I don't think you ever would, then I'm sorry mate! Sarcasm is my trademark man. Actually, Dean is a really good bloke :) 

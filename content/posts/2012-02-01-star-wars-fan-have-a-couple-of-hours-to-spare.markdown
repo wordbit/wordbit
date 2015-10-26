@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-02-01 04:23:05+00:00
-layout: post
 slug: star-wars-fan-have-a-couple-of-hours-to-spare
 title: No Content Found
-wordpress_id: 671
 post_format:
 - Video
 tags:

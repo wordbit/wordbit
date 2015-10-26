@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-01-19 04:14:06+00:00
-layout: post
 slug: transparency-the-new-aesthetic
 title: Transparency - the new aesthetic
-wordpress_id: 1070
 tags:
 - CES
 - smart window

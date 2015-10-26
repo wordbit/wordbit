@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-01-03 18:47:08+00:00
-layout: post
 slug: happy-new-year-everybody-this-is-the-year-of-the
 title: No Content Found
-wordpress_id: 690
 post_format:
 - Image
 tags:

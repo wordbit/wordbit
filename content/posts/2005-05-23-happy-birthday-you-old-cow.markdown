@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2005-05-23 15:47:00+00:00
-layout: post
 slug: happy-birthday-you-old-cow
 title: Happy birthday you old cow
-wordpress_id: 554
 ---
 
 It's Victoria day today, in Canada that is, and I'm not at all sure why it's celebrated, I'm assuming it's Queen Victoria's birthday, but I could be wrong. Actually, I'm in a gloriously good mood, but alas, the poem I'm including today is quite incongruent with my current mellow vibe. I am running out of poems, you see. I certainly don't have any happy ones left. 

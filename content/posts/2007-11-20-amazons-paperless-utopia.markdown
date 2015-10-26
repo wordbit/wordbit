@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-11-20 07:33:20+00:00
-layout: post
 slug: amazons-paperless-utopia
 title: Amazon's paperless Utopia
-wordpress_id: 93
 categories:
 - technology
 ---

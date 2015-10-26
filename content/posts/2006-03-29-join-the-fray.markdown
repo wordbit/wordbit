@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-03-29 00:15:00+00:00
-layout: post
 slug: join-the-fray
 title: Join the fray!
-wordpress_id: 562
 ---
 
 I am extremely grateful to my good friend in the U.K, Adam, who sent me a delightful critique of my article. I reprint it here (edited for content) including my follow-up, without his kind permission, but I'm sure he wouldn't mind. I invite other South Africans to share their opinion on the issue! 

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-10-26 05:50:00+00:00
-layout: post
 slug: '563'
 title: No Content Found
-wordpress_id: 563
 ---
 
 [wordspace](http://wordspace.awardspace.com/)

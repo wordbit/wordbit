@@ -1,15 +1,11 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-03-29 04:16:00+00:00
 excerpt: There was some good news on the Netflix front yesterday as the company announced
   a deal with Paramount Studios. This brings some serious cool to the Canadian version
   of Netflix, which has a astonishingly meagre library compared its big brother in
   ...
-layout: post
 slug: netflix-steps-it-up-2
 title: Netflix steps it up
-wordpress_id: 782
 tags:
 - geeky
 - netflix

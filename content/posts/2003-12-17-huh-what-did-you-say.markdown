@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-12-17 00:51:00+00:00
-layout: post
 slug: huh-what-did-you-say
 title: huh? What did you say?
-wordpress_id: 522
 ---
 
 I'm going absolutely mental, today was just one of those days. Nothing was sinking in and I was starting to zone out and lose all concentration and coherence of thought. We had a staff meeting in the morning where Debbie handed out our January schedules (a.k.a. 30 reasons not to get up in the morning), we have those 'special classes' starting up again which means more hours, early mornings, less sleep and about three more years carved off my life expectancy. Then in the afternoon, we had another meeting and Won Jang Nim giving us her synopsis on our Open Classes. The main complaint coming through, as far as I can make out through all the indirect insinuations that passes off for communication around here, is that the kids pronunciation sucks and we have to do something about it. In other words the mothers are complaining that their kids don't have cute little American accents like "they have on TV". 

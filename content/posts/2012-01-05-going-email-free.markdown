@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-01-05 05:51:00+00:00
-layout: post
 slug: going-email-free
 title: Going email free
-wordpress_id: 689
 tags:
 - email
 - organization

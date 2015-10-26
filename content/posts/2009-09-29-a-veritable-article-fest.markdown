@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2009-09-29 03:50:41+00:00
-layout: post
 slug: a-veritable-article-fest
 title: A veritable article fest
-wordpress_id: 193
 categories:
 - article
 - freelancing

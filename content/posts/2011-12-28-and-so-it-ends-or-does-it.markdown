@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-12-28 23:07:58+00:00
-layout: post
 slug: and-so-it-ends-or-does-it
 title: And so it ends... or does it?
-wordpress_id: 232
 categories:
 - site Announcements
 ---

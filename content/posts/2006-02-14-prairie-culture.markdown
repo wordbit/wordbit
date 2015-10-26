@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-02-14 01:39:00+00:00
-layout: post
 slug: prairie-culture
 title: Prairie culture
-wordpress_id: 559
 ---
 
 I haven't seen _Brokeback Mountain _yet but it seems even school administrators are "jumping on the bandwagon", excuse the pun. I was wondering why one of my students was upset about some required reading for English class. That was before I saw the book:

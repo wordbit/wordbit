@@ -1,13 +1,9 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-10-09 03:32:00+00:00
 excerpt: Mia fans, you are in luck. I haven???t updated in a while, which means we
   are due for a plethora of pics. Enjoy!
-layout: post
 slug: some-cute-mia-pics
 title: Some cute Mia pics
-wordpress_id: 1069
 tags:
 - mia
 ---

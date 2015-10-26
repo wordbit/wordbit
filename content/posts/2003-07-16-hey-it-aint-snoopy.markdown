@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-07-16 22:06:00+00:00
-layout: post
 slug: hey-it-aint-snoopy
 title: Hey, it 'aint Snoopy.
-wordpress_id: 475
 ---
 
 Today we took the kids on a field trip to [Honey Land](http://www.dmzpaju.com/english/leisure/places/honeyland.htm), so that they could have a swim in the pool. It was a stinking hot summer day, so the timing was perfect. I was worried about the safety of the kids but the kid's pool was so shallow and they all had inflatable tubes, so there was nothing to worry about. The youngest kids (3/4 yr olds) were funny, they just kind of bobbed there not moving with their swimming caps and goggles on, like weird human water buoys. Then about 200 other hot and dusty kids showed up so it just got crazy. We also had a go at grass sledding. During the winter it becomes snow sledding. I was just glad to get out of the classroom for a bit, it feels more like summertime. The kids had a blast too, it was better than the first trip when Nancy fell into the fish pond and none of the rides were running.

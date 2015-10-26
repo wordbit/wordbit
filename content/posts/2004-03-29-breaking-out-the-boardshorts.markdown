@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2004-03-29 21:36:00+00:00
-layout: post
 slug: breaking-out-the-boardshorts
 title: Breaking out the boardshorts
-wordpress_id: 533
 ---
 
 Today was one of those rare Spring days where the entire world seems to be taking a deep breath. Hot enough to break out the shorts and drink beer on the patio. Which is what I did after riding down to the river and reading Tolstoy. Yes, I am once again in love with Tolstoy. And with riding. There are sublime moments one can have on a bicycle, when your legs are pumping the pedals at just the right rhythm, the satisfying crunch of the tires on the gravel path, the subtle art of changing gears... As you can tell I've been enjoying my freedom. If it's sunny I can choose to go outside, if I feel like staying up late to watch Conan 'o Brien I can, _even on school nights!_ And I get to work on my writing. Of course the price to pay is the feeling that listlessness could intrude at any moment were it not held at bay by idle pursuits. I must admit though, that I'm keen to start doing something constructive now, I've had a horrifying sense of discipline and duty drummed into me in Korea, gone are the days where I could spend a whole summer on the beach and not feel guilty about it. 

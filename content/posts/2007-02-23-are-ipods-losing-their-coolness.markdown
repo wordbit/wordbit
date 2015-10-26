@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-02-23 04:03:38+00:00
-layout: post
 slug: are-ipods-losing-their-coolness
 title: Are iPods losing their 'coolness'?
-wordpress_id: 61
 categories:
 - marketing
 - technology

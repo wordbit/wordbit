@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-05-02 21:51:05+00:00
-layout: post
 slug: boot-hill
 title: Boot Hill
-wordpress_id: 1188
 ---
 
 ![IMAG0008](http://wordbitarchives.files.wordpress.com/2014/05/imag0008.jpg)

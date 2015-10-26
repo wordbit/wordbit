@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-01-24 05:23:05+00:00
-layout: post
 slug: pirates-sanctuary
 title: Pirate's sanctuary?
-wordpress_id: 679
 tags:
 - copyright
 - humour

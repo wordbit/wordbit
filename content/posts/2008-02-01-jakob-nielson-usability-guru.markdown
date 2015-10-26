@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-02-01 20:29:00+00:00
-layout: post
 slug: jakob-nielson-usability-guru
 title: Jakob Nielson - usability guru
-wordpress_id: 1126
 categories:
 - Jakob Nielson
 - web architecture

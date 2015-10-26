@@ -1,13 +1,9 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-10-09 04:13:00+00:00
 excerpt: Mia's Baptism took place on September 18, 2011. Here are some pics from the
   day.
-layout: post
 slug: mias-baptism
 title: Mia's Baptism
-wordpress_id: 1051
 tags:
 - baptism
 - mia

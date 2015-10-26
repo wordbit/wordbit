@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-11-07 04:56:29+00:00
-layout: post
 slug: have-a-laugh-have-a-cry
 title: Have a laugh, have a cry
-wordpress_id: 181
 categories:
 - article
 - culture

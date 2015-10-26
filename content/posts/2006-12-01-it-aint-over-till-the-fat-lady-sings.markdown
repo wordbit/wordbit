@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-12-01 18:42:50+00:00
-layout: post
 slug: it-aint-over-till-the-fat-lady-sings
 title: It ‘aint over till the fat lady sings
-wordpress_id: 606
 tags:
 - Anecdotes
 - The Arts

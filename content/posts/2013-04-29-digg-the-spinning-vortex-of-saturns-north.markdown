@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2013-04-29 20:58:41+00:00
-layout: post
 slug: digg-the-spinning-vortex-of-saturns-north
 title: No Content Found
-wordpress_id: 653
 post_format:
 - Image
 ---

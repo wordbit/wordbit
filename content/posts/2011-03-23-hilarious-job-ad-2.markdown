@@ -1,14 +1,10 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-03-23 22:24:24+00:00
 excerpt: 'This is a real job posting. I appreciate the brute honesty because it doesn''t
   sound like a job I''d be that interested in. But some sicko might be. And yes, they
   actually are looking for a "sicko": We want to add some talent to the Sarasota Herald-...'
-layout: post
 slug: hilarious-job-ad-2
 title: Hilarious job ad
-wordpress_id: 12
 tags:
 - employment
 - humour

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-01-21 04:11:05+00:00
-layout: post
 slug: the-real-textbook-dilemma
 title: The real textbook dilemma
-wordpress_id: 680
 tags:
 - Apple
 - education

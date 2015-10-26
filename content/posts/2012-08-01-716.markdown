@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-08-01 21:49:18+00:00
-layout: post
 slug: '716'
 title: No Content Found
-wordpress_id: 716
 post_format:
 - Image
 ---

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-12-30 21:06:21+00:00
-layout: post
 slug: books-ive-read-this-year
 title: Books I've read this year
-wordpress_id: 1239
 ---
 
 According to Goodreads, I managed to read 14 books in 2014. These are the titles (in order of date read):

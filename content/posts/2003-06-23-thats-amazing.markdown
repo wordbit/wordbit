@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-06-23 21:12:00+00:00
-layout: post
 slug: thats-amazing
 title: That's amazing!
-wordpress_id: 470
 ---
 
 I didn't end up going to the K63 building yesterday because Sora sprained her ankle, poor girl, she's so frail. It's funny, she learns a lot of her English phrases from "The Truman Show", her favourite movie. She was horrified when I had a good laugh and told her Jim Carey's English was hardly standard. Especially phrases like "Alrighty then, that's the whole kit and caboodle!" But then I got to thinking, what is standard English? American English? British English? We all use the language in such idiosyncratic ways anyway.    

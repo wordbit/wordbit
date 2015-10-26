@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-01-17 04:35:06+00:00
-layout: post
 slug: why-every-ceo-should-watch-kitchen-nightmares
 title: Why every CEO should watch Kitchen Nightmares
-wordpress_id: 1071
 tags:
 - business
 - Gordon Ramsay

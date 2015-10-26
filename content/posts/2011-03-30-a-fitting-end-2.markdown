@@ -1,14 +1,10 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-03-30 17:14:46+00:00
 excerpt: Serenity is undoubtedly a movie for the fans. After Firefly's abrupt end,
   the absence of any kind of denouement left a gaping hole in the fabric of this fictional
   universe, and left the fans howling for more. This movie does fill that hole somewha...
-layout: post
 slug: a-fitting-end-2
 title: A fitting end
-wordpress_id: 120
 tags:
 - movies
 - review

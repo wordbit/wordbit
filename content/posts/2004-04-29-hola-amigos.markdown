@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2004-04-29 14:38:00+00:00
-layout: post
 slug: hola-amigos
 title: Hola amigos!!!
-wordpress_id: 536
 ---
 
 As you´ve guessed I´m writing this from Mexico and have been here about a week already. We´re currently in Puerto Escondido, this awesome Surfing Mecca on the Oaxacan coast. A lot of gringos around, but otherwise great vibe and the biggest waves I´ve ever seen. Yesterday I wiped out on my boogie-board and I´m sure I cracked a rib after getting hurled beneath several monster waves. I guess I should tone down the risk-factor. Angela got burned to a nice toasty red colour. Well, we haven´t died from the food yet, which by the way, is absolutely amazing. 

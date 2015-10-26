@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-05-01 05:04:19+00:00
-layout: post
 slug: wacky-science
 title: Wacky science
-wordpress_id: 80
 categories:
 - culture
 - technology

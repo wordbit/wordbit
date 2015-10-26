@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-10-31 00:06:18+00:00
-layout: post
 slug: ethics-in-journalism
 title: Ethics in Journalism
-wordpress_id: 583
 tags:
 - writing
 ---

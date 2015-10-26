@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2013-12-05 19:47:18+00:00
-layout: post
 slug: the-rise-of-the-content-curator
 title: The rise of the content curator
-wordpress_id: 1098
 ---
 
 Information overload as a sociological idea has been around since the 19th century. With the rise of urban living, it was feared that city dwellers would become jaded and unable to react to new situations. Fast forward to today. Facebook, Twitter, and RSS feeds bombard us with the raw data of a human hive mind. A smorgasbord of movies is available to watch instantly on Netflix. Spotify and other streaming music services lets you listen to any song you want. Any book you'd ever want to read can be downloaded onto your Kindle in five seconds. Games can be downloaded onto your computer, console, or mobile device in less time than that. The sheer choice available today can be paralyzing.

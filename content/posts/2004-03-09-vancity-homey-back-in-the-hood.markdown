@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2004-03-09 22:37:00+00:00
-layout: post
 slug: vancity-homey-back-in-the-hood
 title: Vancity homey back in the hood
-wordpress_id: 532
 ---
 
 Today I realized I actually am experiencing some sort of reverse culture shock. The thing is, with all the traveling I've done, I'm insensitive to the symptoms, sort of like when you get a cold. You've had a cold so many times before that most of the time you're not cognizant of being ill until you hack up some flem or have to blow your nose.

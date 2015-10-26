@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2013-11-21 00:40:05+00:00
-layout: post
 slug: the-fiction-of-writing-fiction
 title: The fiction of writing fiction
-wordpress_id: 1096
 ---
 
 I am a professional writer. And like most professional writers, my income comes from writing non-fiction. For me, it's mostly technical documents and magazine articles. For others it may be reports, press releases, proposals, business plans and so on - the usual corporate stuff that makes for a gratifying career but doesn't really scratch the creative itch. Very few writers make money writing fiction. I once heard that only a couple of hundred authors_ in the world_ actually live off their royalties. When we read stories in the press about J.K. Rowling being richer than the Queen of England, I think people assume this number would be higher.

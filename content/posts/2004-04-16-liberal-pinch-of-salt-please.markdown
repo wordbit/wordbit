@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2004-04-16 17:23:00+00:00
-layout: post
 slug: liberal-pinch-of-salt-please
 title: Liberal pinch of salt please
-wordpress_id: 534
 ---
 
 Since I don't have a lot to write about these days I hope you'll forgive me if anyone reading this happens to feature in any of my rants. I do it purely for entertainment value only and it's nothing personal. 

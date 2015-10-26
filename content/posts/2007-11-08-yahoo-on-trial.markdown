@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-11-08 19:48:34+00:00
-layout: post
 slug: yahoo-on-trial
 title: Yahoo on trial
-wordpress_id: 90
 categories:
 - politics
 ---

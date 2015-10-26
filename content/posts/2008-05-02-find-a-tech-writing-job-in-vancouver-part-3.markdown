@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-05-02 17:21:41+00:00
-layout: post
 slug: find-a-tech-writing-job-in-vancouver-part-3
 title: Find a tech-writing job in Vancouver - Part 3
-wordpress_id: 160
 categories:
 - employment
 - technical writing

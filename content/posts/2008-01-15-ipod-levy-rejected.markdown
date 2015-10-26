@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-01-15 06:08:19+00:00
-layout: post
 slug: ipod-levy-rejected
 title: iPod levy rejected
-wordpress_id: 119
 categories:
 - politics
 - technology

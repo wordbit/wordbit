@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-04-25 17:10:00+00:00
-layout: post
 slug: is-brijit-liberating-or-enslaving
 title: Is Brijit liberating or enslaving?
-wordpress_id: 155
 categories:
 - freelancing
 - journalism

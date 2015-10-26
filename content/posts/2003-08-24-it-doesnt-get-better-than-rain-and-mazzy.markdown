@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-08-24 12:51:00+00:00
-layout: post
 slug: it-doesnt-get-better-than-rain-and-mazzy
 title: It doesn't get better than rain and mazzy
-wordpress_id: 488
 ---
 
 The rain has become unrelentless and I find myself being awoken by thunderstorms and accompanied by the constant drumming of monsoon rain throughout the day. I love this kind of rain, it cools everything down and cleanses the city. And rainy Sundays are awesome.

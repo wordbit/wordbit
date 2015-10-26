@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-06-12 04:37:34+00:00
-layout: post
 slug: new-miracle-drug
 title: New miracle drug
-wordpress_id: 85
 categories:
 - writing humour
 ---

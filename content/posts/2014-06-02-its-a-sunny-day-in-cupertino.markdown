@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-06-02 22:29:13+00:00
-layout: post
 slug: its-a-sunny-day-in-cupertino
 title: It's a sunny day in Cupertino
-wordpress_id: 1199
 ---
 
 This morning's keynote at Apple's WWDC was all about sharing. And sharing is good, as any mother will tell her three-year old. But in a brilliant play by Apple, the true impetus behind all this sharing is a calculated effort to keep developers on-board and users locked into their ecosystem.

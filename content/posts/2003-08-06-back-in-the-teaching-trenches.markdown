@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-08-06 21:25:00+00:00
-layout: post
 slug: back-in-the-teaching-trenches
 title: Back in the teaching trenches...
-wordpress_id: 483
 ---
 
 Yep, war metaphors are always appropriate in 'teacher discourse'. Well, being back at work isn't that bad. I'm beginning to find that a little caffeine continuously flowing through ones veins allows one to keep up with even the most frenetic kids. Of course I officially have no life, so being a slave to one's current occupation doesn't seem a great sacrifice at this point. Well, let no-one accuse me of being a pessimist, that's what I say.

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-09-12 00:12:33+00:00
-layout: post
 slug: thoughts-on-the-apple-watch
 title: Thoughts on the Apple Watch
-wordpress_id: 1220
 ---
 
 "One more thing..." he said, evoking the classic Steve Jobs catchphrase for the first time since Steve's death. Tim Cook's excitement was palpable, his voice shaking with emotion. When he introduced the Apple Watch as the next step in Apple's story, I believed. Apple was about to change the world again.

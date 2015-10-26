@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2004-02-05 21:35:00+00:00
-layout: post
 slug: stumbling-for-the-finish-line
 title: Stumbling for the finish line
-wordpress_id: 529
 ---
 
 I'm too busy to do much these days although I did manage to play a game of Scrabble in the bar with Sky last night. I had a strong start, but after a few beers, my lexical abilities correspondingly decreased to the point where I was laboriously spelling out the word "c-a-t" on the board for a measly five points. 

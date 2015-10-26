@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2015-07-16 23:28:42+00:00
-layout: post
 slug: lollipop-at-last
 title: Lollipop at last
-wordpress_id: 1285
 ---
 
 ![Screenshot_2015-07-16-15-11-39](https://wordbitarchives.files.wordpress.com/2015/07/screenshot_2015-07-16-15-11-39.png) ![Screenshot_2015-07-16-15-13-14](https://wordbitarchives.files.wordpress.com/2015/07/screenshot_2015-07-16-15-13-14.png) ![Screenshot_2015-07-16-15-16-37](https://wordbitarchives.files.wordpress.com/2015/07/screenshot_2015-07-16-15-16-37.png)

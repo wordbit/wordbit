@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-09-27 03:00:30+00:00
-layout: post
 slug: lets-talk-breakfast
 title: Let's talk breakfast
-wordpress_id: 175
 categories:
 - article
 ---

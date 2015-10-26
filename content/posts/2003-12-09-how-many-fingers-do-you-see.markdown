@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-12-09 22:03:00+00:00
-layout: post
 slug: how-many-fingers-do-you-see
 title: How many fingers do you see?
-wordpress_id: 520
 ---
 
 One amusing thing happened today which stuck with me. I popped out between classes to buy one of my favourite Korean snacks. It's a kind of pastry shaped like a fish with black bean paste inside. I forget the name. Anyway, I asked the guy at the food stand how much it was and he relayed to me that it was 1000 won for four by holding up four fingers. Or was it three fingers? The thing was that he had one finger missing, chopped off at the knuckle. So, I'm thinking, "Does he mean three for a thousand, or four?" Without language as a mediator these small things become quite important. I was so confused by his fingers that a lady next to him held up her four fingers at which point I went "Aaaaah! OK" and we all had a good laugh about it!

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-11-30 00:32:36+00:00
-layout: post
 slug: game-of-thrones-review
 title: Game of Thrones review
-wordpress_id: 230
 categories:
 - books
 - review

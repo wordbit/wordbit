@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-12-15 18:47:12+00:00
-layout: post
 slug: toponym-of-the-day-2
 title: Toponym of the day
-wordpress_id: 613
 tags:
 - Anecdotes
 - Toponyms

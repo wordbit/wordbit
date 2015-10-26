@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-09-25 05:21:31+00:00
-layout: post
 slug: editors-check-your-bullet-lists
 title: Editors, check your bullet lists
-wordpress_id: 174
 categories:
 - editing
 - writing humour

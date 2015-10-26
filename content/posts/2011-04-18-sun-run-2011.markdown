@@ -1,15 +1,11 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-04-18 19:03:49+00:00
 excerpt: I've been running three days a week for about two years now. Last year I
   took the Sun Run more seriously and got a record time:If I want to improve next
   year, then some serious training is in order. Then again, perhaps it's time to retire
   as I've ...
-layout: post
 slug: sun-run-2011
 title: Sun Run 2011
-wordpress_id: 984
 tags:
 - fitness
 - running

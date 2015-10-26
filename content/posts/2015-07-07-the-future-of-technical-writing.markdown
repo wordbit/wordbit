@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2015-07-07 00:53:37+00:00
-layout: post
 slug: the-future-of-technical-writing
 title: The future of Technical Writing
-wordpress_id: 1281
 ---
 
 There's [this website](http://www.npr.org/sections/money/2015/05/21/408234543/will-your-job-be-done-by-a-machine) that will tell you what the odds are of your job being automated in the future. The data for the estimate is derived from an academic paper where the researchers, I'm sure, are smug in the knowledge that robots will never replace university professors. Technical writers, however, will apparently not fare so well:

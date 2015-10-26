@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-10-31 00:04:05+00:00
-layout: post
 slug: another-star-wars-product
 title: Another Star Wars Product
-wordpress_id: 581
 tags:
 - pictures
 ---

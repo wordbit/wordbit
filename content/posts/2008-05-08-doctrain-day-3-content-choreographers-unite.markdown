@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-05-08 07:26:48+00:00
-layout: post
 slug: doctrain-day-3-content-choreographers-unite
 title: DocTrain Day 3 - Content choreographers unite
-wordpress_id: 164
 categories:
 - conference
 - DocTrain West 2008

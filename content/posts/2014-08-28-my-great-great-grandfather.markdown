@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-08-28 18:54:54+00:00
-layout: post
 slug: my-great-great-grandfather
 title: My Great Great Grandfather
-wordpress_id: 1218
 ---
 
 How much do you really know about your ancestors? Were they good or evil? What traits were handed down through generations until they were bestowed upon you - the unique individual reading these words now? This is a question that has piqued the curiosity of many amateur historians and custodians of the family tree. Even if your ancestors made it into the history books, these so-called historical facts are often biased and skewed toward a particular cultural worldview.

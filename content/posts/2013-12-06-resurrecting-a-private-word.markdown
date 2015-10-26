@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2013-12-06 23:53:58+00:00
-layout: post
 slug: resurrecting-a-private-word
 title: Resurrecting A Private Word...
-wordpress_id: 438
 tags:
 - siteupdate
 ---

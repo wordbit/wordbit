@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-05-02 02:12:39+00:00
-layout: post
 slug: writing-challenge-2
 title: 'Writing Challenge #2'
-wordpress_id: 81
 categories:
 - the writing challenge
 ---

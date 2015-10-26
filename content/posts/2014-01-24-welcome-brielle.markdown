@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-01-24 00:41:35+00:00
-layout: post
 slug: welcome-brielle
 title: Welcome Brielle!
-wordpress_id: 444
 tags:
 - Brielle
 ---

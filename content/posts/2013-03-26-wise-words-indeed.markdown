@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: false
 date: 2013-03-26 19:12:31+00:00
-layout: post
 slug: wise-words-indeed
 title: Wise words, indeed
-wordpress_id: 1085
 ---
 
 Justin Freeman answers the question: What are the top 10 things that we should be informed about, in life?

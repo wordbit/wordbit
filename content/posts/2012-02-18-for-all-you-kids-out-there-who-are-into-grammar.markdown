@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-02-18 04:43:00+00:00
-layout: post
 slug: for-all-you-kids-out-there-who-are-into-grammar
 title: No Content Found
-wordpress_id: 660
 post_format:
 - Video
 tags:

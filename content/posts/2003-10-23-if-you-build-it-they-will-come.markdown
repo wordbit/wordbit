@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-10-23 23:03:00+00:00
-layout: post
 slug: if-you-build-it-they-will-come
 title: If you build it they will come...
-wordpress_id: 510
 ---
 
 Today was a field trip day, we took the kids on a train ride up north to Imjingak on the North-South border, the site of the  'freedom bridge' which symbolically links the two countries. They built an amusement park, of all things, up there, so it's a popular spot for school trips. We didn't have to take the train, in fact the school bus dropped us off at the station and met us up at Imjingak, but the train trip was part of the fun for the kids. For adults, riding public transit is a mundane activity, perhaps even an annoyance, but for kids it's an exciting novelty. It was great, all the grannies and grandpas on the train were kidnapping our kids and coddling them.

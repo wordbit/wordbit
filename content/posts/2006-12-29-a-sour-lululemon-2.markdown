@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-12-29 18:58:15+00:00
-layout: post
 slug: a-sour-lululemon-2
 title: A sour Lululemon
-wordpress_id: 623
 tags:
 - Anecdotes
 - Politics

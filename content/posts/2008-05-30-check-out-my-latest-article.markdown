@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-05-30 00:54:37+00:00
-layout: post
 slug: check-out-my-latest-article
 title: Check out my latest article
-wordpress_id: 166
 categories:
 - article
 - site Announcements

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-12-17 18:48:42+00:00
-layout: post
 slug: longest-place-name-in-the-world-2
 title: Longest place name in the world
-wordpress_id: 615
 tags:
 - Toponyms
 ---

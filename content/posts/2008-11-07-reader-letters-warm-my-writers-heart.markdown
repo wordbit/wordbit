@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-11-07 04:36:20+00:00
-layout: post
 slug: reader-letters-warm-my-writers-heart
 title: Reader letters warm my writer's heart
-wordpress_id: 180
 categories:
 - article
 - inspiration

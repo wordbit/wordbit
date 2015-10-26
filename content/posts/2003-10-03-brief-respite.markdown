@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2003-10-03 13:42:00+00:00
-layout: post
 slug: brief-respite
 title: Brief Respite
-wordpress_id: 504
 ---
 
 It's a long week-end because today is a public holiday, 'foundation of Korea day' I believe. I've just slept for twelve hours trying to shake off a bad headache but unfortunately I woke up with it. Oh well, nuff said on inane health issues.

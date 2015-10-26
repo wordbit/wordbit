@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2008-11-18 04:37:46+00:00
-layout: post
 slug: culture-shockat-work
 title: Culture shock...at work
-wordpress_id: 183
 categories:
 - culture
 - employment

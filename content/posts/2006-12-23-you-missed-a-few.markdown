@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2006-12-23 07:49:00+00:00
-layout: post
 slug: you-missed-a-few
 title: You missed a few
-wordpress_id: 574
 ---
 
 I don't really post in here as often as in [wordspace](http://wordspace.awardspace.com/), and when I do the entries are mostly duplicated. To be honest, I'm having a little trouble posting pictures and videos in this journal, but I'd like to keep it alive. So, I've decided to post updates periodically, but you're going to have to go to wordspace to read the actual entry. Sorry about that. If the entry is text only, chances are you can find it here too.

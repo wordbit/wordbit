@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-12-29 00:23:00+00:00
-layout: post
 slug: which-kindle-is-the-best
 title: Which kindle is the best?
-wordpress_id: 693
 tags:
 - kindle
 - review

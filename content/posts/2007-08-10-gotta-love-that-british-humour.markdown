@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2007-08-10 21:20:48+00:00
-layout: post
 slug: gotta-love-that-british-humour
 title: Gotta love that British humour
-wordpress_id: 87
 categories:
 - podcast
 - resources

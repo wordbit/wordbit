@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2015-05-12 20:40:50+00:00
-layout: post
 slug: '1271'
 title: '2015 Flagship 3: LG G4'
-wordpress_id: 1271
 ---
 
 ![LG G4](https://wordbitarchives.files.wordpress.com/2015/05/lg-g4.jpg)

@@ -1,14 +1,10 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2011-07-09 22:24:00+00:00
 excerpt: A smile from Mia is a rare sighting, but less so as the days go by. Her good-morning
   smile is the most exuberant, but she has a special smile reserved for the kind soul
   who changes her diaper as well.
-layout: post
 slug: the-elusive-mia-smile
 title: The elusive Mia smile
-wordpress_id: 1052
 tags:
 - mia
 ---

@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2012-02-08 05:14:05+00:00
-layout: post
 slug: the-wolf-parable
 title: The wolf parable
-wordpress_id: 664
 tags:
 - Cherokee
 - legend

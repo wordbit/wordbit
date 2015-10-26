@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2014-04-07 21:54:34+00:00
-layout: post
 slug: netflix-needs-streaming-rentals-now
 title: Netflix needs streaming rentals now
-wordpress_id: 1182
 ---
 
 People love Netflix - the UI is fantastic, the cross-platform support is seamless, and the price is competitive. They're creating critically-acclaimed shows, such as _House of Cards_, as exclusive properties to build cachet as an HBO-style player. They kickstarted the binge-watching phenomenon and have even compelled writers to redefine the conventional narrative arc of a series in light of unconventional viewing habits. But one area where they are still sorely lacking is in bringing decent new movies to the table.
