@@ -13,6 +13,9 @@
 <li>
   <span><h2><a href='{{ .Permalink }}'> {{ .Title }}</a> </h2></span>
   <span class="left">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
+  
+  <!-- Antoine: Note that I am disabling categories for now
+  
   <span class="right">
     <ul class="catlist">
       {{ range .Params.categories }}
@@ -20,6 +23,8 @@
       {{ end }}
     </ul>
   </span>
+  
+  -->
 
   <br />
   {{ .Description }}
