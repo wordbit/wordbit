@@ -1,11 +1,7 @@
 ---
-author: wordbitmaster
-comments: true
 date: 2015-09-25 21:47:22+00:00
-layout: post
 slug: 2015-flagship-4-iphone-6s
 title: '2015 Flagship 4: iPhone 6S'
-wordpress_id: 1296
 ---
 
 ![iphone6s](https://wordbitarchives.files.wordpress.com/2015/09/iphone6s.jpg)
