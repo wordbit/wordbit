@@ -1,26 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on wordbit</title>
-    <link>http://wordbit.com/posts/</link>
-    <description>Recent content in Posts on wordbit</description>
+    <title>Flux on wordbit</title>
+    <link>http://wordbit.com/categories/flux/</link>
+    <description>Recent content in Flux on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 25 Oct 2015 12:57:24 +0000</lastBuildDate>
-    <atom:link href="http://wordbit.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>wordbit is experiencing some technical difficulties</title>
-      <link>http://wordbit.com/posts/technical-difficulties/</link>
-      <pubDate>Sun, 25 Oct 2015 12:57:24 +0000</pubDate>
-      
-      <guid>http://wordbit.com/posts/technical-difficulties/</guid>
-      <description>&lt;p&gt;Hello there. I&amp;rsquo;m experiencing some technical difficulties. All will be revealed soon.&lt;/p&gt;
-
-&lt;p&gt;In the meantime, you can visit &lt;a href=&#34;http://wordbitlog.wordpress.com/&#34;&gt;a clone of my blog here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;New posts will be forthcoming as soon as I sort things out.&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Tue, 10 Feb 2015 10:49:00 +1300</lastBuildDate>
+    <atom:link href="http://wordbit.com/categories/flux/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Building Apps with Riot, ES6 and Webpack</title>
