@@ -7,7 +7,7 @@ title: The future of Technical Writing
 There's [this website](http://www.npr.org/sections/money/2015/05/21/408234543/will-your-job-be-done-by-a-machine) that will tell you what the odds are of your job being automated in the future. The data for the estimate is derived from an academic paper where the researchers, I'm sure, are smug in the knowledge that robots will never replace university professors. Technical writers, however, will apparently not fare so well:
 
 
-![techwriters](https://wordbitarchives.files.wordpress.com/2015/07/techwriters.jpg)
+![techwriters](/images/techwriters.jpg)
 
 
 
@@ -22,7 +22,7 @@ This cartoon neatly sums up our awkward collective identity crisis:
 
 
 
-![chickenconversation](https://wordbitarchives.files.wordpress.com/2015/07/chickenconversation.jpg)
+![chickenconversation](/images/chickenconversation.jpg)
 
 
 

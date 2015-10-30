@@ -4,7 +4,7 @@ slug: 2015-flagship-4-iphone-6s
 title: '2015 Flagship 4: iPhone 6S'
 ---
 
-![iphone6s](https://wordbitarchives.files.wordpress.com/2015/09/iphone6s.jpg)
+![iphone6s](/images/iphone6s.jpg)
 
 As I alluded to in my last post, the very definition of a "flagship" has perceptively shifted this past year.
 
