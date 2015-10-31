@@ -4,7 +4,7 @@ slug: 2015-flagship-2-samsung-galaxy-s6
 title: '2015 Flagship 2: Samsung Galaxy S6'
 ---
 
-![samsung_galaxy_s6](https://wordbitarchives.files.wordpress.com/2015/04/samsung_galaxy_s6.png)
+![samsung_galaxy_s6](/images/samsung_galaxy_s6.png)
 
 
 
@@ -26,55 +26,23 @@ The S6 Edge - a pricier variant of the S6 with a curved display - presents a rat
 
 As with most Android phones, Samsung went with some heavy-hitting specs to brute force a smooth experience for the user. Let's take a look:
 
+**Operating system:** Android 5.0.2
 
+**Display:** 5.1-inch 2560 x 1440 pixel Super AMOLED display
 
+**Processor:** Exynos 14nm 64-bit Octa Core
 
-- Android 5.0.2
+**Memory:** 3GB DDR4 RAM / 32-128GB internal storage
 
+**Rear camera:** 16MP rear Sony IMX240 sensor w/ F1.9 lens, Optical Image Stabilization
 
+**Front-facing camera:** 5MP front camera
 
+**Battery:** 2,550mAh non-removable battery
 
-- 5.1-inch 2560 x 1440 pixel Super AMOLED display
+**Size:** 143.4 x 70.5 x 6.8mm
 
-
-
-
-- Exynos 14nm 64-bit Octa Core
-
-
-
-
-- 3GB DDR4 RAM / 32-128GB internal storage
-
-
-
-
-- 16MP rear Sony IMX240 sensor w/ F1.9 lens, Optical Image Stabilization
-
-
-
-
-- 5MP front camera
-
-
-
-
-- UHD 4K @ 30fps, 1080p @ 60fps, 720p @ 120fps video capture
-
-
-
-
-- 2,550mAh non-removable battery
-
-
-
-
-- 143.4 x 70.5 x 6.8mm
-
-
-
-
-- 138 grams
+**Weight:** 138 grams
 
 
 

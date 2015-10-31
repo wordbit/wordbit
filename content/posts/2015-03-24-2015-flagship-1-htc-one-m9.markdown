@@ -4,31 +4,29 @@ slug: 2015-flagship-1-htc-one-m9
 title: '2015 Flagship 1: HTC One M9'
 ---
 
-![htc_one_m9](https://wordbitarchives.files.wordpress.com/2015/03/htc_one_m9.jpg)
+![htc_one_m9](/images/htc_one_m9.jpg)
 
 The HTC One M9 is the first flagship of 2015, and it's a beauty. By retaining the same curved aluminum shell and two front-facing speakers as last year's M8, HTC is making a bold statement: We don't need to improve on an already impeccable design. And for the most part, they're right - if going on looks alone, there's no doubt that this is a premium phone.
 
 The internals, however, have been upgraded with the following specs:
 
-- Android 5.0.2 w/ Sense 7.0
+**Operating system:** Android 5.0.2 w/ Sense 7.0
 
-- 5-inch 1920×1080 pixel SuperLCD 3 panel, 441 pixels per inch
+**Display:** 5-inch 1920×1080 pixel SuperLCD 3 panel, 441 pixels per inch
 
-- Qualcomm Snapdragon 810 SoC, 64-bit, octa core
+**Processor:** Qualcomm Snapdragon 810 SoC, 64-bit, octa core
 
-- 3GB RAM / 32GB internal storage (expandable via microSD)
+**Memory:** 3GB RAM / 32GB internal storage (expandable via microSD)
 
-- 20.7MP rear camera sensor, F2.2 lens
+**Rear camera:** 20.7MP rear camera sensor, F2.2 lens
 
-- 4MP front-facing UltraPixel sensor, F2.0 fixed-focus lens
+**Front-facing camera:** 4MP front-facing UltraPixel sensor, F2.0 fixed-focus lens
 
-- 4K UHD video capture, 2160p @ 30fps, 1080p @ 60fps, 720p @ 120fps
+**Battery:** 2,840mAh non-removable battery, Fast Charge support
 
-- 2,840mAh non-removable battery, Fast Charge support
+**Size:** 144.6 x 69.7 x 9.6mm
 
-- 144.6 x 69.7 x 9.6mm
-
-- 157 grams
+**Weight:** 157 grams
 
 The reviews are saying that this phone screams - and it should; Eight cores, good god, that's more processing power than my quad-core iMac. I knew the day would come when smartphones out-spec my computer, but it still blows my mind. There were reports of the Snapdragon 810 overheating when running certain benchmarks, but it looks like they fixed that with a software update.
 

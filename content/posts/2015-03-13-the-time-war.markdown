@@ -14,7 +14,7 @@ One of the questions being raised is who would actually buy the Apple Watch Edi
 
 The compelling subtext here is Apple's utter braggadocio in peddling Veblen goods to the one percent - surely a signal to the world that the company is now the reigning King and no longer the underdog of yesteryears. But I digress - back to the time war.
 
-The Apple Watch, or indeed any smartwatch, is another contender for your attention. But how useful is it really? [My earlier thoughts](http://wordbit.com/thoughts-on-the-apple-watch/) on the Apple Watch still hold true. I'd like to expand on the idea of attention a little bit more though.
+The Apple Watch, or indeed any smartwatch, is another contender for your attention. But how useful is it really? [My earlier thoughts]({{< relref "2014-09-12-thoughts-on-the-apple-watch.markdown" >}}) on the Apple Watch still hold true. I'd like to expand on the idea of attention a little bit more though.
 
 At any given moment of the day, you are attending to something.
 
