@@ -20,7 +20,7 @@ Now a sarcastic insult to mock those who don't know how internet culture works, 
 
 Honourable mention: [Havidol.com](http://Havidol.com).
 
-I first came across this satirical site [back in 2007](http://wordbit.freehostia.com/new-miracle-drug/), but I was surprised to find that it's still around. This parody campaign for a fictional medication actually fooled a number of people into thinking they had this disorder. I'm actually glad this site is still up because the concept is far cleverer than some of these other examples.
+I first came across this satirical site [back in 2007]({{< relref "2007-06-12-new-miracle-drug.markdown" >}}), but I was surprised to find that it's still around. This parody campaign for a fictional medication actually fooled a number of people into thinking they had this disorder. I'm actually glad this site is still up because the concept is far cleverer than some of these other examples.
 
 And now, I mentioned an internet gag that should have died weeks ago? Remember that mysterious button in _Lost_ that had to be pushed every 108 minutes or the world would end?  Reddit's April Fool's joke this year was to host a button with a sixty-second counter. Every Reddit user only has one click to reset the button to 60. Once the button counts down to zero...nobody know what will happen. Because it hasn't happened yet. Yes, people are still clicking [the button](http://www.reddit.com/r/thebutton).
 
