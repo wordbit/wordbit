@@ -4,7 +4,7 @@ slug: the-intersection-of-vr-and-ai
 title: The intersection of VR and AI
 ---
 
-The ultimate dystopian future has to be the one where the culmination of Virtual Reality (VR) and Artificial Intelligence (AI) results in our unwitting enslavement by a machine mind. Fifteen years ago, _The Matrix_ nailed it brilliantly:
+The ultimate dystopian future has to be the one where the culmination of Virtual Reality (VR) and Artificial Intelligence (AI) results in our unwitting enslavement by a machine mind. Fifteen years ago, *The Matrix* nailed it brilliantly:
 
 In this - dare I say - cult classic, the god-like AI, having far surpassed humanity's cognitive abilities, views people as nothing more than a power source. To maintain control over us, the AI creates the ultimate VR simulation. In this case, VR is indistinguishable from reality because it uses a neural interface - the machine plugs directly into our brain and provides all the sensory data our bodies would usually generate.
 
@@ -16,7 +16,7 @@ When [Oculus Rift](https://www.oculus.com/) debuted three years ago, on Kickstar
 
 But the Oculus Rift looks downright antiquated compared to Microsoft's recently-announced [HoloLens](http://www.microsoft.com/microsoft-hololens/en-us), a VR headset that projects holograms into your physical environment. It also makes Google Glass look a silly toy. I think it's fair to say that Microsoft surprised everybody with this, especially as it seems to be exactly what [Magic Leap](http://www.magicleap.com/#/home) is working on, and Magic Leap is still keeping their cards very close to their chest.
 
-The key differences between Oculus Rift and HoloLens is that the former projects light on your eyes from a traditional LCD screen, whereas the latter projects images made of light onto a transparent screen in front of your eyes. In_ Ready Player One_, the fictional VR headset used lasers to draw an image directly on your eyes. It seemed a bit ludicrous when I read it at the time, but now I'm not so sure.
+The key differences between Oculus Rift and HoloLens is that the former projects light on your eyes from a traditional LCD screen, whereas the latter projects images made of light onto a transparent screen in front of your eyes. In *Ready Player One*, the fictional VR headset used lasers to draw an image directly on your eyes. It seemed a bit ludicrous when I read it at the time, but now I'm not so sure.
 
 When you bring AI into the picture, then some amazing possibilities emerge. In the late 1980s a computer beat a human at chess. It was a big deal. Since then, AI has sort of faded into the background. But it is all around us now and we just take it for granted. When a machine learns from its experiences and adapts, it is gaining in intelligence. The humble spam filter in your email is a low-level form of AI because it quickly learns that Nigerian scam emails go to your Junk folder instead of your Inbox.
 

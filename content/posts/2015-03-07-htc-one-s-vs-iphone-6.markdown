@@ -8,7 +8,7 @@ At the end of this year, I'll finally be upgrading to a new phone. After three y
 
 I'll be blogging about all the flagship contenders that come out this year in a series of blog posts, then decide on the winner by December. In the meantime, here's a fun comparison between my three-year old mid-tier phone and the latest iPhone. The results are actually quite surprising:
 
-![table](/images/table.png)
+<img src="/images/table.png" alt="Table" style="width: 800px;"/>
 
 Now, I'll freely admit that I've cherry picked the specs listed here, but most of these are essential hardware requirements.
 
