@@ -1,3 +1,9 @@
+---
+date: 2015-11-01 18:49:22+00:00
+slug: work-update
+title: 'Work update'
+---
+
 I blog about work very sparely, and I think most people would agree that saying too much can lead into dangerous territory. So, I tend to avoid it unless I have something general to say that doesn't touch on any work projects. But I would be remiss in my blogging duties not to mention that I have a new job.
 
 I started working as a technical writer at Vtech seven years ago - here's [a post]({{< relref "2008-06-18-new-job.markdown" >}}) I wrote when I first got the job, and [another]({{< relref "2008-07-15-what-i-do.markdown" >}}) I wrote about a month in.
