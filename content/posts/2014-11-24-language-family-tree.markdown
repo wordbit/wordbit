@@ -6,4 +6,7 @@ post_format:
 - Image
 ---
 
-[![](http://mentalfloss.com/sites/default/files/196.jpg)](http://mentalfloss.com/sites/default/files/196.jpg)
+Ever wondered what the evolutionary tree of language looks like? Wonder no longer.
+
+
+[<img src="/images/196.jpg" alt="Language Tree" style="width: 800px;"/>](/images/196.jpg)
