@@ -5,8 +5,40 @@
     <link>http://wordbit.com/</link>
     <description>Recent content on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 27 Oct 2015 21:28:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2015 18:49:22 +0000</lastBuildDate>
     <atom:link href="http://wordbit.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Work update</title>
+      <link>http://wordbit.com/posts/work-update/</link>
+      <pubDate>Sun, 01 Nov 2015 18:49:22 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/work-update/</guid>
+      <description>&lt;p&gt;I blog about work very sparely, and I think most people would agree that saying too much can lead into dangerous territory. So, I tend to avoid it unless I have something general to say that doesn&amp;rsquo;t touch on any work projects. But I would be remiss in my blogging duties not to mention that I have a new job.&lt;/p&gt;
+
+&lt;p&gt;I started working as a technical writer at Vtech seven years ago - here&amp;rsquo;s &lt;a href=&#34;http://wordbit.com/posts/new-job/&#34;&gt;a post&lt;/a&gt; I wrote when I first got the job, and &lt;a href=&#34;http://wordbit.com/posts/what-i-do/&#34;&gt;another&lt;/a&gt; I wrote about a month in.&lt;/p&gt;
+
+&lt;p&gt;Vtech has been very good to me and the people there are great, but last month the time came for me to move on. I worked on some great projects and enjoyed becoming a somewhat accomplished User Interface designer. My last project was a touchscreen phone which I designed from scratch - largely on my own. Now that I&amp;rsquo;m no longer working there, perhaps I&amp;rsquo;ll write a post sometime about it.&lt;/p&gt;
+
+&lt;p&gt;Anyway, wanting to work closer to home, and learn some new skills, I accepted a job as the sole technical writer at &lt;a href=&#34;http://www.kongsbergmesotech.com/&#34;&gt;Kongsberg Mesotech&lt;/a&gt;. They&amp;rsquo;re a subsidiary of Kongsberg, a major defence contractor for Norway and a high-tech company with &lt;a href=&#34;http://200.kongsberg.com/&#34;&gt;a 200-year old history&lt;/a&gt;. I had to go through security clearance and sign an NDA, so I definitely won&amp;rsquo;t be talking about their projects here either, but I can say that I&amp;rsquo;m working primarily with underwater sonar systems.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m really liking it. The commute is a dream compared to the absolute grind I had before. And I still get to go on my thrice-weekly runs - this time off-street on the portion of the Trans-Canada Trail that runs through Port Coquitlam.&lt;/p&gt;
+
+&lt;p&gt;When I started at Vtech, they&amp;rsquo;d never had a technical writer before, so it took a while to integrate myself into the product development cycle. My new company has also never had a technical writer before, but this time, I come armed with lots of experience and confidence (cause y&amp;rsquo;all know I&amp;rsquo;m a good writer, right? RIGHT?).&lt;/p&gt;
+
+&lt;p&gt;The senior information developer in Norway has been very supportive and indeed, the documentation team has a ton of resources, such as style guides, templates, etc. I especially appreciate the international support here because I got absolutely no support from the Hong Kong documentation team at Vtech (that isn&amp;rsquo;t good or bad - it&amp;rsquo;s just the way it was - hence the pleasant surprise).&lt;/p&gt;
+
+&lt;p&gt;In fact, I will be flying to Norway for a two-week training session before the end of the year. It will be hard to be away from my family for so long, but am happy to be making face-to-face contact with the Norway team and learning valuable skills to boot.&lt;/p&gt;
+
+&lt;p&gt;What skills though? This might get a bit technical, so if you&amp;rsquo;re not a fellow technical writer, you can probably stop reading.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll be migrating all legacy documentation to single-sourced structured DITA authoring. The XML editor I&amp;rsquo;ll be using is &lt;a href=&#34;http://www.ptc.com/product/arbortext/author/editor&#34;&gt;Arbortext&lt;/a&gt;. I don&amp;rsquo;t have much practical experience with DITA. Although, DITA was so hot in the technical writer world a few years back, so I did research into implementing it at Vtech. Ultimately, I decided the time investment and practical application wasn&amp;rsquo;t worth it. This time, I hope things go better - and I will have more training and support of course.&lt;/p&gt;
+
+&lt;p&gt;Interestingly, Kongsberg uses the Simplified Technical English (STE) standard from the Aerospace and Defence Industries Association of Europe (ASD). I have to say though, that their guidelines do not bleed over at all into user interface design because &lt;a href=&#34;http://www.asd-ste100.org/&#34;&gt;their website&lt;/a&gt; is absolutely horrid.&lt;/p&gt;
+
+&lt;p&gt;So, a steep learning curve, but lots of structure in place, which is fantastic. Additional areas I could push for training is photography and 3D modelling because the resources for manual illustrations aren&amp;rsquo;t so great. But I have enough on my plate for now - and that&amp;rsquo;s all you could ask for in your job, really - to be happily occupied. I do love my job and sometimes a change is just what you need to re-energize your career.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Banned for blogging about Apple</title>
@@ -545,88 +577,6 @@
 &lt;p&gt;My HTC One S has become slow and lags in a number of areas. Heck, even the ringtone stutters and crackles when the phone rings. The undeniable truth is that specs don&amp;rsquo;t matter. By integrating both the hardware and software, Apple can focus on the user experience from the ground up and is utterly aloof from the spec war. Android phones must have killer specs because only overkill will guarantee a great user experience - like hitting a nail with Mjölnir. By flashing a custom ROM onto my phone, I&amp;rsquo;ve further divorced the software from the hardware. The camera, in particular, has gone from not-bad to atrocious.&lt;/p&gt;
 
 &lt;p&gt;Allow me to emphasize: I&amp;rsquo;m no fanboy of either Android or Apple and am a user of both platforms. Each have their merits and drawbacks. And I don&amp;rsquo;t regret going the custom ROM route. But in the year to come, when I&amp;rsquo;m taking a cold, hard look at the flagships - I&amp;rsquo;m not going to take the specs that seriously. A 20MP camera is useless without proper image processing. More RAM is useless if it drains the battery. When you design a phone, there are many tough choices to be made, but if you&amp;rsquo;re not putting the user experience first, then you&amp;rsquo;re making the wrong ones.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Driverless cars in Sci-Fi movies</title>
-      <link>http://wordbit.com/posts/driverless-cars-in-sci-fi-movies/</link>
-      <pubDate>Sat, 14 Feb 2015 00:49:35 +0000</pubDate>
-      
-      <guid>http://wordbit.com/posts/driverless-cars-in-sci-fi-movies/</guid>
-      <description>&lt;p&gt;Cars are so integral to American culture, that it&amp;rsquo;s no surprise they often appear in Hollywood movies about the future. But with self-driving cars rapidly gaining traction (sorry) in the public imagination, we are getting a better idea of what a realistic future of autonomous vehicles may look like. So, the question is, which science fiction movies got it right, and who got it wrong?&lt;/p&gt;
-
-&lt;p&gt;Before we can answer this question, we need to establish a few things.&lt;/p&gt;
-
-&lt;p&gt;Firstly, we need to determine a plausible future date where the majority of vehicles on the road will be autonomous. Navigant, a market research think tank, has studied the emerging technology of self-driving cars and has &lt;a href=&#34;https://www.navigantresearch.com/newsroom/three-quarters-of-vehicles-sold-in-2035-are-expected-to-have-autonomous-capability&#34;&gt;concluded&lt;/a&gt; that by 2035, at least 75 percent of all cars sold will be autonomous. So, let&amp;rsquo;s go with that general time frame as the future date when self-driving cars are more or less mainstream.&lt;/p&gt;
-
-&lt;p&gt;Secondly, we will be focusing exclusively on American science fiction movies, so any depictions of self-driving cars in other genres or mediums is out. So, no &lt;em&gt;Christine&lt;/em&gt;, arguably the most terrifying depiction of a driverless car. And no Benny the Cab from &lt;em&gt;Who Framed Roger Rabbit&lt;/em&gt;, or &lt;em&gt;Herby&lt;/em&gt;, even if they are pretty cute sentient cars. And, although Kitt from &lt;em&gt;Knight Rider&lt;/em&gt; is actually a pretty realistic autonomous vehicle, he appears on television. But Kitt is still awesome, even if the 80s are long gone, so it would be remiss not to mention him.&lt;/p&gt;
-
-&lt;p&gt;Thirdly, the science fiction movie in question should sincerely attempt to depict our future society, although there is room for some artistic license of course. The movie is usually set in a specific year, so that will be taken into account when comparing the depicted year with our proposed 2035 date.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Who got it wrong:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Here are the movies that didn&amp;rsquo;t quite hit the mark (in chronological order).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Timecop (set in 2004)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/timecop.jpg&#34; alt=&#34;Timecop&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The voice-controlled driverless cars in Timecop not only look hideous but arrived too early in our timeline. We didn&amp;rsquo;t even have the iPhone in 2004.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Interstellar (set in 2034)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/interstellar.jpg&#34; alt=&#34;interstellar&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Okay, so 2034 is one year shy of our 2035 date. But, still. I find it hard to believe the amazing aerospace tech shown in the movie, as well as the tech in autonomous drones, and fully-fledged AI robots didn&amp;rsquo;t filter down to the auto industry.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gattaca (set in the mid to late 21st century)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/gattaca.jpg&#34; alt=&#34;gattaca&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The cars that Uma Thurman and Ethan Hawke drive are definitely stylish, but come off as decidedly old school. In a society dedicated to creating perfect humans through genetic engineering, you&amp;rsquo;d think they would also pimp their rides too.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Total Recall (set in 2084)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/total_recall.jpg&#34; alt=&#34;total_recall&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Total Recall did predict driverless cars, so no problem there. But the creepy android taxi driver is just comical (which suits the tone of the movie, I guess). But seriously, everybody knows skeuomorphism is so 2007.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Judge Dredd (set in 2139)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/judge_dredd.jpg&#34; alt=&#34;judge_dredd&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s 124 years in the future and not only do people still drive themselves around but a futuristic douchebag gets busted for DUI - an unlikely occurrence in a future where the designated driver should be an anachronism. So unrealistic.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Who got it right:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Here are the movies that nailed it, also in chronological order.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Demolition Man (set in 2032)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/demolitionman.jpg&#34; alt=&#34;DemolitionMan&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A few years shy of 2035, but Sandra Bullock demonstrates an extremely believable scenario when she takes a video chat in her autonomous police car, complete with a Siri-like voice assistant. Cheesy movie, but the car tech is spot on.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;I, Robot (set in 2035)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/irobot.jpg&#34; alt=&#34;iRobot&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The futuristic Audi that Will Smith drives in &lt;em&gt;I, Robot&lt;/em&gt; is simply badass. This autonomous car actually feels quite familiar and is entirely believable. And look at the year when this movie is set - 2035! Bang on.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Minority Report (set in 2054)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/minority_report.jpg&#34; alt=&#34;Minority Report&#34; style=&#34;width: 800px;&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;The driverless cars in this awesome movie are super high-tech and even deliver you straight to your condo window by driving up the side of the building. Perhaps a little ambitious for only 39 years from now, but probably the coolest depiction of autonomous vehicles in any sci-fi movie.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Logan&amp;rsquo;s Run (set in 2274)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/logansrun.jpg&#34; alt=&#34;logansrun&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;You have to give props to a movie that came out in 1976 but accurately predicted the advent of the autonomous vehicle. And that design has definitely stood the test of time, although maybe doesn&amp;rsquo;t have the best crash-test ratings.&lt;/p&gt;
-
-&lt;p&gt;These movies offer an intriguing glimpse into the possible future of autonomous vehicles. If I was to announce a winner, however, I&amp;rsquo;d probably go with &lt;em&gt;I, Robot&lt;/em&gt; for believability and for fitting perfectly in the proposed timeframe. One thing is for sure, if I make it to 2035, I&amp;rsquo;ll be looking back on this blog post and writing a follow-up post to discuss what actually panned out!&lt;/p&gt;
 </description>
     </item>
     
