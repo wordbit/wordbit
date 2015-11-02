@@ -7,7 +7,9 @@ title: Lollipop at last
 <img src="/images/screenshot_2015-07-16-15-11-39.png" alt="Screenshot 1" style="width: 250px;"/> <img src="/images/screenshot_2015-07-16-15-13-14.png" alt="Screenshot 2" style="width: 250px;"/> <img src="/images/screenshot_2015-07-16-15-16-37.png" alt="Screenshot 3" style="width: 250px;"/> 
 
 
-I've been excited to try out Lollipop for a long time, especially after delving deep into Google's new design language, dubbed Material Design, and even using it in my own user interface design projects. But that is precisely the problem with Android, unless you're using a Nexus, you have to wait a long, long time before getting the latest. All told, it takes roughly one year for most Android users to catch up. So, when "Android M" was announced, I knew my time was near. Except, it wasn't.
+I've been excited to try out Lollipop for a long time, especially after delving deep into Google's new design language, dubbed Material Design, and even using it in my own user interface design projects. But that is precisely the problem with Android, unless you're using a Nexus, you have to wait a long, long time before getting the latest. All told, it takes roughly one year for most Android users to catch up. So, when "Android M" was announced, I knew my time was near. Except, it wasn't. 
+
+<!--more-->
 
 
 In case you haven't been following along (shocking, I know), I'm currently using Cyanogenmod to extend the life of my One S, which HTC wantonly threw into the obsolescence pile after [barely a year](http://mobilesyrup.com/2013/07/02/this-is-the-end-htc-one-s-wont-get-android-4-2-update/) of support. Wading into the murky pool of aftermarket ROMs is daunting in and of itself, but now I've fully come to realize how inconsistent and whimsical placing your trust into a ragtag bunch of humble volunteers truly is.
