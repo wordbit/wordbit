@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Design on wordbit</title>
+    <link>http://wordbit.com/categories/web-design/</link>
+    <description>Recent content in Web Design on wordbit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 07 Mar 2008 21:57:00 +0000</lastBuildDate>
+    <atom:link href="http://wordbit.com/categories/web-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Colour, culture, web design</title>
+      <link>http://wordbit.com/posts/colour-culture-web-design/</link>
+      <pubDate>Fri, 07 Mar 2008 21:57:00 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/colour-culture-web-design/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://wordbitarchives.files.wordpress.com/2008/03/d8fb1-palette.gif&#34;&gt;&lt;img src=&#34;http://wordbitarchives.files.wordpress.com/2008/03/d8fb1-palette.gif?w=199&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;The cultural differences in the perception of colour are well known to anthropologists. Red, for example is bold and signifies anger in the West, but is considered lucky in the East, especially in China. But do web designers take the cultural colour faux pas into consideration? They should. Especially if designing for international clients. After all, colour is a tricky beast and just because you happen to be in love with mauve, it doesn&amp;rsquo;t mean your client will. Even if your client doesn&amp;rsquo;t live across the planet, chances are they might not be that crazy about the latest trends in web design (more white space, anyone?).  The best thing you can do is create a colour scheme right off the bat, even before you dive into dreamweaver and blindly start clicking the colour palette. Once the client signs off on the colour scheme, you&amp;rsquo;re good to go.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jakob Nielson - usability guru</title>
+      <link>http://wordbit.com/posts/jakob-nielson-usability-guru/</link>
+      <pubDate>Fri, 01 Feb 2008 20:29:00 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/jakob-nielson-usability-guru/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://wordbitarchives.files.wordpress.com/2008/02/jakob_nielsen.jpg&#34;&gt;&lt;img src=&#34;http://wordbitarchives.files.wordpress.com/2008/02/jakob_nielsen.jpg?w=240&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;Jakob Nielson is a web usability consultant who believes that page loading times should determine how a website is designed. To improve the user experience, for example, he advocates against using large graphics or fancy flash animations (among other things) because most users don&amp;rsquo;t have broadband. His work is important because it focuses on the most efficient way for users to navigate the web and websites. Partly as a result of his teachings, website designers have moved away from bloated graphic-heavy websites to cleaner, more intuitive interfaces.&lt;/p&gt;
+
+&lt;p&gt;Nielson left his job as an engineer at Sun Microsystems to become a consultant. He helps businesses maximize their ROI on web redesigns for usability. He has a large following in web design circles but has come under some criticism for rejecting aesthetics at the expense of perfecting the user interface.&lt;/p&gt;
+
+&lt;p&gt;A look at &lt;a href=&#34;http://www.useit.com/&#34;&gt;his website&lt;/a&gt; will tell you a lot about his design aesthetic.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
