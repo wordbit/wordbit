@@ -8,6 +8,8 @@ I blog about work very sparely, and I think most people would agree that saying 
 
 I started working as a technical writer at Vtech seven years ago - here's [a post]({{< relref "2008-06-18-new-job.markdown" >}}) I wrote when I first got the job, and [another]({{< relref "2008-07-15-what-i-do.markdown" >}}) I wrote about a month in.
 
+<!--more-->
+
 Vtech has been very good to me and the people there are great, but last month the time came for me to move on. I worked on some great projects and enjoyed becoming a somewhat accomplished User Interface designer. My last project was a touchscreen phone which I designed from scratch - largely on my own. Now that I'm no longer working there, perhaps I'll write a post sometime about it.
 
 Anyway, wanting to work closer to home, and learn some new skills, I accepted a job as the sole technical writer at [Kongsberg Mesotech](http://www.kongsbergmesotech.com/). They're a subsidiary of Kongsberg, a major defence contractor for Norway and a high-tech company with [a 200-year old history](http://200.kongsberg.com/). I had to go through security clearance and sign an NDA, so I definitely won't be talking about their projects here either, but I can say that I'm working primarily with underwater sonar systems.
