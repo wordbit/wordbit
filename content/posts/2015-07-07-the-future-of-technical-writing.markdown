@@ -12,7 +12,7 @@ There's [this website](http://www.npr.org/sections/money/2015/05/21/408234543/wi
 
 
 
-But then again, most technical writers seem to be the self-deprecating sort who suspect that their profession is perpetually sliding from obscurity into obsolescence anyway. Obscure, you say? Let's not kid ourselves. Even our job title has been co-opted by the so called "tech writer", who is actually not a technical writer at all, but a journalist who covers technology. We may casually call ourselves tech writers, but in the public parlance, tech writers are widely known as those guys who write at The Verge and Gizmodo.
+But then again, most technical writers seem to be the self-deprecating sort who suspect that their profession is perpetually sliding from obscurity into obsolescence anyway. <!--more--> Obscure, you say? Let's not kid ourselves. Even our job title has been co-opted by the so called "tech writer", who is actually not a technical writer at all, but a journalist who covers technology. We may casually call ourselves tech writers, but in the public parlance, tech writers are widely known as those guys who write at The Verge and Gizmodo.
 
 
 

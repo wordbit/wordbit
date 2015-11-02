@@ -6,6 +6,8 @@ title: The evolution of storytelling in games
 
 Tens of thousands of years ago, humans would gather around the fire at night and share stories. We craved narratives to explain our world. And in the crackling fires of the darkest nights, myth and legend was born. As the oral tradition was displaced by the written word, our appetite for storytelling only increased. For thousands of years, from the Bible to Shakespeare - we've clung especially tight to those narratives that define the very essence of humanity, through courage, conflict, betrayal, and love.
 
+<!--more-->
+
 The relatively recent medium of film (which is only about 130 years old) has spawned a multi-billion dollar industry whose sole purpose is to entertain, delight - and even challenge us - through storytelling. Recent technological advancements have allowed the moviemakers of the 21st century to transport us to fictional worlds and depict fantastical creatures that are completely believable. But, without a good story, even the best special effects won't save a terrible plot. See exhibit A: the _Transformers_ franchise.
 
 The history of storytelling in games is an even shorter one. As a kid, my brother and I spent hours shooting extraterrestrials in _Space Invaders_. But we never did find out why those aliens were so intent on destroying planet Earth. Fast forward thirty years later to the alien invasion in _Mass Effect_, and it's a whole different story (sorry).

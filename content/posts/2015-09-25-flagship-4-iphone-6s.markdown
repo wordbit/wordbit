@@ -10,7 +10,7 @@ As I alluded to in my last post, the very definition of a "flagship" has percep
 
 Firstly, mid-range devices with high-end specs and razor-thin profit margins have exploded out of China.
 
-Secondly, the definition of a flagship has skewed heavily toward _big_ phones (formerly known as phablets, but now the norm). Bigger phones tend to get better battery life and are able to fit in better camera components, such as Optical Image Stabilization (OIS). But, I most certainly do not want a big phone. For me, the sweet spot is in the 4.5 to 5-inch screen size range. For this reason, I'm excluding phones like the Note 5 and iPhone 6S Plus from my overview of the year's best.
+Secondly, the definition of a flagship has skewed heavily toward _big_ phones (formerly known as phablets, but now the norm). Bigger phones tend to get better battery life and are able to fit in better camera components, such as Optical Image Stabilization (OIS). <!--more--> But, I most certainly do not want a big phone. For me, the sweet spot is in the 4.5 to 5-inch screen size range. For this reason, I'm excluding phones like the Note 5 and iPhone 6S Plus from my overview of the year's best.
 
 However, when all is said and done, a flagship choice always comes down to that most ancient and hotly disputed divide - Android or iPhone?
 

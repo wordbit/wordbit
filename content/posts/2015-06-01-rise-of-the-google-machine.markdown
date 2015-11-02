@@ -8,6 +8,8 @@ At Google I/O last week, developments in Android M (Milkshake? Macaroon?), Andro
 
 However, it was Google's advancements in machine learning that were the most impressive. The awkwardly-named "Now on Tap" in Android M exemplified these improvements nicely. Basically, Google will now offer in-context information within apps, emails, or web pages when pressing and holding the home button on your phone.
 
+<!--more-->
+
 For example, if your receive a text from your wife asking you to pick up dinner, Google will offer to create a reminder. Any mention of movie titles will display links to the movie's trailer, reviews, and other info. Restaurant names will trigger a formatted yelp review and OpenTable reservation options.
 
 You could either marvel at the progress Google is making in artificial intelligence and machine learning, or you could be terrified by it. Either way, a healthy respect for this gargantuan digital overlord is probably wise.

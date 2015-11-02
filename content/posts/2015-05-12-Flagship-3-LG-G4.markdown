@@ -8,6 +8,8 @@ title: '2015 Flagship 3: LG G4'
 
 When it comes to the blossoming South Korean GDP, whether Samsung or LG triumphs is a moot point. But nonetheless, there is a cute national rivalry between these two Korean companies in their efforts to one-up each other. And it has served them well. When looking at [2014 sales](http://www.gartner.com/newsroom/id/2996817), Samsung is currently the top smartphone manufacturer in the world, and LG is in a respectable fifth place. If Samsung is the aggressive older brother, then LG comes off as the clean-cut, conservative younger brother who is extremely capable, but somewhat boring.
 
+<!--more-->
+
 Let's start by taking a look at the spec sheet of the LG G4:
 
 **Operating system:** Android 5.1 Lollipop

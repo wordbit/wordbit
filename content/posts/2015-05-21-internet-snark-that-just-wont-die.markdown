@@ -4,7 +4,7 @@ slug: internet-snark-that-just-wont-die
 title: Internet snark that just won't die
 ---
 
-Humour has long been a staple of the Internet - in fact, you probably have some favourite delicious sites, such as the Onion or the Oatmeal, that you regularly check on for a fresh serving of laughs. But then there are those single-serving static sites that have been hosting the same joke for years and years and seem impervious to non-renewal. I wonder who keeps paying for these internet one-liners? They had their day in the sun years ago, but now languish in relative obscurity as faded internet legend. Here are three such sites that refuse to die (and a recent one that should have died weeks ago, but didn't).
+Humour has long been a staple of the Internet - in fact, you probably have some favourite delicious sites, such as the Onion or the Oatmeal, that you regularly check on for a fresh serving of laughs. But then there are those single-serving static sites that have been hosting the same joke for years and years and seem impervious to non-renewal. I wonder who keeps paying for these internet one-liners? They had their day in the sun years ago, but now languish in relative obscurity as faded internet legend. <!--more--> Here are three such sites that refuse to die (and a recent one that should have died weeks ago, but didn't).
 
 [Zombo.com](http://zombo.com)
 

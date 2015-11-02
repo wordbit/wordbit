@@ -6,6 +6,8 @@ title: The Apple dance
 
 Yesterday, WWDC 2015 (Apple's developer conference) showcased what's new in OS X, iOS, and watchOS. There was also an unsurprising "one more thing" with the introduction of Apple Music. Unlike the massive redesign from[ last year]({{< relref "2014-06-02-its-a-sunny-day-in-cupertino.markdown" >}}), it was a pretty low-key affair, with Apple focusing on tweaking and stabilizing its evolving platforms. If there was one theme that emerged from the keynote, however, it would be this: Apple is no software company.
 
+<!--more-->
+
 Nobody would argue that Apple doesn't make beautiful products with unparalleled care and attention. And sometimes there is that magical moment that only Apple can conjure: That moment when their software and hardware work together to create a feature that would be impossible without Apple's complete end-to-end control. There was a foreshadowing of such a thing at this year's WWDC when Apple introduced multitasking for the iPad. But in this case the multitasking bride will have to wait for the 12-inch iPad Pro groom to walk down the aisle later this year before consummating their perfect marriage.
 
 However, when Apple tries to go head-to-head with every other competing software platform out there, they start to spread themselves a little thin. Sure, Apple prides itself on not being first, but being the best. Except, they can't be the best at everything.
