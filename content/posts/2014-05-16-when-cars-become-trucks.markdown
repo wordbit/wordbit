@@ -9,7 +9,7 @@ At the All Things Digital conference in 2010, Walt Mossberg asked Steve Jobs if 
 
 
 
-_I'm trying to think of a good analogy. When we were an agrarian nation, all cars were trucks. But as people moved more towards urban centers, people started to get into cars. I think PCs are going to be like trucks. Less people will need them. And this is going to make some people uneasy._
+> I'm trying to think of a good analogy. When we were an agrarian nation, all cars were trucks. But as people moved more towards urban centers, people started to get into cars. I think PCs are going to be like trucks. Less people will need them. And this is going to make some people uneasy.
 
 
 

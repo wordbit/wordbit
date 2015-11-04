@@ -4,15 +4,15 @@ slug: the-black-hat-writer
 title: The black-hat writer
 ---
 
-_At the height of the long wet summer of the Seventy-Seventh Year of Sendovani, the Thiefmaker of Camorr paid a sudden and unannounced visit to the Eyeless Priest at the Temple of Perelandro, desperately hoping to sell him the Lamora boy._
+> At the height of the long wet summer of the Seventy-Seventh Year of Sendovani, the Thiefmaker of Camorr paid a sudden and unannounced visit to the Eyeless Priest at the Temple of Perelandro, desperately hoping to sell him the Lamora boy.
 
-_‘Have I got a deal for you!’ the Thiefmaker began, perhaps inauspiciously._
+> ‘Have I got a deal for you!’ the Thiefmaker began, perhaps inauspiciously.
 
-_ __‘Another deal like Calo and Galdo, maybe?’ said the Eyeless Priest. ‘I’ve still got my hands full training those giggling idiots out of every bad habit they picked up from you and replacing them with the bad habits I need.’_
+> ‘Another deal like Calo and Galdo, maybe?’ said the Eyeless Priest. ‘I’ve still got my hands full training those giggling idiots out of every bad habit they picked up from you and replacing them with the bad habits I need.’
 
-_ __‘Now, Chains.’ The Thiefmaker shrugged. ‘I told you they were shit-flinging little monkeys when we made the deal, and it was good enough for you at the—’_
+> ‘Now, Chains.’ The Thiefmaker shrugged. ‘I told you they were shit-flinging little monkeys when we made the deal, and it was good enough for you at the—’
 
-_ __‘Or maybe another deal like Sabetha?’ The priest’s richer, deeper voice chased the Thiefmaker’s objection right back down his throat. ‘I’m sure you recall charging me everything but my dead mother’s kneecaps for her. I should’ve paid you in copper and watched you spring a rupture trying to haul it all away.’_
+> ‘Or maybe another deal like Sabetha?’ The priest’s richer, deeper voice chased the Thiefmaker’s objection right back down his throat. ‘I’m sure you recall charging me everything but my dead mother’s kneecaps for her. I should’ve paid you in copper and watched you spring a rupture trying to haul it all away.’
 
 And thus begins the novel _The Lies of Locke Lamora_ by Scott Lynch. I'm opening with this quote mostly because I've just started reading this novel and think it's awesome, but the Thiefmaker should be the sort of sleazy salesman character everyone is well aware of. Most of us recognize stereotypical used-car salesmen and telemarketers for the smarmy charlatans they are, but these guys are the jesters of capitalism - nobody takes them seriously, even if they're actually good at what they do.
 
