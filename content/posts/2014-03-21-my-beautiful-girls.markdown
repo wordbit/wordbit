@@ -6,6 +6,8 @@ title: My beautiful girls
 
 Here are a couple of shots of my lovely ladies:
 
-![2014-03-16 12.36.23](http://aprivateword.files.wordpress.com/2014/03/2014-03-16-12-36-23.jpg)
+[image redacted]
 
-[![2014-03-16 12.59.25](http://aprivateword.files.wordpress.com/2014/03/2014-03-16-12-59-25.jpg)](http://aprivateword.files.wordpress.com/2014/03/2014-03-16-12-59-25.jpg)
+[image redacted]
+
+*This is a cross-post. [Go here](https://aprivateword.wordpress.com/2014/03/21/my-beautiful-girls/) for the original post.*
