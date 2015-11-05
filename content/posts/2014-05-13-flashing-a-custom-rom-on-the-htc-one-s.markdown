@@ -4,12 +4,12 @@ slug: flashing-a-custom-rom-on-the-htc-one-s
 title: Flashing a custom ROM on the HTC One S
 ---
 
-I've been lamenting the dearth of software upgrades on my HTC One S [for a while now](http://wordbit.com/state-of-android/). Over the past year or so I've been happy to simulate a stock experience by using Nova launcher, along with some custom UI tweaks. But under the hood, a sense-infused Jelly Bean 4.1.1 was starting to show its age. Sluggish response times were easily solved through a factory reset, but this wasn't nearly satisfying enough. And to top it off, [4.1.1 is the only software version vulnerable to the heartbleed bug](http://mashable.com/2014/04/11/devices-running-android-4-1-1-vulnerable-to-heartbleed/). To give HTC some credit, they are preparing a patch, but who knows when it will trickle down through their torturous certification process.
+I've been lamenting the dearth of software upgrades on my HTC One S [for a while now]({{< relref "2013-11-01-state-of-android.markdown" >}}). Over the past year or so I've been happy to simulate a stock experience by using Nova launcher, along with some custom UI tweaks. But under the hood, a sense-infused Jelly Bean 4.1.1 was starting to show its age. Sluggish response times were easily solved through a factory reset, but this wasn't nearly satisfying enough. And to top it off, [4.1.1 is the only software version vulnerable to the heartbleed bug](http://mashable.com/2014/04/11/devices-running-android-4-1-1-vulnerable-to-heartbleed/). To give HTC some credit, they are preparing a patch, but who knows when it will trickle down through their torturous certification process.
 
 
 
 
-So, I've decided to wade into the murky waters of the custom ROM scene. All I can say is that, for a newb like myself, the whole process is more than a little daunting. I don't want to get into the gritty details of flashing in this blog post, because there are plenty of places, such on [Android Police](http://www.androidpolice.com/2010/05/08/complete-guide-how-to-flash-a-custom-rom-to-your-android-phone-with-rom-manager-full-backup-restore/), where you can get start learning. What I want to talk about are some issues specific to HTC One S owners, as well as a high-level walkthrough of what is required. So, if you own an HTC One S and are a beginner interested in flashing a custom ROM, read on. If you're not, then I suggest you stop reading and find something fun to do.<!-- more -->
+So, I've decided to wade into the murky waters of the custom ROM scene. All I can say is that, for a newb like myself, the whole process is more than a little daunting. I don't want to get into the gritty details of flashing in this blog post, because there are plenty of places, such on [Android Police](http://www.androidpolice.com/2010/05/08/complete-guide-how-to-flash-a-custom-rom-to-your-android-phone-with-rom-manager-full-backup-restore/), where you can get start learning. What I want to talk about are some issues specific to HTC One S owners, as well as a high-level walkthrough of what is required. So, if you own an HTC One S and are a beginner interested in flashing a custom ROM, read on. If you're not, then I suggest you stop reading and find something fun to do.
 
 
 
@@ -64,57 +64,27 @@ Ready to go for it? If you're ready to flash CM on your One S, there is a big de
 
 
 
-4. OK, you're ready to flash! The actual flashing process can be a heart-stopper, so I'm going to spell it out. Please note that the following steps are how I did it - you can also flash the boot.img file _after_ you've copied the zip files across. Once you've flash that boot.img file there's no going back because your phone won't work until you flash the ROM zip file.
+5. OK, you're ready to flash! The actual flashing process can be a heart-stopper, so I'm going to spell it out. Please note that the following steps are how I did it - you can also flash the boot.img file *after* you've copied the zip files across. Once you've flash that boot.img file there's no going back because your phone won't work until you flash the ROM zip file.
 
-
-
-
-a. Boot your phone into fastboot mode.
-
-
-
-
-b. Flash the boot.img file you extracted earlier by typing  "fastboot flash boot boot.img".
-
-
-
-
-c. Boot your phone into recovery mode.
-
-
-
-
-d. When you are in ClockWorkMod, go to "mounts and storage" and mount your USB drive.
-
-
-
-
-e. Your phone will appear as a drive in Windows so you can just drag the CM zip file and the Gapps zip file into the root directory on your phone.
-
-
-
-
-f. Go to "backup and restore" and backup the stock ROM in case you change your mind and want to go back to the way things were.
-
-
-
-
-g. Go to "wipe data/factory reset"  and wipe all your user data.
-
-
-
-
-h. Select "install zip from sdcard" and select the CM zip file you copied across earlier.
-
-
-
-
-i. Perform the above step again for the Gapps file.
-
-
-
-
-j.When you're done, select "reboot system now".
+  1. Boot your phone into fastboot mode.
+  
+  2. Flash the boot.img file you extracted earlier by typing  "fastboot flash boot boot.img".
+  
+  3. Boot your phone into recovery mode.
+  
+  4. When you are in ClockWorkMod, go to "mounts and storage" and mount your USB drive.
+  
+  5. Your phone will appear as a drive in Windows so you can just drag the CM zip file and the Gapps zip file into the root directory on your phone.
+  
+  6. Go to "backup and restore" and backup the stock ROM in case you change your mind and want to go back to the way things were.
+  
+  7. Go to "wipe data/factory reset"  and wipe all your user data.
+  
+  8. Select "install zip from sdcard" and select the CM zip file you copied across earlier.
+  
+  9. Perform the above step again for the Gapps file.
+  
+  10. When you're done, select "reboot system now".
 
 
 

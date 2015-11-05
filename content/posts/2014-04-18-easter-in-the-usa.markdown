@@ -6,4 +6,4 @@ post_format:
 - Image
 ---
 
-![Banned_in_America](http://wordbitarchives.files.wordpress.com/2014/04/banned_in_america.jpg)
+![Banned_in_America](/images/banned_in_america.jpg)

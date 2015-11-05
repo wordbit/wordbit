@@ -4,7 +4,7 @@ slug: boot-hill
 title: Boot Hill
 ---
 
-![IMAG0008](http://wordbitarchives.files.wordpress.com/2014/05/imag0008.jpg)
+<img src="/images/imag0008.jpg" alt="Boot Hill" style="width: 800px;"/>
 
 There is something fascinating about a forgotten place. Especially in our ever-changing urban landscape, there is an allure in a place where time stands still. As the world rushes by, a small piece of history remains anchored amidst the human cacophony - hidden in plain sight and remembered by no-one.
 
