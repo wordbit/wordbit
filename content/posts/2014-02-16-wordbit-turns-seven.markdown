@@ -4,7 +4,7 @@ slug: wordbit-turns-seven
 title: wordbit turns seven
 ---
 
-On February 16th, 2007, I wrote my first post for wordbit.com, entitled [What is a wordbit, anyway?](http://wordbit.freehostia.com/what-is-a-wordbit-anyway/) That was seven years ago today - happy seventh birthday, wordbit!
+On February 16th, 2007, I wrote my first post for wordbit.com, entitled [What is a wordbit, anyway?]({{< relref "2007-02-16-what-is-a-wordbit-anyway.markdown" >}}) That was seven years ago today - happy seventh birthday, wordbit!
 
 I remember trying to come up with a cool domain name where I could establish my online presence, and - after much agonizing - eventually settling on "wordkit". I actually bought wordkit.com, only to have it rejected shortly thereafter because it had been purchased by a domain squatter. Anyway, I managed to snag wordbit.com instead, which is a way cooler domain anyway.
 

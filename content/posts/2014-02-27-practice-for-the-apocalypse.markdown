@@ -12,11 +12,11 @@ _Rust_ pretty much confirms that these fantasies were spot on. To survive, resou
 
 Here is [a quote](http://store.steampowered.com/app/252490/) from the game's Steam page:
 
-_"I love this game, I built a house around a guys house and made him my prisoner, I fed him cans of tuna and cooked chicken when it was available, and some times I would drop in spare logs of wood(when they were available). The best part. he talks to me, keeps telling me his clans going to raid my structure and save him.. I simply respond with . "It puts the lotion on its skin, or it gets the hose again" and by hose I mean I dump charcoal on him. Great game hope the servers come up soon, I think my pet may need to eat."_
+> I love this game, I built a house around a guys house and made him my prisoner, I fed him cans of tuna and cooked chicken when it was available, and some times I would drop in spare logs of wood(when they were available). The best part. he talks to me, keeps telling me his clans going to raid my structure and save him.. I simply respond with . "It puts the lotion on its skin, or it gets the hose again" and by hose I mean I dump charcoal on him. Great game hope the servers come up soon, I think my pet may need to eat.
 
 And here's [another quote](http://www.theverge.com/2014/2/5/5361580/dayz-will-haunt-you#214046151) from an article on _The Verge_:
 
-_"Me and a bunch of my friends go around hand-cuffing others and then beating them to death with our fists or feeding them alcohol tincture or rotten food, d-do I pass as non-psycho?"_
+> Me and a bunch of my friends go around hand-cuffing others and then beating them to death with our fists or feeding them alcohol tincture or rotten food, d-do I pass as non-psycho?
 
 The above quote being a response to the observation that _Rust_ appears to harbour more psychopaths that other online games. He was being facetious, but you get the idea. Players who are otherwise ordinary law-abiding citizens turn into monsters when loosed in a world that supports - even encourages - amoralistic behaviour in order to stay alive.
 

@@ -4,7 +4,7 @@ slug: keep-it-coming-google
 title: Keep it coming, Google
 ---
 
-With my HTC One S being frozen at Android 4.1.1, I wasn't expecting any more bug fixes. But Google is doing a great job of circumventing firmware upgrades by quietly updating their apps, which seem to handle a lot of the core services. For example, [I'd given up on using Google Now in my car](http://wordbit.com/thoughts-on-google-io-2013/) because using a bluetooth speaker with my One S just defaults to the horrid Cyberon Voice Commander app which seems to come pre-installed on most HTC phones.
+With my HTC One S being frozen at Android 4.1.1, I wasn't expecting any more bug fixes. But Google is doing a great job of circumventing firmware upgrades by quietly updating their apps, which seem to handle a lot of the core services. For example, [I'd given up on using Google Now in my car]({{< relref "2013-05-15-thoughts-on-google-io-2013.markdown" >}}) because using a bluetooth speaker with my One S just defaults to the horrid Cyberon Voice Commander app which seems to come pre-installed on most HTC phones.
 
 But a recent update to Google Search [has fixed this](http://www.androidpolice.com/2014/02/10/neat-google-search-v3-2-finally-enabled-google-voice-search-instead-of-the-old-voice-dialer-with-bluetooth-headsets/). Now when I'm driving I can ask how tall Brad Pitt is or whether I need an umbrella today, hands-free! Google has also allowed relationship tagging to be used in voice commands (for example, "Call my wife"), finally bringing the voice dialer experience in-line with what apple offers.
 

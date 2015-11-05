@@ -12,14 +12,14 @@ Our elevator is frequently awash in foul dog pee. But, besides from being pretty
 
 So, here is the initial vigilante response:
 
-[![Image](http://wordbitarchives.files.wordpress.com/2014/01/imag1212.jpg?w=487)](http://wordbitarchives.files.wordpress.com/2014/01/imag1212.jpg)
+![Image 1](/images/imag1212.jpg)
 
 This emotional response was followed up with a more tempered appeal to a witch-hunt brand of justice:
 
-[![Image](http://wordbitarchives.files.wordpress.com/2014/01/imag1228.jpg?w=487)](http://wordbitarchives.files.wordpress.com/2014/01/imag1228.jpg)
+<img src="/images/imag1228.jpg" alt="Image 2" style="width: 800px;"/>
 
 And finally, we have the dry legalistic response from management:
 
-[![Image](http://wordbitarchives.files.wordpress.com/2014/01/imag1249.jpg?w=487)](http://wordbitarchives.files.wordpress.com/2014/01/imag1249.jpg)
+![Image 3](/images/imag1249.jpg)
 
 And yet the pee still flows freely.
