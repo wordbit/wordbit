@@ -4,7 +4,7 @@ slug: state-of-android-part-2
 title: 'State of Android: Part 2'
 ---
 
-Kit Kat has been out for a while now and [I wrote about it](http://wordbit.com/state-of-android/) on launch day, but I'd like to talk more about Android phone hardware.
+Kit Kat has been out for a while now and [I wrote about it]({{< relref "2013-11-01-state-of-android.markdown" >}}) on launch day, but I'd like to talk more about Android phone hardware.
 
 When the Nexus 5 came out, people were suitably enthusiastic about specs that looked great on paper. After a few weeks of real-world use, a few issues came up. The most egregious of  these was a poorly optimized camera that suffered from severe shutter lag. I was thinking about getting this phone for my wife, but held off because it seemed maybe the HTC One was a better bet (despite being almost a year old). However, Google pulled through recently and released a software update to fix the worst of the camera issues. Sure, the camera app could use a UI overhaul, but this will come in time. So I pulled the trigger on the Nexus 5 and feel good about it.
 
