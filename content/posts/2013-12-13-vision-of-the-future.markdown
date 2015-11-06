@@ -9,22 +9,22 @@ Whether technology makes us antisocial or not is a debate that will rage on unti
 **The past:**
 
 
-![newspaper](http://wordbit.com/wp-content/uploads/2013/12/newspaper.jpg)
+<img src="/images/newspaper.jpg" alt="Newspaper" style="width: 800px;"/>
 
 
 **The present:**
 
 
-![tech](http://wordbit.com/wp-content/uploads/2013/12/tech.jpg)
+![tech](/images/tech.jpg)
 
 
 **The future:**
 
 
-![](http://wordbit.com/wp-content/uploads/2013/12/glass.jpg)
+![](/images/glass.jpg)
 
 
 
 
 
-![rift](http://wordbit.com/wp-content/uploads/2013/12/rift.jpg)
+![rift](/images/rift.jpg)
