@@ -1,9 +1,0 @@
----
-date: 2012-08-02 19:16:51+00:00
-slug: '712'
-title: No Content Found
-post_format:
-- Image
----
-
-![](http://wordbitarchives.files.wordpress.com/2012/08/tumblr_m856w3ywln1rcijzqo1_1280.jpg)

@@ -14,4 +14,4 @@ To all readers: As of March 2012 this site will no longer be accessible via the 
 
 Please access this site via the following URL: [wordbit.posterous.com](http://wordbit.posterous.com)
 
-Also, we have a new contributor! Angela will also be posting from now on. She's taking a photography course, so y'all can look forward to some awesome pics of Mia.
+Also, we have a new contributor! Angela will also be posting from now on. She's taking a photography course, so y'all can look forward to some awesome pics of the Monchkin.

@@ -6,4 +6,5 @@ categories:
 - Just another opinion
 ---
 
-http://www.youtube.com/watch?v=ec-8mD_BhrU
+
+[![I don't even have an opinion](https://i.ytimg.com/vi/LBBni_-tMNs/mqdefault.jpg)](http://www.youtube.com/watch?v=LBBni_-tMNs)
