@@ -4,6 +4,7 @@ slug: geeky-colour-co-ordination
 title: Geeky colour co-ordination
 ---
 
-![HTC One S](http://wordbit.com/wp-content/uploads/2013/03/HTC.jpg)
+
+<img src="/images/HTC.jpg" alt="HTC One S" style="width: 800px;"/>
 
 So, I installed Nova Launcher Pro on my HTC One S and updated the colour scheme to match the hardware. I also have matching headphones - the NuForce NE-600x. Sometimes, it's the small pleasures in life.

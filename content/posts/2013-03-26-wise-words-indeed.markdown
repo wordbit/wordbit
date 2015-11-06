@@ -6,6 +6,8 @@ title: Wise words, indeed
 
 Justin Freeman answers the question: What are the top 10 things that we should be informed about, in life?
 
+***
+
 
 **1) Realize that nobody cares, and if they do, you shouldn't care that they care.** Got a new car? Nobody cares. You'll get some gawkers for a couple of weeks—they don't care. They're curious. Three weeks in it'll be just another shiny blob among all the thousands of others crawling down the freeway and sitting in garages and driveways up and down your street. People will care about your car just as much as you care about all of those. Got a new gewgaw? New wardrobe? Went to a swanky restaurant? Exotic vacation? Nobody cares. Don't base your happiness on people caring, because they won't. And if they do, they either want your stuff or hate you for it.
 
