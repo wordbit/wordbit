@@ -7,7 +7,7 @@ title: The perfect apple device
 The recent iPhone event was a triumph for apple's marketing division. By putting last year's model in a new plastic housing and adding a splash of colour, what is old is new again (iPhone 5C). And a tip of the hat can go to the engineering team for beefing up security with the fingerprint sensor (iPhone 5S). But at this year's apple party, there was a once venerated apple device that was notably absent - the iPod. I can honestly say, that this is the one apple product I use the most:
 
 
-![shuffle-blue](http://wordbit.com/wp-content/uploads/2013/10/shuffle-blue-300x199.jpg)
+![shuffle-blue](/images/shuffle-blue-300x199.jpg)
 
 
 The second-generation iPod shuffle, with a design so perfect that when apple tried - and failed - to go with a new design in the third gen, they wisely returned to the second-gen design in later models. And guess what? It's a wearable device;  That belt clip was a deft design decision - a laser-focused usability improvement targeted at the fitness crowd. Now when I hear rumours of an apple iWatch, I hope that maybe the shuffle will evolve after all.
