@@ -12,7 +12,10 @@ tags:
 - technology
 ---
 
-![](http://media.tumblr.com/tumblr_lydls2wxFX1qfn08u.gif)I love Apple. Especially Apple hardware. And I'm glad they're doing so well. But one area where they really messed up is in e-book pricing.
+
+<img align="left" src="/images/tumblr_lydls2wxFX1qfn08u.gif">
+
+I love Apple. Especially Apple hardware. And I'm glad they're doing so well. But one area where they really messed up is in e-book pricing.
 
 
 
@@ -42,7 +45,7 @@ And that brings us to today, where you either pay $28 for an e-book, or buy the 
 
 
 
-The resulting anti-trust lawsuits are going to stretch on for years. In the meantime, armed with _Calibre _and _BitTorrent_, ordinary book worms are discovering the enticing world of piracy. Text files are really small and quick to download, unlike those 7-gigabyte HD movies that take all week. You can literally download thousands of stolen books onto your kindle in one shot - more than enough reading material for several lifetimes. Sure, it's almost impossible right now to find that obscure title you're looking for - but with enough momentum, that's going to change.
+The resulting anti-trust lawsuits are going to stretch on for years. In the meantime, armed with *Calibre* and *BitTorrent*, ordinary book worms are discovering the enticing world of piracy. Text files are really small and quick to download, unlike those 7-gigabyte HD movies that take all week. You can literally download thousands of stolen books onto your kindle in one shot - more than enough reading material for several lifetimes. Sure, it's almost impossible right now to find that obscure title you're looking for - but with enough momentum, that's going to change.
 
 
 

@@ -1,6 +1,5 @@
 ---
 date: 2012-02-06 17:47:39+00:00
-published: false
 slug: looking-for-love-at-all-the-wrong-urls
 title: Looking for love at all the wrong URLs
 tags:
@@ -12,7 +11,10 @@ tags:
 - websites
 ---
 
-![](http://media.tumblr.com/tumblr_lyu2plSVry1qfn08u.jpg)It's Valentine's Day tomorrow, and what better way to celebrate than to look at the absurdity of love on the internet. The trafficking of human relationships is nothing new on the web, but these websites are the lowest of the low. Let's take a journey through the seedy underbelly of the digital cherub's realm…
+
+<img align="left" src="/images/tumblr_lyu2plSVry1qfn08u.jpg">
+
+It's Valentine's Day tomorrow, and what better way to celebrate than to look at the absurdity of love on the internet. The trafficking of human relationships is nothing new on the web, but these websites are the lowest of the low. Let's take a journey through the seedy underbelly of the digital cherub's realm…
 
 
 

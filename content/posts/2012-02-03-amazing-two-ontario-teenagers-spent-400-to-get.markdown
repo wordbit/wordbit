@@ -1,9 +1,7 @@
 ---
 date: 2012-02-03 04:37:05+00:00
 slug: amazing-two-ontario-teenagers-spent-400-to-get
-title: No Content Found
-post_format:
-- Video
+title: Lego man in space
 tags:
 - Canada
 - Lego Man
@@ -12,9 +10,7 @@ tags:
 - technology
 ---
 
-[youtube http://www.youtube.com/watch?v=MQwLmGR6bPA?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0&w=500&h=281]
-
+[![Space](https://i.ytimg.com/vi/MQwLmGR6bPA/mqdefault.jpg)](http://www.youtube.com/watch?v=MQwLmGR6bPA)
 
 Amazing - two Ontario teenagers spent $400 to get a Lego Man into space with a weather balloon. This is an awesome achievement for these kids - way to go!
 
-(Source: [http://www.youtube.com/](http://www.youtube.com/))

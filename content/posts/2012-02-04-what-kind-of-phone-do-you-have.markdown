@@ -15,9 +15,9 @@ I was reading [an interview with Limor Fried](http://www.theverge.com/2011/11/23
 
 
 
-_**          What kind of phone do you have?**  
-          I do not own a cell phone; however, I have designed   
-          a cell-phone jammer._
+> What kind of phone do you have?
+
+> I do not own a cell phone; however, I have designed a cell-phone jammer.
 
 
 

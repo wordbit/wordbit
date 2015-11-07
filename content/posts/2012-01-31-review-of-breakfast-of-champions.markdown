@@ -8,7 +8,9 @@ tags:
 - Kurt Vonnegut
 ---
 
-![](http://media.tumblr.com/tumblr_lybjoqcA111qfn08u.jpg)I picked up this short book as a Kindle Daily Deal for a buck, so thought I'd give it a read.
+<img align="left" src="/images/tumblr_lybjoqcA111qfn08u.jpg">
+
+I picked up this short book as a Kindle Daily Deal for a buck, so thought I'd give it a read.
 
 
 
