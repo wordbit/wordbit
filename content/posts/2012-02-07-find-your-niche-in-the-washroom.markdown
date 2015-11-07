@@ -11,7 +11,9 @@ tags:
 - waterproof
 ---
 
-![](http://media.tumblr.com/tumblr_lymzi6xdtc1qfn08u.jpg)The [New York Times](http://bits.blogs.nytimes.com/2012/01/30/the-rise-of-the-toilet-texter/) recently reported that 91 percent of Americans aged 28-35 have used their mobile devices while on the toilet. Disturbingly, 20 percent of men and 13 percent of women have participated in a conference call from the john. Never before has the MUTE key played such an indispensable role.
+<img align="left" src="/images/tumblr_lymzi6xdtc1qfn08u.jpg">
+
+The [New York Times](http://bits.blogs.nytimes.com/2012/01/30/the-rise-of-the-toilet-texter/) recently reported that 91 percent of Americans aged 28-35 have used their mobile devices while on the toilet. Disturbingly, 20 percent of men and 13 percent of women have participated in a conference call from the john. Never before has the MUTE key played such an indispensable role.
 
 
 

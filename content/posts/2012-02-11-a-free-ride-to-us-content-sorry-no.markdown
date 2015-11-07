@@ -11,7 +11,7 @@ tags:
 - VPN
 ---
 
-![](http://media.tumblr.com/tumblr_lysek5Uqqq1qfn08u.jpg)
+![](/images/tumblr_lysek5Uqqq1qfn08u.jpg)
 
 
 

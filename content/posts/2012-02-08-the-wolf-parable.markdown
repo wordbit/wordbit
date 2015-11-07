@@ -11,8 +11,7 @@ tags:
 - wisdom
 ---
 
-![](http://media.tumblr.com/tumblr_lytxilaUdi1qfn08u.jpg)
-
+![](/images/tumblr_lytxilaUdi1qfn08u.jpg)
 
 
 

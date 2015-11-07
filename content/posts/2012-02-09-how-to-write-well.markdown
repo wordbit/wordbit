@@ -15,7 +15,7 @@ One thing writers like to do is teach others how to write well. There are severa
 
 
 
-Kurt Vonnegut, whose book [I reviewed recently](http://wordbit.com/post/16802979941/review-of-breakfast-of-champions), also has some sound advice in [this short piece](http://peterstekel.com/PDF-HTML/Kurt%20Vonnegut%20advice%20to%20writers.htm). Here is a summary:
+Kurt Vonnegut, whose book [I reviewed recently]({{< relref "2012-01-31-review-of-breakfast-of-champions.markdown" >}}), also has some sound advice in [this short piece](http://peterstekel.com/PDF-HTML/Kurt%20Vonnegut%20advice%20to%20writers.htm). Here is a summary:
 
 
 
