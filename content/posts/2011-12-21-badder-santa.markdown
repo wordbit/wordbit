@@ -12,7 +12,7 @@ tags:
 - santa
 ---
 
-[![Baddersanta](http://wordbitarchives.files.wordpress.com/2013/02/baddersanta.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/baddersanta.jpg)
+![](/images/baddersanta.jpg)
 
 Well, I guess some old dude working in the mall gets a bit knackered after the 400th kid. At least he isn't a mass murderer and tyrannical dictator of a communist country. Like Kim Jong-Il, spotted in a rare moment of charity as Santa, who is now dead.  
 

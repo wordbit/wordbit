@@ -9,12 +9,9 @@ tags:
 - Steve Jobs
 ---
 
-![Cover from Whole Earth Catalog](http://media.tumblr.com/tumblr_lxlqk5CIEe1qfn08u.jpg)
+![Cover from Whole Earth Catalog](/images/tumblr_lxlqk5CIEe1qfn08u.jpg)
 
-
-
-
-_Cover from Whole Earth Catalog_
+*Cover from Whole Earth Catalog*
 
 
 

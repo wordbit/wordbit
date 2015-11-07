@@ -8,7 +8,7 @@ tags:
 - technology
 ---
 
-![](http://media.tumblr.com/tumblr_lwxutpezWs1qfn08u.jpg)
+![](/images/tumblr_lwxutpezWs1qfn08u.jpg)
 
 
 
@@ -18,7 +18,7 @@ Answer: None of the above.
 
 
 
-Back when the Kindle came out in 2007, it cost $400 and [I didn't think anyone would want one](http://wordbit.freehostia.com/amazons-paperless-utopia/). But these days, a Kindle starts at $79 and is highly affordable. There are also more options to choose from.
+Back when the Kindle came out in 2007, it cost $400 and [I didn't think anyone would want one]({{< relref "2007-11-20-amazons-paperless-utopia.markdown" >}}). But these days, a Kindle starts at $79 and is highly affordable. There are also more options to choose from.
 
 
 

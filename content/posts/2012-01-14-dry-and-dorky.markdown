@@ -10,7 +10,7 @@ tags:
 - umbrella
 ---
 
-![](http://media.tumblr.com/tumblr_lxnoq5L51d1qfn08u.jpg)
+![](/images/tumblr_lxnoq5L51d1qfn08u.jpg)
 
 
 

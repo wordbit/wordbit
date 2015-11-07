@@ -10,7 +10,9 @@ tags:
 - Windows 7
 ---
 
-![](http://media.tumblr.com/tumblr_ly0ly7YQIg1qfn08u.jpg)Here's a recent offering that didn't get much press as it should have, but it's really cool. As you may know, OnLive is a cloud-computing company that allows you to play games on your underpowered computer by streaming the content to your screen. All the grunt work is done on their servers.
+<img align="left" src="/images/tumblr_ly0ly7YQIg1qfn08u.jpg">
+
+Here's a recent offering that didn't get much press as it should have, but it's really cool. As you may know, OnLive is a cloud-computing company that allows you to play games on your underpowered computer by streaming the content to your screen. All the grunt work is done on their servers.
 
 
 

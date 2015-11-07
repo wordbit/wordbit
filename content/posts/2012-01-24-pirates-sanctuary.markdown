@@ -24,10 +24,7 @@ Now, you may have gotten sufficiently caught up in the recent SOPA and PIPA prot
 But one thing I do know - The church of Kopimism (Copy+Me+ism - get it?) is a thinly-veiled mockery. Take a look at this video as a Christ-like figure bathed in an eerie blue glow shows us how to perform the sacred Ctrl-C and Ctrl-V cut and paste gestures:
 
 
-
-
-[youtube http://www.youtube.com/watch?v=jeTeXBWEsb4?rel=0]
-
+[![kopimism](https://i.ytimg.com/vi/2Y9gMhTyM-E/mqdefault.jpg)](http://www.youtube.com/watch?v=2Y9gMhTyM-E)
 
 
 

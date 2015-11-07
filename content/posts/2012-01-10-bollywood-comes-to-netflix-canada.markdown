@@ -9,7 +9,7 @@ tags:
 - Russel Peters
 ---
 
-![](http://media.tumblr.com/tumblr_lxjrz0CrYM1qfn08u.jpg)
+![](/images/tumblr_lxjrz0CrYM1qfn08u.jpg)
 
 
 

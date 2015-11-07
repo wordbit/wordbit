@@ -8,7 +8,7 @@ categories:
 - TV
 ---
 
-![game-of-thrones-logo](http://wordbit.freehostia.com/wp-content/uploads/2011/11/gameofthroneslogo.jpg)
+![game-of-thrones-logo](/images/gameofthroneslogo.jpg)
 
  
 
@@ -24,4 +24,4 @@ As for the book, I can only say that it’s rooted in political intrigue without
 
  
 
-I’ve just finished reading _Clash of Kings_ as well, and there is a lot to enjoy so far in the_ Song of Ice and Fire _series. I can’t say I’m looking forward to a mangling of this excellent second book on TV though. Not that I won’t watch it anyway.
+I’ve just finished reading _Clash of Kings_ as well, and there is a lot to enjoy so far in the *Song of Ice and Fire* series. I can’t say I’m looking forward to a mangling of this excellent second book on TV though. Not that I won’t watch it anyway.

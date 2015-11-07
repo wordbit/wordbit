@@ -13,4 +13,5 @@ tags:
 
 Here's an interesting look at downtown Vancouver back in the days when cars were a rare sight. I believe the guy filming this was riding on one of those old trams:
 
-[youtube http://www.youtube.com/watch?v=vzjRs3ARo0g?wmode=transparent]
+
+[![Vancouver](https://i.ytimg.com/vi/vzjRs3ARo0g/mqdefault.jpg)](http://www.youtube.com/watch?v=vzjRs3ARo0g)

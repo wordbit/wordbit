@@ -10,7 +10,7 @@ tags:
 - tv
 ---
 
-![](http://media.tumblr.com/tumblr_lxrju1Kwc61qfn08u.jpg)
+![](/images/tumblr_lxrju1Kwc61qfn08u.jpg)
 
 
 

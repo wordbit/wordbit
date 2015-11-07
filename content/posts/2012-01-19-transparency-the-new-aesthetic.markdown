@@ -10,7 +10,7 @@ tags:
 - transparent tablet
 ---
 
-One of the coolest kinds of fictional tech has to be the transparent window, as seen in _Minority Report_, and by extension, the transparent tablet, à la_ Avatar_. How long will it be before these futuristic interfaces become a reality? Not too long at all, it seems.
+One of the coolest kinds of fictional tech has to be the transparent window, as seen in _Minority Report_, and by extension, the transparent tablet, à la *Avatar*. How long will it be before these futuristic interfaces become a reality? Not too long at all, it seems.
 
 
 
@@ -20,8 +20,7 @@ Science looks to science fiction when identifying an aesthetic that resonates wi
 
 
 
-[youtube http://www.youtube.com/watch?v=mTVPVobDrms?rel=0]
-
+[![](https://i.ytimg.com/vi/m5rlTrdF5Cs/mqdefault.jpg)](http://www.youtube.com/watch?v=m5rlTrdF5Cs)
 
 
 
@@ -30,7 +29,7 @@ With space at a premium in our shrinking condos, a window that doubles as a scre
 
 
 
-[youtube http://www.youtube.com/watch?v=f4AhTiQkWwk?rel=0]
+[![](https://i.ytimg.com/vi/f4AhTiQkWwk/mqdefault.jpg)](http://www.youtube.com/watch?v=f4AhTiQkWwk)
 
 
 

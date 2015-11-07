@@ -11,7 +11,7 @@ tags:
 - textbooks
 ---
 
-![](http://media.tumblr.com/tumblr_ly27mqP4hh1qfn08u.jpg)
+![](/images/tumblr_ly27mqP4hh1qfn08u.jpg)
 
 
 

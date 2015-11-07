@@ -1,15 +1,18 @@
 ---
 date: 2012-01-02 01:15:55+00:00
-excerpt: Here's a fun little movie I made with Mia and a particularly disturbing toy.
+excerpt: Here's a fun little movie I made with the Monchkin and a particularly disturbing toy.
 slug: lamby
 title: Lamby
 tags:
 - humour
-- mia
 - spoof
 - video
 ---
 
-Here's a fun little movie I made with Mia and a particularly disturbing toy. 
+Here's a fun little movie I made with the Monchkin and a particularly disturbing toy. 
 
-[youtube http://www.youtube.com/watch?v=Epy9t0uQ3OY?wmode=transparent]
+[video removed]
+
+*This is a cross-post. [Go here](https://aprivateword.wordpress.com/2012/01/02/lamby/) for the original post.*
+
+

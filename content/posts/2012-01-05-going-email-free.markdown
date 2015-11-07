@@ -9,7 +9,9 @@ tags:
 - technology
 ---
 
-![](http://media.tumblr.com/tumblr_lxaw2bcC071qfn08u.jpg)Resolution #27: Sort through the 250 unread emails in my inbox.
+<img align="left" src="/images/tumblr_lxaw2bcC071qfn08u.jpg">
+
+Resolution #27: Sort through the 250 unread emails in my inbox.
 
 
 

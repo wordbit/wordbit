@@ -6,7 +6,7 @@ categories:
 - humour
 ---
 
-![](http://wordbit.freehostia.com/wp-content/uploads/2011/12/ipad3000.jpg)
+![](/images/ipad3000.jpg)
 
  
 
