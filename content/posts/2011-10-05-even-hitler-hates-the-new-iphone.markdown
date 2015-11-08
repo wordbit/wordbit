@@ -10,6 +10,7 @@ categories:
 
 This is a hilarious take on the apathy surrounding the new iPhone 4S release:
 
-[youtube http://www.youtube.com/watch?v=Lxn6Ag0mmhs&w;=420&h;=315]
+
+[![](https://i.ytimg.com/vi/Lxn6Ag0mmhs/mqdefault.jpg)](http://www.youtube.com/watch?v=Lxn6Ag0mmhs&w)
 
 LOL! Come on people.

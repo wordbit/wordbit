@@ -9,7 +9,7 @@ tags:
 - technology
 ---
 
-![](http://media.tumblr.com/tumblr_lwh38o48Il1qfn08u.jpg)
+![](/images/tumblr_lwh38o48Il1qfn08u.jpg)
 
 
 

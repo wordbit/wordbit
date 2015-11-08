@@ -26,7 +26,7 @@ Here’s a mock-up of where I think this technology could go in the very-near fu
 
 
 
-![](http://media.tumblr.com/tumblr_lwh3l3gA8q1qfn08u.jpg)
+![](/images/tumblr_lwh3l3gA8q1qfn08u.jpg)
 
 
 
