@@ -10,6 +10,6 @@ tags:
 
 And I thought we were running out of space in Vancouver. Crazy!
 
-[youtube http://www.youtube.com/watch?v=w5KwnHgo5-c?wmode=transparent]
+[![](http://img.youtube.com/vi/w5KwnHgo5-c/0.jpg)](http://www.youtube.com/watch?v=w5KwnHgo5-c)
 
 Watch until the end to see an incredible example of track transformation.
