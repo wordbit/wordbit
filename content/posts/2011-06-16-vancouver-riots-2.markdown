@@ -16,4 +16,16 @@ Well, we didn't win the Stanley Cup obviously. After losing to Boston in game 7,
   
 
 
-[![Pic7](http://wordbitarchives.files.wordpress.com/2013/02/pic7.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/pic7.jpg)[![Pic1](http://wordbitarchives.files.wordpress.com/2013/02/pic1.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/pic1.jpg)[![Pic2](http://wordbitarchives.files.wordpress.com/2013/02/pic2.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/pic2.jpg)[![Pic3](http://wordbitarchives.files.wordpress.com/2013/02/pic3.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/pic3.jpg)[![Pic4](http://wordbitarchives.files.wordpress.com/2013/02/pic4.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/pic4.jpg)[![Pic5](http://wordbitarchives.files.wordpress.com/2013/02/pic5.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/pic5.jpg)[![Pic6](http://wordbitarchives.files.wordpress.com/2013/02/pic6.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/pic6.jpg)
+![Pic7](/images//pic7.jpg)
+
+![Pic1](/images/pic1.jpg)
+
+![Pic2](/images/pic2.jpg)
+
+![Pic3](/images/pic3.jpg)
+
+![Pic4](/images/pic4_riot.jpg)
+
+![Pic5](/images/pic5.jpg)
+
+![Pic6](/images/pic6.jpg)
