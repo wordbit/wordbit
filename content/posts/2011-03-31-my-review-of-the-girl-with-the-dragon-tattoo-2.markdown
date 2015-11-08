@@ -11,7 +11,7 @@ tags:
 - review
 ---
 
-![Tgwtdt](http://wordbitarchives.files.wordpress.com/2013/02/tgwtdt.jpg?w=143)
+<img align="left" style="border:20px solid white" src="/images/tgwtdt.jpg">
 
 I'm a little late to the party, but I finished reading this Swedish crime thriller last night. It's been on the best seller lists for a while and thought I would give it a go. The story centres on a downtrodden journalist, Mikael Blomkvist as he investigates the mysterious disappearance of a girl who went missing 40 years earlier. He gets some help from the gothic, autistic, troubled, grown up Pippi Longstocking character, Lisbeth Salander. She's the one with the dragon tattoo by the way. The title doesn't have anything to do with the story. 
 

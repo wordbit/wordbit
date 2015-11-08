@@ -13,10 +13,7 @@ tags:
 ---
 
 
-
-
-
-[![firefly_series_main](http://wordbitarchives.files.wordpress.com/2013/02/firefly_series_main.jpg)](http://wordbitarchives.files.wordpress.com/2013/02/firefly_series_main.jpg)
+![](/images/firefly_series_main.jpg)
 
 I recently finished watching the complete _Firefly_ series on Netflix. That sounds like a lot of TV watching, but it only ran for 14 episodes before it got cancelled due to low ratings. Most geeks agree, however, that this show was a little gem, was poorly marketed by Fox, and should never have died so early. After watching it, I would have to agree.
 

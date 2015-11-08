@@ -11,10 +11,11 @@ tags:
 - review
 ---
 
-[![Source-code-movie-poster1](http://wordbitarchives.files.wordpress.com/2013/02/source-code-movie-poster1.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/source-code-movie-poster1.jpg)
+
+<img src="/images/source-code-movie-poster1.jpg" alt="Source Code" style="width: 800px;"/>
 
 
-Warning: this is not a movie for angry nerds. If you ponder over the concepts of multiple dimensions and consciousness and that sort of esoteric stuff more deeply, the purist in you will start to bristle. And don't even start to go down the road of analyzing why a movie called _Source Code_ has nothing to do with late nights coding in C+ at your Linux box. That said, this movie is such a wild romp through quasi-temporal what-ifs that you'll soon forget these half-baked concepts. __
+Warning: this is not a movie for angry nerds. If you ponder over the concepts of multiple dimensions and consciousness and that sort of esoteric stuff more deeply, the purist in you will start to bristle. And don't even start to go down the road of analyzing why a movie called _Source Code_ has nothing to do with late nights coding in C+ at your Linux box. That said, this movie is such a wild romp through quasi-temporal what-ifs that you'll soon forget these half-baked concepts.
 
 
 

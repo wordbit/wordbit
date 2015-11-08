@@ -5,10 +5,11 @@ slug: babys-jumping
 title: Baby's jumping!
 tags:
 - baby
-- mia
 - video
 ---
 
 Babgi's having a party in mom's tummy:
 
-[youtube http://www.youtube.com/watch?v=lyGXL_BMH8s?wmode=transparent]
+[video removed]
+
+*This is a cross-post. [Go here](https://aprivateword.wordpress.com/2011/04/10/babys-jumping/) for the original post.*
