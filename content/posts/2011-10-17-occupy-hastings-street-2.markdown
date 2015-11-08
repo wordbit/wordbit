@@ -9,7 +9,7 @@ tags:
 - vancouver
 ---
 
-![](http://media.tumblr.com/tumblr_lwh34qIL9J1qfn08u.jpg)
+![](/images/tumblr_lwh34qIL9J1qfn08u.jpg)
 
 
 

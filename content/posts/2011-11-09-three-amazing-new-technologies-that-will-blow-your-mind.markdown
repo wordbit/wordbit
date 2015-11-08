@@ -13,19 +13,22 @@ I've been thinking about the future and what it might bring. In my last post I t
 
 You know that magnetic forces repel and attract, but did you know these laws can be bended so an object stays fixed in empty space? Check this out:
 
-[youtube http://www.youtube.com/watch?v=Ws6AAhTw7RA?wmode=transparent]  
+
+[![](http://img.youtube.com/vi/Ws6AAhTw7RA/0.jpg)](http://www.youtube.com/watch?v=Ws6AAhTw7RA)
 
 
 **Holographic Interface:**
 
 You know the holodeck on Star Trek? Maybe it isn't so far-fetched after all. Using the Microsoft Kinect, these guys have created a holographic interface where you can interact with holographic objects as if they were real:
+ 
 
-[youtube http://www.youtube.com/watch?v=JHL5tJ9ja_w?wmode=transparent]  
+[![](http://img.youtube.com/vi/JHL5tJ9ja_w/0.jpg)](http://www.youtube.com/watch?v=JHL5tJ9ja_w)
 
 
 **Dream Recorder:**
 
 Researchers have used Youtube as a massive database to analyze imagery and hooked it up to a brain scanner to correlate brain patterns. This data was then used to literally display the thoughts of the subject as they dreamt. What the hell? Minority Report anyone?
 
-[youtube http://www.youtube.com/watch?v=nsjDnYxJ0bo?wmode=transparent]  
+
+[![](http://img.youtube.com/vi/nsjDnYxJ0bo/0.jpg)](http://www.youtube.com/watch?v=nsjDnYxJ0bo) 
 

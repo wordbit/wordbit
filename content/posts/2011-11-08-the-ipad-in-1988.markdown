@@ -14,7 +14,7 @@ tags:
 In 1988 students from the University of Illinois were tasked with imagining the computer of the year 2000. What they came up with was a tablet computer that bears a striking resemblance to the iPad. From the report:
 
 
-<blockquote>_Our machine will have the same dimensions as a standard notebook. It will look like an 8"x11" monolith from the movie 2001, and be reminiscent of the Dynabook. This rectangular slab will weigh but a few pounds, and have no buttons or knobs to play with. The front surface will be a touch-sensitive display screen and will blink to life upon touching two corners._</blockquote>
+> Our machine will have the same dimensions as a standard notebook. It will look like an 8"x11" monolith from the movie 2001, and be reminiscent of the Dynabook. This rectangular slab will weigh but a few pounds, and have no buttons or knobs to play with. The front surface will be a touch-sensitive display screen and will blink to life upon touching two corners.
 
 
 You can [read the full report](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19880008883_1988008883.pdf) here.
