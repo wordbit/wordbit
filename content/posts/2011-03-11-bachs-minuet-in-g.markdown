@@ -11,8 +11,9 @@ tags:
 
 Here is my recording of a snippet of Minuet in G. It's one of the songs I'm learning in Garageband.
 
-[
 
-Minuet_in_G.mp3
+Minuet in G.mp3
 
-](http://wordbit.posterous.com/bachs-minuet-in-g)
+[no longer available]
+
+

@@ -7,7 +7,7 @@ categories:
 - technology
 ---
 
-![ipad](http://wordbit.freehostia.com/wp-content/uploads/2010/04/ipad1.jpg)
+![ipad](/images/ipad1.jpg)
 
  
 

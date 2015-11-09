@@ -10,7 +10,7 @@ tags:
 - writing
 ---
 
-[![Media_httpoonionstati_ashwj](http://wordbitarchives.files.wordpress.com/2013/02/media_httpoonionstati_ashwj-scaled1000.jpg?w=300)](http://wordbitarchives.files.wordpress.com/2013/02/media_httpoonionstati_ashwj-scaled1000.jpg)
+![](/images/media_httpoonionstati_ashwj-scaled1000.jpg)
 
 via [theonion.com](http://www.theonion.com/articles/why-havent-we-finished-our-novel,19351/)
 

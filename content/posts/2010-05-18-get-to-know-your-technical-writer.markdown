@@ -8,11 +8,11 @@ categories:
 - working
 ---
 
-![hugs](http://wordbit.freehostia.com/wp-content/uploads/2010/05/hugs.jpg) So you work at a big hi-tech company and you have questions. Lots of questions. But your manager is in yet another meeting and your deadline is looming. Who do you turn to? Why, your friendly, neighbourhood technical writer of course. Here’s why:
+<img align="left" style="border-right:40px solid white" src="/images/hugs.jpg">
 
+So you work at a big hi-tech company and you have questions. Lots of questions. But your manager is in yet another meeting and your deadline is looming. Who do you turn to? Why, your friendly, neighbourhood technical writer of course. Here’s why:
  
-
-1. Your technical writer may have written a 500 page manual on how your product works but you sure don’t have time to read that beast. Why not ask the author directly? Your technical writer probably knows more about the product than anyone else at the company.
+1. Your technical writer may have written a 500 page manual on how your product works but you sure don’t have time to read that beast. Why not ask the author directly? Your technical writer probably knows more about the product than anyone else.
 
  
 

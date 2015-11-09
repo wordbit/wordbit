@@ -10,4 +10,5 @@ tags:
 
 This is pretty funny. E.T. returns... 
 
-[youtube http://www.youtube.com/watch?v=fMW3W-G43gI?wmode=transparent]
+
+[![ET](http://img.youtube.com/vi/fMW3W-G43gI/0.jpg)](http://www.youtube.com/watch?v=fMW3W-G43gI)

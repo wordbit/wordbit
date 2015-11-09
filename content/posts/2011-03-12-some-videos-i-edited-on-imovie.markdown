@@ -11,10 +11,12 @@ tags:
 
 Here are some videos I edited on iMovie using the new movie trailer templates. 
 
-[youtube http://www.youtube.com/watch?v=QdL76ZytiZ8?wmode=transparent]
+[video removed]
 
-[youtube http://www.youtube.com/watch?v=ZCSdzwZgHq0?wmode=transparent]
+[video removed]
 
 And here is a video of my wife's annual Halloween special at work. This year they were the seven dwarves who rescued the Chilean miners. 
 
-[youtube http://www.youtube.com/watch?v=i2-iempGmkc?wmode=transparent]
+[video removed]
+
+*This is a cross-post. [Go here](https://aprivateword.wordpress.com/2011/03/12/some-videos-i-edited-on-imovie/) for the original post.*
