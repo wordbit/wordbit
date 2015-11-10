@@ -7,7 +7,10 @@ categories:
 - reading
 - writing
 ---
+ 
 
-[![surfing194](http://wordbit.freehostia.com/wp-content/uploads/2008/11/surfing194.jpg)](http://wordbit.freehostia.com/scans/SurfingNov08.html) That's probably the cheesiest line I've ever written. But for some reason, the editors over at _alive_ actually seem to revel in cheese (One example is the title I'll eternally shake my head at: _G...I can't believe it's a Glycemic index_). God bless 'em though - they're a wonderful bunch. 
+<img align="left" style="border:20px solid white" src="/images/surfing194.jpg">
 
-Anyway, here's an article I really enjoyed writing because, well, I love surfing! And so does Scott over in the art department. He took some glorious pictures in Tofino and quite simply graced my article with them. Click on the thumbnail to hit the beach dude.
+That's probably the cheesiest line I've ever written. But for some reason, the editors over at _alive_ actually seem to revel in cheese (One example is the title I'll eternally shake my head at: _G...I can't believe it's a Glycemic index_). God bless 'em though - they're a wonderful bunch. 
+
+Anyway, here's an article I really enjoyed writing because, well, I love surfing! And so does Scott over in the art department. He took some glorious pictures in Tofino and quite simply graced my article with them. [Click here](http://www.alive.com/lifestyle/goodbye-treadmill-hello-waves/) to hit the beach dude.

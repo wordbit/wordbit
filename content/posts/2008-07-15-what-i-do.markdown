@@ -8,7 +8,10 @@ categories:
 - technical writing
 ---
 
-![ph](http://wordbit.freehostia.com/wp-content/uploads/2008/07/ph.jpg) I thought it was high time for an update on the first two weeks of my contract. As I alluded to previously, the project I'm working on right now involves the design of a new phone. It's a complex system with many components, and is rather hush-hush at the moment so I can't really elaborate on it. Thus far, much of the system behaviour has been decided upon verbally, which is where I come in. Through interviews with the project manager and the software engineers, and by gleaning information from what is known as a state table (a map of the information architecture), I've been putting together engineering specifications for a product that does not exist yet. 
+
+<img align="left" style="border:20px solid white" src="/images/ph.jpg">
+
+I thought it was high time for an update on the first two weeks of my contract. As I alluded to previously, the project I'm working on right now involves the design of a new phone. It's a complex system with many components, and is rather hush-hush at the moment so I can't really elaborate on it. Thus far, much of the system behaviour has been decided upon verbally, which is where I come in. Through interviews with the project manager and the software engineers, and by gleaning information from what is known as a state table (a map of the information architecture), I've been putting together engineering specifications for a product that does not exist yet. 
 
 
 <!-- more -->

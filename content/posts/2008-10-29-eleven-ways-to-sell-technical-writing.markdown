@@ -8,11 +8,11 @@ categories:
 - technical writing
 ---
 
-![cubicle](http://wordbit.freehostia.com/wp-content/uploads/2008/10/cubicle.jpg) I say eleven, because Ben Minson came up with [this excellent list](http://www.gryphonmountain.net/archives/techcomm/seven-reasons-your-company-needs-a-technical-communicator) of seven plus four more on his blog, Gryphon Mountain. His list gives reasons why a company should hire a technical writer. Check it out if you need to justify your existence or if nobody has fought through the cobwebs to your cubicle in a while and you suspect the engineering department has forgotten about you. Or maybe you need to explain what-it-is-you-do-exactly in a job interview. Here are his basic points:
-
-
-<!-- more -->
  
+<img align="left" style="border:20px solid white" src="/images/cubicle.jpg">
+
+I say eleven, because Ben Minson came up with [this excellent list](http://www.gryphonmountain.net/archives/techcomm/seven-reasons-your-company-needs-a-technical-communicator) of seven plus four more on his blog, Gryphon Mountain. His list gives reasons why a company should hire a technical writer. Check it out if you need to justify your existence or if nobody has fought through the cobwebs to your cubicle in a while and you suspect the engineering department has forgotten about you. Or maybe you need to explain what-it-is-you-do-exactly in a job interview. Here are his basic points:
+
 
 1. End users need documentation.  
 2. Technical communicators look at the product with a user perspective.  

@@ -8,11 +8,11 @@ categories:
 - technology
 ---
 
-![apple-sucks](http://wordbit.freehostia.com/wp-content/uploads/2008/11/apple-sucks.jpg) Not all of Apple's offerings are shiny and perfect. And when it comes to iTunes, most sane people will agree that this music player is just plain ugly. I applaud Scott Gilberson for calling it like it is in his blog post, ["The Top Ten Reasons iTunes Sucks"](http://www.webmonkey.com/blog/The_Top_Ten_Reasons_iTunes_Sucks). Here are his main beefs:
 
+<img align="left" src="/images/apple-sucks.jpg">
 
-<!-- more -->
- 
+Not all of Apple's offerings are shiny and perfect. And when it comes to iTunes, most sane people will agree that this music player is just plain ugly. I applaud Scott Gilberson for calling it like it is in his blog post, ["The Top Ten Reasons iTunes Sucks"](http://www.webmonkey.com/blog/The_Top_Ten_Reasons_iTunes_Sucks). Here are his main beefs:
+
 
 1. It's a store stupid  
 2. The library manager is prehistoric  

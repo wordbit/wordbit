@@ -8,15 +8,14 @@ categories:
 - resources
 ---
 
-![telemarketer_art](http://wordbit.freehostia.com/wp-content/uploads/2008/10/telemarketer_art.gif) It's been almost a month since the launch of [Canada's National Do Not Call List](https://www.lnnte-dncl.gc.ca/index-eng). If you signed up on September 30th, your right to slam a deviant telemarketer will kick in this October 30th. Sweet. When will companies learn that people telemarketing is the second most hated form of privacy invasion on this planet (Door-to-door marketing holds the number one spot in my mind)? Even junk mail doesn't seem as bad, as annoying as it is. 
+
+<img align="left" style="border:20px solid white" src="/images/telemarketer_art.gif">
+
+It's been almost a month since the launch of [Canada's National Do Not Call List](https://www.lnnte-dncl.gc.ca/index-eng). If you signed up on September 30th, your right to slam a deviant telemarketer will kick in this October 30th. Sweet. When will companies learn that people telemarketing is the second most hated form of privacy invasion on this planet (Door-to-door marketing holds the number one spot in my mind)? Even junk mail doesn't seem as bad, as annoying as it is. 
 
  
 
 These days, however, telemarketers have it tough. Not only can they get fined for contravening the DNC list, but they have to contend with a new trend - these days most people have cell phones, not land lines. Sure, you could screen the call using Caller ID, but here's something better: once you have the number of a telemarketer, program an entry in your directory. I use the moniker "Do Not Answer". I then set the customized ringer to "Do not ring". I haven't had to speak to a telemarketer in five years. And because I'm feeling generous, I've decided to share my sacred list with you.
-
-
-<!-- more -->
-  
 
 Now, bear in mind that this list is only valid if you live in Canada - and the 604 numbers are only valid for the Vancouver area. However, I've confirmed that all these numbers are telemarketers of the most heinous kind. Do yourself a favour and block 'em all. So, here's a little list of my own - a Do Not Answer list:
 

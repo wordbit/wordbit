@@ -8,10 +8,12 @@ categories:
 - websites
 ---
 
-[![pres](http://wordbit.freehostia.com/wp-content/uploads/2008/12/pres_thumb.jpg)](http://wordbit.freehostia.com/wp-content/uploads/2008/12/pres.jpg) So the economy is caught in a perpetual flush cycle and the government is crumbling under the pressure of imminent deficits. You're waiting for HR to ask you to stop by so they can talk about "restructuring". You're wondering if you can even afford to drive to the mall this holiday season, let alone buy mounds of stuff there. Well, no worries. Here are some resources for thrifty Canadians with the most meagre of budgets, because let's face it - right now it's cool to be cheap.
+
+<img align="left" style="border:20px solid white" src="/images/pres.jpg">
+
+So the economy is caught in a perpetual flush cycle and the government is crumbling under the pressure of imminent deficits. You're waiting for HR to ask you to stop by so they can talk about "restructuring". You're wondering if you can even afford to drive to the mall this holiday season, let alone buy mounds of stuff there. Well, no worries. Here are some resources for thrifty Canadians with the most meagre of budgets, because let's face it - right now it's cool to be cheap.
 
 Don't waste your time surfing around for deals, I've put together a list of the eight best Canadian deal sites out there for you:
-<!-- more -->
  
 
 [Pricecanada.com](http://www.pricecanada.com/) - a shopping search engine that allows you to compare prices among numerous retailers.

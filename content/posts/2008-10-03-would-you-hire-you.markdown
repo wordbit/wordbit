@@ -10,7 +10,10 @@ categories:
 - working
 ---
 
-[![fired](http://wordbit.freehostia.com/wp-content/uploads/2008/10/fired_thumb.jpg)](http://wordbit.freehostia.com/wp-content/uploads/2008/10/fired.jpg) In this rocky economic climate, marketing yourself has never been more crucial if you want to survive the inevitable cutbacks. When it comes to technical writing, it's a useful exercise to understand and appreciate what companies look for in a writer.
+
+<img align="left" style="border:20px solid white" src="/images/fired.jpg">
+
+In this rocky economic climate, marketing yourself has never been more crucial if you want to survive the inevitable cutbacks. When it comes to technical writing, it's a useful exercise to understand and appreciate what companies look for in a writer.
 
 Lyndsey Amott, in an [article on her website](http://www.docsymmetry.com/hiring-a-technical-writer.html), stresses that industry knowledge should not be a primary deciding factor when mulling over suitable candidates. Her top three must-haves are:
 
