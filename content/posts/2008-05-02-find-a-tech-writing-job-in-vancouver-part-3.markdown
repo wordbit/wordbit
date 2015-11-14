@@ -8,7 +8,10 @@ categories:
 - working
 ---
 
-[![580773](http://wordbit.freehostia.com/wp-content/uploads/2008/05/580773_thumb.jpg)](http://wordbit.freehostia.com/wp-content/uploads/2008/05/580773.jpg) So, you've managed to land an interview. Congratulations! Time to prepare by going through possible interview questions and practicing in front of a mirror. Make sure you've done your research on the company and have some intelligent questions to ask them too.  
+
+<img align="left" style="border:20px solid white" src="/images/580773.jpg">
+
+So, you've managed to land an interview. Congratulations! Time to prepare by going through possible interview questions and practicing in front of a mirror. Make sure you've done your research on the company and have some intelligent questions to ask them too.  
 
 Now what do you say once you're sitting in the hot seat? Here are my top five tips for acing that tech-writing job interview:
 
@@ -26,4 +29,4 @@ Now what do you say once you're sitting in the hot seat? Here are my top five ti
 
 5. Relax and be yourself. If you’re a geek who is passionate about technology, grammar, and the latest trends in communication, then it’ll come through in the interview. Remember that you’re trying to find the perfect fit for you.  
 
-In part 4, coming sometime next week, I'll talk about salary negotiations. And if you missed them, be sure to catch up on [part 1](http://wordbit.freehostia.com/find-a-tech-writing-job-in-vancouver-part-1/) and [part 2](http://wordbit.freehostia.com/find-a-tech-writing-job-in-vancouver-part-2/) in this series. 
+In part 4, coming sometime next week, I'll talk about salary negotiations. And if you missed them, be sure to catch up on [part 1]({{< relref "2008-03-11-find-a-tech-writing-job-in-vancouver-part-1.markdown" >}}) and [part 2]({{< relref "2008-04-28-find-a-tech-writing-job-in-vancouver-part-2.markdown" >}}) in this series. 
