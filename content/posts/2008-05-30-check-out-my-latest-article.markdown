@@ -7,7 +7,10 @@ categories:
 - site Announcements
 ---
 
-_[![tn_moisterize1](http://wordbit.freehostia.com/wp-content/uploads/2008/05/tn_moisterize1.jpg)](http://wordbit.freehostia.com/scans/moisterize.html) alive_ magazine is out, and this month I have a men's beauty article published called "Are you man enough to moisturize?" Click on the thumbnail to check it out. It's meant to be informative, but it's also a marketing piece because I mention a few products that potential retail customers might be interested in. 
+
+<img align="left" style="border:20px solid white" src="/images/tn_moisterize1.jpg"> 
+
+_alive_ magazine is out, and this month I have a men's beauty article published called "Are you man enough to moisturize?" [Click here](http://wordbit.freehostia.com/scans/moisterize.html) to check it out. It's meant to be informative, but it's also a marketing piece because I mention a few products that potential retail customers might be interested in. 
 
 Also, I've recently updated my [ePortfolio](http://www.wordbit.freehostia.com/eportfolio), which I'm going to recommend to all potential employers from now on. I've been sending out links to the portfolio on this blog, but that page is becoming a bit unwieldy. 
 
