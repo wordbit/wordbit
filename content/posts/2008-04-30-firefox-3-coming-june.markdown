@@ -7,9 +7,12 @@ categories:
 - the internet
 ---
 
-![f3](http://wordbit.freehostia.com/wp-content/uploads/2008/04/f3.jpg) With the recent release of Firefox 3 Beta 5, the end is in sight for an official release of this popular browser (in the meantime, Internet Explorer 8 Beta 1 has just come out). Here are some of the improvements Firefox 3 has over it's predecessor:
 
- 
+<img align="left" style="border:20px solid white" src="/images/f3.jpg">
+
+With the recent release of Firefox 3 Beta 5, the end is in sight for an official release of this popular browser (in the meantime, Internet Explorer 8 Beta 1 has just come out). Here are some of the improvements Firefox 3 has over it's predecessor:
+
+ <br>
 
   
   * Faster (better memory management). Two to four times faster than Firefox 2.

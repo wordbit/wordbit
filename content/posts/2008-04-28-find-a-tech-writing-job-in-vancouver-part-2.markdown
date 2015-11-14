@@ -8,7 +8,10 @@ categories:
 - working
 ---
 
-![chickenhonest](http://wordbit.freehostia.com/wp-content/uploads/2008/04/chickenhonest.jpg) I mentioned in part one of this series that 80% of jobs can only be found in that elusive place called "the hidden job market." About 20% of those gigs can be gotten through employment services, cold calling, and other tactics, such as information interviews. But the other 60% are landed through referrals. That makes networking your only way to access a big chunk of the job market. 
+
+<img align="left" style="border:20px solid white" src="/images/chickenhonest.jpg">
+
+I mentioned in part one of this series that 80% of jobs can only be found in that elusive place called "the hidden job market." About 20% of those gigs can be gotten through employment services, cold calling, and other tactics, such as information interviews. But the other 60% are landed through referrals. That makes networking your only way to access a big chunk of the job market. 
 
 So how do you rustle up some contacts in Vancouver, a city that has a reputation for being a tad on the chilly side? 
 

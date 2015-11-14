@@ -10,7 +10,10 @@ categories:
 - writing
 ---
 
-![briji](http://wordbit.freehostia.com/wp-content/uploads/2008/04/briji.gif) For those of you who aren't familiar with it, [Brijit](http://www.brijit.com/) is a website that publishes 100-word summaries of various web, TV, radio, and print media. The idea is that there is so much information out there - wouldn't it be nice if we had the short-short version so we can get the gist of it and decide if it's worth reading or watching the whole thing. 
+
+<img align="left" style="border:20px solid white" src="/images/briji.gif"> 
+
+For those of you who aren't familiar with it, [Brijit](http://www.brijit.com/) is a website that publishes 100-word summaries of various web, TV, radio, and print media. The idea is that there is so much information out there - wouldn't it be nice if we had the short-short version so we can get the gist of it and decide if it's worth reading or watching the whole thing. 
 
 It's a neat idea, but with so much content out there, it would be impossible for an editorial team to cover it all. Brijit came up with the genius idea of asking anybody to submit these 100-word summaries in exchange for $5.
 
