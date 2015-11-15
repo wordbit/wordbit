@@ -6,7 +6,10 @@ categories:
 - technology
 ---
 
-![](http://wordbit.freehostia.com/wp-content/uploads/2007/03/WindowsLiveWriter/Greedforspeed_12948/fastinternet%5B5%5D.jpg) After my nasty lesson with [Google Accelerator](http://wordbit.freehostia.com/google-accelerator-killed-my-website/) you think I would have given up on my obsession with speeding up my Internet connection. Unfortunately, there's nothing like the tantalizing lure of speed and power to blind even the most cautious of web surfers, especially if your Internet connection is agonizingly sluggish. 
+
+<img align="left" style="border:20px solid white" src="/images/fastinternet%5B5%5D.jpg">
+
+After my nasty lesson with [Google Accelerator]({{< relref "2007-03-06-google-accelerator-killed-my-website.markdown" >}}) you think I would have given up on my obsession with speeding up my Internet connection. Unfortunately, there's nothing like the tantalizing lure of speed and power to blind even the most cautious of web surfers, especially if your Internet connection is agonizingly sluggish. 
 
 It's not surprising then, that this [tubetorial on speeding up the Internet with Firefox](http://www.tubetorial.com/speed-up-firefox/) caught my attention. I did briefly try it out before turning it off in horror.
 

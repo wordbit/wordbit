@@ -10,7 +10,7 @@ This story is a few months old, but it just came to my attention and I thought i
 
  
 
-![witricity-diagram](http://wordbit.freehostia.com/wp-content/uploads/2007/12/witricity-diagram.jpg)
+![witricity-diagram](/images/witricity-diagram.jpg)
 
  
 

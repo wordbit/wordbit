@@ -7,7 +7,9 @@ categories:
 - technology
 ---
 
-![490822_53990118](http://wordbit.freehostia.com/wp-content/uploads/2007/12/490822_53990118.jpg) You may be aware of Canada's Private Copyright Collective, the organization responsible for the ridiculous levy on blank audio cassettes and CDs. Now this collective is lobbying hard for a levy on recording devices such as MP3 players, cellphones, computers, and anything you can record with basically. Their argument is that just because you can pirate music on these devices, you should pay for it. These extortionist royalties are distributed to eligible songwriters, musicians, and record production companies (although the collective is unclear on who exactly is eligible - they don't even have to be Canadian).
+<img align="left" style="border:20px solid white" src="/images/490822_53990118.jpg">
+
+You may be aware of Canada's Private Copyright Collective, the organization responsible for the ridiculous levy on blank audio cassettes and CDs. Now this collective is lobbying hard for a levy on recording devices such as MP3 players, cellphones, computers, and anything you can record with basically. Their argument is that just because you can pirate music on these devices, you should pay for it. These extortionist royalties are distributed to eligible songwriters, musicians, and record production companies (although the collective is unclear on who exactly is eligible - they don't even have to be Canadian).
 
 The Copyright Board has approved the collective's proposal and the government is promising new legislation that may be implemented before Christmas. 
 

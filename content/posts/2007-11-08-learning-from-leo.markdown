@@ -8,7 +8,10 @@ categories:
 - working
 ---
 
-![LeonardodaVinci](http://wordbit.freehostia.com/wp-content/uploads/2007/11/LeonardodaVinci.jpg) Peter Legge, CEO of Canada Wide (the behemoth that publishes just about every magazine in Western Canada), recently wrote a little book on how to jump-start your career. 
+ 
+<img align="left" style="border:20px solid white" src="/images/LeonardodaVinci.jpg">
+
+Peter Legge, CEO of Canada Wide (the behemoth that publishes just about every magazine in Western Canada), recently wrote a little book on how to jump-start your career. 
 
 He advises us to model ourselves after Leonardo da Vinci, who believed that seven key elements allowed him to become one of the most incredible innovators of our time. Here they are:
 

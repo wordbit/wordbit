@@ -6,7 +6,9 @@ categories:
 - politics
 ---
 
-In a congressional hearing held on Tuesday November 6 as part of a lawsuit against Yahoo, CEO Jerry Yang and vice-president Michael Callahan were chastised for their involvement in the arrest and imprisonment of ![yahoo](http://wordbit.freehostia.com/wp-content/uploads/2007/11/yahoo_thumb.jpg)a Chinese journalist. Yahoo is currently on trial for aiding and abetting in the torture of Chinese dissidents.  
+<img align="left" style="border:20px solid white" src="/images/yahoo_thumb.jpg">
+
+In a congressional hearing held on Tuesday November 6 as part of a lawsuit against Yahoo, CEO Jerry Yang and vice-president Michael Callahan were chastised for their involvement in the arrest and imprisonment of a Chinese journalist. Yahoo is currently on trial for aiding and abetting in the torture of Chinese dissidents.  
 
 In 2005, Chinese journalist Shi Tao was convicted by his government for divulging “state secrets”. Shi Tao had forwarded an email from the Communist Party warning the media not to observe the 15th anniversary of the Tiananmen Square massacre in 2004. Yahoo provided information to the government which helped identify Shi Tao as a dissident. He was sentenced to 10 years imprisonment.  
 
