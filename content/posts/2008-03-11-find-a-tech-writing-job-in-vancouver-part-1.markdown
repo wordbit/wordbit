@@ -9,7 +9,10 @@ categories:
 - working
 ---
 
-![vancouver-canada](http://wordbit.freehostia.com/wp-content/uploads/2008/03/vancouver-canada.jpg) I'm going to start a series on finding a tech-writing job specifically in the high-tech hub of Vancouver, BC (which is where I happen to live). As I started the job search process myself, I noticed a dearth of information on this topic. I hope I can dig up some useful info for those in a similar position - eventually I'll port this stuff over to my resources page. 
+
+<img align="left" style="border:20px solid white" src="/images/vancouver-canada.jpg">
+
+I'm going to start a series on finding a tech-writing job specifically in the high-tech hub of Vancouver, BC (which is where I happen to live). As I started the job search process myself, I noticed a dearth of information on this topic. I hope I can dig up some useful info for those in a similar position - eventually I'll port this stuff over to my resources page. 
 
 So, without further ado, here is part 1, which will focus on job search engines. Sure, you'll get 20% of jobs this way ( the other 80% you'll find through the hidden job market), but it seems a good way to start. And after all, you might just might get lucky and beat the hordes of job seekers all vying for the same position... 
 
@@ -19,15 +22,15 @@ So, without further ado, here is part 1, which will focus on job search engines.
 
 Here are some job search engines tailored specifically to the high-tech industry in Vancouver:
 
-[![techvibes_logo](http://wordbit.freehostia.com/wp-content/uploads/2008/03/techvibes_logo.gif)](http://www.techvibes.com/job/)
+[![techvibes_logo](/images/techvibes_logo.gif)](http://www.techvibes.com/job/)
 
-[![techjobsvan](http://wordbit.freehostia.com/wp-content/uploads/2008/03/techjobsvan1.jpg)](http://www.techjobsvancouver.com/)
+[![techjobsvan](/images/techjobsvan1.jpg)](http://www.techjobsvancouver.com/)
 
-[![tnet](http://wordbit.freehostia.com/wp-content/uploads/2008/03/tnet1.gif)](http://www.bctechnology.com/frameset_emp.html)
+[![tnet](/images/tnet1.gif)](http://www.bctechnology.com/frameset_emp.html)
 
-[![db](http://wordbit.freehostia.com/wp-content/uploads/2008/03/db1.gif)](http://www.devbistro.com/jobs/city/Vancouver/loc/Canada-BC)
+[![db](/images/db1.gif)](http://www.devbistro.com/jobs/city/Vancouver/loc/Canada-BC)
 
-[![dice](http://wordbit.freehostia.com/wp-content/uploads/2008/03/dice.gif)](http://seeker.dice.com/jobsearch/servlet/JobSearch?Ntx=mode+matchall&FRMT=0&COUNTRY=1338&N=0&Hf=0&Ntk=JobSearchRanking&NUM_PER_PAGE=30&op=300&y=16&LOCATION_OPTION=3&x=32&TAXTERM=0&caller=0&DAYSBACK=30&TRAVEL=0&Ns=p_Municipality|1&SORTDIR=6&SORTSPEC=0)
+[![dice](/images/dice.gif)](http://seeker.dice.com/jobsearch/servlet/JobSearch?Ntx=mode+matchall&FRMT=0&COUNTRY=1338&N=0&Hf=0&Ntk=JobSearchRanking&NUM_PER_PAGE=30&op=300&y=16&LOCATION_OPTION=3&x=32&TAXTERM=0&caller=0&DAYSBACK=30&TRAVEL=0&Ns=p_Municipality|1&SORTDIR=6&SORTSPEC=0)
 
 And then of course there are the more generic search engines:
 

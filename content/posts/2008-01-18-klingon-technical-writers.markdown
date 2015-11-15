@@ -7,7 +7,10 @@ categories:
 - writing humour
 ---
 
-![klingonkeyboard](http://wordbit.freehostia.com/wp-content/uploads/2008/01/klingonkeyboard.jpg) This is as geeky as it gets folks. The [EAC](http://www.editors.ca/) meeting last night featured a talk entitled "Crouching comma, hidden hyphen" by Ramona Montagnes, one of the authors of the Canadian Writer's Handbook and director of the UBC Writing Centre. This list was on one of her handouts. 
+ 
+<img align="left" style="border:10px solid white" src="/images/klingonkeyboard.jpg">
+
+This is as geeky as it gets folks. The [EAC](http://www.editors.ca/) meeting last night featured a talk entitled "Crouching comma, hidden hyphen" by Ramona Montagnes, one of the authors of the Canadian Writer's Handbook and director of the UBC Writing Centre. This list was on one of her handouts. 
 
 The top 16 things likely to be overheard if you had Klingon technical writers working on your documentation team:
 

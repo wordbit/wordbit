@@ -8,7 +8,10 @@ categories:
 - NV08
 ---
 
-![poster](http://wordbit.freehostia.com/wp-content/uploads/2008/02/poster1.jpg) I'm glad I was able to attend Northern Voice this year - it was informative and inspiring for the most part. All the clicking laptops around me were a bit daunting, but gave me something to aspire to. 
+ 
+<img align="left" style="border:20px solid white" src="/images/poster1.jpg">
+
+I'm glad I was able to attend Northern Voice this year - it was informative and inspiring for the most part. All the clicking laptops around me were a bit daunting, but gave me something to aspire to. 
 
 The morning kicked off with the keynote address by [Matt Mullenweg](http://ma.tt), founder of Wordpress (the excellent blogging platform on which this website is based). Listen to [the audio](http://atlargemedia.com/content/podcast-matt-mullenweg-keynote-northern-voice-2008) here.
 

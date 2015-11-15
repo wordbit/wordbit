@@ -9,7 +9,10 @@ categories:
 - writing
 ---
 
-[![scshotweb](http://wordbit.freehostia.com/wp-content/uploads/2008/03/scshotweb.jpg)](http://www.wordbit.freehostia.com/eportfolio) I've officially uploaded the latest version of my ePortolio - you can [check it out here](http://www.wordbit.freehostia.com/eportfolio). 
+ 
+<img align="left" style="border:20px solid white" src="/images/scshotweb.jpg">
+
+I've officially uploaded the latest version of my ePortolio - you can [check it out here](http://www.wordbit.freehostia.com/eportfolio). 
 
 This website uses some flash elements and some fancy css coding and is basically geared towards technical writing employers as a way to showcase my work. I may expand it in the future to include other samples too. 
 
