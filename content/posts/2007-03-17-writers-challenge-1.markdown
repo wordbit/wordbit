@@ -9,7 +9,10 @@ categories:
 - writing
 ---
 
-As promised in my last post, here is a little segment I'm going to call...(insert  drum-roll here)...THE WRITER'S ![](http://wordbit.freehostia.com/wp-content/uploads/2007/03/WindowsLiveWriter/Writerschallenge1_378/puzzled%5B4%5D.gif)CHALLENGE! Will you muster your courage and face the cunning challenge I've set before you?
+
+<img align="left" style="border:20px solid white" src="/images/puzzled%5B4%5D.gif">
+
+As promised in my last post, here is a little segment I'm going to call...(insert  drum-roll here)...THE WRITER'S CHALLENGE! Will you muster your courage and face the cunning challenge I've set before you?
 
 Here it is:
 
@@ -20,4 +23,4 @@ Let me warn you, this is some of the most convoluted, ridiculously bloated writi
 Good luck!
 
 
-###### In the event that nobody guesses what this object is, I will reveal the answer at a later time.
+*In the event that nobody guesses what this object is, I will reveal the answer at a later time.*

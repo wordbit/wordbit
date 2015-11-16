@@ -15,7 +15,8 @@ Firstly, I am proud to announce that I am the new godfather for a young lad in E
 
 A couple of cool vids to check out today - the first is an interesting web 2.0 montage put together by a group of faculty and students calling themselves “digital ethnographers”. It’s not too long, check it out if you have a couple of minutes to spare.
 
-[youtube=http://youtu.be/6gmP4nk0EOE]
+
+[![](http://img.youtube.com/vi/6gmP4nk0EOE/0.jpg)](http://www.youtube.com/watch?v=6gmP4nk0EOE)
 
 If you have more time, check out this documentary on Google, which touches on the dangers of a search engine monopoly in which one company controls the flow of information.
 

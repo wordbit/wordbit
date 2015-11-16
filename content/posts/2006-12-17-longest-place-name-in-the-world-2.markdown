@@ -8,7 +8,7 @@ tags:
 
 Welcome to another instalment of _Toponym of The Day_. Today’s toponym is the longest place name in the world:
 
-[![long place name](http://wordbitarchives.files.wordpress.com/2014/03/long-place-name.jpg)](http://wordbitarchives.files.wordpress.com/2014/03/long-place-name.jpg)
+![long place name](/images/long-place-name.jpg)
 
 Llandfairpwllgwyngyllgogerychwyrudrobwllllantysiliogogogoch
 

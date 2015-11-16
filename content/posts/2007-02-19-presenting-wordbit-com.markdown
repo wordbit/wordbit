@@ -13,27 +13,25 @@ Here are some great reasons to switch to wordbit.com:
 
 
 
+* The URL is so much shorter and easier to remember.
 
 	
-    * The URL is so much shorter and easier to remember.
+* wordbit.com has a clean look, with lots of white space and larger fonts.
 
 	
-    * wordbit.com has a clean look, with lots of white space and larger fonts.
+* Randomly generated banner images…cool!
 
 	
-    * Randomly generated banner images…cool!
+* There are a minimum of cumbersome graphics - should be fast loading.
 
 	
-    * There are a minimum of cumbersome graphics - should be fast loading.
+* There is a resource section for technical writers that you can help build.
 
 	
-    * There is a resource section for technical writers that you can help build.
+* Focused content and well-written edited posts with substance and a minimum of fluff.
 
 	
-    * Focused content and well-written edited posts with substance and a minimum of fluff.
-
-	
-    * If you like what you read here, switch to wordbit.com and stay in touch!
+* If you like what you read here, switch to wordbit.com and stay in touch!
 
 
 

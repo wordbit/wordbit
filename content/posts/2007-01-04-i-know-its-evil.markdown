@@ -14,6 +14,6 @@ This one is Deal or No Deal
 
 And here’s the best one: Who wants to be a millionaire?
 
-[![Who wants to be a millionaire](http://a.abc.com/images/70x50/game_millionaire.jpg)](http://abc.go.com/games/millionairetv/game/)
+[![Who wants to be a millionaire](/images/game_millionaire.jpg)](http://abc.go.com/games/millionairetv/game/)
 
 I’ll try to keep these fluff posts to a minimum

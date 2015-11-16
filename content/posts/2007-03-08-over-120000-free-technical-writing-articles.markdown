@@ -7,6 +7,8 @@ categories:
 - technical writing
 ---
 
-Here is a valuable resource that no technical writer, or technical-writing student, can do without: [The EServer TC Library](http://tc.eserver.org/), a free library of articles on all manner of relevant subjects: [![](http://wordbit.freehostia.com/wp-content/uploads/2007/03/WindowsLiveWriter/Over120000freetechnicalwritingarticles_1310C/eserver%5B8%5D.jpg)](http://tc.eserver.org/)
+Here is a valuable resource that no technical writer, or technical-writing student, can do without: [The EServer TC Library](http://tc.eserver.org/), a free library of articles on all manner of relevant subjects: 
+
+![](/images/eserver%5B8%5D.jpg)
 
 I'll also put this up on my resources page. A lot of these articles are derived from STC conferences and are available in PDF format.

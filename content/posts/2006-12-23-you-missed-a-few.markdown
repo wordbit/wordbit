@@ -8,12 +8,12 @@ I don't really post in here as often as in [wordspace](http://wordspace.awardspa
 
 If you're into it, here's some permalinks to what you've missed this week...
 
-[Longest place name in the world](http://wordspace.awardspace.com/2006/12/17/longest-place-name-in-the-world/)
+[Longest place name in the world]({{< relref "2006-12-17-longest-place-name-in-the-world-2.markdown" >}})
 
-[Grab some popcorn, grab your iPod](http://wordspace.awardspace.com/2006/12/19/grab-some-popcorn-grab-your-ipod/)
+[Grab some popcorn, grab your iPod]({{< relref "2006-12-19-grab-some-popcorn-grab-your-ipod.markdown" >}})
 
-[Procrastination is good](http://wordspace.awardspace.com/2006/12/22/procrastination-is-good/)
+[Procrastination is good]({{< relref "2006-12-22-procrastination-is-good.markdown" >}})
 
-[Rhetoric of threat letters](http://wordspace.awardspace.com/2006/12/23/rhetoric-of-threat-letters/)
+[Rhetoric of threat letters]({{< relref "2006-12-23-rhetoric-of-threat-letters.markdown" >}})
 
 And, yay! I've finished my 500 page textbook. Just in time for Christmas.

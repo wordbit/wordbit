@@ -11,14 +11,14 @@ tags:
 I while back I got fined for parking at work. Yes, at work. The injustice of the situation hardened my resolve to never pay this fine. After a few softcore letters I received this hardcore final notice, which I kept because it is a fine example of Aristotelian logos, pathos and ethos being used to full effect.
 
 
-[![letter 1](http://wordbitarchives.files.wordpress.com/2014/03/letter-1.jpg)](http://wordbitarchives.files.wordpress.com/2014/03/letter-1.jpg)
+![letter 1](/images/letter-1.jpg)
 
 
 After reading it, I was almost persuaded to pay the fine because I thought I was being sued - at first. I then noticed all the cunningly placed “mays” and decided they were just trying to scare me.
 
 A few months later, the case was handed over to some debt collectors, and they sent me this letter.
 
-[![letter 2](http://wordbitarchives.files.wordpress.com/2014/03/letter-2.jpg)](http://wordbitarchives.files.wordpress.com/2014/03/letter-2.jpg)
+![letter 2](/images/letter-2.jpg)
 
 Needless to say, I was disappointed. After the previous rhetorical _tour de force_, this skimpy letter was positively anti-climatic. Not only that, but the grammar is astoundingly poor. Note the quintuplet ellipses. What did they do that for? Why did they have to be so grammatically offensive? After recieving this letter, I was certain I would never be tempted to pay this fine…ever.
 

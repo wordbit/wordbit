@@ -11,7 +11,7 @@ My girlfriend was telling me about her Bikram yoga class today and how you pay $
 
 
 
-Needless to say, inspired by the “[yes men](http://wordspace.awardspace.com/grab-some-popcorn-grab-your-ipod/)” video, I looked into the company and was pleased to see they were based in Vancouver and produced all their clothes here. Basically, the company seemed an ethical, homegrown success that supported the local economy and made Vancouverites justifiably proud of their stylish yoga apparel.
+Needless to say, inspired by the “[yes men]({{< relref "2006-12-19-grab-some-popcorn-grab-your-ipod.markdown" >}})” video, I looked into the company and was pleased to see they were based in Vancouver and produced all their clothes here. Basically, the company seemed an ethical, homegrown success that supported the local economy and made Vancouverites justifiably proud of their stylish yoga apparel.
 
 
 

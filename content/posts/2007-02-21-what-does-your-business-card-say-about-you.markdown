@@ -8,7 +8,10 @@ categories:
 - writing
 ---
 
-![](http://wordbit.freehostia.com/wp-content/uploads/2007/02/WindowsLiveWriter/Theperfectbusinesscard_FB86/card_thumb2.jpg) Business cards are so ubiquitous these days, but not many people consider how much of an impression their card really makes. Well, with the exception of some Asian cultures (In Asia the exchange of business cards is ritualistic - The reciever takes the card respectfully with two hands and studies it carefully before placing it carefully into a pocket for safekeeping).      
+
+<img align="left" style="border:20px solid white" src="/images/card_thumb2.jpg">
+
+Business cards are so ubiquitous these days, but not many people consider how much of an impression their card really makes. Well, with the exception of some Asian cultures (In Asia the exchange of business cards is ritualistic - The reciever takes the card respectfully with two hands and studies it carefully before placing it carefully into a pocket for safekeeping).      
 
 
 
@@ -18,7 +21,7 @@ Your business card is a little piece of you that somebody carries around in thei
 
 
 
-Or is it? <!-- more -->Seriously, aren't people taking it a bit far? In their fervour to design the perfect business card, people sometimes forget that it's the medium that constrains the message. Cards printed with the limited technology of the early twentieth century, for example, were simple black on white affairs. Does this mean that people would dismiss Winston Churchill as a boring old oaf just because he had a simple card? People in the 21st century are desperate to be unique. These days people willingly sacrifice simplicity and functionality to make cards out of plastic, metal, wood, you name it - just to stand out.  
+Or is it? Seriously, aren't people taking it a bit far? In their fervour to design the perfect business card, people sometimes forget that it's the medium that constrains the message. Cards printed with the limited technology of the early twentieth century, for example, were simple black on white affairs. Does this mean that people would dismiss Winston Churchill as a boring old oaf just because he had a simple card? People in the 21st century are desperate to be unique. These days people willingly sacrifice simplicity and functionality to make cards out of plastic, metal, wood, you name it - just to stand out.  
 
 
 
