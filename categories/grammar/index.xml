@@ -14,17 +14,21 @@
       <pubDate>Wed, 28 Feb 2007 09:24:51 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/cultural-sensitivity-in-user-documentation/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://wordbit.freehostia.com/wp-content/uploads/2007/02/WindowsLiveWriter/Culturalsensitivityinuserdocumentation_AA6/angry%20leprechaun%5B4%5D.jpg&#34; alt=&#34;&#34; /&gt; When editing technical documents, how aware should you be of regional differences in pronunciation? Here is &lt;a href=&#34;http://www.redhatmagazine.com/2007/02/26/how-to-write-really-good-documentationsemi-definite-rules-for-the-indefinite-article/&#34;&gt;an interesting article&lt;/a&gt; on the subject by Brian Forte. Forte raises the following issue regarding the usage of an indefinite article with initialisms:&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/angry%20leprechaun%5B4%5D.jpg&#34;&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;How do you pronounce an initialism like HTML?
+&lt;p&gt;When editing technical documents, how aware should you be of regional differences in pronunciation? Here is &lt;a href=&#34;http://www.redhatmagazine.com/2007/02/26/how-to-write-really-good-documentationsemi-definite-rules-for-the-indefinite-article/&#34;&gt;an interesting article&lt;/a&gt; on the subject by Brian Forte. Forte raises the following issue regarding the usage of an indefinite article with initialisms:&lt;/p&gt;
 
-I was taught English in public Australian schools of the 1970s. So I was taught _aitch_ rather than _haitch._ Which means I pronounce ‘HTML’ with an initial vowel sound and I write ‘an HTML page.’
+&lt;blockquote&gt;
+&lt;p&gt;How do you pronounce an initialism like HTML?&lt;/p&gt;
 
-If I’d gone to a private Irish Catholic school, however, I would have been taught _haitch_ and would, naturally enough, think ‘a HTML page’ is correct.&lt;!-- more --&gt;
+&lt;p&gt;I was taught English in public Australian schools of the 1970s. So I was taught &lt;em&gt;aitch&lt;/em&gt; rather than &lt;em&gt;haitch.&lt;/em&gt; Which means I pronounce ‘HTML’ with an initial vowel sound and I write ‘an HTML page.’&lt;/p&gt;
 
-More generally, _haitch_ is standard in Hiberno-English and is a way for disputing Protestant and Catholic Northern Irelanders to distinguish themselves from each other.
+&lt;p&gt;If I’d gone to a private Irish Catholic school, however, I would have been taught &lt;em&gt;haitch&lt;/em&gt; and would, naturally enough, think ‘a HTML page’ is correct.&lt;/p&gt;
 
-So, if I insist on ‘an HTML page’ I’m telling 4.5 million English speakers their way of writing and speaking is wrong, or non-standard at the very least. And I can’t reveal accent by writing ‘an ’TML page’ because it’s a technical document, not a novel.&lt;/blockquote&gt;
+&lt;p&gt;More generally, &lt;em&gt;haitch&lt;/em&gt; is standard in Hiberno-English and is a way for disputing Protestant and Catholic Northern Irelanders to distinguish themselves from each other.&lt;/p&gt;
+
+&lt;p&gt;So, if I insist on ‘an HTML page’ I’m telling 4.5 million English speakers their way of writing and speaking is wrong, or non-standard at the very least. And I can’t reveal accent by writing ‘an ’TML page’ because it’s a technical document, not a novel.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;Seriously though, how many Irish Catholics are going to tear up their Linux manuals in disgust after discovering a pernicious &amp;ldquo;an&amp;rdquo; embedded in the text? It&amp;rsquo;s nothing personal. Technical writers are just following a style guide. Some tech writers will go with &amp;ldquo;a html&amp;rdquo; because they look at the expanded form of the initialism. So &amp;ldquo;a Hypertext Markup Language Page&amp;rdquo; would be written as &amp;ldquo;a html&amp;rdquo;. Does that mean everybody who pronounces &amp;ldquo;h&amp;rdquo; as &amp;ldquo;&amp;lsquo;aitch&amp;rdquo; (which is the majority of the English-speaking world) should label these writers as hate-mongering, prejudiced Irish Catholics?&lt;/p&gt;
 

@@ -208,9 +208,13 @@ What&amp;rsquo;s hot: &lt;a href=&#34;http://www.x-pubs.com/&#34;&gt;Fly me to L
       <pubDate>Sun, 11 Mar 2007 08:41:49 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/its-your-english-fight-for-it/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://wordbit.freehostia.com/wp-content/uploads/2007/03/WindowsLiveWriter/ItsyourEnglishfightforit_149B1/jargon%5B6%5D.jpg&#34; alt=&#34;&#34; /&gt; There is nothing more sickening than a piece of writing bloated and weighed down by heavy jargon and confusing language. Call it what you will - jargoneze, legalize, bureaucrateze, or just plain gobbledygook. If you&amp;rsquo;re spreading this kind of rot, you&amp;rsquo;re a language killer and should be tried and condemned by your peers as such. &amp;lt;!&amp;ndash; more &amp;ndash;&amp;gt;In his essay, &lt;em&gt;&lt;a href=&#34;http://www.orwell.ru/library/essays/politics/english/e_polit&#34;&gt;Politics and the English Language&lt;/a&gt;&lt;/em&gt;, the great George Orwell calls us to vigilance:&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/jargon%5B6%5D.jpg&#34;&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;A man may take to drink because he feels himself to be a failure, and then fail all the more completely because he drinks. It is rather the same thing that is happening to the English language. It becomes ugly and inaccurate because our thoughts are foolish, but the slovenliness of our language makes it easier for us to have foolish thoughts. The point is that the process is reversible. Modern English, especially written English, is full of bad habits which spread by imitation and which can be avoided if one is willing to take the necessary trouble.&lt;/blockquote&gt;
+&lt;p&gt;There is nothing more sickening than a piece of writing bloated and weighed down by heavy jargon and confusing language. Call it what you will - jargoneze, legalize, bureaucrateze, or just plain gobbledygook. If you&amp;rsquo;re spreading this kind of rot, you&amp;rsquo;re a language killer and should be tried and condemned by your peers as such. In his essay, &lt;em&gt;&lt;a href=&#34;http://www.orwell.ru/library/essays/politics/english/e_polit&#34;&gt;Politics and the English Language&lt;/a&gt;&lt;/em&gt;, the great George Orwell calls us to vigilance:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A man may take to drink because he feels himself to be a failure, and then fail all the more completely because he drinks. It is rather the same thing that is happening to the English language. It becomes ugly and inaccurate because our thoughts are foolish, but the slovenliness of our language makes it easier for us to have foolish thoughts. The point is that the process is reversible. Modern English, especially written English, is full of bad habits which spread by imitation and which can be avoided if one is willing to take the necessary trouble.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;Orwell was concerned with the use of English to deliberately mislead and confuse, but what about readability? How readable is your writing? Many handbooks and journals on technical writing stress readability as highly desirable and advocate the use of readability formulas. I&amp;rsquo;m referring to Flesch&amp;rsquo;s reading ease scale and Gunning&amp;rsquo;s Fog Index. These formulas calculate how many syllables are in your words and how short your sentences are and tell you if you&amp;rsquo;re a good writer or not.&lt;/p&gt;
 
@@ -218,7 +222,9 @@ What&amp;rsquo;s hot: &lt;a href=&#34;http://www.x-pubs.com/&#34;&gt;Fly me to L
 
 &lt;p&gt;The moral of the story is: &lt;a href=&#34;http://www.stc.org/confproceed/1994/PDFs/PG225227.PDF&#34;&gt;Don&amp;rsquo;t use computerized readability formulas to evaluate a piece of writing&lt;/a&gt;. The only way to determine whether a piece of writing is good or not is to consider the audience. What is the writer&amp;rsquo;s purpose and who is the writing intended for? If you bear these two questions in mind, evil, manipulative writing can quickly be rooted out. The &lt;a href=&#34;http://www.plainlanguagenetwork.org/stephens/intro.html&#34;&gt;plain language movement&lt;/a&gt; advocates this approach:&lt;/p&gt;
 
-&lt;blockquote&gt;Plain language is language that is understandable. What is clear, or what is plain to your intended audience, can only be decided by the audience.&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Plain language is language that is understandable. What is clear, or what is plain to your intended audience, can only be decided by the audience.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;So plain English is not simple baby two-syllable English. It is simply a version tailored to be as readable as possible for those who you&amp;rsquo;re writing for, whether they be ESL students or Javascript programmers, who might be quite comfortable with a few five syllable words in every paragraph.&lt;/p&gt;
 
@@ -232,17 +238,21 @@ What&amp;rsquo;s hot: &lt;a href=&#34;http://www.x-pubs.com/&#34;&gt;Fly me to L
       <pubDate>Wed, 28 Feb 2007 09:24:51 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/cultural-sensitivity-in-user-documentation/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://wordbit.freehostia.com/wp-content/uploads/2007/02/WindowsLiveWriter/Culturalsensitivityinuserdocumentation_AA6/angry%20leprechaun%5B4%5D.jpg&#34; alt=&#34;&#34; /&gt; When editing technical documents, how aware should you be of regional differences in pronunciation? Here is &lt;a href=&#34;http://www.redhatmagazine.com/2007/02/26/how-to-write-really-good-documentationsemi-definite-rules-for-the-indefinite-article/&#34;&gt;an interesting article&lt;/a&gt; on the subject by Brian Forte. Forte raises the following issue regarding the usage of an indefinite article with initialisms:&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/angry%20leprechaun%5B4%5D.jpg&#34;&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;How do you pronounce an initialism like HTML?
+&lt;p&gt;When editing technical documents, how aware should you be of regional differences in pronunciation? Here is &lt;a href=&#34;http://www.redhatmagazine.com/2007/02/26/how-to-write-really-good-documentationsemi-definite-rules-for-the-indefinite-article/&#34;&gt;an interesting article&lt;/a&gt; on the subject by Brian Forte. Forte raises the following issue regarding the usage of an indefinite article with initialisms:&lt;/p&gt;
 
-I was taught English in public Australian schools of the 1970s. So I was taught _aitch_ rather than _haitch._ Which means I pronounce ‘HTML’ with an initial vowel sound and I write ‘an HTML page.’
+&lt;blockquote&gt;
+&lt;p&gt;How do you pronounce an initialism like HTML?&lt;/p&gt;
 
-If I’d gone to a private Irish Catholic school, however, I would have been taught _haitch_ and would, naturally enough, think ‘a HTML page’ is correct.&lt;!-- more --&gt;
+&lt;p&gt;I was taught English in public Australian schools of the 1970s. So I was taught &lt;em&gt;aitch&lt;/em&gt; rather than &lt;em&gt;haitch.&lt;/em&gt; Which means I pronounce ‘HTML’ with an initial vowel sound and I write ‘an HTML page.’&lt;/p&gt;
 
-More generally, _haitch_ is standard in Hiberno-English and is a way for disputing Protestant and Catholic Northern Irelanders to distinguish themselves from each other.
+&lt;p&gt;If I’d gone to a private Irish Catholic school, however, I would have been taught &lt;em&gt;haitch&lt;/em&gt; and would, naturally enough, think ‘a HTML page’ is correct.&lt;/p&gt;
 
-So, if I insist on ‘an HTML page’ I’m telling 4.5 million English speakers their way of writing and speaking is wrong, or non-standard at the very least. And I can’t reveal accent by writing ‘an ’TML page’ because it’s a technical document, not a novel.&lt;/blockquote&gt;
+&lt;p&gt;More generally, &lt;em&gt;haitch&lt;/em&gt; is standard in Hiberno-English and is a way for disputing Protestant and Catholic Northern Irelanders to distinguish themselves from each other.&lt;/p&gt;
+
+&lt;p&gt;So, if I insist on ‘an HTML page’ I’m telling 4.5 million English speakers their way of writing and speaking is wrong, or non-standard at the very least. And I can’t reveal accent by writing ‘an ’TML page’ because it’s a technical document, not a novel.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;Seriously though, how many Irish Catholics are going to tear up their Linux manuals in disgust after discovering a pernicious &amp;ldquo;an&amp;rdquo; embedded in the text? It&amp;rsquo;s nothing personal. Technical writers are just following a style guide. Some tech writers will go with &amp;ldquo;a html&amp;rdquo; because they look at the expanded form of the initialism. So &amp;ldquo;a Hypertext Markup Language Page&amp;rdquo; would be written as &amp;ldquo;a html&amp;rdquo;. Does that mean everybody who pronounces &amp;ldquo;h&amp;rdquo; as &amp;ldquo;&amp;lsquo;aitch&amp;rdquo; (which is the majority of the English-speaking world) should label these writers as hate-mongering, prejudiced Irish Catholics?&lt;/p&gt;
 

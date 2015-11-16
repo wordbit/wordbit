@@ -132,7 +132,9 @@
       <pubDate>Tue, 06 Mar 2007 01:18:09 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/google-accelerator-killed-my-website/</guid>
-      <description>&lt;p&gt;Wordbit has been down for the count for a few days due to an experimental  Google app I unwisely installed. So, just in case you were thinking of trying out one of the apps in Google Labs, think again.   &lt;img src=&#34;http://wordbit.freehostia.com/wp-content/uploads/2007/03/WindowsLiveWriter/GoogleAcceleratorkilledmywebsite_EC27/googleaccelarator%5B9%5D.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Wordbit has been down for the count for a few days due to an experimental  Google app I unwisely installed. So, just in case you were thinking of trying out one of the apps in Google Labs, think again.&lt;/p&gt;
+
+&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/googleaccelarator%5B9%5D.gif&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Google Accelerator ostensibly speeds up your Internet browsing by diverting web pages through their servers. The problem is that the program pre-fetches all websites on any given page. This is fine for public browsing at, say, a library. For website administration pages, it opens the doors to hell. Every option on the page will be pre-fetched by Google, including links to delete posts or change the language options, or whatever. When I discovered that Google Accelerator was messing up my Wordpress Administration page to the point where I couldn&amp;rsquo;t click on anything without it going haywire, I hastily uninstalled it. In doing so, Google Accelerator took my entire website with it. Thankfully, I had recently made backups of my site (because I&amp;rsquo;ve recently switched to a new server).&lt;/p&gt;
 
@@ -158,11 +160,11 @@
       <pubDate>Fri, 16 Feb 2007 23:25:38 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/what-is-a-wordbit-anyway/</guid>
-      <description>&lt;p&gt;According to the &lt;a href=&#34;http://anglish.wikia.com/wiki/Wordbit&#34;&gt;Wikia Wiki&lt;/a&gt;, a **wordbit **is &amp;ldquo;the smallest deal that bears a meaning. Wordbits are the sound or sounds, sideput, that bear meaning.&amp;rdquo;&lt;/p&gt;
+      <description>&lt;p&gt;According to the &lt;a href=&#34;http://anglish.wikia.com/wiki/Wordbit&#34;&gt;Wikia Wiki&lt;/a&gt;, a &lt;strong&gt;wordbit&lt;/strong&gt; is &amp;ldquo;the smallest deal that bears a meaning. Wordbits are the sound or sounds, sideput, that bear meaning.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;Wordbits are the building blocks of language. This website is my small attempt to bring meaning to what we do as writers and hopefully contribute something to the writing &amp;ldquo;blogosphere&amp;rdquo;, if you&amp;rsquo;ll excuse the jargon.&lt;/p&gt;
 
-&lt;p&gt;But this website is more than a blog. This is also a place where you can view my on-line portfolio, or check out some resources for other writers (still in progress). You can also read more about who I am, or check out my blogroll for other bloggers on culture, communication and technology.&amp;lt;!&amp;ndash; more &amp;ndash;&amp;gt;&lt;/p&gt;
+&lt;p&gt;But this website is more than a blog. This is also a place where you can view my on-line portfolio, or check out some resources for other writers (still in progress). You can also read more about who I am, or check out my blogroll for other bloggers on culture, communication and technology.&lt;/p&gt;
 
 &lt;p&gt;Here is some more information about this site.&lt;/p&gt;
 
