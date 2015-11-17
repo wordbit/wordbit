@@ -10,8 +10,8 @@ Well, here’s my contribution to the let’s - take - a - picture - of - the - 
 
 Here’s a view of my lonely car from my icicle prison:
 
-[![ice cage 1](http://wordbitarchives.files.wordpress.com/2014/03/ice-cage-1.jpg)](http://wordbitarchives.files.wordpress.com/2014/03/ice-cage-1.jpg)
+![ice cage 1](/images/ice-cage-1.jpg)
 
 And here’s another view of the street:
 
-[![ice cage 2](http://wordbitarchives.files.wordpress.com/2014/03/ice-cage-2.jpg)](http://wordbitarchives.files.wordpress.com/2014/03/ice-cage-2.jpg)
+![ice cage 2](/images/ice-cage-2.jpg)
