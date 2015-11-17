@@ -8,4 +8,4 @@ The (illegal) strike by teachers in B.C. is causing a dangerous and detrimental 
 
 gordon.campbell.mla@leg.bc.ca
 
-     This is a shameful Canada I am presenting to the international community. Why won't the government listen? Already other unions are shutting down non-essential services like public transit, libraries, colleges, universities. I cannot believe they would let British Columbia fall into such civil disarray. Yet, ironically, it has been decided by the EUI that Vancouver is the best place in the world to live: http://news.bbc.co.uk/2/hi/business/4306936.stm
+> This is a shameful Canada I am presenting to the international community. Why won't the government listen? Already other unions are shutting down non-essential services like public transit, libraries, colleges, universities. I cannot believe they would let British Columbia fall into such civil disarray. Yet, ironically, it has been decided by the EUI that Vancouver is the best place in the world to live: http://news.bbc.co.uk/2/hi/business/4306936.stm

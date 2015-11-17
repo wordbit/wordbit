@@ -6,6 +6,6 @@ tags:
 - pictures
 ---
 
-![This will get me back into gardening. May the force be with you and your plants.](http://www.funnypicturesandcartoons.com/?w=Pictures/Another%20Star%20Wars%20Product.jpg)
+[picture unavailable]
 
 If this doesn’t get a few of us geek writers into writing for _Home and Garden_, nothing will.

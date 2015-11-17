@@ -11,19 +11,28 @@ I don't wish to strike a dark note; in general life is great. I recently finishe
 Here is my dark poem for the day:
 
 
-The Liminal powder room
+## The Liminal powder room
 
 Sickly passage warp the ways
+
 I can function, like being born into the care
+
 Of death’s harbinger, 
+
 A far worse fate than meeting the master.
+
 (by all accounts)
 
 Finality is stretched into eternity
 
 And I too am stretched too thin like opaque paint
+
 On a mottled wall
+
 Primed for failure, preened to faint
+
 Like a flustered lady trussed up
+
 In her corset, pink and ruddy
+
 A neophyte reaper socialite

@@ -8,11 +8,11 @@ I am extremely grateful to my good friend in the U.K, Adam, who sent me a deligh
 
 Adam wrote:
 
-" Seems to be written (very well I might say) for an academic audience of Liberals. That would be my conservative tendencies coming through (possibly fostered in the politically right wing climate in which we grew up, but tempered in my experiences since). Not something I'm ashamed of either - I take pride in it, especially after being witness to the disastrous effects of a liberal ideology on this country’s education system!
+> Seems to be written (very well I might say) for an academic audience of Liberals. That would be my conservative tendencies coming through (possibly fostered in the politically right wing climate in which we grew up, but tempered in my experiences since). Not something I'm ashamed of either - I take pride in it, especially after being witness to the disastrous effects of a liberal ideology on this country’s education system!
 
-I would certainly not wish to be cynical or jaded by our experiences, but you paint a rather perfect picture of something which is even today (12 years after democracy) still far from perfect. 'Colour fell away'? - this is just as much an issue in SA today as it was then! Some would say more so, as a society tries to come to terms with itself, the present regime’s social engineering, political correctness and a 'corrected' view of History. And I am talking specifically about the classroom environment from my experiences of teaching there as recently as 2003.
+> I would certainly not wish to be cynical or jaded by our experiences, but you paint a rather perfect picture of something which is even today (12 years after democracy) still far from perfect. 'Colour fell away'? - this is just as much an issue in SA today as it was then! Some would say more so, as a society tries to come to terms with itself, the present regime’s social engineering, political correctness and a 'corrected' view of History. And I am talking specifically about the classroom environment from my experiences of teaching there as recently as 2003.
 
-As for my part, I certainly have never felt any 'hot shame' - that would be a pointless regret, especially as we were not even of voting age during any stage of the Apartheid years. That doesn't mean to say that I would have voted for the NP. No. Perhaps you could clarify who you mean by 'us'? What about shame for leaving? Do you ever feel any of that?"
+> As for my part, I certainly have never felt any 'hot shame' - that would be a pointless regret, especially as we were not even of voting age during any stage of the Apartheid years. That doesn't mean to say that I would have voted for the NP. No. Perhaps you could clarify who you mean by 'us'? What about shame for leaving? Do you ever feel any of that?"
 
 
 
