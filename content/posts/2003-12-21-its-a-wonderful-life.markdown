@@ -4,7 +4,7 @@ slug: its-a-wonderful-life
 title: It's a wonderful life
 ---
 
-[I've updated my website! Click here to check out my latest photographs!  A little composition I've entitled "surreal"](http://www.geocities.com/antoinehenrigiraud/photo8.html)
+[I've updated my website! Click here to check out my latest photographs!  A little composition I've entitled "surreal"](http://www.wordbit.freehostia.com/geocities/photo8.html)
 
 
 I was horrified on Thursday night as I watched Sora pack up all her belongings and clear out her desk and tearfully announce to me that she was quitting and wouldn't be coming in tomorrow. I don't need to go into all the details and all the hypocrisy, but she was the primary scapegoat in this whole "bad pronunciation" witch-hunt. Smooth move on the part of the "management team" (read: dictatorship, or even better: Debbietatorship), antagonizing someone to the point where they feel so bad and ashamed of themselves that they can't take it any more. Anyways, after a long talk with Won Jang Nim on Friday she tenuously decided to stick it out until graduation at least. Phew, *wiping the sweat off his brow* what a nightmare it would be if she quit. Won Jang Nim's plan to introduce a whole new crew next year is, in my opinion, franchise suicide but I won't be around to witness it, so... whatever. 

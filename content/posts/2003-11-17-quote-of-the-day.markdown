@@ -4,8 +4,9 @@ slug: quote-of-the-day
 title: Quote of the day
 ---
 
-"Whenever I watch TV and I see those poor starving kids all over the world, I can't help but cry. I mean I would love to be skinny like that, but not with all those flies and death and stuff." 
-- Mariah Carey
+> Whenever I watch TV and I see those poor starving kids all over the world, I can't help but cry. I mean I would love to be skinny like that, but not with all those flies and death and stuff. 
+
+*Mariah Carey*
 
 What a wonderful prelude to today's entry, where I intend to go on a bit about the rampant superficiality in society today, without a doubt my favourite topic! But first, a brief update. Brief, because I've just realized I'm very hungry. And no, I'm not trying to be psychotically ironic.
 

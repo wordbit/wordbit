@@ -10,25 +10,36 @@ Well, my parents made it back safely from South Africa and they seem to have had
 
 
 
-The milling madness returns
+## The milling madness returns
 
 Weariness alone taints my dreary disposition.
+
 Manifest as the milling madness taking position
+
 In my spirit’s home; the temple of bone
+
 Dressed in flesh, yet never hewed in stone
+
 A malleable masterpiece, easily corrupted
+
 A soft mess too readily sculpted
 
 By those soft mad hands.
 
 So it is, Defeat seldom signals an end
+
 Dogged by malcontent, I toil to fend
+
 Off the stubborn foe poking burgeoning holes
+
 in my riddled temple. 
 
-yet, in their slow conscientious way, I know 
+yet, in their slow conscientious way, I know
+ 
 those fingers, those ruddy bulbous digits,
+
 Will depress my flesh with relentless 
+
 meticulousness and find my harrowed soul. 
 
 

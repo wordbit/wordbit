@@ -4,7 +4,7 @@ slug: the-inept-storyteller
 title: The inept storyteller
 ---
 
-One always dies too soon - or too late. And yet one's whole life is complete at that moment, with a line drawn neatly under it, ready for the summing up. You are - your life and nothing else.
+> One always dies too soon - or too late. And yet one's whole life is complete at that moment, with a line drawn neatly under it, ready for the summing up. You are - your life and nothing else.
 
 -Sartre _No Exit_
 
