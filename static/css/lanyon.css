@@ -189,6 +189,7 @@ a.sidebar-nav-item:focus {
   background-color: rgba(255,255,255,.1);
   border-color: transparent;
 }
+/* COMMENT OUT FOR TEST 
 
 @media (min-width: 48rem) {
   .sidebar-item {
@@ -198,12 +199,9 @@ a.sidebar-nav-item:focus {
     padding-left:  1.5rem;
     padding-right: 1.5rem;
   }
-  
-  .sidebar-checkbox {
-  display: none;
 }
 
-}
+*/
 
 /* Hide the sidebar checkbox that we toggle with `.sidebar-toggle` */
 .sidebar-checkbox {
