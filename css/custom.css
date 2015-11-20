@@ -32,6 +32,8 @@ pre:hover {
   z-index: 99;
 }
 
+/* Not sure why he used this additional media query
+
 @media (min-width: 56rem) {
   .container {
     max-width: 42rem;
@@ -42,6 +44,8 @@ pre:hover {
     max-width: 42rem;
   }
 }
+
+*/
 
 .masthead {
   margin-bottom: 1rem;
