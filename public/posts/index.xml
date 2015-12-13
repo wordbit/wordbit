@@ -5,8 +5,55 @@
     <link>http://wordbit.com/posts/</link>
     <description>Recent content in Posts on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 19 Nov 2015 20:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Dec 2015 09:05:22 +0000</lastBuildDate>
     <atom:link href="http://wordbit.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Norway</title>
+      <link>http://wordbit.com/posts/Norway/</link>
+      <pubDate>Sat, 12 Dec 2015 09:05:22 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/Norway/</guid>
+      <description>&lt;p&gt;Well, since I have a five-hour layover here in Amsterdam, I may as well rustle together some thoughts on my trip to Norway.&lt;/p&gt;
+
+&lt;p&gt;The only reason for my visit was for work, so let me start with my time at Kongsberg Maritime. After an unsuccessful attempt at using DITA at VTech, I was a little skeptical about plunging into structured authoring, although I was willing to learn the tools of course.&lt;/p&gt;
+
+&lt;p&gt;But Ragnar, the senior information developer over there, put me through a DITA boot camp where he promised I would eat, sleep, and dream of XML and DITA. And I did. So, did I emerge a DITA disciple, ready to spread the word at home?&lt;/p&gt;
+
+&lt;p&gt;Well, yes and no. On the negative side, DITA can feel a bit restrictive with its strict, rule-based architecture. And it was a bit discouraging to learn that only 15 companies in the world use a combination of Arbortext on the front-end and SDL Livecontent on the back-end for their documentation.&lt;/p&gt;
+
+&lt;p&gt;However, on the positive side, the true power of DITA only emerges when you’re working with a geographically diverse group of writers. Actually, I would go so far as to say that solo writers would do well to stay far, far away from DITA.&lt;/p&gt;
+
+&lt;p&gt;There are about 30 writers within the company that all share the same database. The immediate benefits to this are obvious. Although nobody shares the exact same product, they’re similar enough that you can most likely re-use content that somebody else has written.&lt;/p&gt;
+
+&lt;p&gt;We all share the same manual types, chapter headings, and boilerplate text. Even sentences are written to be as “round” as possible so that they are generic enough to be re-used everywhere. Variables and conditional text add product-specific contextualization. The database is organized to facilitate discovery and contributions to library topics is encouraged.&lt;/p&gt;
+
+&lt;p&gt;The supports in place are varied. A DITA steering committee of about five people at HQ oversees the XML implementation and manages requests from the writers. Each member specializes in one area, such as template improvements, or metadata tags and so on.&lt;/p&gt;
+
+&lt;p&gt;There are also regional groups - I am now a member of the Horten Doc and DITA crew - aka the Conref champions! Even though there&amp;rsquo;s only one of me in Vancouver, it&amp;rsquo;s great to have the resource of other writers. After all, nobody understands a writer more than another writer.&lt;/p&gt;
+
+&lt;p&gt;Even though I was working most of the time, I did have a free weekend to explore Norway a little. On the Saturday, Ragnar was kind enough to take me into Oslo for the day. We visited the &lt;a href=&#34;http://www.khm.uio.no/english/visit-us/viking-ship-museum/&#34;&gt;Viking Ship museum&lt;/a&gt;, the &lt;a href=&#34;http://www.norskfolkemuseum.no/en/&#34;&gt;Norwegian folk museum&lt;/a&gt;, &lt;a href=&#34;http://www.forsvarsbygg.no/festningene/Festningene/Akershus-festning/English/&#34;&gt;Akershus Fortress&lt;/a&gt;, and the &lt;a href=&#34;http://www.forsvaretsmuseer.no/nor/Hjemmefrontmuseet&#34;&gt;Resistance museum&lt;/a&gt;. I especially enjoyed that last one - hearing the stories of Norway’s resistance movement during the Nazi occupation was both fascinating and unbelievable.&lt;/p&gt;
+
+&lt;p&gt;On the Sunday, I checked out &lt;a href=&#34;http://midgardsenteret.no/en/om-midgard/the-borre-park/&#34;&gt;Borre national park&lt;/a&gt; where several Viking burial mounds continue to skulk silently beside the desolate coast. It was here where they excavated the famous Viking ships. A haunting and beautiful place.&lt;/p&gt;
+
+&lt;p&gt;Some general observations about Norway and Norwegian culture (Buzzfeed headline: 10 facts about Norway you&amp;rsquo;ll never believe!):&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Norwegians eat pizza with a fork and knife. They also don’t use any condiments.&lt;/li&gt;
+&lt;li&gt;They prefer diesel over gasoline.&lt;/li&gt;
+&lt;li&gt;Nobody thinks twice about drinking coffee in an outdoor patio. In the winter. With no heaters.&lt;/li&gt;
+&lt;li&gt;It is cheaper to buy groceries in Sweden, but it is somewhat frowned upon. Also, Swedish cookies are so good.&lt;/li&gt;
+&lt;li&gt;Norwegians will tell you they only speak a “little” English, then speak it fluently. But there seems to be a lot of variety in their accents.&lt;/li&gt;
+&lt;li&gt;Traditional foods involve putrified fish - unsurprisingly most Norwegians don&amp;rsquo;t like it that much.&lt;/li&gt;
+&lt;li&gt;Norwegians start work really early. And they eat lunch at 11AM.&lt;/li&gt;
+&lt;li&gt;The streets are empty during the day - presumably because everybody either works or goes to school. Little kids all go to daycare because it is free. So no stay-at-home parents.&lt;/li&gt;
+&lt;li&gt;Everybody has bitter stories about how some people collect their welfare checks to buy cars and take vacations while hard-working Norwegians support their lazy asses.&lt;/li&gt;
+&lt;li&gt;I guess I should mention that Norway is horribly expensive, but it is a socialist country after all, so there is a good reason for Norway’s reputation as a pricey destination. Still, when visitors like me end up paying $15 for a beer and get taxed 25% on top of that, this reputation is hard to refute.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To me, Norway felt like the more remote parts of Canada where good working-class people try to carve out their lives in the barren landscape. It is almost nothing like Vancouver, which seems ridiculously ostentatious in comparison. And that was refreshing to me. There&amp;rsquo;s a fantastic Beach House song called, well, “Norway” that sums up the country perfectly without any words at all. &lt;a href=&#34;https://www.youtube.com/watch?v=2L_R-DELtX8&#34;&gt;Listen to it&lt;/a&gt;. You may dream of a country far away, shrouded in mist, carved up by fjords, air crisp with the tang of the sea.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2015 Flagship winner</title>
@@ -553,42 +600,6 @@
 &lt;p&gt;I love HTC&amp;rsquo;s design - I really appreciate the design of my HTC One S: sleek, rounded corners, and an aluminum shell treated with a process called microarc oxidation, leaving it as hard as ceramic. The M9 has a similarly amazing design and with Lollipop and Sense 7, a seemingly great user experience. But such a serious stumble on image quality can&amp;rsquo;t be forgiven. Unfortunately, it looks like my next phone won&amp;rsquo;t be another HTC phone.&lt;/p&gt;
 
 &lt;p&gt;The next flagship I&amp;rsquo;ll be considering will be the Samsung Galaxy S6. Coming in the next month or so.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The time war</title>
-      <link>http://wordbit.com/posts/the-time-war/</link>
-      <pubDate>Fri, 13 Mar 2015 18:13:46 +0000</pubDate>
-      
-      <guid>http://wordbit.com/posts/the-time-war/</guid>
-      <description>&lt;p&gt;Everybody wants your attention. There&amp;rsquo;s an invisible war raging out there and it&amp;rsquo;s all about where you are focusing your engagement. The victor of this war gets the spoils - your precious time.&lt;/p&gt;
-
-&lt;p&gt;The latest player in the battle for your eyeballs is the Apple Watch. At an event on Monday, Apple revealed more details about the smartwatch (along with an obscenely thin MacBook).&lt;/p&gt;
-
-&lt;p&gt;Reactions to the Apple Watch event were mixed, as to be expected. However, I&amp;rsquo;m sure Apple has nothing to worry about. Similar reactions followed the announcement of the iPad, and look how that story went.&lt;/p&gt;
-
-&lt;p&gt;One of the questions being raised is who would actually buy the Apple Watch Edition (which costs up to $22000 Canadian). Given the yearly obsolescence cycle of gadgets, this seems like a valid question. After all, where a luxury mechanical watch is an heirloom, the ostentatious solid-gold Apple Watch comes off as a toy for rich douchebags. Still, there&amp;rsquo;s no mystery over who will buy a short-lived gold watch - status symbols and conspicuous consumption are embedded into the culture of the nouveau riche, especially in places like China or Dubai.&lt;/p&gt;
-
-&lt;p&gt;The compelling subtext here is Apple&amp;rsquo;s utter braggadocio in peddling Veblen goods to the one percent - surely a signal to the world that the company is now the reigning King and no longer the underdog of yesteryears. But I digress - back to the time war.&lt;/p&gt;
-
-&lt;p&gt;The Apple Watch, or indeed any smartwatch, is another contender for your attention. But how useful is it really? &lt;a href=&#34;http://wordbit.com/posts/thoughts-on-the-apple-watch/&#34;&gt;My earlier thoughts&lt;/a&gt; on the Apple Watch still hold true. I&amp;rsquo;d like to expand on the idea of attention a little bit more though.&lt;/p&gt;
-
-&lt;p&gt;At any given moment of the day, you are attending to something.&lt;/p&gt;
-
-&lt;p&gt;Let&amp;rsquo;s break it down. You wake up. You have a shower, eat breakfast, and brush your teeth all while struggling to get the kids ready to go to daycare. Do you really want to be bothered with twitter notifications while you&amp;rsquo;re already overwhelmed with multitasking and trying to rush out the door? You jump in your car for the daily commute. Is it safe for you to catch up on your emails while you&amp;rsquo;re driving and attending to the road? I know these are all slightly silly rhetorical questions, but bear with me.&lt;/p&gt;
-
-&lt;p&gt;For most, the vast majority of the day is taken up by your particular employment. For me, and I suspect for many of you, my eight working hours are spent staring at a computer screen. My dominant attention is on the screen, so shouldn&amp;rsquo;t my notifications appear there too - as a seamless integration into my workflow?&lt;/p&gt;
-
-&lt;p&gt;In fact, with OS X Yosemite, Apple recently introduced this exact synchronicity between your iPhone and Mac. Notifications, texts, and even phone calls will appear on your computer screen and allow you to leave the phone alone. For PC users, the wonderful &lt;a href=&#34;https://www.pushbullet.com/&#34;&gt;Pushbullet&lt;/a&gt; provides similar functionality (and is in fact cross-platform). When your eyes never have to leave your screen, you remain in context and notifications feel like less of a distraction.&lt;/p&gt;
-
-&lt;p&gt;If I&amp;rsquo;m getting notifications on my computer screen, do I want duplicate notifications to pop up on my watch? No, of course not. It&amp;rsquo;s one or the other. One of the major selling points of the Apple watch has just been rendered moot.&lt;/p&gt;
-
-&lt;p&gt;But perhaps in other contexts, the Apple Watch could work. If your hands are dirty then a smartwatch would be great, like say if you&amp;rsquo;re digging up weeds or working on a construction site and you want to see who is calling you. Too bad Apple isn&amp;rsquo;t marketing their watch to blue collar workers though.&lt;/p&gt;
-
-&lt;p&gt;Instead, Apple is targeting the ultra-rich and maybe white collar workers on the low end. The examples of usage Apple gave at their event were so ridiculously idiosyncratic, they won&amp;rsquo;t appeal to many outside Silicon Valley. Using your watch to call an Uber car, for example. Really? Who actually does that?&lt;/p&gt;
-
-&lt;p&gt;In our age of sensory overload, we&amp;rsquo;re trying to find ways to focus more and multitask less. Our time is a finite resource best spent doing the things we love. If any smartwatch is going to succeed, it needs to help us manage our lives more efficiently, not introduce more chaos and noise. The current generation of smartwatches may help a select few, but for most of us, they&amp;rsquo;d probably do more harm than good.&lt;/p&gt;
 </description>
     </item>
     
