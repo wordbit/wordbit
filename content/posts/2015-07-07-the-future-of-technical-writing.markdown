@@ -46,15 +46,11 @@ But is is hard to deny that technical writers don't play a multi-faceted and inv
 
 And the key skill that all technical writers possess can absolutely never be automated or easily dismissed: communication. I'll be brutally honest: Communication is sorely lacking at most high-tech companies. You know that cliche of the quiet, socially inept software developer geek that is more comfortable talking to a machine than to people? Well, let's just say that most cliches are based in reality. With our contribution to various parts of the product timeline, technical writers always have the big picture in mind, not just one line of code. A technical writer is the bridge between disparate departments; we facilitate, educate, and moderate. Here are some examples of where we can bridge communication between two parties:
 
-1.** Company → User** (end user documentation, product training)
-
+1. **Company → User** (end user documentation, product training)
 2. We can play a role in the reverse too: **User → Company** (product support)
-
-3.** Product Management → Developer** (requirements definition)
-
+3. **Product Management → Developer** (requirements definition)
 4. **Developer → Developer** (API documentation - [Tom Johnson](http://idratherbewriting.com/2014/06/03/the-future-of-tech-comm-is-developer-doc/) believes this is where technical writing is heading)
-
-5. **Engineering → Marketing **(use cases, white papers, spec sheets, etc.)
+5. **Engineering → Marketing** (use cases, white papers, spec sheets, etc.)
 
 There will always be a need to good technical communicators to tailor information for a specific audience, and in doing so, bring an end to the broken telephones game that so many organizations like to play, and which often devolves into finger pointing when things go wrong due to poor communication. There will always be a need for a person who loves to soak up knowledge and learn, but remain an outsider who won't resort to acronyms and techno-jargon when pressed for a simple and clear explanation of how something works. In these respects, I think the future for technical writing is looking bright, but at the same time, we must evolve.
 
