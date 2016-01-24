@@ -4,8 +4,7 @@ slug: lollipop-at-last
 title: Lollipop at last
 ---
 
-<img src="/images/screenshot_2015-07-16-15-11-39.png" alt="Screenshot 1" style="width: 250px;"/> <img src="/images/screenshot_2015-07-16-15-13-14.png" alt="Screenshot 2" style="width: 250px;"/> <img src="/images/screenshot_2015-07-16-15-16-37.png" alt="Screenshot 3" style="width: 250px;"/> 
-
+![android screenshots](/images/android_screenshots.jpg)
 
 I've been excited to try out Lollipop for a long time, especially after delving deep into Google's new design language, dubbed Material Design, and even using it in my own user interface design projects. But that is precisely the problem with Android, unless you're using a Nexus, you have to wait a long, long time before getting the latest. All told, it takes roughly one year for most Android users to catch up. So, when "Android M" was announced, I knew my time was near. Except, it wasn't. 
 
