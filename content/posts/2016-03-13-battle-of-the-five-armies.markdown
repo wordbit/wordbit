@@ -4,7 +4,7 @@ slug: battle-of-the-five-armies
 title: 'Battle of the five armies'
 ---
 
-Kanye West's new album is fantastic. At least, that's what people who've signed up for Tidal say. Because Jay Z’s streaming service is the only place you can get it. 
+Kanye West's new album, *The Life of Pablo*, is fantastic. At least, that's what people who've signed up for Tidal say. Because Jay Z’s streaming service is the only place you can get it. 
 
 Except for, of course, other illicit means. But we’ll get to that later.
 
@@ -37,3 +37,7 @@ But as consumers we selfishly want it all. We want a new world order in music. O
 Services like Rdio go under, and we shrug at another casualty of the war. Because all we want is a winner. This war, after all, isn’t about us - or what is best for the consumer. So, all we can hope for is that when the dust settles, our new leader is the lesser of five evils.
 
 Because that new Kanye album is really good, damn it. Just don’t ask me how I know this.
+
+---
+
+```EDIT - April 8, 2016: So Kanye released his latest album on all the major streaming services, including Apple Music. So either Kanye is a chronic liar, or he's blowing in the wind like a whimsical fairy. That's the nicest way I can put it. Either way, I'm happy.```
