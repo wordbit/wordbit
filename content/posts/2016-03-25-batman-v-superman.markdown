@@ -39,3 +39,7 @@ All our cherished characters belong to a unique and idiosyncratic time and place
 Yet, there is hope. Perhaps the tides are shifting. As fans, we used to be grateful for even terrible movies about our heroes, because there were so few. But now… there really is no reason to watch a bad Superman movie. Zack Snyder isn’t holding a gun between our eyes and forcing us to watch it. We have a choice. 
 
 And maybe the best choice is to let it go.
+
+---
+
+```EDIT - May 12, 2016: I couldn't let it go. I did pay good money to see Batman duking it out with Superman. My friends wanted to see it so I had to swallow my righteousness and join the unwashed masses in the cinema. It was pretty much what I expected. Wonder Woman was fantastic, but man, they need to hire better writers. What would it take to get the Avengers writing team to give it a go? Too much, I reckon.```
