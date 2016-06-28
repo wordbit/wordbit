@@ -5,8 +5,74 @@
     <link>http://wordbit.com/</link>
     <description>Recent content on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 28 May 2016 17:42:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jun 2016 22:13:22 +0000</lastBuildDate>
     <atom:link href="http://wordbit.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>WWDC 2016</title>
+      <link>http://wordbit.com/posts/apple-wwdc-2016/</link>
+      <pubDate>Mon, 27 Jun 2016 22:13:22 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/apple-wwdc-2016/</guid>
+      <description>
+
+&lt;p&gt;Unlike Google and the other guys, there was no talk of AI or bots at Apple’s software showcase this year. Instead, Apple was true to form, highlighting aspects like “differential privacy” and “continuity” - features that keep you locked into their ecosystem.&lt;/p&gt;
+
+&lt;p&gt;Overall, the event was fairly low key with Apple focused on improving and polishing rather than innovating (I think it was the announcement of universal cut and paste that got the biggest round of applause).&lt;/p&gt;
+
+&lt;p&gt;Still, I always enjoy sitting down to watch the two-hour infomercial that is the keynote - if only to see what free stuff I’m going to get. Remember when Apple actually charged for software upgrades? It’s way more fun to watch these things &lt;em&gt;after&lt;/em&gt; you’ve sold your kidney for Apple hardware. There is no angst at WWDC - only benefits for those who have already paid the Apple tax.&lt;/p&gt;
+
+&lt;p&gt;Since the keynote was divided into four software platforms, I’ll do the same and comment on each one individually.&lt;/p&gt;
+
+&lt;h2 id=&#34;watchos-3:9de4ffc85fa46729e7645932707af774&#34;&gt;watchOS 3&lt;/h2&gt;
+
+&lt;p&gt;I’m not sold on the Apple watch hardware just yet. I still think round smartwatches look far more classic than rectangular ones. Sure, you can read more text on a rectangular display, but I think Jony Ive should have focussed on form, and not function in this case.&lt;/p&gt;
+
+&lt;p&gt;After all, Apple is positioning this thing as a fashion accessory - not a Casio calculator watch reboot. Never mind that Tim Cook sees the Apple watch as more of a fitness wearable… Forget trying to please everyone - time to focus guys!&lt;/p&gt;
+
+&lt;p&gt;On the software side though, I am happy that they gutted the software and started over on the user interface. I’m happy because it means Apple is still committed to developing this product, and future iterations should be way more enticing than the clunky gadget this watch is now.&lt;/p&gt;
+
+&lt;h2 id=&#34;tvos-10:9de4ffc85fa46729e7645932707af774&#34;&gt;tvOS 10&lt;/h2&gt;
+
+&lt;p&gt;I still have the Apple TV 3, so am not going to get these updates either. But I really don’t need Siri or apps on my Apple TV when I only use it for Netflix and Youtube. Also, the remote app on the iPhone is actually way more useful than the Apple TV 4 physical remote anyway.&lt;/p&gt;
+
+&lt;p&gt;I think the Apple TV has more potential for disruption in the US, but the CRTC in Canada is never going to let the Apple TV take down the cable companies.&lt;/p&gt;
+
+&lt;p&gt;I am far more interested in the rumours of an Alexa-like Siri box, possibly bundled into the next-gen Apple TV. We’ll see if those rumours pan out later this year.&lt;/p&gt;
+
+&lt;h2 id=&#34;macos-sierra:9de4ffc85fa46729e7645932707af774&#34;&gt;macOS Sierra&lt;/h2&gt;
+
+&lt;p&gt;My aging mid-2010 iMac just made the eligibility cutoff this year - iMacs that came out before 2009 are out of luck. I wish I could say that my iMac is aging gracefully, but the HDD hard drive is slowing down and crippling performance to the point of frustration. SSD hard drives were an emerging and expensive technology six years ago, but now it’s a no-brainer to go with solid state.&lt;/p&gt;
+
+&lt;p&gt;Anyway, Siri is coming to the Mac, which is good news… I guess? I’ll be able to ask Siri how much hard drive space I have left on my horribly slow hard drive.&lt;/p&gt;
+
+&lt;p&gt;I thought it was cool that the desktop and documents folders will be backed up to iCloud… but then again, you only get 5GB of free space, and Apple is pushing hard to put &lt;em&gt;everything&lt;/em&gt; in iCloud so you have to buy more storage.&lt;/p&gt;
+
+&lt;p&gt;Now that I think of it, there isn’t a whole lot in macOS (formerly OS X) that is worth getting excited about, but hey, it’s free! And - that name change!&lt;/p&gt;
+
+&lt;h2 id=&#34;ios-10:9de4ffc85fa46729e7645932707af774&#34;&gt;iOS 10&lt;/h2&gt;
+
+&lt;p&gt;Since the iPhone is my newest Apple product, I was most interested in what’s new on the mobile front. Oh, and my iPad! I almost forgot you iPad, along with everybody else (drum roll please).&lt;/p&gt;
+
+&lt;p&gt;But seriously, even the minor update we got a few months ago with “Night Shift” was legitimately useful. Night Shift, in case you’re not aware, shifts the colour hue from blue to yellow at sunset everyday. I am now quite used to being bathed in a warm yellow glow every night. I wish my Kindle Paperwhite had this feature - the jarring switch to the bright blue Kindle screen after using my iPad at night feels like being blinded with a couple of photon torpedoes.&lt;/p&gt;
+
+&lt;p&gt;Anyway, “APIs for third parties” (or, &amp;ldquo;it’s an API party!&amp;rdquo;) was the defining theme of the upcoming improvements - a continuation of Apple’s ongoing efforts to be more open and developer friendly. The idea is that software hooks in Siri, Maps, and iMessage will allow a more seamless user experience. The example Craig Federighi demoed on stage was going to Maps and seeing restaurant reviews, booking a table, calling an Uber to get there, and paying for everything - all without ever leaving Maps.&lt;/p&gt;
+
+&lt;p&gt;My feelings on this sort of integration hasn’t changed much - the convenience in this scenario is great if you’re a single Silicon-Valley bro with money to burn. But if you’re a family man who needs to shop around for the best price, and needs to install car seats for the kids, and… well, let’s just say I can think of many ways to kibosh the above scenario.&lt;/p&gt;
+
+&lt;p&gt;The parts of iOS 10 that I like the best are the user interface improvements. The lock screen, control centre, notifications screen, and “Siri suggestions” screen (all in heavy day-to-day use) have all been revamped. Rich notifications and widgets on the lock screen with 3D-Touch support are especially great. Design-wise, they look a lot like the “Google Now cards”, which I&amp;rsquo;ve always thought were fantastic, and I can’t blame Apple for copying them.&lt;/p&gt;
+
+&lt;p&gt;Lots of people have said this, and I agree - at this point it doesn’t matter who is copying who. Android and iOS are borrowing the best from each other and are both converging into a user-focused paradigm. The result is a win for everybody.&lt;/p&gt;
+
+&lt;h2 id=&#34;closing-thoughts:9de4ffc85fa46729e7645932707af774&#34;&gt;Closing thoughts&lt;/h2&gt;
+
+&lt;p&gt;I enjoyed watching the keynote, in the same way I enjoy listening to an old record. The familiarity and rhythm of it is pleasing in a way. But I’m not too happy about Apple trying to supplement flagging iPhone sales (in terms of growth, not revenue) by pushing paid services on us. It feels a bit disingenuous to claim you want a magical user experience on one hand, then push iCloud upgrades and accessories on the other (ooh look - you can unlock your iMac with your Apple watch - well why not with your iPhone?).&lt;/p&gt;
+
+&lt;p&gt;September is going to be interesting because it looks like Apple is going to ditch the tick-tock iPhone overhaul pattern. Rumours are pointing to a modest upgrade this year, with a radical design change slated for 2017 - the 10th anniversary of the iPhone.&lt;/p&gt;
+
+&lt;p&gt;Are savvy Apple fans going to forgo the upgrade this year and cost Apple billions of dollars in lost revenue? Stranger things have happened, I suppose. But there was nothing strange about WWDC 2016 (well, there was that rap-along) - on the software front, it&amp;rsquo;s business as usual, and that&amp;rsquo;s not necessarily a bad thing.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google I/O 2016</title>
@@ -550,56 +616,6 @@
 &lt;p&gt;Like I said, I should have been enjoying Lollipop months ago, but here we are. I&amp;rsquo;ll have a few more months to use it yet, and then I&amp;rsquo;ll be moving onto a flagship. There have been a few launched this year, but there are many more to come.&lt;/p&gt;
 
 &lt;p&gt;Stay frosty, my friends.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The future of Technical Writing</title>
-      <link>http://wordbit.com/posts/the-future-of-technical-writing/</link>
-      <pubDate>Tue, 07 Jul 2015 00:53:37 +0000</pubDate>
-      
-      <guid>http://wordbit.com/posts/the-future-of-technical-writing/</guid>
-      <description>&lt;p&gt;There&amp;rsquo;s &lt;a href=&#34;http://www.npr.org/sections/money/2015/05/21/408234543/will-your-job-be-done-by-a-machine&#34;&gt;this website&lt;/a&gt; that will tell you what the odds are of your job being automated in the future. The data for the estimate is derived from an academic paper where the researchers, I&amp;rsquo;m sure, are smug in the knowledge that robots will never replace university professors. Technical writers, however, will apparently not fare so well:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/techwriters.jpg&#34; alt=&#34;techwriters&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;But then again, most technical writers seem to be the self-deprecating sort who suspect that their profession is perpetually sliding from obscurity into obsolescence anyway.  Obscure, you say? Let&amp;rsquo;s not kid ourselves. Even our job title has been co-opted by the so called &amp;ldquo;tech writer&amp;rdquo;, who is actually not a technical writer at all, but a journalist who covers technology. We may casually call ourselves tech writers, but in the public parlance, tech writers are widely known as those guys who write at The Verge and Gizmodo.&lt;/p&gt;
-
-&lt;p&gt;This cartoon neatly sums up our awkward collective identity crisis:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/chickenconversation.jpg&#34; alt=&#34;chickenconversation&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Yes, we&amp;rsquo;re a humble lot - with a career that is not as &amp;ldquo;important&amp;rdquo; as being a doctor/lawyer/&lt;insert career your parents would be proud of&gt;, and certainly not as lucrative, we&amp;rsquo;re not surprised nobody has heard of us, or even knows exactly what we do. Even our employers often see technical writers as nothing more than a necessary evil in the product development process, and there isn&amp;rsquo;t any career advancement ladder to speak of. So, we just naturally assume that the demise of technical writing is inevitable. As a case in point, see Neal Kaplan&amp;rsquo;s post: &lt;a href=&#34;http://customersandcontent.com/2014/05/03/the-death-of-technical-writing-part-1/&#34;&gt;The death of technical writing&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I do agree with most of Neal&amp;rsquo;s points. Mobile software development will continue to erode the need for end user documentation, except for enterprise software and in highly specialized, regulated industries. And all the years of discourse focused on DITA at the expense of a proper business case was a waste of time.&lt;/p&gt;
-
-&lt;p&gt;If the definition of a traditional technical writer is just the person who writes the user manual, then, yes, I definitely agree that technical writing is on it&amp;rsquo;s way out. But Neal said it himself - he&amp;rsquo;s not just a technical writer, he&amp;rsquo;s a content engineer, customer support agent, information architect, content strategist, web designer, and technical trainer too.&lt;/p&gt;
-
-&lt;p&gt;Perhaps that is why we have an identity crisis - because there is no all encompassing job description that fits us all.&lt;/p&gt;
-
-&lt;p&gt;In any discussion on technical writing, somebody inevitably brings up ROI - how we can demonstrate value to the company, etc. I instinctively dislike this train of thought because I don&amp;rsquo;t understand why we have to justify our existence at all. Nobody questions the value of a software developer or product manager, they just hire them to do the job. The onus should not be on us to prove how our documentation process or single sourcing or whatever is saving the company money.&lt;/p&gt;
-
-&lt;p&gt;Indeed, no hiring manager would invite you in for an interview to pitch the case to create a technical writer position at a company. At least, I haven&amp;rsquo;t heard of such a ghastly thing happening. But sometimes, once the manual is done, the project ends, and the work of a technical writer is done. Unless the company requires constant maintenance of their legacy documentation - a position that is definitely becoming rarer these days. But all the same, lean and cost-effective content management will not save you if the work has run dry - it is you that will save you.&lt;/p&gt;
-
-&lt;p&gt;There is a lot of behind-the-scenes magic that most people don&amp;rsquo;t know about. Technical writers love to mull over things like the merits of the Oxford Comma or how well their writing fairs in the Flesch–Kincaid readability index. But although grammatical consistency and readability and so on help the end user consume information more easily, such benefits are accrued with a deft but invisible hand. It is hard to translate readability into cost effectiveness, or easily convince others of the importance of a well-placed semicolon.&lt;/p&gt;
-
-&lt;p&gt;But is is hard to deny that technical writers don&amp;rsquo;t play a multi-faceted and invaluable role within an organization when we end up taking on content marketing, product management, and user interface design. When we definitively save the company money by writing SRED reports. When we put the user experience first and advocate for the user both early in the software development process, and at the project&amp;rsquo;s end with ongoing customer training and support. Technical writers who aren&amp;rsquo;t afraid to embed themselves within niche areas and apply their expertise wherever it is fitting become so much more than mere writers - yes, they defy easy definition, but they certainly aren&amp;rsquo;t let go when the manual is done.&lt;/p&gt;
-
-&lt;p&gt;And the key skill that all technical writers possess can absolutely never be automated or easily dismissed: communication. I&amp;rsquo;ll be brutally honest: Communication is sorely lacking at most high-tech companies. You know that cliche of the quiet, socially inept software developer geek that is more comfortable talking to a machine than to people? Well, let&amp;rsquo;s just say that most cliches are based in reality. With our contribution to various parts of the product timeline, technical writers always have the big picture in mind, not just one line of code. A technical writer is the bridge between disparate departments; we facilitate, educate, and moderate. Here are some examples of where we can bridge communication between two parties:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Company → User&lt;/strong&gt; (end user documentation, product training)&lt;/li&gt;
-&lt;li&gt;We can play a role in the reverse too: &lt;strong&gt;User → Company&lt;/strong&gt; (product support)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Product Management → Developer&lt;/strong&gt; (requirements definition)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Developer → Developer&lt;/strong&gt; (API documentation - &lt;a href=&#34;http://idratherbewriting.com/2014/06/03/the-future-of-tech-comm-is-developer-doc/&#34;&gt;Tom Johnson&lt;/a&gt; believes this is where technical writing is heading)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Engineering → Marketing&lt;/strong&gt; (use cases, white papers, spec sheets, etc.)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;There will always be a need to good technical communicators to tailor information for a specific audience, and in doing so, bring an end to the broken telephones game that so many organizations like to play, and which often devolves into finger pointing when things go wrong due to poor communication. There will always be a need for a person who loves to soak up knowledge and learn, but remain an outsider who won&amp;rsquo;t resort to acronyms and techno-jargon when pressed for a simple and clear explanation of how something works. In these respects, I think the future for technical writing is looking bright, but at the same time, we must evolve.&lt;/p&gt;
-
-&lt;p&gt;I don&amp;rsquo;t want to remain stuck in the past, clinging onto old paradigms of what a technical writer should be. After all, I&amp;rsquo;m a user too. Who wants to read the manual before using a product? I don&amp;rsquo;t. I will freely admit that if a product is unintuitive or the user interface cryptic, then the product has failed. User documentation should be a resource to solve problems encountered after using the product. It should stop the user from reaching for the telephone in anger and dialing that customer support hotline.&lt;/p&gt;
-
-&lt;p&gt;I love the trend toward mobility and simplicity. I wouldn&amp;rsquo;t want to go back to the old days. Technical writing has a place in a future where usability and great design trumps complexity. And when you boil it down to its essence, technical writing is simply about relationships between people. About understanding people and communicating appropriately. It is a very nuanced, human skill and no robot will be up to the task anytime soon.&lt;/p&gt;
 </description>
     </item>
     
