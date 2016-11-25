@@ -45,7 +45,7 @@ Anyway, I could go on, but I think YG sums it up the best, so I’ll leave the l
 
 [![YG](http://img.youtube.com/vi/WkZ5e94QnWk/0.jpg)](https://www.youtube.com/watch?v=WkZ5e94QnWk)
 
-Actually… nah,YG isn’t getting the last word on my blog. You could say that the very fact that YG can publicly express his opinions is a sign of a healthy democracy. After all, can you imagine a North Korean rapper putting out a song called “Fuck Kim Jong-un” and not disappearing into a prison camp (along with the next three generations of his bloodline)?
+Actually… nah, YG isn’t getting the last word on my blog. You could say that the very fact that YG can publicly express his opinions is a sign of a healthy democracy. After all, can you imagine a North Korean rapper putting out a song called “Fuck Kim Jong-un” and not disappearing into a prison camp (along with the next three generations of his bloodline)?
 
 
 As an aside, being absolutely fascinated with North Korea after having lived in that area, I recommend the documentary *Under the Sun*. This movie is a really unsettling look into the educational propaganda machine used to indoctrinate children into the supreme leadership cult.
