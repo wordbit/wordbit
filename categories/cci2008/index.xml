@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cci2008 on wordbit</title>
-    <link>http://wordbit.com/categories/cci2008/</link>
-    <description>Recent content in Cci2008 on wordbit</description>
+    <title>wordbit</title>
+    <link>http://wordbit.com/categories/cci2008/index.xml</link>
+    <description>Recent content on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 18 Mar 2008 00:56:20 +0000</lastBuildDate>
     <atom:link href="http://wordbit.com/categories/cci2008/index.xml" rel="self" type="application/rss+xml" />
     
     <item>

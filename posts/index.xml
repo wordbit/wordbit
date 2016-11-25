@@ -1,12 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on wordbit</title>
-    <link>http://wordbit.com/posts/</link>
-    <description>Recent content in Posts on wordbit</description>
+    <title>Posts-rsses on wordbit</title>
+    <link>http://wordbit.com/posts/index.xml</link>
+    <description>Recent content in Posts-rsses on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 30 Aug 2016 20:06:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Nov 2016 22:00:00 +0000</lastBuildDate>
     <atom:link href="http://wordbit.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A winter post</title>
+      <link>http://wordbit.com/posts/a-winter-post/</link>
+      <pubDate>Tue, 22 Nov 2016 22:00:00 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/a-winter-post/</guid>
+      <description>&lt;p&gt;Well, well, well. A lot has happened since I last posted here. In short, the world has become a darker place.&lt;/p&gt;
+
+&lt;p&gt;The gentle rustle of leaves swaying in the summer breeze has been replaced with the dry death rattle of winter winds. Leonard Cohen released his final magnificent album and then breathed his last breath. America had a trainwreck of an election.&lt;/p&gt;
+
+&lt;p&gt;And I haven’t even got to Apple’s disappointing MacBook Pros yet.&lt;/p&gt;
+
+&lt;p&gt;That was a bad joke by the way. Or maybe it wasn’t.&lt;/p&gt;
+
+&lt;p&gt;On a personal note, I failed to post anything in September or October - thus betraying the promise to you of at least a monthly post. In my defense, I’ve been stressed out with moving. And with the kids starting new school and daycare schedules. Also, I turned 40 and became an old crotchety man overnight. The motivation to write is pretty low right now.&lt;/p&gt;
+
+&lt;p&gt;Just getting this far feels like jerking one clunky wooden leg in front of the other and breathing hard. Hard.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;On a lighter note, we did manage to escape the Vancouver rain and get away on vacation to sunny San Diego. San Diego is such a stunning place. I mean just look at it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/San Diego.jpg&#34; alt=&#34;San Diego&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Anyway, we arrived in the USA in the evening of election day and were as surprised (to put it mildly) as everybody with the results. There were riots in a few American cities, which was a bit worrisome, but nothing major where we were staying on the beach.&lt;/p&gt;
+
+&lt;p&gt;Although, we did hear a next-door neighbour angrily shouting “I can’t live here anymore!” And the next morning a woman who was clearly in anguish stumbled out of her beach house and prostrated herself on the sand. But that was about it. To relieve stress, Californians do yoga, go surfing, smoke some weed, and think about seceding.&lt;/p&gt;
+
+&lt;p&gt;That’s not to say half the country isn’t in one of the five stages of grief (with mostly anger surfacing at the moment). As Canadians we may have less skin in the game, but sweet Christmas, what a nightmare. What was it Trump said about our Prime Minister on Twitter? The shirtless one that everybody loves?&lt;/p&gt;
+
+&lt;p&gt;Oh yeah: “Trudeau has done such a terrible job. He should be ashamed to call himself the President of Canada”. So&amp;hellip;I’m not overly optimistic about future Canada-US relations, even if Trump eventually figures out that Canada doesn’t have a “president”.&lt;/p&gt;
+
+&lt;p&gt;Anyway, I could go on, but I think YG sums it up the best, so I’ll leave the last word with him:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WkZ5e94QnWk&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/WkZ5e94QnWk/0.jpg&#34; alt=&#34;YG&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Actually… nah,YG isn’t getting the last word on my blog. You could say that the very fact that YG can publicly express his opinions is a sign of a healthy democracy. After all, can you imagine a North Korean rapper putting out a song called “Fuck Kim Jong-un” and not disappearing into a prison camp (along with the next three generations of his bloodline)?&lt;/p&gt;
+
+&lt;p&gt;As an aside, being absolutely fascinated with North Korea after having lived in that area, I recommend the documentary &lt;em&gt;Under the Sun&lt;/em&gt;. This movie is a really unsettling look into the educational propaganda machine used to indoctrinate children into the supreme leadership cult.&lt;/p&gt;
+
+&lt;p&gt;Sadly, a more insidious educational reform has occurred in the USA as well. Apparently, the aftermath of the &lt;em&gt;No Child Left Behind Act&lt;/em&gt; from the Bush administration has ensured that many young people can’t distinguish between the truth and fake news stories on Facebook. Did Trump really win because a fake story about the Pope endorsing Trump went viral on Facebook during the election? Probably not, especially since younger demographics voted blue. Stranger things have most definitely happened though.&lt;/p&gt;
+
+&lt;p&gt;One fact, however, seems horribly certain - the average American no longer has a critical mind.&lt;/p&gt;
+
+&lt;p&gt;Okay, let’s talk about some more mundane topics. A bunch of new beginnings at the end of 2016 - what a strange year. A year of shifting loyalties it seems.&lt;/p&gt;
+
+&lt;p&gt;On the phone front, I’ve made the tough choice of leaving Wind Mobile after five years and switching to Public Mobile. Since the former is now owned by Shaw and the latter is now owned by Telus, it’s not like I’m betraying any independents (who have now all been bought up by the incumbents). But Public Mobile was offering 4GB of LTE data for the same price I was paying for 5GB of 3G data - a deal too good to pass up.&lt;/p&gt;
+
+&lt;p&gt;I know Wind is deploying their own LTE network soon using the AWS-3 spectrum, but only the LG V-20 supports this band so far, and I plan on keeping my iPhone for another two or three years. So, I may as well enjoy those high speeds today.&lt;/p&gt;
+
+&lt;p&gt;Interestingly, a few days after I started writing this (yes, I am that slow), Wind Mobile changed their name to Freedom Mobile. They also introduced their LTE plan, but it doesn’t look like the current 3G plans will be grandfathered over to LTE - I would have to give up my old plan anyway. So, I’m feeling good about my choice now.&lt;/p&gt;
+
+&lt;p&gt;On the internet front, this very website that you’re reading right now is approaching its ten-year anniversary next year. A lot has changed in ten years. Billions of people now access the internet only through Facebook. Can you believe that? Billions more access content only on their phones and has left the humble desktop browser lurching into an inexorable decline.&lt;/p&gt;
+
+&lt;p&gt;So when Godaddy wanted to charge me over $20 a year to renew my domain, I choked. I almost let wordbit.com die. They couldn’t even throw me a bone after being a loyal customer for almost ten years. But I really want to make that anniversary. Even though this website means nothing to anybody else, it still stupidly means something to me. So I switched to Namecheap, which is a company which at least lives up to its name. The only question is, why the heck didn’t I do it sooner?&lt;/p&gt;
+
+&lt;p&gt;A word about those new MacBook Pros. They actually are disappointing - I wasn’t joking about that. My iMac, after all, is a mid-2010 model that is so agonizingly slow. I was hoping to upgrade to a nice laptop this year and use the iMac as a secondary monitor. But, after seeing those sickening price increases and the mixed reviews, I’ve decided to wait another year. Or maybe just wait until my iMac is no longer supported.&lt;/p&gt;
+
+&lt;p&gt;To be honest, there isn’t a whole lot I do on my iMac anymore. I don’t have time to edit pictures and videos. Writing this blog doesn’t exactly require a workhorse PC. There are one or two Mac-specific applications I use, but my iPad easily handles daily web browsing and the odd Youtube video. I just have a really hard time letting go of the PC as a hub for my digital life. I think the cloud is getting close, but it isn’t there yet - privacy and security issues aside. And gaming… well the Mac was never an awesome gaming machine.&lt;/p&gt;
+
+&lt;p&gt;Also, my wife got me a PS4 for my birthday, and it is obviously an extremely capable gaming machine. I started playing &lt;em&gt;Uncharted 4: A Thief’s End&lt;/em&gt;, and am not only blown away by the improved graphics (I spent an overly long time staring at the play of light and sky reflecting off a puddle of water), but at the generous amount of character development. The character models and facial expressions are so good I couldn’t help but watch the cutscenes with a goofy smile on my face. The mechanics when two characters are making out are still horribly awkward though.&lt;/p&gt;
+
+&lt;p&gt;Black Friday seems like a good time to stock up on a few PS4 titles - then I should be set for the next year. Saving money is a great advantage of being a late adopter.&lt;/p&gt;
+
+&lt;p&gt;This ended up being a bit of a messy opinionated / newsy post, so I’ll dispense with the epic well thought-out conclusion and just say thanks for stopping by - despite the two-month break. I hope to keep clunking on for a few more years to come, so until next time, stay frosty my friends.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>The greatest real estate opportunity on planet Earth</title>
@@ -20,6 +87,8 @@
 
 &lt;p&gt;Let me tell you why.&lt;/p&gt;
 
+&lt;p&gt;&lt;/p&gt;
+
 &lt;p&gt;First, if you’re trying to decide whether to invest in Toronto or Vancouver, keep in mind that Toronto sucks. You may not know this, but Toronto does not have ANY mountains. Not one. And mountains make for spectacular views. Yes, the majority of Vancouver houses don’t have mountain views, but that is irrelevant. Just knowing the mountains exist is enough to put a smug smile on the face of a Vancouver homeowner. Look at what happened to Calgary - they have no mountains and now everybody there is sad.&lt;/p&gt;
 
 &lt;p&gt;Second, the delightfully high real estate prices are having a wonderful sanitizing effect. High rents and property values are forcing all those disgusting mom and pop stores, many of which are run by shady immigrants, to close. Even better, low income families with noisy children are being chased out of the city. All those related services which cost the city money will follow, such as daycares, schools, libraries, recreation centres, playgrounds, etc. Speaking of noise, there will be no more rowdy students to worry about either. Instead, the elite will flock to Vancouver - mature, cultured, and wealthy beyond all measure. Think sports cars and luxury yachts. Think Monaco.&lt;/p&gt;
@@ -28,8 +97,7 @@
 
 &lt;p&gt;Finally, global warming will soon turn Vancouver into the next Los Angeles. I mean, literally the next Los Angeles. It seems certain that once the real Los Angeles becomes an inhospitable desert and runs out of water, America, led by the great President Donald Trump, will buy Canada and merge it into the USA. Then he will relocate Los Angeles further up the coast. All the movie stars will move there, they will put a new “Hollywood” sign up on the North Shore mountains, and Elon Musk will start building spaceships in Surrey. It will be glorious.&lt;/p&gt;
 
-&lt;p&gt;So there you have it. There will be no “crash” or even a “soft landing”. Real estate prices will keep going up and up forever. You know the adage, “buy low, and sell high”? Well this is as low as it gets. I am telling you (with all the sincerest honesty that I can muster) that $5 million for a crackhouse on Vancouver’s East Side is a fantastic deal. FANTASTIC. Vancouver, without a doubt, represents the greatest real estate opportunity on planet Earth right now, and you would be a red-faced fool not to buy, buy, buy.&lt;/p&gt;
-</description>
+&lt;p&gt;So there you have it. There will be no “crash” or even a “soft landing”. Real estate prices will keep going up and up forever. You know the adage, “buy low, and sell high”? Well this is as low as it gets. I am telling you (with all the sincerest honesty that I can muster) that $5 million for a crackhouse on Vancouver’s East Side is a fantastic deal. FANTASTIC. Vancouver, without a doubt, represents the greatest real estate opportunity on planet Earth right now, and you would be a red-faced fool not to buy, buy, buy.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -44,6 +112,8 @@
 
 &lt;p&gt;There&amp;rsquo;s nothing like sitting quietly in nature. I feel rejuvenated and at peace. Green spaces quench the thirsty soul and wash away the thick stench of the city. I couldn&amp;rsquo;t imagine how unhappy I&amp;rsquo;d feel if I lived in the middle of an urban wasteland. A concrete prison with an apartment window looking at a brick wall and a cubicle at work with no windows at all. I guess a lot of people live that way, which explains a lot about all the aggression and stress in this world.&lt;/p&gt;
 
+&lt;p&gt;&lt;/p&gt;
+
 &lt;p&gt;On my lunch breaks I go for a run along the Pitt River. Halfway through, I stop at a small beach and sit for awhile. There is an uninhabited island in the middle of the river. It is blanketed in leafy trees and eagles spiral lazily above - guardians of a sanctuary where no people set foot. I gaze at this island and quiet my mind for a few minutes before heading back to work. I always have a more productive afternoon when I do this.&lt;/p&gt;
 
 &lt;p&gt;I feel lucky to be living here in British Columbia, where there are more trees than people and water is never very far away. The insane real estate in the Vancouver area is disheartening of course, but that is another conversation.&lt;/p&gt;
@@ -56,8 +126,7 @@
 
 &lt;p&gt;Kids - I&amp;rsquo;m talking to you now. Have fun going outside to play Pokémon GO, but don&amp;rsquo;t forget to look up and smile at that pretty girl or handsome boy walking down the street. Also, don&amp;rsquo;t look for pokémons in sacred places, like Holocaust Museums. You have better sense than that - it isn&amp;rsquo;t up to the game creators to police your bad behaviour.&lt;/p&gt;
 
-&lt;p&gt;So, I guess that&amp;rsquo;s all I have to say this month. Let me take the opportunity to wish you all a glorious summer. Thanks as always for stopping by - I will see you in August.&lt;/p&gt;
-</description>
+&lt;p&gt;So, I guess that&amp;rsquo;s all I have to say this month. Let me take the opportunity to wish you all a glorious summer. Thanks as always for stopping by - I will see you in August.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -66,9 +135,7 @@
       <pubDate>Mon, 27 Jun 2016 22:13:22 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/apple-wwdc-2016/</guid>
-      <description>
-
-&lt;p&gt;Unlike Google and the other guys, there was no talk of AI or bots at Apple’s software showcase this year. Instead, Apple was true to form, highlighting aspects like “differential privacy” and “continuity” - features that keep you locked into their ecosystem.&lt;/p&gt;
+      <description>&lt;p&gt;Unlike Google and the other guys, there was no talk of AI or bots at Apple’s software showcase this year. Instead, Apple was true to form, highlighting aspects like “differential privacy” and “continuity” - features that keep you locked into their ecosystem.&lt;/p&gt;
 
 &lt;p&gt;Overall, the event was fairly low key with Apple focused on improving and polishing rather than innovating (I think it was the announcement of universal cut and paste that got the biggest round of applause).&lt;/p&gt;
 
@@ -76,7 +143,9 @@
 
 &lt;p&gt;Since the keynote was divided into four software platforms, I’ll do the same and comment on each one individually.&lt;/p&gt;
 
-&lt;h2 id=&#34;watchos-3:9de4ffc85fa46729e7645932707af774&#34;&gt;watchOS 3&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;watchos-3&#34;&gt;watchOS 3&lt;/h2&gt;
 
 &lt;p&gt;I’m not sold on the Apple watch hardware just yet. I still think round smartwatches look far more classic than rectangular ones. Sure, you can read more text on a rectangular display, but I think Jony Ive should have focussed on form, and not function in this case.&lt;/p&gt;
 
@@ -84,7 +153,7 @@
 
 &lt;p&gt;On the software side though, I am happy that they gutted the software and started over on the user interface. I’m happy because it means Apple is still committed to developing this product, and future iterations should be way more enticing than the clunky gadget this watch is now.&lt;/p&gt;
 
-&lt;h2 id=&#34;tvos-10:9de4ffc85fa46729e7645932707af774&#34;&gt;tvOS 10&lt;/h2&gt;
+&lt;h2 id=&#34;tvos-10&#34;&gt;tvOS 10&lt;/h2&gt;
 
 &lt;p&gt;I still have the Apple TV 3, so am not going to get these updates either. But I really don’t need Siri or apps on my Apple TV when I only use it for Netflix and Youtube. Also, the remote app on the iPhone is actually way more useful than the Apple TV 4 physical remote anyway.&lt;/p&gt;
 
@@ -92,7 +161,7 @@
 
 &lt;p&gt;I am far more interested in the rumours of an Alexa-like Siri box, possibly bundled into the next-gen Apple TV. We’ll see if those rumours pan out later this year.&lt;/p&gt;
 
-&lt;h2 id=&#34;macos-sierra:9de4ffc85fa46729e7645932707af774&#34;&gt;macOS Sierra&lt;/h2&gt;
+&lt;h2 id=&#34;macos-sierra&#34;&gt;macOS Sierra&lt;/h2&gt;
 
 &lt;p&gt;My aging mid-2010 iMac just made the eligibility cutoff this year - iMacs that came out before 2009 are out of luck. I wish I could say that my iMac is aging gracefully, but the HDD hard drive is slowing down and crippling performance to the point of frustration. SSD hard drives were an emerging and expensive technology six years ago, but now it’s a no-brainer to go with solid state.&lt;/p&gt;
 
@@ -102,7 +171,7 @@
 
 &lt;p&gt;Now that I think of it, there isn’t a whole lot in macOS (formerly OS X) that is worth getting excited about, but hey, it’s free! And - that name change!&lt;/p&gt;
 
-&lt;h2 id=&#34;ios-10:9de4ffc85fa46729e7645932707af774&#34;&gt;iOS 10&lt;/h2&gt;
+&lt;h2 id=&#34;ios-10&#34;&gt;iOS 10&lt;/h2&gt;
 
 &lt;p&gt;Since the iPhone is my newest Apple product, I was most interested in what’s new on the mobile front. Oh, and my iPad! I almost forgot you iPad, along with everybody else (drum roll please).&lt;/p&gt;
 
@@ -116,14 +185,13 @@
 
 &lt;p&gt;Lots of people have said this, and I agree - at this point it doesn’t matter who is copying who. Android and iOS are borrowing the best from each other and are both converging into a user-focused paradigm. The result is a win for everybody.&lt;/p&gt;
 
-&lt;h2 id=&#34;closing-thoughts:9de4ffc85fa46729e7645932707af774&#34;&gt;Closing thoughts&lt;/h2&gt;
+&lt;h2 id=&#34;closing-thoughts&#34;&gt;Closing thoughts&lt;/h2&gt;
 
 &lt;p&gt;I enjoyed watching the keynote, in the same way I enjoy listening to an old record. The familiarity and rhythm of it is pleasing in a way. But I’m not too happy about Apple trying to supplement flagging iPhone sales (in terms of growth, not revenue) by pushing paid services on us. It feels a bit disingenuous to claim you want a magical user experience on one hand, then push iCloud upgrades and accessories on the other (ooh look - you can unlock your iMac with your Apple watch - well why not with your iPhone?).&lt;/p&gt;
 
 &lt;p&gt;September is going to be interesting because it looks like Apple is going to ditch the tick-tock iPhone overhaul pattern. Rumours are pointing to a modest upgrade this year, with a radical design change slated for 2017 - the 10th anniversary of the iPhone.&lt;/p&gt;
 
-&lt;p&gt;Are savvy Apple fans going to forgo the upgrade this year and cost Apple billions of dollars in lost revenue? Stranger things have happened, I suppose. But there was nothing strange about WWDC 2016 (well, there was that rap-along) - on the software front, it&amp;rsquo;s business as usual, and that&amp;rsquo;s not necessarily a bad thing.&lt;/p&gt;
-</description>
+&lt;p&gt;Are savvy Apple fans going to forgo the upgrade this year and cost Apple billions of dollars in lost revenue? Stranger things have happened, I suppose. But there was nothing strange about WWDC 2016 (well, there was that rap-along) - on the software front, it&amp;rsquo;s business as usual, and that&amp;rsquo;s not necessarily a bad thing.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -137,6 +205,8 @@
 &lt;p&gt;Perhaps a few years from now, Google will hold our bloated photo libraries hostage in exchange for our souls, but so far this hasn’t happened. And maybe when it does happen, we’ll willingly pay the price. It&amp;rsquo;s so easy to become addicted to the machine learning that organizes our pictures and creates photo albums for us; machine learning that can identify the content of every photo. How could you not love searching for “hugs” to view all those pictures of your loved ones engaged in a warm embrace?&lt;/p&gt;
 
 &lt;p&gt;This year there were no surprise gifts, but Google continued to show off its burgeoning AI prowess. A new messaging app was shown with eerie “smart replies” that allows the AI to answer in your stead.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Picture a world where text message conversations are going on in the background between your AI and another person. Or even between two AIs. We’ll be able to abscond all social responsibility by surrendering social conversations to chatbots. In fact, this world is here already with AIs such as &lt;a href=&#34;https://x.ai/&#34;&gt;Amy&lt;/a&gt;, a “personal assistant” who schedules meetings for you. I expect chatbot AIs to proliferate wildly in the next few years, and could even be “the next big thing”. Companies who don’t manage to catch the next wave &lt;a href=&#34;http://www.theverge.com/2016/5/25/11765624/walt-mossberg-apple-wwdc-2016-siri-ai-bots&#34;&gt;could find themselves left behind&lt;/a&gt;.&lt;/p&gt;
 
@@ -152,8 +222,7 @@
 
 &lt;p&gt;And if all this doesn’t scare you, then you’re probably reading this in the 22nd century. Perhaps you are amazed that humans once engaged in independent thought. Perhaps in surrendering the sanctity of your privacy and your body to the machine, you are now at peace because your human toils are over. Perhaps you have evolved into a cyborg with some sort of AI synthesis, like in the &lt;em&gt;Mass Effect 3&lt;/em&gt; ending.&lt;/p&gt;
 
-&lt;p&gt;In all seriousness though - regardless of where you stand today, the information age is reaching an end. If you cling to the old ways, you are now an anachronism in the looming AI age. It is still unclear what our roles will be in this new age, but what is clear is that we won’t be controlling the flow and manipulation of information anymore. If knowledge is power, then the machines have already won.&lt;/p&gt;
-</description>
+&lt;p&gt;In all seriousness though - regardless of where you stand today, the information age is reaching an end. If you cling to the old ways, you are now an anachronism in the looming AI age. It is still unclear what our roles will be in this new age, but what is clear is that we won’t be controlling the flow and manipulation of information anymore. If knowledge is power, then the machines have already won.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -171,6 +240,8 @@
 &lt;p&gt;I also never use the word &amp;ldquo;utilize&amp;rdquo;. Although, to my abject horror, one instance did slip through when I copied some text from the Sales and Marketing department.&lt;/p&gt;
 
 &lt;p&gt;I then craft the perfect sentences - not too long, not too complex, but with delightful variations in syntactic structure so that you don’t get bored. I polish these sentences so that they are as smooth and round as a river stone, and can therefore be reused in multiple contexts.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;These shiny sentences are placed in self-contained topics, as per DITA guidelines. You can get all the information you are looking for, whether it be an explanation or a procedure, just by reading this brief chunk of text. I will never hyperlink you away to other topics, or expect you to hunt for crucial details elsewhere - I know your time is valuable.&lt;/p&gt;
 
@@ -196,8 +267,7 @@
 
 &lt;p&gt;Regards,&lt;/p&gt;
 
-&lt;p&gt;Your friendly neighbourhood technical writer&lt;/p&gt;
-</description>
+&lt;p&gt;Your friendly neighbourhood technical writer&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -213,6 +283,8 @@
 &lt;p&gt;Indeed, the Model 3 truly is a product of the tech industry. It’s also an eccentric genius billionaire’s baby. Which makes Tesla a truly unique company, and the Model 3 an astoundingly fresh entrant in a stale car industry. An industry, by the way, that last saw true innovation over a hundred years ago with the debut of Henry Ford’s Model T.&lt;/p&gt;
 
 &lt;p&gt;But is the Model 3 really a vision of the future, or merely a mirage?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Seven years ago I wrote an article called &lt;a href=&#34;http://www.alive.com/lifestyle/the-eco-dilemma/&#34;&gt;The Eco Dilemma&lt;/a&gt; about the electric car as a utopian fantasy. At the time, the economy was in shambles, gas prices were sky high, climate change was scaring the hell out of us, and there was strong interest in alternatives to fossil fuels.&lt;/p&gt;
 
@@ -250,8 +322,7 @@
 
 &lt;p&gt;So, does my dream to own a Model 3 die here, in this obscure blog post at the end of the internet? Well, there is always hope. Hope and the kidney black market.&lt;/p&gt;
 
-&lt;p&gt;Perhaps it is easier to just sit back and appreciate the turn of the tide. To bear witness to a new era of innovation in the auto industry. That in itself will be a boon to our battered planet, because yes, I still care about our planet a little, even if I won’t be driving a green dream machine to prove it.&lt;/p&gt;
-</description>
+&lt;p&gt;Perhaps it is easier to just sit back and appreciate the turn of the tide. To bear witness to a new era of innovation in the auto industry. That in itself will be a boon to our battered planet, because yes, I still care about our planet a little, even if I won’t be driving a green dream machine to prove it.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -269,6 +340,8 @@
 &lt;p&gt;And he does. As Indiana rides into the sunset and John William’s theme song swells over the closing credits, we knew it really was his last crusade.&lt;/p&gt;
 
 &lt;p&gt;But we were wrong.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Twenty years later, a considerably older and stiffer Harrison Ford donned Indie’s hat once more for a mostly terrible comeback movie with a crystal skull and that kid from &lt;em&gt;Transformers&lt;/em&gt;. It wasn’t a huge deal though. At worst, the flick was nothing more than an embarrassing footnote, best ignored. At best, a bonus Blu-ray tacked onto the already excellent Indiana Jones trilogy box set.&lt;/p&gt;
 
@@ -296,8 +369,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;code&gt;EDIT - May 12, 2016: I couldn&#39;t let it go. I did pay good money to see Batman duking it out with Superman. My friends wanted to see it so I had to swallow my righteousness and join the unwashed masses in the cinema. It was pretty much what I expected. Wonder Woman was fantastic, but man, they need to hire better writers. What would it take to get the Avengers writing team to give it a go? Too much, I reckon.&lt;/code&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;code&gt;EDIT - May 12, 2016: I couldn&#39;t let it go. I did pay good money to see Batman duking it out with Superman. My friends wanted to see it so I had to swallow my righteousness and join the unwashed masses in the cinema. It was pretty much what I expected. Wonder Woman was fantastic, but man, they need to hire better writers. What would it take to get the Avengers writing team to give it a go? Too much, I reckon.&lt;/code&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -317,6 +389,8 @@
 &lt;p&gt;Or, should I say, the metaphorical East Coast. Because it’s not like Jay Z or Kanye actually live in the godforsaken east. They live in California of course, along with everybody else famous.&lt;/p&gt;
 
 &lt;p&gt;But clearly, Kanye does not want to attend any more parties in L.A. So, what gives?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;The music industry is in disarray and everybody is living in the wild west regardless of previous alliances. It’s a mexican standoff between Spotify, Google Music, Pandora, Apple Music, and Tidal. Or as I like to call it, the battle of the five armies.&lt;/p&gt;
 
@@ -340,8 +414,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;code&gt;EDIT - April 8, 2016: So Kanye released his latest album on all the major streaming services, including Apple Music. So either Kanye is a chronic liar, or he&#39;s blowing in the wind like a whimsical fairy. That&#39;s the nicest way I can put it. Either way, I&#39;m happy.&lt;/code&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;code&gt;EDIT - April 8, 2016: So Kanye released his latest album on all the major streaming services, including Apple Music. So either Kanye is a chronic liar, or he&#39;s blowing in the wind like a whimsical fairy. That&#39;s the nicest way I can put it. Either way, I&#39;m happy.&lt;/code&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -355,6 +428,8 @@
 &lt;p&gt;Got it? Good. For me, most explanations for human behaviour can be lumped into the “nurture” side - a bias, no doubt, fostered by my time studying anthropology at university.&lt;/p&gt;
 
 &lt;p&gt;However, there is something to be said for the “nature” side as well. Evolution bakes instinctual responses into the DNA of all animals, after all. Horses, for example, have an innate fear of snakes, and therefore snake-like objects. Sometimes, a horse will rear when faced with a snake-shaped stick.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;So what vestigial instincts from our hunter gatherer days linger on to colour our nightmares today? Most people assume that man has always been at the top of the food chain; but this assumption is an arrogant one, albeit unsurprising. We’ve been top dog for thousands of years now and are used to our dominion over all of God’s creatures.&lt;/p&gt;
 
@@ -372,8 +447,7 @@
 
 &lt;p&gt;Perhaps the next nightmare to insinuate itself into our DNA will be of large crowds where diseases spread like wildfire. Perhaps, in some post-apocalyptic future we will have reverted to roaming in small cohesive groups, using our human ingenuity and survival skills to elude the vast zombie hordes that threaten to infect us. Wait a minute, did I just describe &lt;em&gt;The Walking Dead&lt;/em&gt;? The most popular show on TV right now?&lt;/p&gt;
 
-&lt;p&gt;It seems our collective nightmare has already begun.&lt;/p&gt;
-</description>
+&lt;p&gt;It seems our collective nightmare has already begun.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -385,6 +459,8 @@
       <description>&lt;p&gt;It’s January and most people like to write about New Year resolutions, or predictions for the year ahead. But I’m quite tired. And no, I didn’t mean that to sound like a sardonic riff of a &lt;em&gt;Flight of the Conchords&lt;/em&gt; song. I just feel like writing something more free flowing and fun that requires less research, intense pondering or tortured introspection.&lt;/p&gt;
 
 &lt;p&gt;So, I’m going to compile a breezy list of things I’m looking forward to in 2016. Just off the top of my head. And in no particular order. Yes, the year ahead will bring weddings and babies (not mine, just to be clear), which is all very exciting of course. And I have a new job to sink my teeth into, which is very satisfying. I also want to be… better in 2016, in many ways. But forget about that for now. Let’s talk about music, tech, movies, games, books, and that sort of superficial, but fun, fluffy stuff.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;So, here are some random things to look forward to in 2016:&lt;/p&gt;
 
@@ -406,8 +482,7 @@
 
 &lt;p&gt;This year hasn&amp;rsquo;t started out on the best footing. Low oil prices have decimated the Canadian economy and driven our dollar down so far that a trip to the States is an extravagant luxury. On the other hand, house prices have shot up so high that little old ladies can&amp;rsquo;t afford property tax on their two million dollar shacks. And when looking at the big picture, a recent earthquake reminded us that the big one could hit at any moment and level the West Coast.&lt;/p&gt;
 
-&lt;p&gt;So, why not enjoy the little things? A good book. A good movie. A year of simple delights. That sounds quite delectable to me.&lt;/p&gt;
-</description>
+&lt;p&gt;So, why not enjoy the little things? A good book. A good movie. A year of simple delights. That sounds quite delectable to me.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -421,6 +496,8 @@
 &lt;p&gt;The only reason for my visit was for work, so let me start with my time at Kongsberg Maritime. After an unsuccessful attempt at using DITA at VTech, I was a little skeptical about plunging into structured authoring, although I was willing to learn the tools of course.&lt;/p&gt;
 
 &lt;p&gt;But Ragnar, the senior information developer over there, put me through a DITA boot camp where he promised I would eat, sleep, and dream of XML and DITA. And I did. So, did I emerge a DITA disciple, ready to spread the word at home?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Well, yes and no. On the negative side, DITA can feel a bit restrictive with its strict, rule-based architecture. And it was a bit discouraging to learn that only 15 companies in the world use a combination of Arbortext on the front-end and SDL Livecontent on the back-end for their documentation.&lt;/p&gt;
 
@@ -453,8 +530,7 @@
 &lt;li&gt;I guess I should mention that Norway is horribly expensive, but it is a socialist country after all, so there is a good reason for Norway’s reputation as a pricey destination. Still, when visitors like me end up paying $15 for a beer and get taxed 25% on top of that, this reputation is hard to refute.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;To me, Norway felt like the more remote parts of Canada where good working-class people try to carve out their lives in the barren landscape. It is almost nothing like Vancouver, which seems ridiculously ostentatious in comparison. And that was refreshing to me. There&amp;rsquo;s a fantastic Beach House song called, well, “Norway”. &lt;a href=&#34;https://www.youtube.com/watch?v=2L_R-DELtX8&#34;&gt;Listen to it&lt;/a&gt;. You may dream of a country far away, shrouded in mist, carved up by fjords, air crisp with the tang of the sea. Yet there are sombre undertones - a mourning, an aching, a sadness that is beautiful in itself.&lt;/p&gt;
-</description>
+&lt;p&gt;To me, Norway felt like the more remote parts of Canada where good working-class people try to carve out their lives in the barren landscape. It is almost nothing like Vancouver, which seems ridiculously ostentatious in comparison. And that was refreshing to me. There&amp;rsquo;s a fantastic Beach House song called, well, “Norway”. &lt;a href=&#34;https://www.youtube.com/watch?v=2L_R-DELtX8&#34;&gt;Listen to it&lt;/a&gt;. You may dream of a country far away, shrouded in mist, carved up by fjords, air crisp with the tang of the sea. Yet there are sombre undertones - a mourning, an aching, a sadness that is beautiful in itself.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -466,6 +542,8 @@
       <description>&lt;p&gt;The choice came down to four phones: the &lt;a href=&#34;http://wordbit.com/posts/2015-flagship-1-htc-one-m9/&#34;&gt;HTC One M9&lt;/a&gt;, the &lt;a href=&#34;http://wordbit.com/posts/2015-flagship-2-samsung-galaxy-s6/&#34;&gt;Samsung Galaxy S6&lt;/a&gt;, the &lt;a href=&#34;http://wordbit.com/posts/1271/&#34;&gt;LG G4&lt;/a&gt;, or the &lt;a href=&#34;http://wordbit.com/posts/2015-flagship-4-iphone-6s/&#34;&gt;iPhone 6s&lt;/a&gt;. In actuality, a more stark dichotomy lay between Android and Apple, so the choice really came down to two very different approaches.&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;ve been living with both Android and iOS, so appreciate the merits of both operating systems. For me, hardware was a bigger consideration, as well as ongoing software support. I also didn&amp;rsquo;t want a gigantic slab of a phone that seems to be the norm these days. So, in the end, I decided to go with the iPhone.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;ll be honest - another factor in my decision was the company brand, and everything that brand stands for. For this reason, I didn&amp;rsquo;t even consider Huawei&amp;rsquo;s Nexus 6P, even though it seems very well made. People quickly forget, but Huawei has been suspected of &lt;a href=&#34;http://gizmodo.com/5949821/chinas-biggest-telecomms-are-officially-national-security-risks-updated&#34;&gt;spying for the Chinese government&lt;/a&gt;, even though they, of course, deny it. On the other hand, Apple is well known for its stance on privacy and security, perhaps even more so under Tim Cook&amp;rsquo;s reign. After all, Tim is an intensely private person, to the point where protecting people&amp;rsquo;s data is almost a crusade for him.&lt;/p&gt;
 
@@ -495,8 +573,7 @@
 
 &lt;p&gt;Fortunately, these are minor concerns that could someday be fixed in software. At the end of the day, a phone is just a tool. I know I&amp;rsquo;ve made a big deal in this blog about my upgrade. And I expected to go be glued to my new phone the moment I got it - installing tons of apps and so on. But I haven&amp;rsquo;t.&lt;/p&gt;
 
-&lt;p&gt;Instead, the iPhone has sort of faded away into the background. It doesn&amp;rsquo;t have a distractingly large screen. There are no widgets to fiddle with. But when called on to perform a task - it is on point; the iPhone does it well and it does it fast. Like a well-oiled weapon that never misfires - the iPhone can be counted on when you need it most.&lt;/p&gt;
-</description>
+&lt;p&gt;Instead, the iPhone has sort of faded away into the background. It doesn&amp;rsquo;t have a distractingly large screen. There are no widgets to fiddle with. But when called on to perform a task - it is on point; the iPhone does it well and it does it fast. Like a well-oiled weapon that never misfires - the iPhone can be counted on when you need it most.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -508,6 +585,8 @@
       <description>&lt;p&gt;I blog about work very sparely, and I think most people would agree that saying too much can lead into dangerous territory. So, I tend to avoid it unless I have something general to say that doesn&amp;rsquo;t touch on any work projects. But I would be remiss in my blogging duties not to mention that I have a new job.&lt;/p&gt;
 
 &lt;p&gt;I started working as a technical writer at Vtech seven years ago - here&amp;rsquo;s &lt;a href=&#34;http://wordbit.com/posts/new-job/&#34;&gt;a post&lt;/a&gt; I wrote when I first got the job, and &lt;a href=&#34;http://wordbit.com/posts/what-i-do/&#34;&gt;another&lt;/a&gt; I wrote about a month in.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Vtech has been very good to me and the people there are great, but last month the time came for me to move on. I worked on some great projects and enjoyed becoming a somewhat accomplished User Interface designer. My last project was a touchscreen phone which I designed from scratch - largely on my own. Now that I&amp;rsquo;m no longer working there, perhaps I&amp;rsquo;ll write a post sometime about it.&lt;/p&gt;
 
@@ -527,8 +606,7 @@
 
 &lt;p&gt;Interestingly, Kongsberg uses the Simplified Technical English (STE) standard from the Aerospace and Defence Industries Association of Europe (ASD). I have to say though, that their guidelines do not bleed over at all into user interface design because &lt;a href=&#34;http://www.asd-ste100.org/&#34;&gt;their website&lt;/a&gt; is absolutely horrid.&lt;/p&gt;
 
-&lt;p&gt;So, a steep learning curve, but lots of structure in place, which is fantastic. Additional areas I could push for training is photography and 3D modelling because the resources for manual illustrations aren&amp;rsquo;t so great. But I have enough on my plate for now - and that&amp;rsquo;s all you could ask for in your job, really - to be happily occupied. I do love my job and sometimes a change is just what you need to re-energize your career.&lt;/p&gt;
-</description>
+&lt;p&gt;So, a steep learning curve, but lots of structure in place, which is fantastic. Additional areas I could push for training is photography and 3D modelling because the resources for manual illustrations aren&amp;rsquo;t so great. But I have enough on my plate for now - and that&amp;rsquo;s all you could ask for in your job, really - to be happily occupied. I do love my job and sometimes a change is just what you need to re-energize your career.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -561,58 +639,7 @@
 
 &lt;p&gt;Anyway, I eventually got it to work. And it&amp;rsquo;s really great. The setup I have now is exactly what I wanted - minimalist, clean, and upholding the old-school hacker ethos of the web. I&amp;rsquo;ll have to undergo a gradual cleanup effort to smooth out formatting issues resulting from the conversion from XML to markdown, and fix all image links too. However, I&amp;rsquo;ve danced this dance before over the years as my content has moved around a lot - more than I&amp;rsquo;d like. Hopefully this time I&amp;rsquo;ve found a home where I can stay for a while. One where I won&amp;rsquo;t ever be censored for, I don’t know, blogging about topics every single other person in the world blogs about.&lt;/p&gt;
 
-&lt;p&gt;So, thank you Steven. You’ve forced me to learn new things and expand my skillset. Without you, I’d still be wrangling with Wordpress and using your dodgy control panel. Thank you for the nostalgia - going back to the command line is like returning home to DOS. And thank you for giving me that aura of cool that comes to those who are crazy enough to hack together a blog on GitHub. I still have no idea what I’m doing, but I’m happier now, Steven, much happier.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2015 Flagship 4: iPhone 6S</title>
-      <link>http://wordbit.com/posts/2015-flagship-4-iphone-6s/</link>
-      <pubDate>Fri, 25 Sep 2015 21:47:22 +0000</pubDate>
-      
-      <guid>http://wordbit.com/posts/2015-flagship-4-iphone-6s/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/iphone6s.jpg&#34; alt=&#34;iphone6s&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As I alluded to in my last post, the very definition of a &amp;ldquo;flagship&amp;rdquo; has perceptively shifted this past year.&lt;/p&gt;
-
-&lt;p&gt;Firstly, mid-range devices with high-end specs and razor-thin profit margins have exploded out of China.&lt;/p&gt;
-
-&lt;p&gt;Secondly, the definition of a flagship has skewed heavily toward &lt;em&gt;big&lt;/em&gt; phones (formerly known as phablets, but now the norm). Bigger phones tend to get better battery life and are able to fit in better camera components, such as Optical Image Stabilization (OIS).  But, I most certainly do not want a big phone. For me, the sweet spot is in the 4.5 to 5-inch screen size range. For this reason, I&amp;rsquo;m excluding phones like the Note 5 and iPhone 6S Plus from my overview of the year&amp;rsquo;s best.&lt;/p&gt;
-
-&lt;p&gt;However, when all is said and done, a flagship choice always comes down to that most ancient and hotly disputed divide - Android or iPhone?&lt;/p&gt;
-
-&lt;p&gt;Apple&amp;rsquo;s latest entry in the flagship wars, the iPhone 6S, comes as no surprise. Dependably meticulous manufacturing. A two-year design cycle. And so many leaks before the official announcement that the only real surprise this year was a unique take on the &amp;ldquo;selfie flash&amp;rdquo; where the whole front screen lights up. Let&amp;rsquo;s not forget the predictably glowing reviews as well. For the upper middle-class of the developed world, the iPhone is the only choice there is. It is, for better or worse, America&amp;rsquo;s phone.&lt;/p&gt;
-
-&lt;p&gt;Despite Apple not playing the spec game, let&amp;rsquo;s take a look anyway for the sake of consistency:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Operating system:&lt;/strong&gt; iOS 9&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Display:&lt;/strong&gt; 4.7-inch 1334 x 750 pixel IPS LCD display, 326 ppi pixel density&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Processor:&lt;/strong&gt; 1.85 Ghz 64-bit A9 SoC with M9 motion co-processor&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Memory:&lt;/strong&gt; 2GB RAM / 16GB, 64GB, and 128GB storage&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Rear camera:&lt;/strong&gt; 12MP rear iSight camera, F2.2 lens, True Tone flash&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Front-facing camera:&lt;/strong&gt; 5MP front-facing FaceTime camera, Retina flash&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Battery:&lt;/strong&gt; 1715 mAh non-removable Li-ion battery&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Size:&lt;/strong&gt; 138.3 x 67.1 x 7.1mm&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Weight:&lt;/strong&gt; 143 grams&lt;/p&gt;
-
-&lt;p&gt;Objectively speaking, the advantages of the iPhone are obvious. End-to-end control allows Apple to pursue a deep integration of hardware and software. This control has allowed intriguing new features, such as &amp;ldquo;3D Touch&amp;rdquo; where the screen measures different levels of pressure to activate &amp;ldquo;right-click&amp;rdquo; types of UI popups. This control allows Apple to get away with fairly middling specs, where Android phones are overcompensating with killer specs to cover a lack of optimization. This control is also what makes the iPhone camera usually so much better than the competition. I say &amp;ldquo;usually&amp;rdquo; because this year, the other guys, especially Samsung, have seriously stepped up their game.&lt;/p&gt;
-
-&lt;p&gt;But I do suspect that the Android implementation is only as good as its skin. In other words, the camera is great as long as you stay locked onto TouchWiz or Sense. We all know that manufacturer Android updates are agonizingly slow and in some cases, only supported for a year or two. Flash a custom ROM like Cyanogenmod, and you can kiss your tight hardware-software camera integration goodbye. I know this from bitter experience.&lt;/p&gt;
-
-&lt;p&gt;The disadvantages of such tight control is that it can be stifling. There is a liberating feel to Android. The possibilities are endless when it comes to true customization, both on the front end and back end. Most Android phone manufacturers also aren&amp;rsquo;t afraid to explore the bleeding edge of hardware development. After all, they just leave the bulk of software development to Google, so hardly need to expend resources on it at all. Instead we get things like NFC (Android first) and 4K screens (Android first). Apple waits a while before coming up with a carefully considered rebuttal. But they are never first.&lt;/p&gt;
-
-&lt;p&gt;So I haven&amp;rsquo;t actually said much about the new iPhones, mostly because I don&amp;rsquo;t have to. The reviews are in - they&amp;rsquo;re great. No surprises there.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m not sure if there will be any more flagships this year, so this most likely concludes my survey of the year&amp;rsquo;s best. The new Nexus phones are being announced next week, so I&amp;rsquo;ll definitely be checking those out. But, I&amp;rsquo;m not holding my breath for anything in the flagship class. I&amp;rsquo;ve got some thinking to do, because it&amp;rsquo;s finally time to make a choice.&lt;/p&gt;
-</description>
+&lt;p&gt;So, thank you Steven. You’ve forced me to learn new things and expand my skillset. Without you, I’d still be wrangling with Wordpress and using your dodgy control panel. Thank you for the nostalgia - going back to the command line is like returning home to DOS. And thank you for giving me that aura of cool that comes to those who are crazy enough to hack together a blog on GitHub. I still have no idea what I’m doing, but I’m happier now, Steven, much happier.&lt;/p&gt;</description>
     </item>
     
   </channel>
