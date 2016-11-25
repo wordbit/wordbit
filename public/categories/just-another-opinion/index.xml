@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Just Another Opinion on wordbit</title>
-    <link>http://wordbit.com/categories/just-another-opinion/</link>
-    <description>Recent content in Just Another Opinion on wordbit</description>
+    <title>wordbit</title>
+    <link>http://wordbit.com/categories/just-another-opinion/index.xml</link>
+    <description>Recent content on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 09 Nov 2012 23:37:41 +0000</lastBuildDate>
     <atom:link href="http://wordbit.com/categories/just-another-opinion/index.xml" rel="self" type="application/rss+xml" />
     
     <item>

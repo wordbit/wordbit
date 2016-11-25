@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Colour on wordbit</title>
-    <link>http://wordbit.com/categories/colour/</link>
-    <description>Recent content in Colour on wordbit</description>
+    <title>wordbit</title>
+    <link>http://wordbit.com/categories/colour/index.xml</link>
+    <description>Recent content on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 07 Mar 2008 21:57:00 +0000</lastBuildDate>
     <atom:link href="http://wordbit.com/categories/colour/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
