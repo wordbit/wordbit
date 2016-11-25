@@ -87,4 +87,4 @@ Also, my wife got me a PS4 for my birthday, and it is obviously an extremely cap
 Black Friday seems like a good time to stock up on a few PS4 titles - then I should be set for the next year. Saving money is a great advantage of being a late adopter.
 
 
-This ended up being a bit of a messy opinionated / newsy post, so I’ll dispense with the epic well thought-out conclusion and just say thanks for stopping by - despite the two-month break. I hope to keep clunking on for a few more years to come, so until next time, stay frosty my friends.
+This ended up being a bit of a messy opinionated / newsy post, so I’ll dispense with the epic well thought-out conclusion and just say thanks for stopping by - despite the two-month break. I hope to keep clunking on for a few more years to come, so until next time - stay frosty my friends.
