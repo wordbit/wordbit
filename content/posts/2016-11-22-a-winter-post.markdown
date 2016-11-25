@@ -16,7 +16,7 @@ And I haven’t even got to Apple’s disappointing MacBook Pros yet.
 That was a bad joke by the way. Or maybe it wasn’t. 
 
 
-On a personal note, I failed to post anything in September or October - thus betraying the promise to you of at least a monthly post. In my defense, I’ve been stressed out with moving. And with the kids starting new school and daycare schedules. Also, I turned 40 and became an old crotchety man overnight. The motivation to write is pretty low right now.
+On a personal note, I failed to post anything in September or October - thus betraying the promise (well, more of [a mild-mannered suggestion]({{< relref "about.md" >}}) really) to you of at least a monthly post. In my defense, I’ve been stressed out with moving. And with the kids starting new school and daycare schedules. Also, I turned 40 and became an old crotchety man overnight. The motivation to write is pretty low right now.
 
 
 Just getting this far feels like jerking one clunky wooden leg in front of the other and breathing hard. Hard.
