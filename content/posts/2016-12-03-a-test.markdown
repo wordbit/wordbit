@@ -1,0 +1,8 @@
+---
+date: 2016-12-03 22:00:00+00:00
+slug: a-test
+title: 'A test'
+---
+
+
+This is a test!
