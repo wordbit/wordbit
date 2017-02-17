@@ -1,8 +1,14 @@
+
 ---
+
 date: 2016-12-07 22:42:00+00:00
+
 slug: the-new-old-macbook-pro
+
 title: 'The new old MacBook Pro'
+
 ---
+
 
 About that MacBook Pro I had my eye on. I couldn’t wait. As much as I appreciate all my iMac has done for me, I just couldn’t listen to the endless spinning and chirping of that dreadful hard drive for another year without going insane.
 

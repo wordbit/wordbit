@@ -5,8 +5,45 @@
     <link>http://wordbit.com/index.xml</link>
     <description>Recent content on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 09 Jan 2017 22:42:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Feb 2017 18:30:00 +0000</lastBuildDate>
     <atom:link href="http://wordbit.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ten years of wordbit</title>
+      <link>http://wordbit.com/posts/wordbit-ten-anniversary/</link>
+      <pubDate>Thu, 16 Feb 2017 18:30:00 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/wordbit-ten-anniversary/</guid>
+      <description>&lt;p&gt;Ten years ago today, &lt;a href=&#34;http://wordbit.com/posts/what-is-a-wordbit-anyway/&#34;&gt;wordbit joined the blogosphere&lt;/a&gt;. A few years after that, the term &lt;em&gt;blogosphere&lt;/em&gt; joined other buzzwords such as &lt;em&gt;web 2.0&lt;/em&gt; in the internet fad graveyard. I&amp;rsquo;m hoping &lt;em&gt;social media&lt;/em&gt; will be joining them at some point.&lt;/p&gt;
+
+&lt;p&gt;But ten years ago, social media was still fun and innocent. Heck - ten years ago, there were no smartphones. The iPhone was to debut about four months later in a defining moment that changed the trajectory of the internet forever. Three years later, in 2010, &lt;em&gt;Wired Magazine&lt;/em&gt; &lt;a href=&#34;https://www.wired.com/2010/08/ff_webrip/&#34;&gt;declared that &amp;ldquo;the Web is dead&amp;rdquo;&lt;/a&gt;. The Web, in case you didn&amp;rsquo;t know, meaning the World Wide Web (WWW) - a collection of html pages served up in desktop browsers. The Web&amp;rsquo;s death was greatly exaggerated of course - you can thank responsive web design for that.&lt;/p&gt;
+
+&lt;p&gt;Then again, there are millions of people who use Facebook but &lt;a href=&#34;https://qz.com/333313/milliions-of-facebook-users-have-no-idea-theyre-using-the-internet/&#34;&gt;have no idea that Facebook exists on the Internet&lt;/a&gt;. Zuckerberg hooked even the most technophobic on the Internet without them even knowing it.&lt;/p&gt;
+
+&lt;p&gt;Yes, the world is a different place - but where does that leave the humble blog?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;There is no easy answer to that question. In fact, I would argue that the question does not matter.&lt;/p&gt;
+
+&lt;p&gt;You&amp;rsquo;ve probably heard some rendition of &amp;ldquo;the blog is dead&amp;rdquo; for many years now. Perhaps that is concerning for those with money at stake. When blogs started generating traffic, along came metrics, advertising, blog rolls, comments, SEO, google analytics, and so on. Without these trappings, you could argue that a blog is nothing but a pulpit in the wilderness. But that is exactly what blogs started out as. That is what a blog really is, in its purest essence.&lt;/p&gt;
+
+&lt;p&gt;Here is the world&amp;rsquo;s &lt;a href=&#34;http://info.cern.ch/hypertext/WWW/TheProject.html&#34;&gt;first web page&lt;/a&gt;. It is nothing more than some text and links - the ultimate content delivery medium (second only to the paper page of a book, a content delivery platform honed over hundreds of years).&lt;/p&gt;
+
+&lt;p&gt;Why is it that writers crave a content authoring GUI on the back-end that is clean, simple, and clutter-free? It is ostensibly so that they can focus on their writing without distraction. How hypocritical then, that we save the clutter for the front-end - for the user. Who is the user? It is blindingly simple. When it comes to blogs, the user is only one thing - the user is a reader.&lt;/p&gt;
+
+&lt;p&gt;Always respect the reader.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;re writing on the web to make a living, then you have my sympathies. In all likelihood, you have moved on to serving bite-sized content for social media junkies to snack on. But for writers who just want to write, there is simply no better medium than the blog - preferably a good old html page served up in under one second.&lt;/p&gt;
+
+&lt;p&gt;In under one second you say? Seems like a good time to list the tools I use to accomplish this. As I&amp;rsquo;ve previously mentioned, I&amp;rsquo;ve moved on to a static site generator, &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, instead of wasting precious seconds with a database call, as you would with Wordpress. The site is hosted on Github, a tool which software developers use as a code respository with version control. I author in Markdown. I use StackEdit as an online markdown editor, mostly because it syncs so nicely with files in Google Drive. I should mention that this authoring setup is gaining favour in the technical writing world as well. In progressive circles at least.&lt;/p&gt;
+
+&lt;p&gt;So, wordbit&amp;rsquo;s design has evolved to meet my ideal of ultimate reader friendliness, and I&amp;rsquo;m proud of that. But coming up with content is as challenging as its always been. No writer should assume that people have nothing better to do than read their writing, because these days people have plenty to occupy their time. The toughest part for any writer is coming up with a big idea, then staying on point and writing a focused piece of work that doesn&amp;rsquo;t ramble and stray from the topic. Blogs are a fickle beast because they started as online diaries and have evolved into many things, including legitimate journalism. At best, a blog post is simply an editorial that is interesting to read. If you keep coming back then it is the voice of the writer that appeals to you.&lt;/p&gt;
+
+&lt;p&gt;Anyway, I&amp;rsquo;ve long since given up on pandering to anyone, and mostly just &lt;a href=&#34;http://wordbit.com/posts/why-write-when-nobodys-reading/&#34;&gt;write for my own benefit&lt;/a&gt;. But writing in a public medium is always a struggle between maintaining a degree of privacy, being honest, and staying relevant. After all, ten years ago I was at a different stage of life. My priorities have changed, the topics I&amp;rsquo;m comfortable writing about have changed, and the goals for my blog has changed.&lt;/p&gt;
+
+&lt;p&gt;What hasn&amp;rsquo;t changed is that I still have that compulsion to write that plagues writers everywhere, and that&amp;rsquo;s not going to end while I&amp;rsquo;m still breathing. So, here&amp;rsquo;s to another decade of wordbit. I&amp;rsquo;ve made it this far - why stop now?&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>A foray into fitness tracking</title>
@@ -624,49 +661,6 @@
 &lt;/ol&gt;
 
 &lt;p&gt;To me, Norway felt like the more remote parts of Canada where good working-class people try to carve out their lives in the barren landscape. It is almost nothing like Vancouver, which seems ridiculously ostentatious in comparison. And that was refreshing to me. There&amp;rsquo;s a fantastic Beach House song called, well, “Norway”. &lt;a href=&#34;https://www.youtube.com/watch?v=2L_R-DELtX8&#34;&gt;Listen to it&lt;/a&gt;. You may dream of a country far away, shrouded in mist, carved up by fjords, air crisp with the tang of the sea. Yet there are sombre undertones - a mourning, an aching, a sadness that is beautiful in itself.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>2015 Flagship winner</title>
-      <link>http://wordbit.com/posts/2015-flagship-winner/</link>
-      <pubDate>Thu, 19 Nov 2015 20:00:22 +0000</pubDate>
-      
-      <guid>http://wordbit.com/posts/2015-flagship-winner/</guid>
-      <description>&lt;p&gt;The choice came down to four phones: the &lt;a href=&#34;http://wordbit.com/posts/2015-flagship-1-htc-one-m9/&#34;&gt;HTC One M9&lt;/a&gt;, the &lt;a href=&#34;http://wordbit.com/posts/2015-flagship-2-samsung-galaxy-s6/&#34;&gt;Samsung Galaxy S6&lt;/a&gt;, the &lt;a href=&#34;http://wordbit.com/posts/1271/&#34;&gt;LG G4&lt;/a&gt;, or the &lt;a href=&#34;http://wordbit.com/posts/2015-flagship-4-iphone-6s/&#34;&gt;iPhone 6s&lt;/a&gt;. In actuality, a more stark dichotomy lay between Android and Apple, so the choice really came down to two very different approaches.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve been living with both Android and iOS, so appreciate the merits of both operating systems. For me, hardware was a bigger consideration, as well as ongoing software support. I also didn&amp;rsquo;t want a gigantic slab of a phone that seems to be the norm these days. So, in the end, I decided to go with the iPhone.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ll be honest - another factor in my decision was the company brand, and everything that brand stands for. For this reason, I didn&amp;rsquo;t even consider Huawei&amp;rsquo;s Nexus 6P, even though it seems very well made. People quickly forget, but Huawei has been suspected of &lt;a href=&#34;http://gizmodo.com/5949821/chinas-biggest-telecomms-are-officially-national-security-risks-updated&#34;&gt;spying for the Chinese government&lt;/a&gt;, even though they, of course, deny it. On the other hand, Apple is well known for its stance on privacy and security, perhaps even more so under Tim Cook&amp;rsquo;s reign. After all, Tim is an intensely private person, to the point where protecting people&amp;rsquo;s data is almost a crusade for him.&lt;/p&gt;
-
-&lt;p&gt;Google has never had qualms about mining people&amp;rsquo;s data to sell advertising, but I&amp;rsquo;ve never had a huge problem with this. Probably because I&amp;rsquo;ve come to believe Google&amp;rsquo;s &amp;ldquo;don&amp;rsquo;t be evil&amp;rdquo; mantra after using their services for such a long time.&lt;/p&gt;
-
-&lt;p&gt;In fact, most of Google&amp;rsquo;s apps work beautifully on the iPhone - it seems pretty obvious that they don&amp;rsquo;t care whether you buy an Android phone or iPhone, as long as you use their services.&lt;/p&gt;
-
-&lt;p&gt;Apple&amp;rsquo;s beautiful hardware is one of the main reasons that people are willing to kill a whole pay cheque on an iPhone. The 6s is indeed a thing of beauty and is often imitated, sometimes to &lt;a href=&#34;http://www.theverge.com/2015/10/27/9620318/htc-one-a9-review-android-iphone&#34;&gt;a ridiculous degree&lt;/a&gt;. Looking back, I had &lt;a href=&#34;http://wordbit.com/posts/one-month-till-iphone-gets-here/&#34;&gt;my eye on the original iPhone&lt;/a&gt; before it even debuted - but for some reason, I stuck with my flip phone for another five years before trying out an Android phone as my first smartphone.&lt;/p&gt;
-
-&lt;p&gt;So, it was with great excitement that I unboxed my first iPhone. I didn&amp;rsquo;t even turn it on until I&amp;rsquo;d put a screen protector on it and inserted a new SIM.&lt;/p&gt;
-
-&lt;p&gt;Then, my heart broke a little.&lt;/p&gt;
-
-&lt;p&gt;I spotted a dead pixel in the lower-right corner of the screen. As you may know, once you see a dead pixel, you just can&amp;rsquo;t un-see it. Especially when you just paid $1200 for a phone.&lt;/p&gt;
-
-&lt;p&gt;I took it into the Apple store the next day and they were willing to exchange it for a refurbished &amp;ldquo;service phone&amp;rdquo;, not a new out-of-the-box phone. Note-to-self: If I ever buy another Apple product, just get it at the store - not online. Apple stores can&amp;rsquo;t exchange online purchases. My choices were to either return it for a service phone, or mail the phone back to Apple and wait a couple of weeks for a new replacement.&lt;/p&gt;
-
-&lt;p&gt;However, after some deliberation - involving a bizarre rambling monologue from a disgruntled Genius - a third option presented itself: to replace the entire LCD screen. So that&amp;rsquo;s what I did - they could replace it at the store and it only took about an hour.&lt;/p&gt;
-
-&lt;p&gt;After using my new phone for a week, I&amp;rsquo;ve been pleasantly surprised at how well the iPhone syncs up my other Apple products - namely my iMac, iPad, and Apple TV. I&amp;rsquo;d never really considered this, but, until now, the iPhone was the only missing link in my personal Apple ecosystem (my second-gen iPod has long since ceased to be a contributing member of &amp;ldquo;the family&amp;rdquo;).&lt;/p&gt;
-
-&lt;p&gt;I could go on about how crispy the screen is or how insanely fast this thing is, but others have done so &lt;a href=&#34;http://www.anandtech.com/show/9686/the-apple-iphone-6s-and-iphone-6s-plus-review&#34;&gt;in far more detail&lt;/a&gt;. But, yeah, this thing screams.&lt;/p&gt;
-
-&lt;p&gt;But, there have also been some unexpected, quite inexplicable niggles. The Alert volume, for example, is separate from the Ringtone volume, but can&amp;rsquo;t be changed in the settings menu. I think you can change the Alert volume by playing some music and adjusting its volume, but I&amp;rsquo;m not sure - either way, not very user friendly.&lt;/p&gt;
-
-&lt;p&gt;Also, I&amp;rsquo;m baffled as to how I can back up my videos in their original resolution. Photostream uploads photos to the cloud, but not videos. And trying to use Dropbox to back up photos and videos doesn&amp;rsquo;t work either because Apple doesn&amp;rsquo;t allow Dropbox to run indefinitely in the background. Google photos does a good job, but downscales 4K videos to 1080p.&lt;/p&gt;
-
-&lt;p&gt;Fortunately, these are minor concerns that could someday be fixed in software. At the end of the day, a phone is just a tool. I know I&amp;rsquo;ve made a big deal in this blog about my upgrade. And I expected to go be glued to my new phone the moment I got it - installing tons of apps and so on. But I haven&amp;rsquo;t.&lt;/p&gt;
-
-&lt;p&gt;Instead, the iPhone has sort of faded away into the background. It doesn&amp;rsquo;t have a distractingly large screen. There are no widgets to fiddle with. But when called on to perform a task - it is on point; the iPhone does it well and it does it fast. Like a well-oiled weapon that never misfires - the iPhone can be counted on when you need it most.&lt;/p&gt;</description>
     </item>
     
   </channel>
