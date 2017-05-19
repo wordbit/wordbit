@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wordbit</title>
-    <link>http://wordbit.com/categories/writing/index.xml</link>
-    <description>Recent content on wordbit</description>
+    <title>Writing on wordbit</title>
+    <link>http://wordbit.com/categories/writing/</link>
+    <description>Recent content in Writing on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://wordbit.com/categories/writing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Nov 2011 23:13:52 +0000</lastBuildDate>
+    
+	<atom:link href="http://wordbit.com/categories/writing/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>No rest for the dead…battery</title>
@@ -13,12 +16,8 @@
       <pubDate>Tue, 29 Nov 2011 23:13:52 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/no-rest-for-the-deadbattery/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; src=&#34;http://wordbit.com/images/Battery11.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;My &lt;a href=&#34;http://www.alive.com/lifestyle/no-rest-for-the-dead-battery/&#34;&gt;recent article&lt;/a&gt; on Battery Recycling is now available in the November issue of &lt;em&gt;alive&lt;/em&gt;. I wasn’t aware of this before researching this topic, but you can recycle both single-use and rechargeable batteries in British Columbia.&lt;/p&gt;
-
-&lt;p&gt;Personally, I’m a big fan of &lt;a href=&#34;http://www.eneloop.info/&#34;&gt;eneloop batteries&lt;/a&gt;. I believe the batteries Apple uses in their wireless mouse and keyboard are re-branded eneloops.&lt;/p&gt;
-</description>
+      <description>My recent article on Battery Recycling is now available in the November issue of alive. I wasn’t aware of this before researching this topic, but you can recycle both single-use and rechargeable batteries in British Columbia.
+Personally, I’m a big fan of eneloop batteries. I believe the batteries Apple uses in their wireless mouse and keyboard are re-branded eneloops.</description>
     </item>
     
     <item>
@@ -27,10 +26,7 @@
       <pubDate>Thu, 14 Apr 2011 00:31:35 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/new-published-articles/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.alive.com/lifestyle/cell-tower-invasion/&#34;&gt;&lt;img src=&#34;http://wordbit.com/images/cellinvasion1.jpg&#34; alt=&#34;cellinvasion1&#34; /&gt;&lt;/a&gt;  &lt;a href=&#34;http://www.alive.com/lifestyle/going-all-the-way/&#34;&gt;&lt;img src=&#34;http://wordbit.com/images/baldness1.jpg&#34; alt=&#34;baldness1&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Here are some new articles of mine that were published in &lt;em&gt;alive&lt;/em&gt; magazine. Click on the thumbnails to view them. The first is on whether cell phone towers are safe or not. There is much heated debate surrounding this issue and I got a lot of hate mail for even suggesting we don’t know all there is to know about the technology. The hard truth is that we just don’t have the data spanning a human lifetime to say one way or the other, so lay off haters! My second article is less controversial – should you shave your head when going bald (yes). This was a fun article to write and I got to interview P. Diddy’s barber in Hollywood. Really nice guy. The art guy is an avid surfer so the appearance of Kelly Slater as the bald hunk poster boy is no surprise.&lt;/p&gt;
-</description>
+      <description>Here are some new articles of mine that were published in alive magazine. Click on the thumbnails to view them. The first is on whether cell phone towers are safe or not. There is much heated debate surrounding this issue and I got a lot of hate mail for even suggesting we don’t know all there is to know about the technology. The hard truth is that we just don’t have the data spanning a human lifetime to say one way or the other, so lay off haters!</description>
     </item>
     
     <item>
@@ -39,10 +35,7 @@
       <pubDate>Sat, 20 Mar 2010 22:48:41 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/it-pays-to-be-paranoid/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/candf20100001.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;As 2010 hits in full force I&amp;rsquo;m thinking of ways to schedule in more quality blog time and keep wordbit alive. In the meantime, &lt;a href=&#34;http://www.alive.com/health/avoiding-cold-flu-germs/&#34;&gt;here is my latest article&lt;/a&gt; on how to avoid cold and flu germs. I don&amp;rsquo;t know about you but I&amp;rsquo;ve run the germ gambit from Swine to March Madness varieties and I&amp;rsquo;ve had enough. So it&amp;rsquo;s apt then that my article recommends borderline conspiracy theory-fueled paranoid behaviour to avoid catching a sniffle.&lt;/p&gt;
-</description>
+      <description>As 2010 hits in full force I&amp;rsquo;m thinking of ways to schedule in more quality blog time and keep wordbit alive. In the meantime, here is my latest article on how to avoid cold and flu germs. I don&amp;rsquo;t know about you but I&amp;rsquo;ve run the germ gambit from Swine to March Madness varieties and I&amp;rsquo;ve had enough. So it&amp;rsquo;s apt then that my article recommends borderline conspiracy theory-fueled paranoid behaviour to avoid catching a sniffle.</description>
     </item>
     
     <item>
@@ -51,12 +44,8 @@
       <pubDate>Fri, 19 Dec 2008 04:47:57 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/cheap-winter-thrills/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/winterrthrills198web.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;So, you&amp;rsquo;ve done all your Christmas shopping, and maybe scored a few deals by reading my last blog post. Now you want to have some fun in the snow but the rocky economic climate is scaring you off the slopes. Continuing on the theme of thrifty spending, check out &lt;a href=&#34;http://www.alive.com/lifestyle/cheap-winter-thrills/&#34;&gt;my latest article&lt;/a&gt; on finding deals on winter sports equipment (while being eco-savvy at the same time).&lt;/p&gt;
-
-&lt;p&gt;I enjoyed writing this article because, well, I&amp;rsquo;m a SME when it comes to being cheap. Let&amp;rsquo;s just say that being a student has taught me how to stretch every dollar. And my hefty student loans will ensure the continuation of my pauper-like existence for some time to come!&lt;/p&gt;
-</description>
+      <description>So, you&amp;rsquo;ve done all your Christmas shopping, and maybe scored a few deals by reading my last blog post. Now you want to have some fun in the snow but the rocky economic climate is scaring you off the slopes. Continuing on the theme of thrifty spending, check out my latest article on finding deals on winter sports equipment (while being eco-savvy at the same time).
+I enjoyed writing this article because, well, I&amp;rsquo;m a SME when it comes to being cheap.</description>
     </item>
     
     <item>
@@ -65,12 +54,8 @@
       <pubDate>Fri, 07 Nov 2008 05:11:35 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/surfs-up-and-so-is-your-heart-rate/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/surfing194.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;That&amp;rsquo;s probably the cheesiest line I&amp;rsquo;ve ever written. But for some reason, the editors over at &lt;em&gt;alive&lt;/em&gt; actually seem to revel in cheese (One example is the title I&amp;rsquo;ll eternally shake my head at: &lt;em&gt;G&amp;hellip;I can&amp;rsquo;t believe it&amp;rsquo;s a Glycemic index&lt;/em&gt;). God bless &amp;lsquo;em though - they&amp;rsquo;re a wonderful bunch.&lt;/p&gt;
-
-&lt;p&gt;Anyway, here&amp;rsquo;s an article I really enjoyed writing because, well, I love surfing! And so does Scott over in the art department. He took some glorious pictures in Tofino and quite simply graced my article with them. &lt;a href=&#34;http://www.alive.com/lifestyle/goodbye-treadmill-hello-waves/&#34;&gt;Click here&lt;/a&gt; to hit the beach dude.&lt;/p&gt;
-</description>
+      <description>That&amp;rsquo;s probably the cheesiest line I&amp;rsquo;ve ever written. But for some reason, the editors over at alive actually seem to revel in cheese (One example is the title I&amp;rsquo;ll eternally shake my head at: G&amp;hellip;I can&amp;rsquo;t believe it&amp;rsquo;s a Glycemic index). God bless &amp;lsquo;em though - they&amp;rsquo;re a wonderful bunch.
+Anyway, here&amp;rsquo;s an article I really enjoyed writing because, well, I love surfing! And so does Scott over in the art department.</description>
     </item>
     
     <item>
@@ -79,12 +64,9 @@
       <pubDate>Fri, 07 Nov 2008 04:56:29 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/have-a-laugh-have-a-cry/</guid>
-      <description>&lt;p&gt;Here are some recent article shorts. As usual, you can click on the thumbnails to read them. The one on the left is a feel-good piece on laughter yoga. The right piece touches on the depressing psychological and cultural effects of global warming. There&amp;rsquo;s also a teeny one in there on the dodgy air we have to breathe in airplanes (even Purell won&amp;rsquo;t save you this time).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://wordbit.freehostia.com/scans/laughteryoga.html&#34;&gt;&lt;img src=&#34;http://wordbit.com/images/yoga192.jpg&#34; alt=&#34;yoga192&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;http://wordbit.freehostia.com/scans/greenlivingnov08.html&#34;&gt;&lt;img src=&#34;http://wordbit.com/images/green%20living193.jpg&#34; alt=&#34;green living193&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Seeing these two articles juxtaposed like this evokes a stark contrast between Western frivolity and Aboriginal reality. Note how they&amp;rsquo;re both sitting in the same cross-legged position too. I almost wish the art department had actually planned it that way.&lt;/p&gt;
-</description>
+      <description>Here are some recent article shorts. As usual, you can click on the thumbnails to read them. The one on the left is a feel-good piece on laughter yoga. The right piece touches on the depressing psychological and cultural effects of global warming. There&amp;rsquo;s also a teeny one in there on the dodgy air we have to breathe in airplanes (even Purell won&amp;rsquo;t save you this time).
+ 
+Seeing these two articles juxtaposed like this evokes a stark contrast between Western frivolity and Aboriginal reality.</description>
     </item>
     
     <item>
@@ -93,12 +75,8 @@
       <pubDate>Sun, 26 Oct 2008 01:25:31 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/want-to-write-for-wired/</guid>
-      <description>&lt;p&gt;Wired magazine has some interesting pieces this month. Well, every month is pretty good, but writers might appreciate &lt;a href=&#34;http://blog.wired.com/storyboard/&#34;&gt;this behind-the-scenes look&lt;/a&gt; at how an article is assigned, written, edited, and designed. You can read the email correspondence between author and editor, and get an idea of how to pitch your story idea to a magazine. Great stuff.&lt;/p&gt;
-
-&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/ff_manuals7_f.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Also, technical writers might get a kick out of this &lt;a href=&#34;http://www.wired.com/culture/design/multimedia/2008/10/ff_manuals&#34;&gt;photo essay of classic instruction manuals&lt;/a&gt;. What I found interesting was what Dan Winters, the photographer who compiled these, had to say: &amp;ldquo;I actually think that modern manuals are unreadable,&amp;rdquo; Winters says. &amp;ldquo;Visually speaking, they probably peaked in the &amp;lsquo;30s.&amp;rdquo; What rot. Seriously - is this guy part of the MTV generation or something? End-user documentation has never been cleaner and easier to understand. In fact, most help is migrating to interactive web-based apps that even a child would coo at. I understand he&amp;rsquo;s speaking as a visually-biased photographer - not a writer, but the overly intricate diagrams in his photo essay (as cool as they are in a retro sort of way) hardly represent the peak of information architecture.&lt;/p&gt;
-</description>
+      <description>Wired magazine has some interesting pieces this month. Well, every month is pretty good, but writers might appreciate this behind-the-scenes look at how an article is assigned, written, edited, and designed. You can read the email correspondence between author and editor, and get an idea of how to pitch your story idea to a magazine. Great stuff.
+Also, technical writers might get a kick out of this photo essay of classic instruction manuals.</description>
     </item>
     
     <item>
@@ -107,17 +85,7 @@
       <pubDate>Wed, 03 Sep 2008 04:10:38 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/recycling-global-warming-and-toxic-toys/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://wordbit.freehostia.com/scans/GreenlivingJuly2008.html&#34;&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/July2008short.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I haven&amp;rsquo;t blogged in a while, and as Uncle Argyle says &amp;ldquo;Well that&amp;rsquo;s something we shall have to remedy, isn&amp;rsquo;t it&amp;rdquo; (That quote is from &lt;em&gt;Braveheart&lt;/em&gt;, just in case you haven&amp;rsquo;t seen one of the greatest movies ever made). Unfortunately I&amp;rsquo;m keeping it short today - here are two of my articles from &lt;em&gt;alive&lt;/em&gt; magazine&amp;rsquo;s July and August issues respectively. Click on the thumbnails to view them.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://wordbit.freehostia.com/scans/Recycling.html&#34;&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/bluebox1-2.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The first article is a couple of shorts on the nine most vulnerable areas on planet Earth and toxic toys. The second is an article on why recycling religiously doesn&amp;rsquo;t necessarily make you a saint.&lt;/p&gt;
-</description>
+      <description>I haven&amp;rsquo;t blogged in a while, and as Uncle Argyle says &amp;ldquo;Well that&amp;rsquo;s something we shall have to remedy, isn&amp;rsquo;t it&amp;rdquo; (That quote is from Braveheart, just in case you haven&amp;rsquo;t seen one of the greatest movies ever made). Unfortunately I&amp;rsquo;m keeping it short today - here are two of my articles from alive magazine&amp;rsquo;s July and August issues respectively. Click on the thumbnails to view them.</description>
     </item>
     
     <item>
@@ -126,47 +94,7 @@
       <pubDate>Tue, 29 Jul 2008 04:30:03 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/professional-writers-online/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/exploring.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s been about four months since my classmates and I graduated from the Print Futures Professional Writing Program. If you&amp;rsquo;re serious about your craft and are thinking of attending this two-year diploma program, I heartily encourage you to go for it. I love to write and I love getting paid to do it even more. But don&amp;rsquo;t kid yourself - writing well works up a mental sweat for every writer, whether oozing with talent or not.&lt;/p&gt;
-
-&lt;p&gt;I thought I&amp;rsquo;d acknowledge some of my graduated colleagues who have websites online. The reason most of the sites on the list below are not on my blogroll is because they&amp;rsquo;re static pages. In other words, they&amp;rsquo;re not regularly updated - which is a little unfortunate in my opinion because I love to read what people are up to in the minutiae of their lives and enjoy reading the blogs of people I know. I almost never check in with static pages. Facebook&amp;rsquo;s great, but is more like a sophisticated telegraphing machine than a home you can personalize and make your own.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;If you&amp;rsquo;re a Print Futures Grad and have a blog or regularly updated site that&amp;rsquo;s not on this list, please let me know - I&amp;rsquo;d love to add you.&lt;/p&gt;
-
-&lt;p&gt;In no particular order:&lt;/p&gt;
-
-&lt;p&gt;Josie Padro: &lt;a href=&#34;http://theprobe.wordpress.com/&#34;&gt;The Probe&lt;/a&gt; is Josie&amp;rsquo;s blog.&lt;br /&gt;
-Current position: Freelance writer (&lt;em&gt;alive&lt;/em&gt;, Vancouverplus).&lt;/p&gt;
-
-&lt;p&gt;Shawn Klemmer: You can find Shawn at &lt;a href=&#34;http://www.wildgrass.ca/&#34;&gt;Wildgrass Communications&lt;/a&gt;.&lt;br /&gt;
-Current position: Public Relations Officer at the Xa:ytem Longhouse Interpretive Centre.&lt;/p&gt;
-
-&lt;p&gt;Pamela Findling: Pamela&amp;rsquo;s &lt;a href=&#34;http://www.pamelafindling.com/&#34;&gt;portfolio website&lt;/a&gt;.&lt;br /&gt;
-Current position: Communications Coordinator at Science World (Telus World of Science).&lt;/p&gt;
-
-&lt;p&gt;James Lee: James&amp;rsquo; &lt;a href=&#34;http://www3.telus.net/jl/&#34;&gt;portfolio website&lt;/a&gt;.&lt;br /&gt;
-Current position: Procedures Analyst at Central 1 Credit Union.&lt;/p&gt;
-
-&lt;p&gt;Laura Kelsey: personal &lt;a href=&#34;http://www.laurakelsey.com/&#34;&gt;portfolio website&lt;/a&gt;.&lt;br /&gt;
-Current position: Editor of 100 Mile House Free Press.&lt;/p&gt;
-
-&lt;p&gt;Nicole Skutelnik: personal &lt;a href=&#34;http://www.nicoleskutelnik.com/&#34;&gt;portfolio website&lt;/a&gt;.&lt;br /&gt;
-Current position: Novelist (children&amp;rsquo;s lit).&lt;/p&gt;
-
-&lt;p&gt;Nissa Wells: personal &lt;a href=&#34;http://www.nissawells.com/&#34;&gt;portfolio website&lt;/a&gt;.&lt;br /&gt;
-Current position: Online editor for Tactics Magazine.&lt;/p&gt;
-
-&lt;p&gt;Denis Orellana: You can find Denis at &lt;a href=&#34;http://www.dmowriting.com/&#34;&gt;DMO Writing&lt;/a&gt;.&lt;br /&gt;
-Current position: Editor of E.GO Magazine.&lt;/p&gt;
-
-&lt;p&gt;Kai Jansson: Personal &lt;a href=&#34;http://www.kaijansson.com/&#34;&gt;site and blog&lt;/a&gt;.&lt;br /&gt;
-Current position: Copy editor at Stockwatch.&lt;/p&gt;
-
-&lt;p&gt;These aren&amp;rsquo;t all the people I graduated with, but the others don&amp;rsquo;t have an online presence. Shockingly, there are people in this world who don&amp;rsquo;t spend all their time on the net!&lt;/p&gt;
-</description>
+      <description>It&amp;rsquo;s been about four months since my classmates and I graduated from the Print Futures Professional Writing Program. If you&amp;rsquo;re serious about your craft and are thinking of attending this two-year diploma program, I heartily encourage you to go for it. I love to write and I love getting paid to do it even more. But don&amp;rsquo;t kid yourself - writing well works up a mental sweat for every writer, whether oozing with talent or not.</description>
     </item>
     
     <item>
@@ -175,20 +103,9 @@ Current position: Copy editor at Stockwatch.&lt;/p&gt;
       <pubDate>Thu, 05 Jun 2008 02:33:02 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/the-writers-bane-iswriting/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/bird.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve just finished reading Anne Lamott&amp;rsquo;s &lt;em&gt;Bird by Bird&lt;/em&gt;, a wonderfully humourous book full of advice on how to write and how to overcome those challenges all writers face. Here&amp;rsquo;s an excerpt I particularly like:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;But how?&amp;rdquo; my students ask. &amp;ldquo;How do you actually do it?&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;You sit down, I say. You try to sit down at approximately the same time every day. This is how you train your unconscious to kick in for you creatively. So you sit down at, say, nine every morning, or ten every night. You put a piece of paper in the typewriter, or you turn on your computer and bring up the right file, and then you stare at it for an hour or so. You begin rocking, just a little at first, and then like a huge autistic child. You look at the ceiling, and over at the clock, yawn, and stare at the paper again.&lt;/p&gt;
-
-&lt;p&gt;Then, with your fingers poised on the keyboard, you squint at an image that is forming in your mind - a scene, a locale, a character, whatever - and you try to quiet your mind so you can hear what that landscape has to say above the other voices in your mind. The other voices are banshees and drunken monkeys. They are the voices of anxiety, judgment, doom, guilt. Also, severe hypochondria. There may be a Nurse Ratched-like listing of things that must be done right this moment: foods that must come out of the freezer, appointments that must be canceled or made, hairs that must be tweezed. But you hold an imaginary gun to your head and make yourself stay at the desk. There is a vague pain at the base of your neck. It crosses your mind that you have meningitis. Then the phone rings and you look up at the ceiling with fury, summon every ounce of noblesse oblige, and answer the call politely, with maybe just the merest hint of irritation. The caller asks if you&amp;rsquo;re working, and you say yeah, because you are.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Sound familiar? The hardest part about writing is definitely the writing part. Anyway, just wanted to share that with you.&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;ve just finished reading Anne Lamott&amp;rsquo;s Bird by Bird, a wonderfully humourous book full of advice on how to write and how to overcome those challenges all writers face. Here&amp;rsquo;s an excerpt I particularly like:
+ &amp;ldquo;But how?&amp;rdquo; my students ask. &amp;ldquo;How do you actually do it?&amp;rdquo;
+You sit down, I say. You try to sit down at approximately the same time every day. This is how you train your unconscious to kick in for you creatively.</description>
     </item>
     
     <item>
@@ -197,16 +114,8 @@ Current position: Copy editor at Stockwatch.&lt;/p&gt;
       <pubDate>Mon, 05 May 2008 18:35:27 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/ultimate-relaxation-techniques/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;right&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/eli.png&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;The May edition of &lt;em&gt;alive&lt;/em&gt; magazine is out, and I have two articles published in it this month. A few months ago I interviewed stress guru &lt;a href=&#34;http://www.elibay.com&#34;&gt;Eli Bay&lt;/a&gt; about his relaxation techniques. Take a deep breath, relax for a few minutes and &lt;a href=&#34;http://wordbit.freehostia.com/scans/EBayInterview.html&#34;&gt;read his insights&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/mosquito.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I also wrote a short piece on &lt;a href=&#34;http://wordbit.freehostia.com/scans/Mosquito%20article.html&#34;&gt;the rise of the mosquito population&lt;/a&gt; in our new era of rising temperatures. Mosquitoes love warm, moist climates, and they&amp;rsquo;re getting a lot of that these days.&lt;/p&gt;
-
-&lt;p&gt;For most of the rest of this week, I expect to be blogging exclusively on DocTrain West, which I&amp;rsquo;m attending this week.&lt;/p&gt;
-</description>
+      <description>The May edition of alive magazine is out, and I have two articles published in it this month. A few months ago I interviewed stress guru Eli Bay about his relaxation techniques. Take a deep breath, relax for a few minutes and read his insights.
+I also wrote a short piece on the rise of the mosquito population in our new era of rising temperatures. Mosquitoes love warm, moist climates, and they&amp;rsquo;re getting a lot of that these days.</description>
     </item>
     
     <item>
@@ -215,22 +124,8 @@ Current position: Copy editor at Stockwatch.&lt;/p&gt;
       <pubDate>Fri, 25 Apr 2008 17:10:00 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/is-brijit-liberating-or-enslaving/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/briji.gif&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;For those of you who aren&amp;rsquo;t familiar with it, &lt;a href=&#34;http://www.brijit.com/&#34;&gt;Brijit&lt;/a&gt; is a website that publishes 100-word summaries of various web, TV, radio, and print media. The idea is that there is so much information out there - wouldn&amp;rsquo;t it be nice if we had the short-short version so we can get the gist of it and decide if it&amp;rsquo;s worth reading or watching the whole thing.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s a neat idea, but with so much content out there, it would be impossible for an editorial team to cover it all. Brijit came up with the genius idea of asking anybody to submit these 100-word summaries in exchange for $5.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;Now, let&amp;rsquo;s get this straight. Five buck for a hundred words works out to a paltry five cents a word. Top freelance rates in Canada hover at around a buck a word, and even that is pathetic. Most writers settle for around 50 cents a word, which is still ten times as much as Brijit is offering. I would assume that no serious writer would even consider working for pea&amp;hellip;oh wait, I think even peanuts are worth more than that.&lt;/p&gt;
-
-&lt;p&gt;The sad thing is that the writing on Brijit is actually &lt;em&gt;quite good&lt;/em&gt;. Are there people desperate enough to spend an hour or two reading an article and then capturing the essence of it in a 100 words? It may sound simple, but it takes far longer than you&amp;rsquo;d think to do it right.&lt;/p&gt;
-
-&lt;p&gt;Brijit ups the ante by submitting each requisition to competition - you actually have to compete with three other writers in the hopes that your piece gets chosen. So most times you just end up writing your beautifully crafted cribs note for free. Competition, however, is a great motivator for some people apparently.&lt;/p&gt;
-
-&lt;p&gt;Is Brijit turning freelance writing into a cheap mockery? Is it dragging down freelance rates by calling anybody a writer? Can you even stomach reading summaries that you know were written by word slaves?&lt;/p&gt;
-</description>
+      <description>For those of you who aren&amp;rsquo;t familiar with it, Brijit is a website that publishes 100-word summaries of various web, TV, radio, and print media. The idea is that there is so much information out there - wouldn&amp;rsquo;t it be nice if we had the short-short version so we can get the gist of it and decide if it&amp;rsquo;s worth reading or watching the whole thing.
+It&amp;rsquo;s a neat idea, but with so much content out there, it would be impossible for an editorial team to cover it all.</description>
     </item>
     
     <item>
@@ -239,12 +134,8 @@ Current position: Copy editor at Stockwatch.&lt;/p&gt;
       <pubDate>Tue, 08 Apr 2008 02:23:02 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/print-futures-2008-portfolio-show/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/Print%20Futures%20Portfolio%20Show%202008.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Come and support the grads of the Print Futures program at &lt;a href=&#34;http://www.douglas.bc.ca/programs/print-futures/special-events/portfolio-show.html&#34;&gt;our portfolio show&lt;/a&gt; this Thursday from 4:30pm to 7:30pm. You can drop in or stay for the whole event.&lt;/p&gt;
-
-&lt;p&gt;There&amp;rsquo;ll be free food, free music, and free conversation with some of the most talented writers this side of the Fraser River. The booze you&amp;rsquo;ll have to pay for.&lt;/p&gt;
-</description>
+      <description>Come and support the grads of the Print Futures program at our portfolio show this Thursday from 4:30pm to 7:30pm. You can drop in or stay for the whole event.
+There&amp;rsquo;ll be free food, free music, and free conversation with some of the most talented writers this side of the Fraser River. The booze you&amp;rsquo;ll have to pay for.</description>
     </item>
     
     <item>
@@ -253,14 +144,9 @@ Current position: Copy editor at Stockwatch.&lt;/p&gt;
       <pubDate>Tue, 25 Mar 2008 03:22:47 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/check-out-my-eportfolio/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/scshotweb.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve officially uploaded the latest version of my ePortolio - you can &lt;a href=&#34;http://www.wordbit.freehostia.com/eportfolio&#34;&gt;check it out here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This website uses some flash elements and some fancy css coding and is basically geared towards technical writing employers as a way to showcase my work. I may expand it in the future to include other samples too.&lt;/p&gt;
-
-&lt;p&gt;For those who are interested, I designed it in Dreamweaver, Illustrator, and Photoshop. I used FlashSpring Pro 2 to convert a Powerpoint to flash. It&amp;rsquo;s best viewed using the latest version of any browser with a resolution of 1024x768. It&amp;rsquo;s also a bit flashier than the portfolio on this blog, which includes everything, including the kitchen sink.&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;ve officially uploaded the latest version of my ePortolio - you can check it out here.
+This website uses some flash elements and some fancy css coding and is basically geared towards technical writing employers as a way to showcase my work. I may expand it in the future to include other samples too.
+For those who are interested, I designed it in Dreamweaver, Illustrator, and Photoshop. I used FlashSpring Pro 2 to convert a Powerpoint to flash.</description>
     </item>
     
     <item>
@@ -269,10 +155,85 @@ Current position: Copy editor at Stockwatch.&lt;/p&gt;
       <pubDate>Tue, 04 Mar 2008 03:31:37 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/pearls-book-launch/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/Pearls%2027.png&#34;&gt;&lt;/p&gt;
+      <description>On Friday I had the pleasure of attending the 27th Pearls book launch, the annual anthology of creative writing works by Douglas College students. My story, The Reluctant Teacher, was published in it this year. I&amp;rsquo;ve had some poetry published in Pearls before, but that was about 8 years ago, so it&amp;rsquo;s been a while. A few of the authors read by candlelight and I got to see a few familiar faces.</description>
+    </item>
+    
+    <item>
+      <title>What makes a great blog?</title>
+      <link>http://wordbit.com/posts/what-makes-a-great-blog/</link>
+      <pubDate>Thu, 10 Jan 2008 04:03:00 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/what-makes-a-great-blog/</guid>
+      <description>One of my favourite blogs has to be Derek Miller&amp;rsquo;s Penmachine. I really enjoy this blog because Derek writes well and he writes often. Derek usually writes about technology, gadgets, software, and other geektastic topics. After getting cancer a year ago, however, his posts have been a lot more personal. He has unceasingly blogged about his harrowing experiences and shared every tear and every joy with his readers, writing in a straightforward, honest style.</description>
+    </item>
+    
+    <item>
+      <title>My big audience</title>
+      <link>http://wordbit.com/posts/my-big-audience/</link>
+      <pubDate>Wed, 28 Nov 2007 08:27:42 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/my-big-audience/</guid>
+      <description>I was trying to figure out how many people are reading my writing/editing and the numbers are pretty huge. First of all, I&amp;rsquo;ve been writing for the print edition of alive at a readership of about 500,000. Then every Tuesday articles I&amp;rsquo;ve edited for Metro Canada comes out countrywide at a readership of 700,000. And the tips of the day I write for Living Naturally are published on at least 7000 websites in the US and Canada, according to this Google search.</description>
+    </item>
+    
+    <item>
+      <title>Four more cents</title>
+      <link>http://wordbit.com/posts/four-more-cents/</link>
+      <pubDate>Fri, 09 Nov 2007 20:32:13 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/four-more-cents/</guid>
+      <description>The Writer&amp;rsquo;s Guild of America are striking, but do you know why? Check out this three-minute video clip for an explanation. Or you could just watch more re-runs and hope that your favourite show will come back&amp;hellip;eventually.
 
-&lt;p&gt;On Friday I had the pleasure of attending the 27th Pearls book launch, the annual anthology of creative writing works by Douglas College students. My story, &lt;a href=&#34;http://wordbit.com/images/the-reluctant-teacher.pdf&#34;&gt;The Reluctant Teacher&lt;/a&gt;, was published in it this year. I&amp;rsquo;ve had some poetry published in Pearls before, but that was about 8 years ago, so it&amp;rsquo;s been a while. A few of the authors read by candlelight and I got to see a few familiar faces. Good times.&lt;/p&gt;
-</description>
+Electronic rights for authors seems a fair deal, but lets be honest - These guys are making a lot more money than writers outside of the film industry. I wonder if editors have ever gone on strike?</description>
+    </item>
+    
+    <item>
+      <title>Free software</title>
+      <link>http://wordbit.com/posts/free-software/</link>
+      <pubDate>Thu, 26 Apr 2007 05:36:27 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/free-software/</guid>
+      <description>I&amp;rsquo;m mostly writing this entry to make sure my website doesn&amp;rsquo;t die a horrible gurgling death as it flushes away down the internet drain of obscurity. I&amp;rsquo;ve been busy writing and editing full-time at alive, and loving it! I especially enjoy interacting with readers of the magazine and answering their questions and concerns in that nice, friendly manner that sometimes straddles the line between professionalism and condescension. I&amp;rsquo;d love to write about it in more detail here, but there are confidentiality issues involved, suffice to say, I do get a lot of &amp;lsquo;interesting&amp;rsquo; letters from those that perhaps do not have full reign over their mental faculties.</description>
+    </item>
+    
+    <item>
+      <title>Do you love your job?</title>
+      <link>http://wordbit.com/posts/do-you-love-your-job/</link>
+      <pubDate>Wed, 04 Apr 2007 23:07:43 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/do-you-love-your-job/</guid>
+      <description>What kind of perks do you get at work? Is it better to have a meaty salary and work like a dog - or have fun all day and get paid less? This dilemma is exemplified in a comparison of arch enemies Microsoft and Google. Microsoft pays really well but I&amp;rsquo;ve heard from people who work there that it&amp;rsquo;s a fast-track to slavery and that you can kiss your nights and weekends goodbye.</description>
+    </item>
+    
+    <item>
+      <title>Writer&#39;s challenge #1</title>
+      <link>http://wordbit.com/posts/writers-challenge-1/</link>
+      <pubDate>Sat, 17 Mar 2007 07:27:00 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/writers-challenge-1/</guid>
+      <description>As promised in my last post, here is a little segment I&amp;rsquo;m going to call&amp;hellip;(insert drum-roll here)&amp;hellip;THE WRITER&amp;rsquo;S CHALLENGE! Will you muster your courage and face the cunning challenge I&amp;rsquo;ve set before you?
+Here it is:
+I am holding an object in my hand. Guess what the object is by reading it&amp;rsquo;s patent description.
+Let me warn you, this is some of the most convoluted, ridiculously bloated writing I have ever seen being used to describe something that is deceptively simple.</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s your English - fight for it!</title>
+      <link>http://wordbit.com/posts/its-your-english-fight-for-it/</link>
+      <pubDate>Sun, 11 Mar 2007 08:41:49 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/its-your-english-fight-for-it/</guid>
+      <description>There is nothing more sickening than a piece of writing bloated and weighed down by heavy jargon and confusing language. Call it what you will - jargoneze, legalize, bureaucrateze, or just plain gobbledygook. If you&amp;rsquo;re spreading this kind of rot, you&amp;rsquo;re a language killer and should be tried and condemned by your peers as such. In his essay, _Politics and the English Language_, the great George Orwell calls us to vigilance:</description>
+    </item>
+    
+    <item>
+      <title>What does your business card say about you?</title>
+      <link>http://wordbit.com/posts/what-does-your-business-card-say-about-you/</link>
+      <pubDate>Wed, 21 Feb 2007 05:48:01 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/what-does-your-business-card-say-about-you/</guid>
+      <description>Business cards are so ubiquitous these days, but not many people consider how much of an impression their card really makes. Well, with the exception of some Asian cultures (In Asia the exchange of business cards is ritualistic - The reciever takes the card respectfully with two hands and studies it carefully before placing it carefully into a pocket for safekeeping).
+Your business card is a little piece of you that somebody carries around in their wallet.</description>
     </item>
     
   </channel>

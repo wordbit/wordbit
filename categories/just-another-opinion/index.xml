@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wordbit</title>
-    <link>http://wordbit.com/categories/just-another-opinion/index.xml</link>
-    <description>Recent content on wordbit</description>
+    <title>Just Another Opinion on wordbit</title>
+    <link>http://wordbit.com/categories/just-another-opinion/</link>
+    <description>Recent content in Just Another Opinion on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://wordbit.com/categories/just-another-opinion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Nov 2012 23:37:41 +0000</lastBuildDate>
+    
+	<atom:link href="http://wordbit.com/categories/just-another-opinion/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>I don&#39;t even have an opinion</title>
@@ -13,8 +16,7 @@
       <pubDate>Fri, 09 Nov 2012 23:37:41 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/i-dont-even-have-an-opinion/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=LBBni_-tMNs&#34;&gt;&lt;img src=&#34;https://i.ytimg.com/vi/LBBni_-tMNs/mqdefault.jpg&#34; alt=&#34;I don&#39;t even have an opinion&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -23,12 +25,7 @@
       <pubDate>Sat, 04 Dec 2010 01:26:03 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/a-spoiler-free-harry-potter-movie/</guid>
-      <description>&lt;p&gt;Seems like an oxymoron, doesn&amp;rsquo;t it. Hasn&amp;rsquo;t everybody read Harry Potter? Does anybody who goes to a Harry Potter not know what&amp;rsquo;s going to happen the minute Potter raises his wand? Sadly, yes. For every thousand kids that read the book, there are probably tens of thousands more that find the Potter movies as fresh and entertaining as the Lord of the Rings, precisely because they never even read the books. And now that they&amp;rsquo;ve watched the films, why bother with the books?&lt;/p&gt;
-
-&lt;p&gt;In fact, the Harry Potter movies follow the books so religiously that there&amp;rsquo;s no real reason to watch the movie if you&amp;rsquo;ve read the books.&lt;/p&gt;
-
-&lt;p&gt;Do kids even read any more? And with the advent of e-book readers with their myriad of multimedia distractions, is the book going to die a shuddering death spurred on by the shouts of tree-huggers who shed a tear for every tree felled to make paper?&lt;/p&gt;
-</description>
+      <description>Seems like an oxymoron, doesn&amp;rsquo;t it. Hasn&amp;rsquo;t everybody read Harry Potter? Does anybody who goes to a Harry Potter not know what&amp;rsquo;s going to happen the minute Potter raises his wand? Sadly, yes. For every thousand kids that read the book, there are probably tens of thousands more that find the Potter movies as fresh and entertaining as the Lord of the Rings, precisely because they never even read the books.</description>
     </item>
     
     <item>
@@ -37,8 +34,7 @@
       <pubDate>Sat, 06 Nov 2010 00:07:51 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/hello-world/</guid>
-      <description>&lt;p&gt;This is a personal blog. Having read that sentence, you might be inclined to click away in disgust. I won&amp;rsquo;t blame you. In fact, I hope that is exactly what you do. I&amp;rsquo;m not really writing this stuff for your enjoyment - it&amp;rsquo;s more for mine. But, if you stick around, I won&amp;rsquo;t tell you to fuck off. I mean, it&amp;rsquo;s not like I&amp;rsquo;m some sort of misanthrope or something. I just want you to know that this could be mind-numbingly boring for you. It could be trivial and a waste of your precious time. It could be all you read is about what I ate for breakfast or how crap the traffic is, or an inane exploration of some minutia that wouldn&amp;rsquo;t even tickle your grandma&amp;rsquo;s fancy. As long as I know that and you know that, then we&amp;rsquo;re cool.&lt;/p&gt;
-</description>
+      <description>This is a personal blog. Having read that sentence, you might be inclined to click away in disgust. I won&amp;rsquo;t blame you. In fact, I hope that is exactly what you do. I&amp;rsquo;m not really writing this stuff for your enjoyment - it&amp;rsquo;s more for mine. But, if you stick around, I won&amp;rsquo;t tell you to fuck off. I mean, it&amp;rsquo;s not like I&amp;rsquo;m some sort of misanthrope or something. I just want you to know that this could be mind-numbingly boring for you.</description>
     </item>
     
   </channel>

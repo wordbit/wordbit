@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wordbit</title>
-    <link>http://wordbit.com/categories/documentation/index.xml</link>
-    <description>Recent content on wordbit</description>
+    <title>Documentation on wordbit</title>
+    <link>http://wordbit.com/categories/documentation/</link>
+    <description>Recent content in Documentation on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://wordbit.com/categories/documentation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 May 2010 02:21:11 +0000</lastBuildDate>
+    
+	<atom:link href="http://wordbit.com/categories/documentation/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Get to know your technical writer</title>
@@ -13,22 +16,8 @@
       <pubDate>Tue, 18 May 2010 02:21:11 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/get-to-know-your-technical-writer/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border-right:40px solid white&#34; src=&#34;http://wordbit.com/images/hugs.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;So you work at a big hi-tech company and you have questions. Lots of questions. But your manager is in yet another meeting and your deadline is looming. Who do you turn to? Why, your friendly, neighbourhood technical writer of course. Here’s why:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Your technical writer may have written a 500 page manual on how your product works but you sure don’t have time to read that beast. Why not ask the author directly? Your technical writer probably knows more about the product than anyone else.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Who is constantly interviewing marketing and upper management for the latest product definitions and behaviour? Not you.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;When Quality Assurance finds a bug they don’t cross-check your code, they check out the documentation. Guess who wrote the documentation.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Does your product spec give little insight into the user interface? Your technical writer thinks like a user. They do not think like you. Trust me on this.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Or maybe you have a really great idea for a product improvement but the thought of writing a proposal to the decision makers puts you off as much as writing an essay in English class did. Technical writers love writing essays. In fact, if they’re on-board with your idea you cannot find a better advocate.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>So you work at a big hi-tech company and you have questions. Lots of questions. But your manager is in yet another meeting and your deadline is looming. Who do you turn to? Why, your friendly, neighbourhood technical writer of course. Here’s why:
+ Your technical writer may have written a 500 page manual on how your product works but you sure don’t have time to read that beast. Why not ask the author directly?</description>
     </item>
     
     <item>
@@ -37,26 +26,7 @@
       <pubDate>Wed, 29 Oct 2008 05:54:32 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/eleven-ways-to-sell-technical-writing/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/cubicle.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I say eleven, because Ben Minson came up with &lt;a href=&#34;http://www.gryphonmountain.net/archives/techcomm/seven-reasons-your-company-needs-a-technical-communicator&#34;&gt;this excellent list&lt;/a&gt; of seven plus four more on his blog, Gryphon Mountain. His list gives reasons why a company should hire a technical writer. Check it out if you need to justify your existence or if nobody has fought through the cobwebs to your cubicle in a while and you suspect the engineering department has forgotten about you. Or maybe you need to explain what-it-is-you-do-exactly in a job interview. Here are his basic points:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;End users need documentation.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Technical communicators look at the product with a user perspective.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Technical communicators help with quality assurance.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Having quality documentation reflects positively on your organization.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Documentation provides a record.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Documentation saves on support costs.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Technical writers have a versatile skill set.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Technical communicators&amp;rsquo; information gathering gets the team to think critically.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Technical communicators are specifically trained.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Technical communicators lighten the load.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Technical communicators can provide training and support.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I agree with all these points. The only thing I&amp;rsquo;d add is that the audience for technical documentation can be far more diverse than just the end user. Engineers, marketing managers, stakeholders, product testers, and just about everybody involved needs the goodies. Documentation is important at all levels of the production cycle.&lt;/p&gt;
-</description>
+      <description>I say eleven, because Ben Minson came up with this excellent list of seven plus four more on his blog, Gryphon Mountain. His list gives reasons why a company should hire a technical writer. Check it out if you need to justify your existence or if nobody has fought through the cobwebs to your cubicle in a while and you suspect the engineering department has forgotten about you. Or maybe you need to explain what-it-is-you-do-exactly in a job interview.</description>
     </item>
     
     <item>
@@ -65,12 +35,8 @@
       <pubDate>Sun, 26 Oct 2008 01:25:31 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/want-to-write-for-wired/</guid>
-      <description>&lt;p&gt;Wired magazine has some interesting pieces this month. Well, every month is pretty good, but writers might appreciate &lt;a href=&#34;http://blog.wired.com/storyboard/&#34;&gt;this behind-the-scenes look&lt;/a&gt; at how an article is assigned, written, edited, and designed. You can read the email correspondence between author and editor, and get an idea of how to pitch your story idea to a magazine. Great stuff.&lt;/p&gt;
-
-&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/ff_manuals7_f.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Also, technical writers might get a kick out of this &lt;a href=&#34;http://www.wired.com/culture/design/multimedia/2008/10/ff_manuals&#34;&gt;photo essay of classic instruction manuals&lt;/a&gt;. What I found interesting was what Dan Winters, the photographer who compiled these, had to say: &amp;ldquo;I actually think that modern manuals are unreadable,&amp;rdquo; Winters says. &amp;ldquo;Visually speaking, they probably peaked in the &amp;lsquo;30s.&amp;rdquo; What rot. Seriously - is this guy part of the MTV generation or something? End-user documentation has never been cleaner and easier to understand. In fact, most help is migrating to interactive web-based apps that even a child would coo at. I understand he&amp;rsquo;s speaking as a visually-biased photographer - not a writer, but the overly intricate diagrams in his photo essay (as cool as they are in a retro sort of way) hardly represent the peak of information architecture.&lt;/p&gt;
-</description>
+      <description>Wired magazine has some interesting pieces this month. Well, every month is pretty good, but writers might appreciate this behind-the-scenes look at how an article is assigned, written, edited, and designed. You can read the email correspondence between author and editor, and get an idea of how to pitch your story idea to a magazine. Great stuff.
+Also, technical writers might get a kick out of this photo essay of classic instruction manuals.</description>
     </item>
     
     <item>
@@ -79,20 +45,7 @@
       <pubDate>Tue, 15 Jul 2008 04:23:05 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/what-i-do/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/ph.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I thought it was high time for an update on the first two weeks of my contract. As I alluded to previously, the project I&amp;rsquo;m working on right now involves the design of a new phone. It&amp;rsquo;s a complex system with many components, and is rather hush-hush at the moment so I can&amp;rsquo;t really elaborate on it. Thus far, much of the system behaviour has been decided upon verbally, which is where I come in. Through interviews with the project manager and the software engineers, and by gleaning information from what is known as a state table (a map of the information architecture), I&amp;rsquo;ve been putting together engineering specifications for a product that does not exist yet.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;The goal is to provide the engineers with a base line so that they can move forward with the design process. This means I&amp;rsquo;m also creating screenshots of what the man-machine interface (MMI) will ideally look like. I&amp;rsquo;ve been doing these in Photoshop, but there is talk of moving to a program called Axure, which offers a much richer functionality and the ability to create master modules (so that you don&amp;rsquo;t have to re-generate a hundred screenshots every time a small change in the MMI is made).&lt;/p&gt;
-
-&lt;p&gt;All in all, it&amp;rsquo;s very interesting being involved at this stage of product development, although I was hoping to do some end-user documentation as well. At this point that looks doubtful as that&amp;rsquo;s the tech writer in Oregon&amp;rsquo;s baby.&lt;/p&gt;
-
-&lt;p&gt;Some of the work is a bit dry - for example, today I was determining how many characters to allocate a word for translation. The English interface has to be translated into French and Spanish, but there is a limited amount of pixels on the display screen on the phone, so I had to figure out how much wiggle room to allow the translators, in case their translation of &amp;ldquo;Answer&amp;rdquo;, for instance, turns out to be a five words long.&lt;/p&gt;
-
-&lt;p&gt;The company culture is quite rad - lots of barbeques and once a month there is a social with buckets of beer and an assortment of greasy food (no organic juice like at &lt;em&gt;alive&lt;/em&gt; unfortunately). In the lunch room is a sweet gaming setup -two widescreen hi-def TVs - one hooked up to an XBOX 360 and the other hooked up to a Wii. On the table sits a couple of Guitar Hero axes and steering wheel controllers. There&amp;rsquo;s also a pool table, ping-pong table, and foosball. Basically a geek&amp;rsquo;s paradise!&lt;/p&gt;
-</description>
+      <description>I thought it was high time for an update on the first two weeks of my contract. As I alluded to previously, the project I&amp;rsquo;m working on right now involves the design of a new phone. It&amp;rsquo;s a complex system with many components, and is rather hush-hush at the moment so I can&amp;rsquo;t really elaborate on it. Thus far, much of the system behaviour has been decided upon verbally, which is where I come in.</description>
     </item>
     
     <item>
@@ -101,68 +54,8 @@
       <pubDate>Thu, 08 May 2008 07:26:48 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/doctrain-day-3-content-choreographers-unite/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/title.png&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;DocTrain chugged along today and picked up some speed with a heavy emphasis on social media. As with yesterday&amp;rsquo;s post, I&amp;rsquo;ll give you the skinny and the slides on each presentation as well my pick for &amp;lsquo;what&amp;rsquo;s hot&amp;rsquo;.&lt;/p&gt;
-
-&lt;p&gt;Great people, good food, and leading-edge content. Kudos to the organizers and to the Marriott Pinnacle for hosting this terrific event. And a huge thanks also to the Westcoast STC for the opportunity to attend.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s the best of the rest:&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;&lt;strong&gt;Document engineering in user experience design&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Robert Glushko&lt;/em&gt; (University of California at Berkeley)&lt;/p&gt;
-
-&lt;p&gt;With little collaboration between designers (front end) and information architects (back end), the result is a poor user experience. A brilliant mind, Glushko coined a new term today: the content choreographer.&lt;br /&gt;
-What&amp;rsquo;s hot: &lt;a href=&#34;http://docordie.blogspot.com/&#34;&gt;Doc or Die&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.slideshare.net/?src=embed&#34;&gt;&lt;img src=&#34;http://static.slideshare.net/swf/logo_embd.png&#34; alt=&#34;SlideShare&#34; /&gt;&lt;/a&gt; | &lt;a href=&#34;http://www.slideshare.net/abelsp/document-engineering-in-user-experience-design&#34;&gt;View&lt;/a&gt; | &lt;a href=&#34;http://www.slideshare.net/upload&#34;&gt;Upload your own&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Social media 101: Now everyone&amp;rsquo;s a technical writer&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Darren Barefoot&lt;/em&gt; (Capulet Communications)&lt;/p&gt;
-
-&lt;p&gt;From Youtube to Twitter to Facebook, social media is about two-way conversations, collaboration, sharing, community, transparency, and authenticity. It also means we have to relinquish control of our content.&lt;br /&gt;
-What&amp;rsquo;s hot: &lt;a href=&#34;http://commoncraft.com/&#34;&gt;Web 2.0 in plain English&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.scribd.com/doc/2886353/Make-Your-Website-Social-Media-Ready&#34;&gt;View slides on scribd&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Changing the rules of the game for the benefit of the user&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Joe Sokohl&lt;/em&gt; (Keane, Inc.)&lt;/p&gt;
-
-&lt;p&gt;In his talk, Joe emphasized knowing your end user - especially when training customers. Qualitative research is the key to giving end users what they want, not what you think they want.&lt;br /&gt;
-What&amp;rsquo;s hot: &lt;a href=&#34;http://youtube.com/watch?v=xDE8pjiCnSw&#34;&gt;The Kobayashi Maru&lt;/a&gt; approach to solving problems&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.slideshare.net/?src=embed&#34;&gt;&lt;img src=&#34;http://static.slideshare.net/swf/logo_embd.png&#34; alt=&#34;SlideShare&#34; /&gt;&lt;/a&gt; | &lt;a href=&#34;http://www.slideshare.net/abelsp/changing-the-rules-of-the-game-for-the-benefit-of-the-user-a-kobayashi-maru-approach-to-developing-usercentered-training-content&#34;&gt;View&lt;/a&gt; | &lt;a href=&#34;http://www.slideshare.net/upload&#34;&gt;Upload your own&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;How an author and editor used a wiki to write a book&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Stewart Mader&lt;/em&gt; (Atlassian)&lt;/p&gt;
-
-&lt;p&gt;Stewart wrote his book using only a wiki. He found that communicating with his editors using a wiki was far more efficient than using email.&lt;br /&gt;
-What&amp;rsquo;s hot: &lt;a href=&#34;http://hogbaysoftware.com/products/writeroom&#34;&gt;WriteRoom&lt;/a&gt; (Mac only&amp;hellip;grrr!)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The many-armed starfish: today and tomorrow in social media&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Darren Barefoot&lt;/em&gt; (Capulet Communications)&lt;/p&gt;
-
-&lt;p&gt;I can&amp;rsquo;t get enough of Darren - he&amp;rsquo;s a terrific speaker. He expanded on social media tools and explained which ones were most effective for use in marketing strategies.&lt;br /&gt;
-What&amp;rsquo;s hot: &lt;a href=&#34;http://brightkite.com/&#34;&gt;Brightkite&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What technical communicators need to know about flash&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Sarah O&amp;rsquo;Keefe&lt;/em&gt; (Scriptorium Publishing)&lt;/p&gt;
-
-&lt;p&gt;Flash is finicky, but useful if you need to explain difficult concepts using animation. From motion to shape tweens, we got the basics in this tutorial.&lt;br /&gt;
-What&amp;rsquo;s hot: &lt;a href=&#34;http://www.lumosity.com/&#34;&gt;Brain games&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Living multiple lives: The new technical communicator&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;B. Noz Urbina&lt;/em&gt; (Mekon)&lt;/p&gt;
-
-&lt;p&gt;In the closing keynote, Urbina gave practical advice on how to create documents more efficiently and save your company money (the reason companies pay for employees to fly to these conferences in the first place).&lt;br /&gt;
-What&amp;rsquo;s hot: &lt;a href=&#34;http://www.x-pubs.com/&#34;&gt;Fly me to London&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.slideshare.net/?src=embed&#34;&gt;&lt;img src=&#34;http://static.slideshare.net/swf/logo_embd.png&#34; alt=&#34;SlideShare&#34; /&gt;&lt;/a&gt; | &lt;a href=&#34;http://www.slideshare.net/abelsp/living-multiple-lives-the-new-technical-communicator-385924&#34;&gt;View&lt;/a&gt; | &lt;a href=&#34;http://www.slideshare.net/upload&#34;&gt;Upload your own&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;That&amp;rsquo;s a wrap. Now go outside.&lt;/p&gt;
-</description>
+      <description>DocTrain chugged along today and picked up some speed with a heavy emphasis on social media. As with yesterday&amp;rsquo;s post, I&amp;rsquo;ll give you the skinny and the slides on each presentation as well my pick for &amp;lsquo;what&amp;rsquo;s hot&amp;rsquo;.
+Great people, good food, and leading-edge content. Kudos to the organizers and to the Marriott Pinnacle for hosting this terrific event. And a huge thanks also to the Westcoast STC for the opportunity to attend.</description>
     </item>
     
     <item>
@@ -171,20 +64,8 @@ What&amp;rsquo;s hot: &lt;a href=&#34;http://www.x-pubs.com/&#34;&gt;Fly me to L
       <pubDate>Wed, 07 May 2008 03:22:17 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/doctrain-day-1-simplified-technical-english/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/tp.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Today I attended a pre-conference workshop on Simplified Technical English (STE) at DocTrain West. Berry Braster, director of Tedopres, presented the benefits of writing documentation using standardized, unambiguous English, especially when materials are being translated into other languages.&lt;/p&gt;
-
-&lt;p&gt;The implementation of STE involves developing a company-specific dictionary and using documentation software to aid in the mechanical side of ensuring uniformity of language across the board. The goal is to ultimately reduce costs and facilitate quality assurance. If you&amp;rsquo;re interested, here&amp;rsquo;s an abbreviated version of Berry&amp;rsquo;s powerpoint presentation:&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.slideshare.net/?src=embed&#34;&gt;&lt;img src=&#34;http://static.slideshare.net/swf/logo_embd.png&#34; alt=&#34;SlideShare&#34; /&gt;&lt;/a&gt; | &lt;a href=&#34;http://www.slideshare.net/abelsp/simplified-technical-english-how-standardization-of-content-will-reduce-costs-and-facilitate-quality-assurance&#34;&gt;View&lt;/a&gt; | &lt;a href=&#34;http://www.slideshare.net/upload&#34;&gt;Upload your own&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I found this presentation quite interesting, especially as there is little standardization when it comes to documenting software. Berry actually dismissed Microsoft&amp;rsquo;s style guide, and even the Chicago manual of style, as incompatible with the goals of STE, but did commend them for the attempt. Some of the audience thought that STE could become too stilted and robotic. Personally, however, I could see the merit of choosing vocabulary, for example, that is completely unambiguous when it comes to reducing workplace accidents.&lt;/p&gt;
-
-&lt;p&gt;A case in point - a manual in the aviation industry asked the mechanic to &amp;ldquo;cut the power&amp;rdquo; (ie. turn it off), whereupon a mechanic literally cut a power-line with sheers and died from electrocution.&lt;/p&gt;
-</description>
+      <description>Today I attended a pre-conference workshop on Simplified Technical English (STE) at DocTrain West. Berry Braster, director of Tedopres, presented the benefits of writing documentation using standardized, unambiguous English, especially when materials are being translated into other languages.
+The implementation of STE involves developing a company-specific dictionary and using documentation software to aid in the mechanical side of ensuring uniformity of language across the board. The goal is to ultimately reduce costs and facilitate quality assurance.</description>
     </item>
     
     <item>
@@ -193,12 +74,7 @@ What&amp;rsquo;s hot: &lt;a href=&#34;http://www.x-pubs.com/&#34;&gt;Fly me to L
       <pubDate>Thu, 13 Mar 2008 00:35:06 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/content-convergence-integration-2008/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/header.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://convergence.confabb.com/conferences/cci2008&#34;&gt;This conference&lt;/a&gt; kicked off in Vancouver today and is &lt;em&gt;the&lt;/em&gt; place to be if you&amp;rsquo;re facing content management issues in your professional life as a technical writer, or if you want to stay on the leading edge of developments in the field. Each day has a specific theme. Day 1 (today) is about content, day 2 about technology, and day 3 about user relationships. I&amp;rsquo;ll be volunteering there the whole day tomorrow, and will tell you all about it later (if you&amp;rsquo;re going, be sure to say hello).&lt;/p&gt;
-
-&lt;p&gt;Highlights? The future of XML publishing, the new Quark dynamic publishing demos, social media, mobile content management , and of course, the fabulous food.&lt;/p&gt;
-</description>
+      <description>This conference kicked off in Vancouver today and is the place to be if you&amp;rsquo;re facing content management issues in your professional life as a technical writer, or if you want to stay on the leading edge of developments in the field. Each day has a specific theme. Day 1 (today) is about content, day 2 about technology, and day 3 about user relationships. I&amp;rsquo;ll be volunteering there the whole day tomorrow, and will tell you all about it later (if you&amp;rsquo;re going, be sure to say hello).</description>
     </item>
     
     <item>
@@ -207,28 +83,7 @@ What&amp;rsquo;s hot: &lt;a href=&#34;http://www.x-pubs.com/&#34;&gt;Fly me to L
       <pubDate>Sun, 11 Mar 2007 08:41:49 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/its-your-english-fight-for-it/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/jargon%5B6%5D.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;There is nothing more sickening than a piece of writing bloated and weighed down by heavy jargon and confusing language. Call it what you will - jargoneze, legalize, bureaucrateze, or just plain gobbledygook. If you&amp;rsquo;re spreading this kind of rot, you&amp;rsquo;re a language killer and should be tried and condemned by your peers as such. In his essay, _&lt;a href=&#34;http://www.orwell.ru/library/essays/politics/english/e_polit&#34;&gt;Politics and the English Language&lt;/a&gt;_, the great George Orwell calls us to vigilance:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A man may take to drink because he feels himself to be a failure, and then fail all the more completely because he drinks. It is rather the same thing that is happening to the English language. It becomes ugly and inaccurate because our thoughts are foolish, but the slovenliness of our language makes it easier for us to have foolish thoughts. The point is that the process is reversible. Modern English, especially written English, is full of bad habits which spread by imitation and which can be avoided if one is willing to take the necessary trouble.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Orwell was concerned with the use of English to deliberately mislead and confuse, but what about readability? How readable is your writing? Many handbooks and journals on technical writing stress readability as highly desirable and advocate the use of readability formulas. I&amp;rsquo;m referring to Flesch&amp;rsquo;s reading ease scale and Gunning&amp;rsquo;s Fog Index. These formulas calculate how many syllables are in your words and how short your sentences are and tell you if you&amp;rsquo;re a good writer or not.&lt;/p&gt;
-
-&lt;p&gt;Unfortunately it&amp;rsquo;s not that simple, and if you&amp;rsquo;ve ever played &lt;em&gt;scrabble&lt;/em&gt;, you&amp;rsquo;ll know that there&amp;rsquo;s plenty of really obscure two letter words out there. So a low syllable count doesn&amp;rsquo;t always indicate readability. Neither do short sentences; sometimes short sentences break thought flow and are easier to understand when connected to other sentences through a logical connector.&lt;/p&gt;
-
-&lt;p&gt;The moral of the story is: &lt;a href=&#34;http://www.stc.org/confproceed/1994/PDFs/PG225227.PDF&#34;&gt;Don&amp;rsquo;t use computerized readability formulas to evaluate a piece of writing&lt;/a&gt;. The only way to determine whether a piece of writing is good or not is to consider the audience. What is the writer&amp;rsquo;s purpose and who is the writing intended for? If you bear these two questions in mind, evil, manipulative writing can quickly be rooted out. The &lt;a href=&#34;http://www.plainlanguagenetwork.org/stephens/intro.html&#34;&gt;plain language movement&lt;/a&gt; advocates this approach:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Plain language is language that is understandable. What is clear, or what is plain to your intended audience, can only be decided by the audience.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;So plain English is not simple baby two-syllable English. It is simply a version tailored to be as readable as possible for those who you&amp;rsquo;re writing for, whether they be ESL students or Javascript programmers, who might be quite comfortable with a few five syllable words in every paragraph.&lt;/p&gt;
-
-&lt;p&gt;Anyway, all this is a preamble for a new segment I&amp;rsquo;m going to unveil in the next post: &lt;em&gt;The product riddle: What am I anyway?&lt;/em&gt; Stay tuned.&lt;/p&gt;
-</description>
+      <description>There is nothing more sickening than a piece of writing bloated and weighed down by heavy jargon and confusing language. Call it what you will - jargoneze, legalize, bureaucrateze, or just plain gobbledygook. If you&amp;rsquo;re spreading this kind of rot, you&amp;rsquo;re a language killer and should be tried and condemned by your peers as such. In his essay, _Politics and the English Language_, the great George Orwell calls us to vigilance:</description>
     </item>
     
     <item>
@@ -237,26 +92,9 @@ What&amp;rsquo;s hot: &lt;a href=&#34;http://www.x-pubs.com/&#34;&gt;Fly me to L
       <pubDate>Wed, 28 Feb 2007 09:24:51 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/cultural-sensitivity-in-user-documentation/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/angry%20leprechaun%5B4%5D.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;When editing technical documents, how aware should you be of regional differences in pronunciation? Here is &lt;a href=&#34;http://www.redhatmagazine.com/2007/02/26/how-to-write-really-good-documentationsemi-definite-rules-for-the-indefinite-article/&#34;&gt;an interesting article&lt;/a&gt; on the subject by Brian Forte. Forte raises the following issue regarding the usage of an indefinite article with initialisms:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;How do you pronounce an initialism like HTML?&lt;/p&gt;
-
-&lt;p&gt;I was taught English in public Australian schools of the 1970s. So I was taught &lt;em&gt;aitch&lt;/em&gt; rather than &lt;em&gt;haitch.&lt;/em&gt; Which means I pronounce ‘HTML’ with an initial vowel sound and I write ‘an HTML page.’&lt;/p&gt;
-
-&lt;p&gt;If I’d gone to a private Irish Catholic school, however, I would have been taught &lt;em&gt;haitch&lt;/em&gt; and would, naturally enough, think ‘a HTML page’ is correct.&lt;/p&gt;
-
-&lt;p&gt;More generally, &lt;em&gt;haitch&lt;/em&gt; is standard in Hiberno-English and is a way for disputing Protestant and Catholic Northern Irelanders to distinguish themselves from each other.&lt;/p&gt;
-
-&lt;p&gt;So, if I insist on ‘an HTML page’ I’m telling 4.5 million English speakers their way of writing and speaking is wrong, or non-standard at the very least. And I can’t reveal accent by writing ‘an ’TML page’ because it’s a technical document, not a novel.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Seriously though, how many Irish Catholics are going to tear up their Linux manuals in disgust after discovering a pernicious &amp;ldquo;an&amp;rdquo; embedded in the text? It&amp;rsquo;s nothing personal. Technical writers are just following a style guide. Some tech writers will go with &amp;ldquo;a html&amp;rdquo; because they look at the expanded form of the initialism. So &amp;ldquo;a Hypertext Markup Language Page&amp;rdquo; would be written as &amp;ldquo;a html&amp;rdquo;. Does that mean everybody who pronounces &amp;ldquo;h&amp;rdquo; as &amp;ldquo;&amp;lsquo;aitch&amp;rdquo; (which is the majority of the English-speaking world) should label these writers as hate-mongering, prejudiced Irish Catholics?&lt;/p&gt;
-
-&lt;p&gt;It all comes down to schisms in pronunciation. Yet, in today&amp;rsquo;s globalized world, there isn&amp;rsquo;t much room to argue with the majority.&lt;/p&gt;
-</description>
+      <description>When editing technical documents, how aware should you be of regional differences in pronunciation? Here is an interesting article on the subject by Brian Forte. Forte raises the following issue regarding the usage of an indefinite article with initialisms:
+ How do you pronounce an initialism like HTML?
+I was taught English in public Australian schools of the 1970s. So I was taught aitch rather than haitch. Which means I pronounce ‘HTML’ with an initial vowel sound and I write ‘an HTML page.</description>
     </item>
     
   </channel>

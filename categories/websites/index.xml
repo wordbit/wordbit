@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wordbit</title>
-    <link>http://wordbit.com/categories/websites/index.xml</link>
-    <description>Recent content on wordbit</description>
+    <title>Websites on wordbit</title>
+    <link>http://wordbit.com/categories/websites/</link>
+    <description>Recent content in Websites on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://wordbit.com/categories/websites/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jul 2009 06:03:44 +0000</lastBuildDate>
+    
+	<atom:link href="http://wordbit.com/categories/websites/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Saving my Geocities site</title>
@@ -13,12 +16,7 @@
       <pubDate>Mon, 13 Jul 2009 06:03:44 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/saving-my-geocities-site/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/ma_geo_1.gif&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve been taking a long break from blogging, but have been swamped with other projects and personal stuff. But I thought I&amp;rsquo;d take this opportunity for a cool retrospective trip through the interwebs. Now, you may know that Yahoo&amp;rsquo;s Geocities is closing this October. Well, I&amp;rsquo;ve managed to save my oldest website from imminent oblivion through the painstaking process of re-coding each html file, capturing all the other files through a Firefox plug-in, and giving it a new home on this server. Ah, Geocities&amp;hellip;those horrid, visceral backgrounds, the ghastly html code, the weird wavy headers, the site design that makes Myspace look like a contender for the User Interface award. So, why bother? Well, there is soul in this site, and a rawness that is appealing in strange sort of way.&lt;/p&gt;
-
-&lt;p&gt;So, here it is. There are lots of links that don&amp;rsquo;t work, but that&amp;rsquo;s not the point. The point is to preserve this little piece of history so that when Geocities dies, &lt;em&gt;&lt;a href=&#34;http://www.wordbit.freehostia.com/geocities&#34;&gt;Negotiating Reality&lt;/a&gt;&lt;/em&gt; lives on. See you when I see you.&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;ve been taking a long break from blogging, but have been swamped with other projects and personal stuff. But I thought I&amp;rsquo;d take this opportunity for a cool retrospective trip through the interwebs. Now, you may know that Yahoo&amp;rsquo;s Geocities is closing this October. Well, I&amp;rsquo;ve managed to save my oldest website from imminent oblivion through the painstaking process of re-coding each html file, capturing all the other files through a Firefox plug-in, and giving it a new home on this server.</description>
     </item>
     
     <item>
@@ -27,30 +25,7 @@
       <pubDate>Wed, 03 Dec 2008 05:56:00 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/christmas-shopping-deals/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/pres.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;So the economy is caught in a perpetual flush cycle and the government is crumbling under the pressure of imminent deficits. You&amp;rsquo;re waiting for HR to ask you to stop by so they can talk about &amp;ldquo;restructuring&amp;rdquo;. You&amp;rsquo;re wondering if you can even afford to drive to the mall this holiday season, let alone buy mounds of stuff there. Well, no worries. Here are some resources for thrifty Canadians with the most meagre of budgets, because let&amp;rsquo;s face it - right now it&amp;rsquo;s cool to be cheap.&lt;/p&gt;
-
-&lt;p&gt;Don&amp;rsquo;t waste your time surfing around for deals, I&amp;rsquo;ve put together a list of the eight best Canadian deal sites out there for you:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.pricecanada.com/&#34;&gt;Pricecanada.com&lt;/a&gt; - a shopping search engine that allows you to compare prices among numerous retailers.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.redflagdeals.com/&#34;&gt;Redflagdeals.com&lt;/a&gt; - One of Canada&amp;rsquo;s oldest and best deals and freebies websites.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.bigbigforums.com/&#34;&gt;Bigbigforums.com&lt;/a&gt; - Where cheapskate-wannabes gather in droves to discuss the latest scoop on deals, coupons and contests.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://slickdeals.net/&#34;&gt;Slickdeals.net&lt;/a&gt; - This frequently updated site has Deal Alerts&amp;hellip;sweet!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.pricenetwork.ca/deals.php?d=315&amp;amp;s=0&#34;&gt;Pricenetwork.ca&lt;/a&gt; - On this site, people can vote on the hottest deals.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.pricegrabber.ca/&#34;&gt;Pricegrabber.ca&lt;/a&gt; - Another comparison shopping website that allows you to customize your own shopping list.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://smartcanucks.ca/&#34;&gt;Smartcanucks.ca&lt;/a&gt; - The first Canadian deals blog (or so they claim).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://coupons.lockergnome.com/&#34;&gt;Lockergnome coupons&lt;/a&gt; - Chris Pirillo&amp;rsquo;s coupon search engine creates custom search RSS feeds. Niiiiice.&lt;/p&gt;
-
-&lt;p&gt;Maybe that 42 inch TV isn&amp;rsquo;t out of your reach after all? Now dust off your credit card and do your part for the economy!&lt;/p&gt;
-</description>
+      <description>So the economy is caught in a perpetual flush cycle and the government is crumbling under the pressure of imminent deficits. You&amp;rsquo;re waiting for HR to ask you to stop by so they can talk about &amp;ldquo;restructuring&amp;rdquo;. You&amp;rsquo;re wondering if you can even afford to drive to the mall this holiday season, let alone buy mounds of stuff there. Well, no worries. Here are some resources for thrifty Canadians with the most meagre of budgets, because let&amp;rsquo;s face it - right now it&amp;rsquo;s cool to be cheap.</description>
     </item>
     
     <item>
@@ -59,20 +34,8 @@
       <pubDate>Thu, 17 Jan 2008 21:55:00 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/two-of-my-favourite-websites/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/rt.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;If you want to see how a movie fared with the critics before you shell out your hard-earned bucks, check out &lt;a href=&#34;http://www.rottentomatoes.com/&#34;&gt;rotten tomatoes&lt;/a&gt;. This popular website has recently been redesigned and has now gone into beta testing.&lt;/p&gt;
-
-&lt;p&gt;The new design isn&amp;rsquo;t bad, but then again, I didn&amp;rsquo;t have a problem with the old one either. I guess they were trying to go with a more community-based, web 2.0 format. The layout is still a bit cluttered, but looks lighter.&lt;/p&gt;
-
-&lt;p&gt;Anyway, it&amp;rsquo;s not the design that draws me to the site again and again, it&amp;rsquo;s the concept. Rotten tomatoes gathers critic reviews from across the country and adds them up. Enough positive reviews gives the movie a &amp;ldquo;fresh&amp;rdquo; rating, and too many negative ones garner a &amp;ldquo;rotten&amp;rdquo; rating. A sidebar on the home page lists current box office movies so that you can figure out what&amp;rsquo;s worth watching at a glance. If you want to search for a movie, type it in the search box and within seconds you can see if you should pop that movie into your DVD player or toss it into the returns bin.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/wn.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Another website I dig is &lt;a href=&#34;http://www.wired.com/&#34;&gt;wired news&lt;/a&gt;, and again I go there mostly because the content is interesting and is regularly updated. At wired news, you can read the latest headlines in technology, cyberculture, and our digital lives.&lt;/p&gt;
-
-&lt;p&gt;Ease of navigation makes this site a delight to visit. Large, bold headlines are easy to read and if they catch your attention, you&amp;rsquo;re just one click away from reading the entire article. For those who like a little visual stimulation with their serving of words, there are plenty of well-chosen pictures to capture your attention and, in many cases, persuade you to read the article.&lt;/p&gt;
-</description>
+      <description>If you want to see how a movie fared with the critics before you shell out your hard-earned bucks, check out rotten tomatoes. This popular website has recently been redesigned and has now gone into beta testing.
+The new design isn&amp;rsquo;t bad, but then again, I didn&amp;rsquo;t have a problem with the old one either. I guess they were trying to go with a more community-based, web 2.0 format. The layout is still a bit cluttered, but looks lighter.</description>
     </item>
     
   </channel>

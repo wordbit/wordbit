@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://wordbit.com/</loc>
-    <lastmod>2017-03-31T22:50:00+00:00</lastmod>
+    <loc>http://wordbit.com/posts/design-shifts/</loc>
+    <lastmod>2017-05-18T18:46:00+00:00</lastmod>
   </url>
   
   <url>
@@ -82,7 +82,7 @@
   </url>
   
   <url>
-    <loc>http://wordbit.com/posts/Norway/</loc>
+    <loc>http://wordbit.com/posts/norway/</loc>
     <lastmod>2015-12-12T09:05:22+00:00</lastmod>
   </url>
   
@@ -2188,6 +2188,377 @@
   
   <url>
     <loc>http://wordbit.com/pages/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/article/</loc>
+    <lastmod>2011-11-29T23:13:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/blogging/</loc>
+    <lastmod>2011-04-07T04:55:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/blogs/</loc>
+    <lastmod>2008-01-10T04:03:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/books/</loc>
+    <lastmod>2011-11-30T00:32:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/</loc>
+    <lastmod>2011-11-29T23:13:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/cci2008/</loc>
+    <lastmod>2008-03-18T00:56:20+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/colour/</loc>
+    <lastmod>2008-03-07T21:57:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/conference/</loc>
+    <lastmod>2008-05-08T07:26:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/culture/</loc>
+    <lastmod>2010-04-08T18:56:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/deals/</loc>
+    <lastmod>2008-12-03T05:56:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/death/</loc>
+    <lastmod>2011-05-04T17:12:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/doctrain-west-2008/</loc>
+    <lastmod>2008-05-08T07:26:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/documentation/</loc>
+    <lastmod>2010-05-18T02:21:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/editing/</loc>
+    <lastmod>2008-09-25T05:21:31+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/employment/</loc>
+    <lastmod>2010-04-06T19:32:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/events/</loc>
+    <lastmod>2008-04-08T02:23:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/freelancing/</loc>
+    <lastmod>2011-11-29T23:13:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/geeky/</loc>
+    <lastmod>2011-11-09T00:54:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/grammar/</loc>
+    <lastmod>2007-02-28T09:24:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/humour/</loc>
+    <lastmod>2011-12-09T01:05:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/inspiration/</loc>
+    <lastmod>2009-02-03T06:23:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/jakob-nielson/</loc>
+    <lastmod>2008-02-01T20:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/journalism/</loc>
+    <lastmod>2008-04-25T17:10:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/just-another-opinion/</loc>
+    <lastmod>2012-11-09T23:37:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/life/</loc>
+    <lastmod>2011-05-04T17:12:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/local-news/</loc>
+    <lastmod>2008-05-01T19:09:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/marketing/</loc>
+    <lastmod>2009-02-03T06:23:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/movies/</loc>
+    <lastmod>2011-10-07T19:26:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/music/</loc>
+    <lastmod>2008-11-19T05:01:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/netflix/</loc>
+    <lastmod>2011-10-07T19:26:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/nv08/</loc>
+    <lastmod>2008-02-27T08:11:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/pages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/podcast/</loc>
+    <lastmod>2007-08-10T21:20:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/politics/</loc>
+    <lastmod>2008-10-26T01:02:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/posts/</loc>
+    <lastmod>2017-05-18T18:46:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/print-futures/</loc>
+    <lastmod>2008-07-29T04:30:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/productivity/</loc>
+    <lastmod>2008-11-18T04:37:46+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/public-relations/</loc>
+    <lastmod>2008-05-01T19:09:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/reading/</loc>
+    <lastmod>2009-09-29T03:50:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/resources/</loc>
+    <lastmod>2009-01-16T05:38:43+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/review/</loc>
+    <lastmod>2011-11-30T00:32:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/site-announcements/</loc>
+    <lastmod>2011-12-28T23:07:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/software/</loc>
+    <lastmod>2008-11-19T05:01:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/technical-writing/</loc>
+    <lastmod>2010-05-18T02:21:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/technology/</loc>
+    <lastmod>2011-11-29T23:13:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/the-audience/</loc>
+    <lastmod>2008-11-07T04:36:20+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/the-internet/</loc>
+    <lastmod>2008-04-30T19:14:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/the-writing-challenge/</loc>
+    <lastmod>2007-05-22T06:21:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/tv/</loc>
+    <lastmod>2011-11-30T00:32:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/vancouver/</loc>
+    <lastmod>2008-05-01T19:09:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/video/</loc>
+    <lastmod>2011-10-05T20:46:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/web-2.0/</loc>
+    <lastmod>2008-11-18T04:37:46+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/web-architecture/</loc>
+    <lastmod>2008-02-01T20:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/web-design/</loc>
+    <lastmod>2008-03-07T21:57:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/web-usability/</loc>
+    <lastmod>2008-02-01T20:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/websites/</loc>
+    <lastmod>2009-07-13T06:03:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/welcome/</loc>
+    <lastmod>2008-01-08T01:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/working/</loc>
+    <lastmod>2010-05-18T02:21:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/writer/</loc>
+    <lastmod>2011-05-04T17:12:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/writing/</loc>
+    <lastmod>2011-11-29T23:13:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/categories/writing-humour/</loc>
+    <lastmod>2008-09-25T05:21:31+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://wordbit.com/</loc>
+    <lastmod>2017-05-18T18:46:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

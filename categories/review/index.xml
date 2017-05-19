@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wordbit</title>
-    <link>http://wordbit.com/categories/review/index.xml</link>
-    <description>Recent content on wordbit</description>
+    <title>Review on wordbit</title>
+    <link>http://wordbit.com/categories/review/</link>
+    <description>Recent content in Review on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://wordbit.com/categories/review/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Nov 2011 00:32:36 +0000</lastBuildDate>
+    
+	<atom:link href="http://wordbit.com/categories/review/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Game of Thrones review</title>
@@ -13,16 +16,7 @@
       <pubDate>Wed, 30 Nov 2011 00:32:36 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/game-of-thrones-review/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/gameofthroneslogo.jpg&#34; alt=&#34;game-of-thrones-logo&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;You may be wondering if I’m talking about the book or the HBO series. Well, I read the book first, so the TV show paled in comparison, as is usually the case. I was optimistic at first, mostly because of the glowing reviews and comparisons to &lt;em&gt;Lord of the Rings&lt;/em&gt;. Peter Jackson undoubtedly won the hearts of purists and lovingly captured the spirit of the books. Unfortunately, the Game of Thrones TV series falls short of this benchmark. It’s not terrible, but not &lt;em&gt;awesome&lt;/em&gt; either, the way &lt;em&gt;LOTR&lt;/em&gt; inspired awe.&lt;/p&gt;
-
-&lt;p&gt;The screenwriters obviously took great delight in exaggerating and extrapolating on certain scenes and themes in the novel. It seems like there is some sort of mandate at HBO to maximize on vulgarity and shock value. I’m sure some people get a kick out of this, but if you’ve read the book first, it all seems so unnecessary.&lt;/p&gt;
-
-&lt;p&gt;As for the book, I can only say that it’s rooted in political intrigue without being mired down in politics. The characters are well fleshed out, but nothing genre-bending. I like long epic stories with many interwoven plot lines, and this exactly is what you get here. Perhaps my only real complaint is that the few brief battle scenes are often told through second-hand accounts instead of diving first-hand into the action.&lt;/p&gt;
-
-&lt;p&gt;I’ve just finished reading &lt;em&gt;Clash of Kings&lt;/em&gt; as well, and there is a lot to enjoy so far in the &lt;em&gt;Song of Ice and Fire&lt;/em&gt; series. I can’t say I’m looking forward to a mangling of this excellent second book on TV though. Not that I won’t watch it anyway.&lt;/p&gt;
-</description>
+      <description>You may be wondering if I’m talking about the book or the HBO series. Well, I read the book first, so the TV show paled in comparison, as is usually the case. I was optimistic at first, mostly because of the glowing reviews and comparisons to Lord of the Rings. Peter Jackson undoubtedly won the hearts of purists and lovingly captured the spirit of the books. Unfortunately, the Game of Thrones TV series falls short of this benchmark.</description>
     </item>
     
   </channel>
