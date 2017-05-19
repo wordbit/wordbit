@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wordbit</title>
-    <link>http://wordbit.com/categories/books/index.xml</link>
-    <description>Recent content on wordbit</description>
+    <title>Books on wordbit</title>
+    <link>http://wordbit.com/categories/books/</link>
+    <description>Recent content in Books on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://wordbit.com/categories/books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Nov 2011 00:32:36 +0000</lastBuildDate>
+    
+	<atom:link href="http://wordbit.com/categories/books/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Game of Thrones review</title>
@@ -13,16 +16,7 @@
       <pubDate>Wed, 30 Nov 2011 00:32:36 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/game-of-thrones-review/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/gameofthroneslogo.jpg&#34; alt=&#34;game-of-thrones-logo&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;You may be wondering if I’m talking about the book or the HBO series. Well, I read the book first, so the TV show paled in comparison, as is usually the case. I was optimistic at first, mostly because of the glowing reviews and comparisons to &lt;em&gt;Lord of the Rings&lt;/em&gt;. Peter Jackson undoubtedly won the hearts of purists and lovingly captured the spirit of the books. Unfortunately, the Game of Thrones TV series falls short of this benchmark. It’s not terrible, but not &lt;em&gt;awesome&lt;/em&gt; either, the way &lt;em&gt;LOTR&lt;/em&gt; inspired awe.&lt;/p&gt;
-
-&lt;p&gt;The screenwriters obviously took great delight in exaggerating and extrapolating on certain scenes and themes in the novel. It seems like there is some sort of mandate at HBO to maximize on vulgarity and shock value. I’m sure some people get a kick out of this, but if you’ve read the book first, it all seems so unnecessary.&lt;/p&gt;
-
-&lt;p&gt;As for the book, I can only say that it’s rooted in political intrigue without being mired down in politics. The characters are well fleshed out, but nothing genre-bending. I like long epic stories with many interwoven plot lines, and this exactly is what you get here. Perhaps my only real complaint is that the few brief battle scenes are often told through second-hand accounts instead of diving first-hand into the action.&lt;/p&gt;
-
-&lt;p&gt;I’ve just finished reading &lt;em&gt;Clash of Kings&lt;/em&gt; as well, and there is a lot to enjoy so far in the &lt;em&gt;Song of Ice and Fire&lt;/em&gt; series. I can’t say I’m looking forward to a mangling of this excellent second book on TV though. Not that I won’t watch it anyway.&lt;/p&gt;
-</description>
+      <description>You may be wondering if I’m talking about the book or the HBO series. Well, I read the book first, so the TV show paled in comparison, as is usually the case. I was optimistic at first, mostly because of the glowing reviews and comparisons to Lord of the Rings. Peter Jackson undoubtedly won the hearts of purists and lovingly captured the spirit of the books. Unfortunately, the Game of Thrones TV series falls short of this benchmark.</description>
     </item>
     
     <item>
@@ -31,20 +25,9 @@
       <pubDate>Thu, 05 Jun 2008 02:33:02 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/the-writers-bane-iswriting/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/bird.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve just finished reading Anne Lamott&amp;rsquo;s &lt;em&gt;Bird by Bird&lt;/em&gt;, a wonderfully humourous book full of advice on how to write and how to overcome those challenges all writers face. Here&amp;rsquo;s an excerpt I particularly like:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;But how?&amp;rdquo; my students ask. &amp;ldquo;How do you actually do it?&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;You sit down, I say. You try to sit down at approximately the same time every day. This is how you train your unconscious to kick in for you creatively. So you sit down at, say, nine every morning, or ten every night. You put a piece of paper in the typewriter, or you turn on your computer and bring up the right file, and then you stare at it for an hour or so. You begin rocking, just a little at first, and then like a huge autistic child. You look at the ceiling, and over at the clock, yawn, and stare at the paper again.&lt;/p&gt;
-
-&lt;p&gt;Then, with your fingers poised on the keyboard, you squint at an image that is forming in your mind - a scene, a locale, a character, whatever - and you try to quiet your mind so you can hear what that landscape has to say above the other voices in your mind. The other voices are banshees and drunken monkeys. They are the voices of anxiety, judgment, doom, guilt. Also, severe hypochondria. There may be a Nurse Ratched-like listing of things that must be done right this moment: foods that must come out of the freezer, appointments that must be canceled or made, hairs that must be tweezed. But you hold an imaginary gun to your head and make yourself stay at the desk. There is a vague pain at the base of your neck. It crosses your mind that you have meningitis. Then the phone rings and you look up at the ceiling with fury, summon every ounce of noblesse oblige, and answer the call politely, with maybe just the merest hint of irritation. The caller asks if you&amp;rsquo;re working, and you say yeah, because you are.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Sound familiar? The hardest part about writing is definitely the writing part. Anyway, just wanted to share that with you.&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;ve just finished reading Anne Lamott&amp;rsquo;s Bird by Bird, a wonderfully humourous book full of advice on how to write and how to overcome those challenges all writers face. Here&amp;rsquo;s an excerpt I particularly like:
+ &amp;ldquo;But how?&amp;rdquo; my students ask. &amp;ldquo;How do you actually do it?&amp;rdquo;
+You sit down, I say. You try to sit down at approximately the same time every day. This is how you train your unconscious to kick in for you creatively.</description>
     </item>
     
   </channel>

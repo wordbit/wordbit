@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wordbit</title>
-    <link>http://wordbit.com/categories/freelancing/index.xml</link>
-    <description>Recent content on wordbit</description>
+    <title>Freelancing on wordbit</title>
+    <link>http://wordbit.com/categories/freelancing/</link>
+    <description>Recent content in Freelancing on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://wordbit.com/categories/freelancing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Nov 2011 23:13:52 +0000</lastBuildDate>
+    
+	<atom:link href="http://wordbit.com/categories/freelancing/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>No rest for the dead…battery</title>
@@ -13,12 +16,8 @@
       <pubDate>Tue, 29 Nov 2011 23:13:52 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/no-rest-for-the-deadbattery/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; src=&#34;http://wordbit.com/images/Battery11.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;My &lt;a href=&#34;http://www.alive.com/lifestyle/no-rest-for-the-dead-battery/&#34;&gt;recent article&lt;/a&gt; on Battery Recycling is now available in the November issue of &lt;em&gt;alive&lt;/em&gt;. I wasn’t aware of this before researching this topic, but you can recycle both single-use and rechargeable batteries in British Columbia.&lt;/p&gt;
-
-&lt;p&gt;Personally, I’m a big fan of &lt;a href=&#34;http://www.eneloop.info/&#34;&gt;eneloop batteries&lt;/a&gt;. I believe the batteries Apple uses in their wireless mouse and keyboard are re-branded eneloops.&lt;/p&gt;
-</description>
+      <description>My recent article on Battery Recycling is now available in the November issue of alive. I wasn’t aware of this before researching this topic, but you can recycle both single-use and rechargeable batteries in British Columbia.
+Personally, I’m a big fan of eneloop batteries. I believe the batteries Apple uses in their wireless mouse and keyboard are re-branded eneloops.</description>
     </item>
     
     <item>
@@ -27,10 +26,7 @@
       <pubDate>Thu, 14 Apr 2011 00:31:35 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/new-published-articles/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.alive.com/lifestyle/cell-tower-invasion/&#34;&gt;&lt;img src=&#34;http://wordbit.com/images/cellinvasion1.jpg&#34; alt=&#34;cellinvasion1&#34; /&gt;&lt;/a&gt;  &lt;a href=&#34;http://www.alive.com/lifestyle/going-all-the-way/&#34;&gt;&lt;img src=&#34;http://wordbit.com/images/baldness1.jpg&#34; alt=&#34;baldness1&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Here are some new articles of mine that were published in &lt;em&gt;alive&lt;/em&gt; magazine. Click on the thumbnails to view them. The first is on whether cell phone towers are safe or not. There is much heated debate surrounding this issue and I got a lot of hate mail for even suggesting we don’t know all there is to know about the technology. The hard truth is that we just don’t have the data spanning a human lifetime to say one way or the other, so lay off haters! My second article is less controversial – should you shave your head when going bald (yes). This was a fun article to write and I got to interview P. Diddy’s barber in Hollywood. Really nice guy. The art guy is an avid surfer so the appearance of Kelly Slater as the bald hunk poster boy is no surprise.&lt;/p&gt;
-</description>
+      <description>Here are some new articles of mine that were published in alive magazine. Click on the thumbnails to view them. The first is on whether cell phone towers are safe or not. There is much heated debate surrounding this issue and I got a lot of hate mail for even suggesting we don’t know all there is to know about the technology. The hard truth is that we just don’t have the data spanning a human lifetime to say one way or the other, so lay off haters!</description>
     </item>
     
     <item>
@@ -39,10 +35,7 @@
       <pubDate>Sat, 20 Mar 2010 22:48:41 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/it-pays-to-be-paranoid/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/candf20100001.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;As 2010 hits in full force I&amp;rsquo;m thinking of ways to schedule in more quality blog time and keep wordbit alive. In the meantime, &lt;a href=&#34;http://www.alive.com/health/avoiding-cold-flu-germs/&#34;&gt;here is my latest article&lt;/a&gt; on how to avoid cold and flu germs. I don&amp;rsquo;t know about you but I&amp;rsquo;ve run the germ gambit from Swine to March Madness varieties and I&amp;rsquo;ve had enough. So it&amp;rsquo;s apt then that my article recommends borderline conspiracy theory-fueled paranoid behaviour to avoid catching a sniffle.&lt;/p&gt;
-</description>
+      <description>As 2010 hits in full force I&amp;rsquo;m thinking of ways to schedule in more quality blog time and keep wordbit alive. In the meantime, here is my latest article on how to avoid cold and flu germs. I don&amp;rsquo;t know about you but I&amp;rsquo;ve run the germ gambit from Swine to March Madness varieties and I&amp;rsquo;ve had enough. So it&amp;rsquo;s apt then that my article recommends borderline conspiracy theory-fueled paranoid behaviour to avoid catching a sniffle.</description>
     </item>
     
     <item>
@@ -51,81 +44,7 @@
       <pubDate>Tue, 29 Sep 2009 03:50:41 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/a-veritable-article-fest/</guid>
-      <description>&lt;p&gt;This year has been busy and exciting and just plain exhausting. But I&amp;rsquo;ve finally found some time to upload a bunch of the articles that I&amp;rsquo;ve had published this year for &lt;em&gt;alive&lt;/em&gt; and &lt;em&gt;blush&lt;/em&gt; magazines. The majority focus on green issues. I&amp;rsquo;ve been somewhat typecast as the devil&amp;rsquo;s green advocate, being asked to find flaws in all manner of righteous green concepts. To read one, click on the image.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://wordbit.freehostia.com/scans/blush2.html&#34;&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/blush0002.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Baby&amp;rsquo;s nontoxic nursery: Preparing a healthy space for your newborn. What paints should you choose when decorating baby&amp;rsquo;s new room? Surrounding your new child with noxious fumes is the last thing you want to do.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://wordbit.freehostia.com/scans/Sept09.html&#34;&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/sep090001.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Lawn warfare: Pesticide and herbicide use in Canada. I interviewed the PR person from the David Suzuki Foundation as well as a professor of biomolecular chemistry to write this one.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://wordbit.freehostia.com/scans/August09.html&#34;&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/august090002.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Get in the habit: 10 easy ways to shrink your carbon footprint. This one is self explanatory. But did you know the concept for a carbon footprint was derived from those newfangled desktops in the early 90s that stood upright instead of lying flat?&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://wordbit.freehostia.com/scans/July09.html&#34;&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/july090005.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;In it for the money: Green initiatives that are good for our &lt;strike&gt;ecology&lt;/strike&gt; economy. This is one of those slightly cynical pieces. The intro comes from a really funny ad for IBM that you can &lt;a href=&#34;http://www.youtube.com/watch?v=VSNFE6eUjfY&#34;&gt;watch here on Youtube&lt;/a&gt;. The art department did an awesome job with this one.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://wordbit.freehostia.com/scans/March09.html&#34;&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/march090002.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The eco dilemma: Why electric cars won&amp;rsquo;t save the world. Once again, an alternative look at a green &lt;em&gt;deus ex machina&lt;/em&gt; (a term, incidentally, that I had originally used in the intro - but my editor wisely replaced this rather academic term with &amp;ldquo;save the day&amp;rdquo;).&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://wordbit.freehostia.com/scans/April09.html&#34;&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/April090001.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Selenium and cancer: Good news and bad. A short piece on the links between cancer and an antioxidant called selenium.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://wordbit.freehostia.com/scans/09shorts.html&#34;&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/march090001.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Two very short pieces: Cleaning our lakes - about a government restriction of phosphates, and When TVs die - about the switchover from analog to digital and the potential aftermath of discarded TVs in our landfills.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-</description>
+      <description>This year has been busy and exciting and just plain exhausting. But I&amp;rsquo;ve finally found some time to upload a bunch of the articles that I&amp;rsquo;ve had published this year for alive and blush magazines. The majority focus on green issues. I&amp;rsquo;ve been somewhat typecast as the devil&amp;rsquo;s green advocate, being asked to find flaws in all manner of righteous green concepts. To read one, click on the image.</description>
     </item>
     
     <item>
@@ -134,12 +53,7 @@
       <pubDate>Fri, 16 Jan 2009 05:38:43 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/21st-century-tips-on-finding-work/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/JobSearchNewspaper1.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;You may as well recycle those newspaper classifieds, because that old school job-finding tool belongs in the 20th century. Spurred on by the recession, a number of tech-savvy people have started blogging on various &amp;ldquo;new school&amp;rdquo; ways of getting a job. Tech evangelist Robert Scoble has &lt;a href=&#34;http://scobleizer.com/2009/01/12/if-you-are-laid-off-heres-how-to-socially-network/&#34;&gt;some crafty tips&lt;/a&gt;. I tend to agree with him when he says your blog is your résumé. After all, google my name and this blog is the first search result (and if you are a hiring manager, then please note my correct formatting of the word &lt;em&gt;résumé&lt;/em&gt;!).&lt;/p&gt;
-
-&lt;p&gt;Local writer and social media consultant Monica Hamburg talks about how to tap into the hidden job market online in &lt;a href=&#34;http://monicahamburg.wordpress.com/2009/01/13/job-search-new-school/&#34;&gt;her excellent blog post&lt;/a&gt;. It doesn&amp;rsquo;t matter whether you&amp;rsquo;re a Java programmer or a hairdresser - creating an online presence and fostering a network can benefit you. If nothing else, it&amp;rsquo;s way more fun than cold calling!&lt;/p&gt;
-</description>
+      <description>You may as well recycle those newspaper classifieds, because that old school job-finding tool belongs in the 20th century. Spurred on by the recession, a number of tech-savvy people have started blogging on various &amp;ldquo;new school&amp;rdquo; ways of getting a job. Tech evangelist Robert Scoble has some crafty tips. I tend to agree with him when he says your blog is your résumé. After all, google my name and this blog is the first search result (and if you are a hiring manager, then please note my correct formatting of the word résumé!</description>
     </item>
     
     <item>
@@ -148,12 +62,8 @@
       <pubDate>Sun, 26 Oct 2008 01:25:31 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/want-to-write-for-wired/</guid>
-      <description>&lt;p&gt;Wired magazine has some interesting pieces this month. Well, every month is pretty good, but writers might appreciate &lt;a href=&#34;http://blog.wired.com/storyboard/&#34;&gt;this behind-the-scenes look&lt;/a&gt; at how an article is assigned, written, edited, and designed. You can read the email correspondence between author and editor, and get an idea of how to pitch your story idea to a magazine. Great stuff.&lt;/p&gt;
-
-&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/ff_manuals7_f.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Also, technical writers might get a kick out of this &lt;a href=&#34;http://www.wired.com/culture/design/multimedia/2008/10/ff_manuals&#34;&gt;photo essay of classic instruction manuals&lt;/a&gt;. What I found interesting was what Dan Winters, the photographer who compiled these, had to say: &amp;ldquo;I actually think that modern manuals are unreadable,&amp;rdquo; Winters says. &amp;ldquo;Visually speaking, they probably peaked in the &amp;lsquo;30s.&amp;rdquo; What rot. Seriously - is this guy part of the MTV generation or something? End-user documentation has never been cleaner and easier to understand. In fact, most help is migrating to interactive web-based apps that even a child would coo at. I understand he&amp;rsquo;s speaking as a visually-biased photographer - not a writer, but the overly intricate diagrams in his photo essay (as cool as they are in a retro sort of way) hardly represent the peak of information architecture.&lt;/p&gt;
-</description>
+      <description>Wired magazine has some interesting pieces this month. Well, every month is pretty good, but writers might appreciate this behind-the-scenes look at how an article is assigned, written, edited, and designed. You can read the email correspondence between author and editor, and get an idea of how to pitch your story idea to a magazine. Great stuff.
+Also, technical writers might get a kick out of this photo essay of classic instruction manuals.</description>
     </item>
     
     <item>
@@ -162,22 +72,8 @@
       <pubDate>Fri, 25 Apr 2008 17:10:00 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/is-brijit-liberating-or-enslaving/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/briji.gif&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;For those of you who aren&amp;rsquo;t familiar with it, &lt;a href=&#34;http://www.brijit.com/&#34;&gt;Brijit&lt;/a&gt; is a website that publishes 100-word summaries of various web, TV, radio, and print media. The idea is that there is so much information out there - wouldn&amp;rsquo;t it be nice if we had the short-short version so we can get the gist of it and decide if it&amp;rsquo;s worth reading or watching the whole thing.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s a neat idea, but with so much content out there, it would be impossible for an editorial team to cover it all. Brijit came up with the genius idea of asking anybody to submit these 100-word summaries in exchange for $5.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;Now, let&amp;rsquo;s get this straight. Five buck for a hundred words works out to a paltry five cents a word. Top freelance rates in Canada hover at around a buck a word, and even that is pathetic. Most writers settle for around 50 cents a word, which is still ten times as much as Brijit is offering. I would assume that no serious writer would even consider working for pea&amp;hellip;oh wait, I think even peanuts are worth more than that.&lt;/p&gt;
-
-&lt;p&gt;The sad thing is that the writing on Brijit is actually &lt;em&gt;quite good&lt;/em&gt;. Are there people desperate enough to spend an hour or two reading an article and then capturing the essence of it in a 100 words? It may sound simple, but it takes far longer than you&amp;rsquo;d think to do it right.&lt;/p&gt;
-
-&lt;p&gt;Brijit ups the ante by submitting each requisition to competition - you actually have to compete with three other writers in the hopes that your piece gets chosen. So most times you just end up writing your beautifully crafted cribs note for free. Competition, however, is a great motivator for some people apparently.&lt;/p&gt;
-
-&lt;p&gt;Is Brijit turning freelance writing into a cheap mockery? Is it dragging down freelance rates by calling anybody a writer? Can you even stomach reading summaries that you know were written by word slaves?&lt;/p&gt;
-</description>
+      <description>For those of you who aren&amp;rsquo;t familiar with it, Brijit is a website that publishes 100-word summaries of various web, TV, radio, and print media. The idea is that there is so much information out there - wouldn&amp;rsquo;t it be nice if we had the short-short version so we can get the gist of it and decide if it&amp;rsquo;s worth reading or watching the whole thing.
+It&amp;rsquo;s a neat idea, but with so much content out there, it would be impossible for an editorial team to cover it all.</description>
     </item>
     
   </channel>

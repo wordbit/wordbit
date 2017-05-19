@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wordbit</title>
-    <link>http://wordbit.com/categories/technology/index.xml</link>
-    <description>Recent content on wordbit</description>
+    <title>Technology on wordbit</title>
+    <link>http://wordbit.com/categories/technology/</link>
+    <description>Recent content in Technology on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://wordbit.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Nov 2011 23:13:52 +0000</lastBuildDate>
+    
+	<atom:link href="http://wordbit.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>No rest for the dead…battery</title>
@@ -13,12 +16,8 @@
       <pubDate>Tue, 29 Nov 2011 23:13:52 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/no-rest-for-the-deadbattery/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; src=&#34;http://wordbit.com/images/Battery11.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;My &lt;a href=&#34;http://www.alive.com/lifestyle/no-rest-for-the-dead-battery/&#34;&gt;recent article&lt;/a&gt; on Battery Recycling is now available in the November issue of &lt;em&gt;alive&lt;/em&gt;. I wasn’t aware of this before researching this topic, but you can recycle both single-use and rechargeable batteries in British Columbia.&lt;/p&gt;
-
-&lt;p&gt;Personally, I’m a big fan of &lt;a href=&#34;http://www.eneloop.info/&#34;&gt;eneloop batteries&lt;/a&gt;. I believe the batteries Apple uses in their wireless mouse and keyboard are re-branded eneloops.&lt;/p&gt;
-</description>
+      <description>My recent article on Battery Recycling is now available in the November issue of alive. I wasn’t aware of this before researching this topic, but you can recycle both single-use and rechargeable batteries in British Columbia.
+Personally, I’m a big fan of eneloop batteries. I believe the batteries Apple uses in their wireless mouse and keyboard are re-branded eneloops.</description>
     </item>
     
     <item>
@@ -27,26 +26,9 @@
       <pubDate>Wed, 09 Nov 2011 00:54:51 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/three-amazing-new-technologies-that-will-blow-your-mind/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been thinking about the future and what it might bring. In my last post I talked about a 1988 school project that accurately predicted the dawn of the tablet age. Well, here are three emerging technologies that are quite simply gob smacking. You have to see these videos to believe.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Quantum Levitation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;You know that magnetic forces repel and attract, but did you know these laws can be bended so an object stays fixed in empty space? Check this out:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=Ws6AAhTw7RA&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/Ws6AAhTw7RA/0.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Holographic Interface:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;You know the holodeck on Star Trek? Maybe it isn&amp;rsquo;t so far-fetched after all. Using the Microsoft Kinect, these guys have created a holographic interface where you can interact with holographic objects as if they were real:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=JHL5tJ9ja_w&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/JHL5tJ9ja_w/0.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dream Recorder:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Researchers have used Youtube as a massive database to analyze imagery and hooked it up to a brain scanner to correlate brain patterns. This data was then used to literally display the thoughts of the subject as they dreamt. What the hell? Minority Report anyone?&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=nsjDnYxJ0bo&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/nsjDnYxJ0bo/0.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;ve been thinking about the future and what it might bring. In my last post I talked about a 1988 school project that accurately predicted the dawn of the tablet age. Well, here are three emerging technologies that are quite simply gob smacking. You have to see these videos to believe.
+Quantum Levitation
+You know that magnetic forces repel and attract, but did you know these laws can be bended so an object stays fixed in empty space?</description>
     </item>
     
     <item>
@@ -55,18 +37,8 @@
       <pubDate>Tue, 08 Nov 2011 20:21:22 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/the-ipad-in-1988/</guid>
-      <description>&lt;p&gt;In 1988 students from the University of Illinois were tasked with imagining the computer of the year 2000. What they came up with was a tablet computer that bears a striking resemblance to the iPad. From the report:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Our machine will have the same dimensions as a standard notebook. It will look like an 8&amp;rdquo;x11&amp;rdquo; monolith from the movie 2001, and be reminiscent of the Dynabook. This rectangular slab will weigh but a few pounds, and have no buttons or knobs to play with. The front surface will be a touch-sensitive display screen and will blink to life upon touching two corners.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;You can &lt;a href=&#34;http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19880008883_1988008883.pdf&#34;&gt;read the full report&lt;/a&gt; here.&lt;/p&gt;
-
-&lt;p&gt;This report is yet more proof that great ideas do not spontaneously strike like lightening. Rather, a &amp;ldquo;revolutionary&amp;rdquo; product is the culmination of decades of research, the overcoming of technological hurdles, and the courage to strike out from the pack. In this case, the tablet PC is a manifestation of a cultural perception of what such a device would look like. It is the moment when the fantastical becomes real. For example, the Star Trek communicator influencing the design of the flip-phone. Oh wait - flip phones are so 20th century.&lt;/p&gt;
-
-&lt;p&gt;Source: &lt;a href=&#34;http://www.paleofuture.com/&#34;&gt;Paleofuture blog&lt;/a&gt; - an awesome blog for viewing the future that never was.&lt;/p&gt;
-</description>
+      <description>In 1988 students from the University of Illinois were tasked with imagining the computer of the year 2000. What they came up with was a tablet computer that bears a striking resemblance to the iPad. From the report:
+ Our machine will have the same dimensions as a standard notebook. It will look like an 8&amp;rdquo;x11&amp;rdquo; monolith from the movie 2001, and be reminiscent of the Dynabook. This rectangular slab will weigh but a few pounds, and have no buttons or knobs to play with.</description>
     </item>
     
     <item>
@@ -75,12 +47,9 @@
       <pubDate>Wed, 05 Oct 2011 20:46:34 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/even-hitler-hates-the-new-iphone/</guid>
-      <description>&lt;p&gt;This is a hilarious take on the apathy surrounding the new iPhone 4S release:&lt;/p&gt;
+      <description>This is a hilarious take on the apathy surrounding the new iPhone 4S release:
 
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=Lxn6Ag0mmhs&amp;amp;w&#34;&gt;&lt;img src=&#34;https://i.ytimg.com/vi/Lxn6Ag0mmhs/mqdefault.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;LOL! Come on people.&lt;/p&gt;
-</description>
+LOL! Come on people.</description>
     </item>
     
     <item>
@@ -89,14 +58,8 @@
       <pubDate>Thu, 08 Apr 2010 18:56:01 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/why-ill-pass-on-the-ipad/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/ipad1.jpg&#34; alt=&#34;ipad&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;There were many naysayers when this “magical device” first came out. It’s nothing but a glorified iPod Touch they cried. No front-facing camera. No multitasking (until the Fall that is, when iPhone OS 4 comes out). No USB ports, and so on.&lt;/p&gt;
-
-&lt;p&gt;Well I’m not one of those nitpicking technocrats. I think that the iPad is like a shiny piece of the future, straight out of Star Trek. It’s amazing. But here’s the thing: I don’t even own a laptop. Never have. I own a Desktop computer – gasp – built piece by piece from scratch in the dirty streets of the Yongsan electronics market in Seoul, South Korea. That was six years ago. I’m not exactly an early adopter.&lt;/p&gt;
-
-&lt;p&gt;These days, however, I’ve been thinking of switching to a laptop. Sadly I won’t be able to build it myself. But at least I’ll catch up to the crowd. Maybe ten years from now, iPads will be as ubiquitous as laptops are today. If so, I may think about picking one up for myself.&lt;/p&gt;
-</description>
+      <description>There were many naysayers when this “magical device” first came out. It’s nothing but a glorified iPod Touch they cried. No front-facing camera. No multitasking (until the Fall that is, when iPhone OS 4 comes out). No USB ports, and so on.
+Well I’m not one of those nitpicking technocrats. I think that the iPad is like a shiny piece of the future, straight out of Star Trek. It’s amazing. But here’s the thing: I don’t even own a laptop.</description>
     </item>
     
     <item>
@@ -105,12 +68,8 @@
       <pubDate>Tue, 06 Apr 2010 19:32:53 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/two-years-is-a-long-time/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/desksetpic_thumb.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;To be working on a project that is. At least it feels that way considering most writing projects I’ve been involved in are over after a hair-pulling night of throwing words onto a page or two. Project timelines are a bit more distended in the technical writing world. But, anyway, enough kerfuffle. What I’d like to present to you is the best business phone ever.&lt;/p&gt;
-
-&lt;p&gt;Yes, it’s the phone system I’ve been writing those 400-page Internal Product Specifications for. Synapse is basically a VoIP-based telephony network that integrates into an existing LAN network. What this means is that you don’t have to buy fifty phone lines because it runs over the internet. I won’t bore you with the details, so why don’t you take a look at &lt;a href=&#34;http://smbtelephones.att.com/smbui/store/video/att_synapse_demo.mov&#34;&gt;a promo video&lt;/a&gt; cooked up by the AT&amp;amp;T marketing guys (Quicktime). BTW, I also worked on the text in the User Interface (the display) and I can honestly say that this is the most user-friendly business phone you’ll ever use.&lt;/p&gt;
-</description>
+      <description>To be working on a project that is. At least it feels that way considering most writing projects I’ve been involved in are over after a hair-pulling night of throwing words onto a page or two. Project timelines are a bit more distended in the technical writing world. But, anyway, enough kerfuffle. What I’d like to present to you is the best business phone ever.
+Yes, it’s the phone system I’ve been writing those 400-page Internal Product Specifications for.</description>
     </item>
     
     <item>
@@ -119,12 +78,7 @@
       <pubDate>Tue, 13 Jan 2009 05:43:45 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/2008-wrap-up-and-vtech-at-ces/</guid>
-      <description>&lt;p&gt;The first entry of 2009! Granted, this isn&amp;rsquo;t the most updated blog in the world, but I&amp;rsquo;ve managed to keep wordbit going for around two years now, which is not bad. I recently tried to find the oldest blog in the world, and &lt;a href=&#34;http://www.netfunny.com/rhf/oldest-blog.html&#34;&gt;this site&lt;/a&gt; claims to have been blogging since 1987. But that&amp;rsquo;s just their opinion - blogs in their modern incarnation haven&amp;rsquo;t been around for more than about 10 years.&lt;/p&gt;
-
-&lt;p&gt;Well, I&amp;rsquo;d like to wrap up 2008 on a personal note and let you know what&amp;rsquo;s been going on in my life - besides from recently getting engaged, which I&amp;rsquo;m really excited about. &lt;img src=&#34;http://wordbit.com/images/is9181.jpg&#34; alt=&#34;is9181&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On the work side of things, I recently extended my contract at Vtech by another 6 months. I asked for more money, which they were happy to give me. It&amp;rsquo;s been a great experience no matter what happens. I&amp;rsquo;ve been working primarily on a business phone system, but have also helped out with the Internal Product Specification (IPS) for an internet radio, which I quite enjoyed. This product recently made its debut at CES and was &lt;a href=&#34;http://www.engadget.com/2009/01/06/vtech-plunges-into-home-audio-market-with-is9181-wifi-radio/&#34;&gt;reviewed on Engadget&lt;/a&gt;. It&amp;rsquo;s nice to be able to finally talk about this stuff! I have one at my desk and really enjoy it - I can totally recommend this nifty little device. The guys put a lot of love into this one.&lt;/p&gt;
-</description>
+      <description>The first entry of 2009! Granted, this isn&amp;rsquo;t the most updated blog in the world, but I&amp;rsquo;ve managed to keep wordbit going for around two years now, which is not bad. I recently tried to find the oldest blog in the world, and this site claims to have been blogging since 1987. But that&amp;rsquo;s just their opinion - blogs in their modern incarnation haven&amp;rsquo;t been around for more than about 10 years.</description>
     </item>
     
     <item>
@@ -133,25 +87,11 @@
       <pubDate>Wed, 19 Nov 2008 05:01:16 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/delete-your-itunes/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; src=&#34;http://wordbit.com/images/apple-sucks.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Not all of Apple&amp;rsquo;s offerings are shiny and perfect. And when it comes to iTunes, most sane people will agree that this music player is just plain ugly. I applaud Scott Gilberson for calling it like it is in his blog post, &lt;a href=&#34;http://www.webmonkey.com/blog/The_Top_Ten_Reasons_iTunes_Sucks&#34;&gt;&amp;ldquo;The Top Ten Reasons iTunes Sucks&amp;rdquo;&lt;/a&gt;. Here are his main beefs:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;It&amp;rsquo;s a store stupid&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;The library manager is prehistoric&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;No web browser/Wikipedia/anything&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;No plug-in architecture&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Massive memory footprint&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;No support for other music formats Ogg/FLAC/etc.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Drag and drop sucks&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Bloatware downloads&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Can&amp;rsquo;t use iPod as a music transport with iTunes&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;iTunes is slow&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I can&amp;rsquo;t stand iTunes. Every time I open it (which, admittedly isn&amp;rsquo;t very often), it wants to upgrade and install all sorts of memory and bandwidth leeches. The only feature I like is the party shuffle. But I don&amp;rsquo;t have many parties.&lt;/p&gt;
-</description>
+      <description>Not all of Apple&amp;rsquo;s offerings are shiny and perfect. And when it comes to iTunes, most sane people will agree that this music player is just plain ugly. I applaud Scott Gilberson for calling it like it is in his blog post, &amp;ldquo;The Top Ten Reasons iTunes Sucks&amp;rdquo;. Here are his main beefs:
+ It&amp;rsquo;s a store stupid
+ The library manager is prehistoric
+ No web browser/Wikipedia/anything
+ No plug-in architecture</description>
     </item>
     
     <item>
@@ -160,10 +100,7 @@
       <pubDate>Wed, 18 Jun 2008 06:00:26 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/electric-dream/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/car.jpg&#34; alt=&#34;car&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The auto industry may have killed the electric car a few years ago, but it&amp;rsquo;s back - and dude, this is one sweet ride. Yes, going green has never been so self-indulgent&amp;hellip;or pricey for that matter. &lt;a href=&#34;http://www.teslamotors.com/&#34;&gt;The Tesla Roadster&lt;/a&gt; is a 100% electric and is available in the US and Europe, but you have to reserve it. All 2008 models are sold and in production, but you can snag a 2009 model for a mere $109,000. This is no entry level vehicle, but nice to see electric is bringing sexy back.&lt;/p&gt;
-</description>
+      <description>The auto industry may have killed the electric car a few years ago, but it&amp;rsquo;s back - and dude, this is one sweet ride. Yes, going green has never been so self-indulgent&amp;hellip;or pricey for that matter. The Tesla Roadster is a 100% electric and is available in the US and Europe, but you have to reserve it. All 2008 models are sold and in production, but you can snag a 2009 model for a mere $109,000.</description>
     </item>
     
     <item>
@@ -172,12 +109,7 @@
       <pubDate>Thu, 12 Jun 2008 05:40:53 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/one-month-till-iphone-gets-here/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/phone.png&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Is it worth switching carriers for? It certainly is tempting. Sweet 3G, the 2.0 software update and a price tag of (only) $199 on a three-year contract. Both Fido and Rogers will be launching the device on July 11 - but I happen to be with Telus. If I had a lame plan I&amp;rsquo;d drop Telus in a nanosecond. The problem is, I&amp;rsquo;m getting a pretty good deal right now - a carry-over from the time when you got unlimited evenings and weekends by default.&lt;/p&gt;
-
-&lt;p&gt;I could always shell out an extra hundred for the iPod touch. Not that I even like Apple that much. No really, I don&amp;rsquo;t. All flash and no substance. Seriously. Sleek and sexy - who needs it. Not me.&lt;/p&gt;
-</description>
+      <description>Is it worth switching carriers for? It certainly is tempting. Sweet 3G, the 2.0 software update and a price tag of (only) $199 on a three-year contract. Both Fido and Rogers will be launching the device on July 11 - but I happen to be with Telus. If I had a lame plan I&amp;rsquo;d drop Telus in a nanosecond. The problem is, I&amp;rsquo;m getting a pretty good deal right now - a carry-over from the time when you got unlimited evenings and weekends by default.</description>
     </item>
     
     <item>
@@ -186,30 +118,8 @@
       <pubDate>Tue, 13 May 2008 02:09:25 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/musical-cross-pollination-with-the-tech-industry/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/yael_naim.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;re &lt;em&gt;Homo Sapien&lt;/em&gt; then you&amp;rsquo;ve probably heard that song by Yael Naïm. Name not ringing any bells? You know, it&amp;rsquo;s the one that goes something like this: &amp;ldquo;La-la-la-la la-la-la-la-la&amp;hellip;&amp;rdquo; Still not getting it? Okay, it&amp;rsquo;s the song from the MacBook Air commercial. Yes, you know the one (and if you still have no clue, check out &lt;a href=&#34;https://youtu.be/hhE7QMXRE1g&#34;&gt;this YouTube video&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;The song is called &amp;ldquo;New Soul&amp;rdquo; and was handpicked by Steve Jobs for the MacBook campaign. As a result, Naïm, a previously unknown French-Israeli singer, became the first Israeli solo artist &lt;em&gt;ever&lt;/em&gt; to have a top ten hit in the United States.&lt;/p&gt;
-
-&lt;p&gt;The power of the tech industry to elevate an artist to stardom is a relatively new phenomenon, but one that a flagging music industry desperately needs.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;Because of that catchy song, I listened to the rest of Naïm&amp;rsquo;s album and thought it was fantastic - her songs are kind of Norah Jonesy, except in Hebrew.&lt;/p&gt;
-
-&lt;p&gt;Another artist is getting lots of exposure from un unlikely source is &lt;a href=&#34;http://www.ingridmichaelson.com/&#34;&gt;Ingrid Michaelson&lt;/a&gt;, who also landed gigs in an Old Navy commercial and on TV shows like &lt;em&gt;Grey&amp;rsquo;s Anatomy&lt;/em&gt; and &lt;em&gt;One Tree Hill&lt;/em&gt;. Google has chosen her website to be a pioneer in their new service Friend Connect, an OpenSocial networking app that can run on any website (unlike the gated communities of Facebook and Myspace).&lt;/p&gt;
-
-&lt;p&gt;According to &lt;a href=&#34;http://www.google.com/intl/en/press/annc/20080512_friend_connect.html&#34;&gt;a press release&lt;/a&gt; appearing today on Google&amp;rsquo;s Press Center,&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;hellip;starting tonight, fans who visit Ingrid&amp;rsquo;s site can connect with their friends without having to leave the site. Visitors will be able to see comments by friends from their social networks, add music to their profiles, see who is attending concerts, and enjoy other features of the iLike application, all at Ingrid&amp;rsquo;s website.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Hanging out with Ingrid on her website doesn&amp;rsquo;t mean you have to leave your preffered social networking haunt. Friends from sites like Facebook, Google Talk, hi5, orkut, Plaxo, and more can all interact via Friend Connect.&lt;/p&gt;
-
-&lt;p&gt;This kind of cross-pollination of web 2.0 technologies with the music industry can only be a huge boon for starving artists who need new ways to market their music. Companies like Apple and Google are setting great examples that I hope the rest of the tech industry will follow.&lt;/p&gt;
-</description>
+      <description>If you&amp;rsquo;re Homo Sapien then you&amp;rsquo;ve probably heard that song by Yael Naïm. Name not ringing any bells? You know, it&amp;rsquo;s the one that goes something like this: &amp;ldquo;La-la-la-la la-la-la-la-la&amp;hellip;&amp;rdquo; Still not getting it? Okay, it&amp;rsquo;s the song from the MacBook Air commercial. Yes, you know the one (and if you still have no clue, check out this YouTube video).
+The song is called &amp;ldquo;New Soul&amp;rdquo; and was handpicked by Steve Jobs for the MacBook campaign.</description>
     </item>
     
     <item>
@@ -218,14 +128,8 @@
       <pubDate>Fri, 25 Apr 2008 03:46:36 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/dangers-of-boring-work/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/headset.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Have you ever had a job that bored you into zombie mode faster than Seabiscuit on steroids? According to &lt;a href=&#34;http://news.bbc.co.uk/2/hi/science/nature/7358863.stm&#34;&gt;this BBC article&lt;/a&gt;, scientists have developed a headset that measures when our brains are about to switch into autopilot mode. This state of cognitive rest is the brain&amp;rsquo;s way of saving cogitations for something more mentally taxing like what to make for dinner tonight.&lt;/p&gt;
-
-&lt;p&gt;Going brain dead is all very well if you&amp;rsquo;re gluing hula skirts onto tiki dolls on an assembly line, but what about if you&amp;rsquo;re, say, an air traffic controller? This device could improve workplace safety (and cut down on all those WCB claims).&lt;/p&gt;
-
-&lt;p&gt;Looking at the design, though, I&amp;rsquo;d say they still have a long way to go before any employee consents to sporting this stylish headgear in comfort.&lt;/p&gt;
-</description>
+      <description>Have you ever had a job that bored you into zombie mode faster than Seabiscuit on steroids? According to this BBC article, scientists have developed a headset that measures when our brains are about to switch into autopilot mode. This state of cognitive rest is the brain&amp;rsquo;s way of saving cogitations for something more mentally taxing like what to make for dinner tonight.
+Going brain dead is all very well if you&amp;rsquo;re gluing hula skirts onto tiki dolls on an assembly line, but what about if you&amp;rsquo;re, say, an air traffic controller?</description>
     </item>
     
     <item>
@@ -234,18 +138,7 @@
       <pubDate>Fri, 15 Feb 2008 23:12:27 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/internet-privacy-that-saves-lives/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/censorshipchina.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;It doesn&amp;rsquo;t matter how many firewalls, P2P filters, script blockers, or spyware removers you use, the one giveaway to your identity on the Internet is your IP address. Those numbers will trumpet your location to whoever&amp;rsquo;s interested, which is why you&amp;rsquo;ll often see annoying ads like &amp;ldquo;Find friends in (insert your city here) now!&amp;rdquo; This lack of privacy is a huge problem for political dissidents in China, or for anyone in that country who wants to surf an uncensored version of the net.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;Fortunately, there are anonymous proxies that you can use to redirect your traffic through servers in &amp;lsquo;safe&amp;rsquo; countries. One piece of software that does this extremely well is &lt;a href=&#34;http://www.ultrareach.com/company/download.htm&#34;&gt;Ultrasurf 8&lt;/a&gt; by Ultrareach Internet Corp. Ultrasurf was designed specifically to provide surfing freedom and anonymity to the Chinese. The beauty of this software is that is searches for the fastest US proxies in the background while encrypting Internet Explorer so that you will never be hounded by the Chinese Internet police. Plugins like Firefox&amp;rsquo;s ProxySwitch, or ad-supported software like Hotspot Shield are not nearly as good.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/YentoCensor.gif&#34; alt=&#34;YentoCensor&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The benefits for Canadians of using this software is that you can get around copyright restrictions on streaming your favourite US TV shows from network sites, or streaming music on &lt;a href=&#34;http://www.pandora.com/&#34;&gt;pandora&lt;/a&gt;. I do not endorse engaging in these sorts of activities, of course, but thought you should be aware of the possibilities.&lt;/p&gt;
-</description>
+      <description>It doesn&amp;rsquo;t matter how many firewalls, P2P filters, script blockers, or spyware removers you use, the one giveaway to your identity on the Internet is your IP address. Those numbers will trumpet your location to whoever&amp;rsquo;s interested, which is why you&amp;rsquo;ll often see annoying ads like &amp;ldquo;Find friends in (insert your city here) now!&amp;rdquo; This lack of privacy is a huge problem for political dissidents in China, or for anyone in that country who wants to surf an uncensored version of the net.</description>
     </item>
     
     <item>
@@ -254,12 +147,8 @@
       <pubDate>Tue, 22 Jan 2008 01:19:47 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/macbook-air-saves-the-day/</guid>
-      <description>&lt;p&gt;Apple&amp;rsquo;s new &lt;a href=&#34;http://www.apple.com/macbookair/&#34;&gt;MacBook Air&lt;/a&gt; is purportedly the world&amp;rsquo;s thinnest (and sexiest) laptop, but is a bit shallow when it comes to hardware. The lack of CD-Rom drive or landline internet access for example, may discourage first-time laptop buyers. But if you need some compelling reasons to shell out for a laptop you can fit into a manilla envelope, perhaps these philanthropic possibilities will persuade you:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/10593.gif&#34; alt=&#34;1059&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Source: &lt;a href=&#34;http://joyoftech.com/joyoftech/joyarchives/1059.html&#34;&gt;Joyoftech.com&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Apple&amp;rsquo;s new MacBook Air is purportedly the world&amp;rsquo;s thinnest (and sexiest) laptop, but is a bit shallow when it comes to hardware. The lack of CD-Rom drive or landline internet access for example, may discourage first-time laptop buyers. But if you need some compelling reasons to shell out for a laptop you can fit into a manilla envelope, perhaps these philanthropic possibilities will persuade you:
+Source: Joyoftech.com</description>
     </item>
     
     <item>
@@ -268,12 +157,135 @@
       <pubDate>Tue, 15 Jan 2008 06:08:19 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/ipod-levy-rejected/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/story1.jpg&#34;&gt;&lt;/p&gt;
+      <description>If you&amp;rsquo;re a wannabe iPod disciple and the rumour of an iPod levy had you on your knees praying for an intervention, your prayers have been answered. Canada&amp;rsquo;s federal court told the Canadian Copyright Board they had &amp;ldquo;no authority&amp;rdquo; to impose the levy, according to this CBC News article.
+Well, this is good news indeed. I already find it cheaper to buy blank CDs in the States and would hate to cross the border to buy electronic goods as well.</description>
+    </item>
+    
+    <item>
+      <title>Skid marks on your soul</title>
+      <link>http://wordbit.com/posts/skid-marks-on-your-soul/</link>
+      <pubDate>Thu, 10 Jan 2008 23:03:03 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/skid-marks-on-your-soul/</guid>
+      <description>Over at Wired&amp;rsquo;s video gallery you can watch some amusing tech vintage commercials. While I find the ones for the old Mac, the Vic-20, and the Commodore chuckle worthy, my vote for the funniest - and the most creative - goes to the 1980s ad for the Atari 5200&amp;rsquo;s Pole Position. Back in those days, the marketing strategy was basically to show as little of the game&amp;rsquo;s graphics as possible while hyping up the game in various ridiculous ways.</description>
+    </item>
+    
+    <item>
+      <title>Wireless power could unchain laptops</title>
+      <link>http://wordbit.com/posts/wireless-power-could-unchain-laptops/</link>
+      <pubDate>Sat, 29 Dec 2007 06:05:52 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/wireless-power-could-unchain-laptops/</guid>
+      <description>This story is a few months old, but it just came to my attention and I thought it was really neat. Scientists at MIT have successfully transmitted electricity through the air. In an experiment, they were able to successfully power a 60 watt light bulb from a power source two metres away. The team are calling this new concept &amp;ldquo;witricity&amp;rdquo;.
+The potential for this new technology is pretty exciting. Imagine a world where laptops and cellphones could power themselves up when the batteries get low.</description>
+    </item>
+    
+    <item>
+      <title>Vista #1 disappointment of 2007</title>
+      <link>http://wordbit.com/posts/vista-1-disappointment-of-2007/</link>
+      <pubDate>Mon, 24 Dec 2007 08:03:23 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/vista-1-disappointment-of-2007/</guid>
+      <description>PC World has boldly declared that Vista is not all that Microsoft promised it would be. Alex and Kevin from Diggnation were talking about this on their show and how they just want the latest OS despite the sacrifices in frame rates for some games. I&amp;rsquo;ve seen Vista in action and it looks slick, but it seems to be all flash at this point. I&amp;rsquo;m extremely satisfied with the robustness of Windows Server 2003, which is so rock solid because it was designed to administer networks.</description>
+    </item>
+    
+    <item>
+      <title>iPod price hike?</title>
+      <link>http://wordbit.com/posts/ipod-price-hike/</link>
+      <pubDate>Tue, 04 Dec 2007 21:09:39 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/ipod-price-hike/</guid>
+      <description>You may be aware of Canada&amp;rsquo;s Private Copyright Collective, the organization responsible for the ridiculous levy on blank audio cassettes and CDs. Now this collective is lobbying hard for a levy on recording devices such as MP3 players, cellphones, computers, and anything you can record with basically. Their argument is that just because you can pirate music on these devices, you should pay for it. These extortionist royalties are distributed to eligible songwriters, musicians, and record production companies (although the collective is unclear on who exactly is eligible - they don&amp;rsquo;t even have to be Canadian).</description>
+    </item>
+    
+    <item>
+      <title>Amazon&#39;s paperless Utopia</title>
+      <link>http://wordbit.com/posts/amazons-paperless-utopia/</link>
+      <pubDate>Tue, 20 Nov 2007 07:33:20 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/amazons-paperless-utopia/</guid>
+      <description>Amazon took a stab at revolutionizing the reading world today with the launch of its new wireless reading device called the Kindle. It&amp;rsquo;s about the size of a paperback, has a built in keyboard and a display that&amp;rsquo;s easy on the eyes and visible in sunlight. To buy a book you hook into their network through a wireless connection, but it&amp;rsquo;s more like making a call on your cell because you don&amp;rsquo;t have to find a hotspot.</description>
+    </item>
+    
+    <item>
+      <title>Top 5 tech gifts for holidays</title>
+      <link>http://wordbit.com/posts/top-5-tech-gifts-for-holidays/</link>
+      <pubDate>Thu, 15 Nov 2007 06:38:13 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/top-5-tech-gifts-for-holidays/</guid>
+      <description>CNET just released its readers top choices for sparkly new toys they want under the tree this year. Not surprisingly the Apple iphone is only in the number five spot, despite the price slash. As for the number one spot, well, I&amp;rsquo;m not sure if I agree with that one.
+Watch it here.</description>
+    </item>
+    
+    <item>
+      <title>Seadragon changes the way we manipulate images</title>
+      <link>http://wordbit.com/posts/seadragon-changes-the-way-we-manipulate-images/</link>
+      <pubDate>Thu, 11 Oct 2007 20:45:49 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/seadragon-changes-the-way-we-manipulate-images/</guid>
+      <description>Microsoft is working on a revolutionary new technology that will blow your mind. Watch this video on Seadragon and Photosynth to learn about a new social network that merges Flickr images from thousands of users into one representational image.
 
-&lt;p&gt;If you&amp;rsquo;re a wannabe iPod disciple and &lt;a href=&#34;http://wordbit.com/posts/ipod-price-hike/&#34;&gt;the rumour of an iPod levy&lt;/a&gt; had you on your knees praying for an intervention, your prayers have been answered. Canada&amp;rsquo;s federal court told the Canadian Copyright Board they had &amp;ldquo;no authority&amp;rdquo; to impose the levy, according to this &lt;a href=&#34;http://www.cbc.ca/consumer/story/2008/01/11/levy-recorders.html?ref=rss&#34;&gt;CBC News article&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Well, this is good news indeed. I already find it cheaper to buy blank CDs in the States and would hate to cross the border to buy electronic goods as well. I&amp;rsquo;m also glad the government isn&amp;rsquo;t treating us all like a bunch of mp3 pirates who are intent on downloading every Celine Dion and Bryan Adams album we can lay our thieving hands on (because we all know how much Canadian music rocks).&lt;/p&gt;
-</description>
+Thanks to Maureen for this.</description>
+    </item>
+    
+    <item>
+      <title>Wacky science</title>
+      <link>http://wordbit.com/posts/wacky-science/</link>
+      <pubDate>Tue, 01 May 2007 05:04:19 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/wacky-science/</guid>
+      <description>Can governments read people&amp;rsquo;s minds with radio waves? Many people believe so. In fact, in order to combat this unseen menace, a paranoid subculture has arisen around the wearing of tin foil hats. This seemingly bizarre practice has garnered such credibility that an MIT student conducted empirical research in order to debunk it. Curiously, his findings indicated that tin foil in fact amplifies certain radio frequencies. Ironically, or perhaps tellingly, the frequencies amplified are the very same governmental and corporate frequencies that paranoids are trying to avoid.</description>
+    </item>
+    
+    <item>
+      <title>Greed for speed</title>
+      <link>http://wordbit.com/posts/greed-for-speed/</link>
+      <pubDate>Fri, 23 Mar 2007 04:19:59 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/greed-for-speed/</guid>
+      <description>After my nasty lesson with Google Accelerator you think I would have given up on my obsession with speeding up my Internet connection. Unfortunately, there&amp;rsquo;s nothing like the tantalizing lure of speed and power to blind even the most cautious of web surfers, especially if your Internet connection is agonizingly sluggish.
+It&amp;rsquo;s not surprising then, that this tubetorial on speeding up the Internet with Firefox caught my attention. I did briefly try it out before turning it off in horror.</description>
+    </item>
+    
+    <item>
+      <title>Writer&#39;s challenge #1</title>
+      <link>http://wordbit.com/posts/writers-challenge-1/</link>
+      <pubDate>Sat, 17 Mar 2007 07:27:00 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/writers-challenge-1/</guid>
+      <description>As promised in my last post, here is a little segment I&amp;rsquo;m going to call&amp;hellip;(insert drum-roll here)&amp;hellip;THE WRITER&amp;rsquo;S CHALLENGE! Will you muster your courage and face the cunning challenge I&amp;rsquo;ve set before you?
+Here it is:
+I am holding an object in my hand. Guess what the object is by reading it&amp;rsquo;s patent description.
+Let me warn you, this is some of the most convoluted, ridiculously bloated writing I have ever seen being used to describe something that is deceptively simple.</description>
+    </item>
+    
+    <item>
+      <title>Google Accelerator killed my website</title>
+      <link>http://wordbit.com/posts/google-accelerator-killed-my-website/</link>
+      <pubDate>Tue, 06 Mar 2007 01:18:09 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/google-accelerator-killed-my-website/</guid>
+      <description>Wordbit has been down for the count for a few days due to an experimental Google app I unwisely installed. So, just in case you were thinking of trying out one of the apps in Google Labs, think again.
+Google Accelerator ostensibly speeds up your Internet browsing by diverting web pages through their servers. The problem is that the program pre-fetches all websites on any given page. This is fine for public browsing at, say, a library.</description>
+    </item>
+    
+    <item>
+      <title>Are iPods losing their &#39;coolness&#39;?</title>
+      <link>http://wordbit.com/posts/are-ipods-losing-their-coolness/</link>
+      <pubDate>Fri, 23 Feb 2007 04:03:38 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/are-ipods-losing-their-coolness/</guid>
+      <description>There is no denying that the iPod has become part of our popular culture. What started as a neat toy for Mac users blossomed into a fashion craze for young urban hipsters. These cool urbanites identified each other not with secret handshakes but by the white ear-buds that had become the icon for &amp;ldquo;coolness&amp;rdquo;. The rise of the iPod sub-culture has a grassroots foundation in the heart of the thriving metropolis - on gritty city streets, on crowded subway trains and in public places.</description>
+    </item>
+    
+    <item>
+      <title>What does your business card say about you?</title>
+      <link>http://wordbit.com/posts/what-does-your-business-card-say-about-you/</link>
+      <pubDate>Wed, 21 Feb 2007 05:48:01 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/what-does-your-business-card-say-about-you/</guid>
+      <description>Business cards are so ubiquitous these days, but not many people consider how much of an impression their card really makes. Well, with the exception of some Asian cultures (In Asia the exchange of business cards is ritualistic - The reciever takes the card respectfully with two hands and studies it carefully before placing it carefully into a pocket for safekeeping).
+Your business card is a little piece of you that somebody carries around in their wallet.</description>
     </item>
     
   </channel>

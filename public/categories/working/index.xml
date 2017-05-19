@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wordbit</title>
-    <link>http://wordbit.com/categories/working/index.xml</link>
-    <description>Recent content on wordbit</description>
+    <title>Working on wordbit</title>
+    <link>http://wordbit.com/categories/working/</link>
+    <description>Recent content in Working on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://wordbit.com/categories/working/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 May 2010 02:21:11 +0000</lastBuildDate>
+    
+	<atom:link href="http://wordbit.com/categories/working/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Get to know your technical writer</title>
@@ -13,22 +16,8 @@
       <pubDate>Tue, 18 May 2010 02:21:11 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/get-to-know-your-technical-writer/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border-right:40px solid white&#34; src=&#34;http://wordbit.com/images/hugs.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;So you work at a big hi-tech company and you have questions. Lots of questions. But your manager is in yet another meeting and your deadline is looming. Who do you turn to? Why, your friendly, neighbourhood technical writer of course. Here’s why:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Your technical writer may have written a 500 page manual on how your product works but you sure don’t have time to read that beast. Why not ask the author directly? Your technical writer probably knows more about the product than anyone else.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Who is constantly interviewing marketing and upper management for the latest product definitions and behaviour? Not you.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;When Quality Assurance finds a bug they don’t cross-check your code, they check out the documentation. Guess who wrote the documentation.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Does your product spec give little insight into the user interface? Your technical writer thinks like a user. They do not think like you. Trust me on this.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Or maybe you have a really great idea for a product improvement but the thought of writing a proposal to the decision makers puts you off as much as writing an essay in English class did. Technical writers love writing essays. In fact, if they’re on-board with your idea you cannot find a better advocate.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>So you work at a big hi-tech company and you have questions. Lots of questions. But your manager is in yet another meeting and your deadline is looming. Who do you turn to? Why, your friendly, neighbourhood technical writer of course. Here’s why:
+ Your technical writer may have written a 500 page manual on how your product works but you sure don’t have time to read that beast. Why not ask the author directly?</description>
     </item>
     
     <item>
@@ -37,27 +26,8 @@
       <pubDate>Fri, 03 Oct 2008 05:01:32 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/would-you-hire-you/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/fired.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;In this rocky economic climate, marketing yourself has never been more crucial if you want to survive the inevitable cutbacks. When it comes to technical writing, it&amp;rsquo;s a useful exercise to understand and appreciate what companies look for in a writer.&lt;/p&gt;
-
-&lt;p&gt;Lyndsey Amott, in an &lt;a href=&#34;http://www.docsymmetry.com/hiring-a-technical-writer.html&#34;&gt;article on her website&lt;/a&gt;, stresses that industry knowledge should not be a primary deciding factor when mulling over suitable candidates. Her top three must-haves are:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;1. design a document that looks good both on paper and on-line  
-2. design a document that can be updated easily  
-3. write instructions that are easy to understand
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;She goes on to say that the proof of a good writer lies in the way they organize their thoughts and that inexperienced writers shouldn&amp;rsquo;t necessarily be dismissed.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;Technical writing consultant Jean Weber makes some good points in &lt;a href=&#34;http://www.jeanweber.com/newsite/?page_id=21&#34;&gt;this article&lt;/a&gt;. She agrees that the writing is more important than the software or technical expertise. She advises companies to look for problem-solvers who keep digging until they find all the answers. But they should be somebody tactful, not abrasive.&lt;/p&gt;
-
-&lt;p&gt;Employers are always concerned with costs and staying on budget. If you can relay the value of creating relevant content in a specific context and to a specific audience, you&amp;rsquo;re on the right track. Remember that as a technical writer you&amp;rsquo;re the bridge between subject matter experts and the stakeholders, the marketers, and the end-users. Without you, knowledge could not be channeled into capital gain.&lt;/p&gt;
-
-&lt;p&gt;So, if you find your head on the chopping block, start thinking like your employer and ask yourself why they should keep you around. The answer could just save your neck.&lt;/p&gt;
-</description>
+      <description>In this rocky economic climate, marketing yourself has never been more crucial if you want to survive the inevitable cutbacks. When it comes to technical writing, it&amp;rsquo;s a useful exercise to understand and appreciate what companies look for in a writer.
+Lyndsey Amott, in an article on her website, stresses that industry knowledge should not be a primary deciding factor when mulling over suitable candidates. Her top three must-haves are:</description>
     </item>
     
     <item>
@@ -66,28 +36,9 @@
       <pubDate>Fri, 02 May 2008 17:21:41 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/find-a-tech-writing-job-in-vancouver-part-3/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/580773.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;So, you&amp;rsquo;ve managed to land an interview. Congratulations! Time to prepare by going through possible interview questions and practicing in front of a mirror. Make sure you&amp;rsquo;ve done your research on the company and have some intelligent questions to ask them too.&lt;/p&gt;
-
-&lt;p&gt;Now what do you say once you&amp;rsquo;re sitting in the hot seat? Here are my top five tips for acing that tech-writing job interview:&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Tell your potential employer that even though you don’t know everything about their widgets right now, you love learning new things. In fact, it’s struggling through the learning process that enables you to communicate with their users.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Showcase professional pieces in your portfolio that not only show you’re a wiz in robohelp/framemaker, etc, but also show that you solved a problem and achieved a positive outcome for a real world client. If you don’t have these, volunteer to create them on spec for a non-profit organization.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Don’t sell yourself short when convincing your employer that writing matters. Make sure your employer knows that strong writing and editing is not just about juggling commas. It’s about organization, understanding your audience, usability, and ultimately creating a satisfying user experience.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Don’t be afraid to bring in some fresh ideas. Tell your potential employer about audio/visual/interactive elements that you think would enhance their traditional documentation. Show initiative.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Relax and be yourself. If you’re a geek who is passionate about technology, grammar, and the latest trends in communication, then it’ll come through in the interview. Remember that you’re trying to find the perfect fit for you.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;In part 4, coming sometime next week, I&amp;rsquo;ll talk about salary negotiations. And if you missed them, be sure to catch up on &lt;a href=&#34;http://wordbit.com/posts/find-a-tech-writing-job-in-vancouver-part-1/&#34;&gt;part 1&lt;/a&gt; and &lt;a href=&#34;http://wordbit.com/posts/find-a-tech-writing-job-in-vancouver-part-2/&#34;&gt;part 2&lt;/a&gt; in this series.&lt;/p&gt;
-</description>
+      <description>So, you&amp;rsquo;ve managed to land an interview. Congratulations! Time to prepare by going through possible interview questions and practicing in front of a mirror. Make sure you&amp;rsquo;ve done your research on the company and have some intelligent questions to ask them too.
+Now what do you say once you&amp;rsquo;re sitting in the hot seat? Here are my top five tips for acing that tech-writing job interview:
+ Tell your potential employer that even though you don’t know everything about their widgets right now, you love learning new things.</description>
     </item>
     
     <item>
@@ -96,24 +47,8 @@
       <pubDate>Mon, 28 Apr 2008 19:42:12 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/find-a-tech-writing-job-in-vancouver-part-2/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/chickenhonest.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I mentioned in part one of this series that 80% of jobs can only be found in that elusive place called &amp;ldquo;the hidden job market.&amp;rdquo; About 20% of those gigs can be gotten through employment services, cold calling, and other tactics, such as information interviews. But the other 60% are landed through referrals. That makes networking your only way to access a big chunk of the job market.&lt;/p&gt;
-
-&lt;p&gt;So how do you rustle up some contacts in Vancouver, a city that has a reputation for being a tad on the chilly side?&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;Well, a great way to get started is to join the local &lt;a href=&#34;http://www.stcwestcoast.ca/&#34;&gt;West coast STC&lt;/a&gt; chapter. Volunteering for them is a great way to make some contacts, probably even more so that just showing up for meetings.&lt;/p&gt;
-
-&lt;p&gt;Sign up for &lt;a href=&#34;http://www.bctechnology.com/&#34;&gt;T-Net direct&lt;/a&gt;, a weekly newsletter that tells you what BC technology events are happening around town. Go to events outside of your field, where you don&amp;rsquo;t expect to see a lot of other writers. That way you&amp;rsquo;ll be more unique and make more valuable connections than you would hanging out with other writers who are looking for work.&lt;/p&gt;
-
-&lt;p&gt;Let everyone know you&amp;rsquo;re looking for work, and if your cousin&amp;rsquo;s roommate&amp;rsquo;s girlfriend tells you her brother is a technical writer, ask for his contact info and set up an informational interview. Having some connection, no matter how distant, is always better than interviewing a complete stranger.&lt;/p&gt;
-
-&lt;p&gt;Most importantly, don&amp;rsquo;t network to find work. Network to be social and meet people. If you approach everybody as a possible job lead, they&amp;rsquo;ll smell the sleaze on you a mile away. Stay loose and have fun.&lt;/p&gt;
-
-&lt;p&gt;So how do you ace the tech-writing interview? That&amp;rsquo;ll be in part 3, coming this Friday.&lt;/p&gt;
-</description>
+      <description>I mentioned in part one of this series that 80% of jobs can only be found in that elusive place called &amp;ldquo;the hidden job market.&amp;rdquo; About 20% of those gigs can be gotten through employment services, cold calling, and other tactics, such as information interviews. But the other 60% are landed through referrals. That makes networking your only way to access a big chunk of the job market.
+So how do you rustle up some contacts in Vancouver, a city that has a reputation for being a tad on the chilly side?</description>
     </item>
     
     <item>
@@ -122,14 +57,8 @@
       <pubDate>Fri, 25 Apr 2008 03:46:36 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/dangers-of-boring-work/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/headset.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Have you ever had a job that bored you into zombie mode faster than Seabiscuit on steroids? According to &lt;a href=&#34;http://news.bbc.co.uk/2/hi/science/nature/7358863.stm&#34;&gt;this BBC article&lt;/a&gt;, scientists have developed a headset that measures when our brains are about to switch into autopilot mode. This state of cognitive rest is the brain&amp;rsquo;s way of saving cogitations for something more mentally taxing like what to make for dinner tonight.&lt;/p&gt;
-
-&lt;p&gt;Going brain dead is all very well if you&amp;rsquo;re gluing hula skirts onto tiki dolls on an assembly line, but what about if you&amp;rsquo;re, say, an air traffic controller? This device could improve workplace safety (and cut down on all those WCB claims).&lt;/p&gt;
-
-&lt;p&gt;Looking at the design, though, I&amp;rsquo;d say they still have a long way to go before any employee consents to sporting this stylish headgear in comfort.&lt;/p&gt;
-</description>
+      <description>Have you ever had a job that bored you into zombie mode faster than Seabiscuit on steroids? According to this BBC article, scientists have developed a headset that measures when our brains are about to switch into autopilot mode. This state of cognitive rest is the brain&amp;rsquo;s way of saving cogitations for something more mentally taxing like what to make for dinner tonight.
+Going brain dead is all very well if you&amp;rsquo;re gluing hula skirts onto tiki dolls on an assembly line, but what about if you&amp;rsquo;re, say, an air traffic controller?</description>
     </item>
     
     <item>
@@ -138,14 +67,9 @@
       <pubDate>Tue, 25 Mar 2008 03:22:47 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/check-out-my-eportfolio/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/scshotweb.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve officially uploaded the latest version of my ePortolio - you can &lt;a href=&#34;http://www.wordbit.freehostia.com/eportfolio&#34;&gt;check it out here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This website uses some flash elements and some fancy css coding and is basically geared towards technical writing employers as a way to showcase my work. I may expand it in the future to include other samples too.&lt;/p&gt;
-
-&lt;p&gt;For those who are interested, I designed it in Dreamweaver, Illustrator, and Photoshop. I used FlashSpring Pro 2 to convert a Powerpoint to flash. It&amp;rsquo;s best viewed using the latest version of any browser with a resolution of 1024x768. It&amp;rsquo;s also a bit flashier than the portfolio on this blog, which includes everything, including the kitchen sink.&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;ve officially uploaded the latest version of my ePortolio - you can check it out here.
+This website uses some flash elements and some fancy css coding and is basically geared towards technical writing employers as a way to showcase my work. I may expand it in the future to include other samples too.
+For those who are interested, I designed it in Dreamweaver, Illustrator, and Photoshop. I used FlashSpring Pro 2 to convert a Powerpoint to flash.</description>
     </item>
     
     <item>
@@ -154,34 +78,8 @@
       <pubDate>Tue, 11 Mar 2008 06:30:00 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/find-a-tech-writing-job-in-vancouver-part-1/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/vancouver-canada.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m going to start a series on finding a tech-writing job specifically in the high-tech hub of Vancouver, BC (which is where I happen to live). As I started the job search process myself, I noticed a dearth of information on this topic. I hope I can dig up some useful info for those in a similar position - eventually I&amp;rsquo;ll port this stuff over to my resources page.&lt;/p&gt;
-
-&lt;p&gt;So, without further ado, here is part 1, which will focus on job search engines. Sure, you&amp;rsquo;ll get 20% of jobs this way ( the other 80% you&amp;rsquo;ll find through the hidden job market), but it seems a good way to start. And after all, you might just might get lucky and beat the hordes of job seekers all vying for the same position&amp;hellip;&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;Here are some job search engines tailored specifically to the high-tech industry in Vancouver:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.techvibes.com/job/&#34;&gt;&lt;img src=&#34;http://wordbit.com/images/techvibes_logo.gif&#34; alt=&#34;techvibes_logo&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.techjobsvancouver.com/&#34;&gt;&lt;img src=&#34;http://wordbit.com/images/techjobsvan1.jpg&#34; alt=&#34;techjobsvan&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.bctechnology.com/frameset_emp.html&#34;&gt;&lt;img src=&#34;http://wordbit.com/images/tnet1.gif&#34; alt=&#34;tnet&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.devbistro.com/jobs/city/Vancouver/loc/Canada-BC&#34;&gt;&lt;img src=&#34;http://wordbit.com/images/db1.gif&#34; alt=&#34;db&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://seeker.dice.com/jobsearch/servlet/JobSearch?Ntx=mode+matchall&amp;amp;FRMT=0&amp;amp;COUNTRY=1338&amp;amp;N=0&amp;amp;Hf=0&amp;amp;Ntk=JobSearchRanking&amp;amp;NUM_PER_PAGE=30&amp;amp;op=300&amp;amp;y=16&amp;amp;LOCATION_OPTION=3&amp;amp;x=32&amp;amp;TAXTERM=0&amp;amp;caller=0&amp;amp;DAYSBACK=30&amp;amp;TRAVEL=0&amp;amp;Ns=p_Municipality|1&amp;amp;SORTDIR=6&amp;amp;SORTSPEC=0&#34;&gt;&lt;img src=&#34;http://wordbit.com/images/dice.gif&#34; alt=&#34;dice&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;And then of course there are the more generic search engines:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://vancouver.craigslist.ca/&#34;&gt;Craigslist&lt;/a&gt;, &lt;a href=&#34;http://www.eluta.ca/&#34;&gt;Eluta&lt;/a&gt; (I highly recommended this one), &lt;a href=&#34;http://monster.ca/&#34;&gt;Monster&lt;/a&gt;, &lt;a href=&#34;http://www.bcjobs.ca/&#34;&gt;BC jobs&lt;/a&gt;, &lt;a href=&#34;http://www.workopolis.com&#34;&gt;Workopolis&lt;/a&gt;, &lt;a href=&#34;http://www.working.com&#34;&gt;Working&lt;/a&gt;, &lt;a href=&#34;http://www.jobbank.gc.ca/&#34;&gt;Job Bank&lt;/a&gt;, and &lt;a href=&#34;http://ca.hotjobs.yahoo.com/&#34;&gt;Hot Jobs&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;For search terms, a simple boolean search (writer OR editor) normally does the trick, but you can get more specific if you want (technical communicator, information architect, etc.). There&amp;rsquo;s no perfect search term. So, start clicking and have fun checking out all those juicy (yet ephemeral) jobs out there!&lt;/p&gt;
-
-&lt;p&gt;In part 2, I&amp;rsquo;ll be discussing the interview - look for it later this week.&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;m going to start a series on finding a tech-writing job specifically in the high-tech hub of Vancouver, BC (which is where I happen to live). As I started the job search process myself, I noticed a dearth of information on this topic. I hope I can dig up some useful info for those in a similar position - eventually I&amp;rsquo;ll port this stuff over to my resources page.
+So, without further ado, here is part 1, which will focus on job search engines.</description>
     </item>
     
     <item>
@@ -190,12 +88,7 @@
       <pubDate>Wed, 28 Nov 2007 08:27:42 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/my-big-audience/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/853246_27495155.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I was trying to figure out how many people are reading my writing/editing and the numbers are pretty huge. First of all, I&amp;rsquo;ve been writing for the print edition of &lt;a href=&#34;http://alive.com&#34;&gt;alive&lt;/a&gt; at a readership of about 500,000. Then every Tuesday articles I&amp;rsquo;ve edited for &lt;a href=&#34;http://www.metronews.ca/&#34;&gt;Metro Canada&lt;/a&gt; comes out countrywide at a readership of 700,000. And the tips of the day I write for Living Naturally are published on at least 7000 websites in the US and Canada, according to &lt;a href=&#34;http://www.google.ca/search?hl=en&amp;amp;safe=off&amp;amp;q=%22This+internet+site+is+hosted+by+Living+Naturally%2C+a+Web+site+service+provider+to+natural+health+stores+nationwide.%22+&amp;amp;btnG=Search&amp;amp;meta=&#34;&gt;this Google search&lt;/a&gt;. Of course my name is only attached to the stuff I write in the magazine, but still, that&amp;rsquo;s a large audience to consider.&lt;/p&gt;
-
-&lt;p&gt;Sometimes I&amp;rsquo;m having an off day and rush through an article that 700,000 people are going to read. Then, when it comes out, I look at it and think &amp;ldquo;I can&amp;rsquo;t believe this drivel got published. I really should have spent more time on this&amp;hellip;&amp;rdquo; Or &amp;ldquo;Ultimate Frisbee in December? What the heck was I thinking?&amp;rdquo;  It&amp;rsquo;s a humbling experience.&lt;/p&gt;
-</description>
+      <description>I was trying to figure out how many people are reading my writing/editing and the numbers are pretty huge. First of all, I&amp;rsquo;ve been writing for the print edition of alive at a readership of about 500,000. Then every Tuesday articles I&amp;rsquo;ve edited for Metro Canada comes out countrywide at a readership of 700,000. And the tips of the day I write for Living Naturally are published on at least 7000 websites in the US and Canada, according to this Google search.</description>
     </item>
     
     <item>
@@ -204,28 +97,9 @@
       <pubDate>Thu, 08 Nov 2007 07:14:29 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/learning-from-leo/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/LeonardodaVinci.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Peter Legge, CEO of Canada Wide (the behemoth that publishes just about every magazine in Western Canada), recently wrote a little book on how to jump-start your career.&lt;/p&gt;
-
-&lt;p&gt;He advises us to model ourselves after Leonardo da Vinci, who believed that seven key elements allowed him to become one of the most incredible innovators of our time. Here they are:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;em&gt;Curiosita&lt;/em&gt;: An insatiably curious approach to life and an unrelenting quest for continuous learning.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;em&gt;Dimostrazione&lt;/em&gt;: A commitment to test knowledge through experience.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;em&gt;Sensazione&lt;/em&gt;: The continual refinement of the sense, especially sight, as the means to enliven experience.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;em&gt;Sfumato&lt;/em&gt; (literally, &amp;ldquo;Going up in smoke&amp;rdquo;): A willingness to embrace ambiguity, paradox and uncertainty.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;em&gt;Arte/Scienza&lt;/em&gt;: The development of the balance between science and art, logic and imagination. Whole-brain thinking.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;em&gt;Corporalita&lt;/em&gt;: The cultivation of grace, ambidexterity, fitness, and poise.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;em&gt;Connessione&lt;/em&gt;: A recognition of and an appreciation for the interconnectedness of all things and phenomena. Systems thinking.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>Peter Legge, CEO of Canada Wide (the behemoth that publishes just about every magazine in Western Canada), recently wrote a little book on how to jump-start your career.
+He advises us to model ourselves after Leonardo da Vinci, who believed that seven key elements allowed him to become one of the most incredible innovators of our time. Here they are:
+ Curiosita: An insatiably curious approach to life and an unrelenting quest for continuous learning.</description>
     </item>
     
     <item>
@@ -234,12 +108,8 @@
       <pubDate>Tue, 15 May 2007 03:00:05 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/unfortunate-demise-of-a-proofreader/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve heard tales of proofreaders being unappreciated and underpaid, but this takes the cake! Check out this news article on a proofreader who died at work and was only discovered five days later by the janitor.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/turkle%5B3%5D.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Okay, okay, this story seems too bizarre to be true, and so it is. This article was later determined to be a fake. I mean think about it - even if the office had it&amp;rsquo;s air conditioning turned up to the max (unlikely on a cold October day in New York), the corpse would have started emitting an offense odour after three days. The point of this fabricated article is, and I quote: &amp;ldquo;Don&amp;rsquo;t work too hard because nobody notices anyway.&amp;rdquo; And it sucks to be a proofreader!&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;ve heard tales of proofreaders being unappreciated and underpaid, but this takes the cake! Check out this news article on a proofreader who died at work and was only discovered five days later by the janitor.
+Okay, okay, this story seems too bizarre to be true, and so it is. This article was later determined to be a fake. I mean think about it - even if the office had it&amp;rsquo;s air conditioning turned up to the max (unlikely on a cold October day in New York), the corpse would have started emitting an offense odour after three days.</description>
     </item>
     
     <item>
@@ -248,12 +118,7 @@
       <pubDate>Thu, 26 Apr 2007 05:36:27 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/free-software/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/ga-logo-image%5B6%5D.gif&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m mostly writing this entry to make sure my website doesn&amp;rsquo;t die a horrible gurgling death as it flushes away down the internet drain of obscurity. I&amp;rsquo;ve been busy writing and editing full-time at &lt;em&gt;alive&lt;/em&gt;, and loving it! I especially enjoy interacting with readers of the magazine and answering their questions and concerns in that nice, friendly manner that sometimes straddles the line between professionalism and condescension. I&amp;rsquo;d love to write about it in more detail here, but there are confidentiality issues involved, suffice to say, I do get a lot of &amp;lsquo;interesting&amp;rsquo; letters from those that perhaps do not have full reign over their mental faculties. &amp;lsquo;nuff said? I promise to soon reveal the answer to my impossible writer&amp;rsquo;s challenge. One of my friend&amp;rsquo;s attempted it and failed miserably. I&amp;rsquo;m sure that nobody will get it, so that&amp;rsquo;s coming up, along with a brand spanking new challenge that involves a Japanese product that got lost in translation.&lt;/p&gt;
-
-&lt;p&gt;But for today, let me tell you about a website that I&amp;rsquo;ve been digging over the past few months: &lt;a href=&#34;http://www.giveawayoftheday.com/&#34;&gt;Giveaway of the day&lt;/a&gt;, a site that literally gives commercial software away every day for free! There has been some whiners on the site that think they give away too many screensavers and that sort of thing, but hey, it&amp;rsquo;s free and once in a while a really good one comes along, so check it out! The same company has also started &lt;a href=&#34;http://game.giveawayoftheday.com/&#34;&gt;Game giveaway of the day&lt;/a&gt; which gives away, you guessed it - oodles of games.&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;m mostly writing this entry to make sure my website doesn&amp;rsquo;t die a horrible gurgling death as it flushes away down the internet drain of obscurity. I&amp;rsquo;ve been busy writing and editing full-time at alive, and loving it! I especially enjoy interacting with readers of the magazine and answering their questions and concerns in that nice, friendly manner that sometimes straddles the line between professionalism and condescension. I&amp;rsquo;d love to write about it in more detail here, but there are confidentiality issues involved, suffice to say, I do get a lot of &amp;lsquo;interesting&amp;rsquo; letters from those that perhaps do not have full reign over their mental faculties.</description>
     </item>
     
     <item>
@@ -262,12 +127,7 @@
       <pubDate>Wed, 04 Apr 2007 23:07:43 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/do-you-love-your-job/</guid>
-      <description>&lt;p&gt;What kind of perks do you get at work? Is it better to have a meaty salary and work like a dog - or have fun all day and get paid less? This dilemma is exemplified in a comparison of arch enemies Microsoft and Google. Microsoft pays really well but I&amp;rsquo;ve heard from people who work there that it&amp;rsquo;s a fast-track to slavery and that you can kiss your nights and weekends goodbye. There&amp;rsquo;s this mentality that you should be privileged to work for Bill Gates and willingly lay down your life for the company. But how loyal are Microsoft employees really? Compare this mentality with Google who treat their employees like royalty. Thought you had it good at work? Google was just voted best company to work for by Fortune Magazine, and it&amp;rsquo;s not hard to see why. Check out this clip of the Google work environment (Via &lt;a href=&#34;http://labnol.blogspot.com/2007/04/video-tour-of-google-office-and-lavish.html&#34;&gt;Digital Inspiration&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;Watching this video, it almost seems like Google is becoming a cult. Think about it - you never have to leave the office, it&amp;rsquo;s more fun hanging out at work and eating gourmet food and getting massages than hanging out at home. I&amp;rsquo;m sure &amp;ldquo;Googlers&amp;rdquo; work longer hours than Microsoft employees but nobody&amp;rsquo;s complaining. People will willingly work all night because their loyalty is unshakable. Productivity is through the roof. If only more companies would start treating their employees like their most precious commodity, what a world this would be.&lt;/p&gt;
-
-&lt;p&gt;On a similar note, I&amp;rsquo;ve just accepted a summer internship position at &lt;a href=&#34;http://www.alive.com/&#34;&gt;alive magazine&lt;/a&gt;. I&amp;rsquo;m pretty excited about it. Alive is a nationwide publication with a readership of almost half a million. I&amp;rsquo;ll be working in the editorial department as a writer and editor. I&amp;rsquo;ve already start writing some articles for them on environmental issues and fitness. It&amp;rsquo;s awesome! I get to inspire people to live fuller, more enriching lives and get paid for it. What more could you want?&lt;/p&gt;
-</description>
+      <description>What kind of perks do you get at work? Is it better to have a meaty salary and work like a dog - or have fun all day and get paid less? This dilemma is exemplified in a comparison of arch enemies Microsoft and Google. Microsoft pays really well but I&amp;rsquo;ve heard from people who work there that it&amp;rsquo;s a fast-track to slavery and that you can kiss your nights and weekends goodbye.</description>
     </item>
     
   </channel>

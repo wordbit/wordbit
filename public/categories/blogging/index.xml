@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wordbit</title>
-    <link>http://wordbit.com/categories/blogging/index.xml</link>
-    <description>Recent content on wordbit</description>
+    <title>Blogging on wordbit</title>
+    <link>http://wordbit.com/categories/blogging/</link>
+    <description>Recent content in Blogging on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://wordbit.com/categories/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2011 04:55:38 +0000</lastBuildDate>
+    
+	<atom:link href="http://wordbit.com/categories/blogging/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Easy access to private blog</title>
@@ -13,8 +16,7 @@
       <pubDate>Thu, 07 Apr 2011 04:55:38 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/easy-access-to-private-blog/</guid>
-      <description>&lt;p&gt;Just a reminder that you can read uncensored rants and view personal pictures on my private blog. To make it simple, I&amp;rsquo;ve added a &amp;ldquo;PRIVATE&amp;rdquo; button to the top menu bar on this website in between &amp;ldquo;CONTACT&amp;rdquo; and &amp;ldquo;RSS&amp;rdquo;. If you know me, just email or facebook me and ask for the password. It&amp;rsquo;s simple - if I even vaguely know who you are, then you&amp;rsquo;re in. Don&amp;rsquo;t worry, I&amp;rsquo;m not screening out people I don&amp;rsquo;t like, lol! Otherwise, I will still cross-post geeky stuff right here on wordbit. Thanks for reading amigos.&lt;/p&gt;
-</description>
+      <description>Just a reminder that you can read uncensored rants and view personal pictures on my private blog. To make it simple, I&amp;rsquo;ve added a &amp;ldquo;PRIVATE&amp;rdquo; button to the top menu bar on this website in between &amp;ldquo;CONTACT&amp;rdquo; and &amp;ldquo;RSS&amp;rdquo;. If you know me, just email or facebook me and ask for the password. It&amp;rsquo;s simple - if I even vaguely know who you are, then you&amp;rsquo;re in. Don&amp;rsquo;t worry, I&amp;rsquo;m not screening out people I don&amp;rsquo;t like, lol!</description>
     </item>
     
     <item>
@@ -23,8 +25,7 @@
       <pubDate>Wed, 09 Mar 2011 04:19:44 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/up-close-and-personal/</guid>
-      <description>&lt;p&gt;Another year is upon us and wordbit is in its 5th year! But with sporadic posts, this site has slowly slipped into oblivion. Well, I always have good intentions, but I have decided to create another personal blog, while keeping wordbit as the &amp;ldquo;public face&amp;rdquo; of my professional life. So, my personal blog is at &lt;a href=&#34;http://antoineg.info&#34;&gt;antoineg.info&lt;/a&gt;, but you&amp;rsquo;ll need to ask me for the password to access it. If I know you, you&amp;rsquo;re in! I&amp;rsquo;ve just gotten tired of fighting off the spammers and dealing with privacy issues and the dominance of Facebook as well. But I&amp;rsquo;m not abandoning this site by any means. I&amp;rsquo;ll have some more articles to tell you about soon.&lt;/p&gt;
-</description>
+      <description>Another year is upon us and wordbit is in its 5th year! But with sporadic posts, this site has slowly slipped into oblivion. Well, I always have good intentions, but I have decided to create another personal blog, while keeping wordbit as the &amp;ldquo;public face&amp;rdquo; of my professional life. So, my personal blog is at antoineg.info, but you&amp;rsquo;ll need to ask me for the password to access it. If I know you, you&amp;rsquo;re in!</description>
     </item>
     
     <item>
@@ -33,22 +34,9 @@
       <pubDate>Wed, 27 Feb 2008 08:11:57 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/northern-voice-a-wrap/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/poster1.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m glad I was able to attend Northern Voice this year - it was informative and inspiring for the most part. All the clicking laptops around me were a bit daunting, but gave me something to aspire to.&lt;/p&gt;
-
-&lt;p&gt;The morning kicked off with the keynote address by &lt;a href=&#34;http://ma.tt&#34;&gt;Matt Mullenweg&lt;/a&gt;, founder of Wordpress (the excellent blogging platform on which this website is based). Listen to &lt;a href=&#34;http://atlargemedia.com/content/podcast-matt-mullenweg-keynote-northern-voice-2008&#34;&gt;the audio&lt;/a&gt; here.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;I then listened to a talk by the CEO of Broadband Mechanics, &lt;a href=&#34;http://en.wikipedia.org/wiki/Marc_Canter&#34;&gt;Marc Canter&lt;/a&gt; on bringing social to software. Next was an inspirational diatribe on the state of our stats-obsessed blogging world by &lt;a href=&#34;http://uncleweed.net/&#34;&gt;Dave Olson&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;In the afternoon, Alan Levine gave us &lt;a href=&#34;http://cogdogroo.wikispaces.com/50+Ways&#34;&gt;50 web 2.0 ways to tell a story&lt;/a&gt; (his was a tearjerker about a dog). Vancouver photographer &lt;a href=&#34;http://kriskrug.com/&#34;&gt;Kris Krug&lt;/a&gt; then faced off against his mentor &lt;a href=&#34;http://www.alexwaterhousehayward.com/index.php&#34;&gt;Alex Waterhouse-Hayward&lt;/a&gt; on the best medium for photography - hard copy or digital?&lt;/p&gt;
-
-&lt;p&gt;Finally, &lt;a href=&#34;http://www.socialsignal.com/blog/rob-cottingham&#34;&gt;Rob Cottingham&lt;/a&gt; gave a talk called Blogger 911, about using blogs for crisis communications, something we&amp;rsquo;re doing a lot of in PR class. He also draws some great cartoons about social media - check them out on his page.&lt;/p&gt;
-
-&lt;p&gt;Overall it was worth going and I&amp;rsquo;ll be going next year - hopefully with a laptop this time!&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;m glad I was able to attend Northern Voice this year - it was informative and inspiring for the most part. All the clicking laptops around me were a bit daunting, but gave me something to aspire to.
+The morning kicked off with the keynote address by Matt Mullenweg, founder of Wordpress (the excellent blogging platform on which this website is based). Listen to the audio here.
+I then listened to a talk by the CEO of Broadband Mechanics, Marc Canter on bringing social to software.</description>
     </item>
     
     <item>
@@ -57,12 +45,8 @@
       <pubDate>Tue, 05 Feb 2008 05:56:49 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/come-to-northern-voice-2008/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/Banner2.png&#34; alt=&#34;Banner&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Whether you&amp;rsquo;re a hardcore blogger or just thinking of starting one up, you can&amp;rsquo;t miss &lt;a href=&#34;http://2008.northernvoice.ca/&#34;&gt;Northern Voice&lt;/a&gt;, Vancouver&amp;rsquo;s 4th blogging and social media conference. This event gets bigger and more popular every year, but is still &amp;ldquo;cheap, friendly and open to all.&amp;rdquo; It&amp;rsquo;s only $40 for one day ($60 for both).&lt;/p&gt;
-
-&lt;p&gt;On a similar note, the second &lt;a href=&#34;http://www.doctrain.com/west/&#34;&gt;DocTrain West&lt;/a&gt; is coming to Vancouver in May and the topic is - gosh, what a shocker - Web 2.0 and it&amp;rsquo;s impact on communication. If you have $999 to spare, or maybe a generous employer, then do attend - it&amp;rsquo;s the &lt;em&gt;crème de la crème&lt;/em&gt; of conferences for technical communicators.&lt;/p&gt;
-</description>
+      <description>Whether you&amp;rsquo;re a hardcore blogger or just thinking of starting one up, you can&amp;rsquo;t miss Northern Voice, Vancouver&amp;rsquo;s 4th blogging and social media conference. This event gets bigger and more popular every year, but is still &amp;ldquo;cheap, friendly and open to all.&amp;rdquo; It&amp;rsquo;s only $40 for one day ($60 for both).
+On a similar note, the second DocTrain West is coming to Vancouver in May and the topic is - gosh, what a shocker - Web 2.</description>
     </item>
     
   </channel>

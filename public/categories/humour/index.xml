@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wordbit</title>
-    <link>http://wordbit.com/categories/humour/index.xml</link>
-    <description>Recent content on wordbit</description>
+    <title>Humour on wordbit</title>
+    <link>http://wordbit.com/categories/humour/</link>
+    <description>Recent content in Humour on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://wordbit.com/categories/humour/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2011 01:05:16 +0000</lastBuildDate>
+    
+	<atom:link href="http://wordbit.com/categories/humour/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Win an iPad 3…thousand!</title>
@@ -13,12 +16,7 @@
       <pubDate>Fri, 09 Dec 2011 01:05:16 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/win-an-ipad-3thousand/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://wordbit.com/images/ipad3000.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’d like to reward all my loyal readers with a chance to win the iPad 3000! Featuring a holographic, 4D display with a synaptic interface, the iPad 3000 is sure to blow everybody’s mind. Just tell me how awesome I am, tell your friends how awesome I am, tweet about me, write about this competition in your Facebook status, create a Youtube video telling me why you want to win one of these beauties, drive traffic to my blog, and leave a comment with a valid email address! When the iPad 3000 is released sometime in the 51st century, I’ll pick a winner.&lt;/p&gt;
-
-&lt;p&gt;Good luck to all! And thanks for reading. No really, thanks.&lt;/p&gt;
-</description>
+      <description>I’d like to reward all my loyal readers with a chance to win the iPad 3000! Featuring a holographic, 4D display with a synaptic interface, the iPad 3000 is sure to blow everybody’s mind. Just tell me how awesome I am, tell your friends how awesome I am, tweet about me, write about this competition in your Facebook status, create a Youtube video telling me why you want to win one of these beauties, drive traffic to my blog, and leave a comment with a valid email address!</description>
     </item>
     
     <item>
@@ -27,12 +25,9 @@
       <pubDate>Wed, 05 Oct 2011 20:46:34 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/even-hitler-hates-the-new-iphone/</guid>
-      <description>&lt;p&gt;This is a hilarious take on the apathy surrounding the new iPhone 4S release:&lt;/p&gt;
+      <description>This is a hilarious take on the apathy surrounding the new iPhone 4S release:
 
-&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=Lxn6Ag0mmhs&amp;amp;w&#34;&gt;&lt;img src=&#34;https://i.ytimg.com/vi/Lxn6Ag0mmhs/mqdefault.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;LOL! Come on people.&lt;/p&gt;
-</description>
+LOL! Come on people.</description>
     </item>
     
   </channel>

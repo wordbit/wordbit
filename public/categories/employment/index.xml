@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wordbit</title>
-    <link>http://wordbit.com/categories/employment/index.xml</link>
-    <description>Recent content on wordbit</description>
+    <title>Employment on wordbit</title>
+    <link>http://wordbit.com/categories/employment/</link>
+    <description>Recent content in Employment on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://wordbit.com/categories/employment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Apr 2010 19:32:53 +0000</lastBuildDate>
+    
+	<atom:link href="http://wordbit.com/categories/employment/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Two years is a long time…</title>
@@ -13,12 +16,8 @@
       <pubDate>Tue, 06 Apr 2010 19:32:53 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/two-years-is-a-long-time/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/desksetpic_thumb.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;To be working on a project that is. At least it feels that way considering most writing projects I’ve been involved in are over after a hair-pulling night of throwing words onto a page or two. Project timelines are a bit more distended in the technical writing world. But, anyway, enough kerfuffle. What I’d like to present to you is the best business phone ever.&lt;/p&gt;
-
-&lt;p&gt;Yes, it’s the phone system I’ve been writing those 400-page Internal Product Specifications for. Synapse is basically a VoIP-based telephony network that integrates into an existing LAN network. What this means is that you don’t have to buy fifty phone lines because it runs over the internet. I won’t bore you with the details, so why don’t you take a look at &lt;a href=&#34;http://smbtelephones.att.com/smbui/store/video/att_synapse_demo.mov&#34;&gt;a promo video&lt;/a&gt; cooked up by the AT&amp;amp;T marketing guys (Quicktime). BTW, I also worked on the text in the User Interface (the display) and I can honestly say that this is the most user-friendly business phone you’ll ever use.&lt;/p&gt;
-</description>
+      <description>To be working on a project that is. At least it feels that way considering most writing projects I’ve been involved in are over after a hair-pulling night of throwing words onto a page or two. Project timelines are a bit more distended in the technical writing world. But, anyway, enough kerfuffle. What I’d like to present to you is the best business phone ever.
+Yes, it’s the phone system I’ve been writing those 400-page Internal Product Specifications for.</description>
     </item>
     
     <item>
@@ -27,12 +26,7 @@
       <pubDate>Fri, 16 Jan 2009 05:38:43 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/21st-century-tips-on-finding-work/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/JobSearchNewspaper1.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;You may as well recycle those newspaper classifieds, because that old school job-finding tool belongs in the 20th century. Spurred on by the recession, a number of tech-savvy people have started blogging on various &amp;ldquo;new school&amp;rdquo; ways of getting a job. Tech evangelist Robert Scoble has &lt;a href=&#34;http://scobleizer.com/2009/01/12/if-you-are-laid-off-heres-how-to-socially-network/&#34;&gt;some crafty tips&lt;/a&gt;. I tend to agree with him when he says your blog is your résumé. After all, google my name and this blog is the first search result (and if you are a hiring manager, then please note my correct formatting of the word &lt;em&gt;résumé&lt;/em&gt;!).&lt;/p&gt;
-
-&lt;p&gt;Local writer and social media consultant Monica Hamburg talks about how to tap into the hidden job market online in &lt;a href=&#34;http://monicahamburg.wordpress.com/2009/01/13/job-search-new-school/&#34;&gt;her excellent blog post&lt;/a&gt;. It doesn&amp;rsquo;t matter whether you&amp;rsquo;re a Java programmer or a hairdresser - creating an online presence and fostering a network can benefit you. If nothing else, it&amp;rsquo;s way more fun than cold calling!&lt;/p&gt;
-</description>
+      <description>You may as well recycle those newspaper classifieds, because that old school job-finding tool belongs in the 20th century. Spurred on by the recession, a number of tech-savvy people have started blogging on various &amp;ldquo;new school&amp;rdquo; ways of getting a job. Tech evangelist Robert Scoble has some crafty tips. I tend to agree with him when he says your blog is your résumé. After all, google my name and this blog is the first search result (and if you are a hiring manager, then please note my correct formatting of the word résumé!</description>
     </item>
     
     <item>
@@ -41,12 +35,7 @@
       <pubDate>Tue, 13 Jan 2009 05:43:45 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/2008-wrap-up-and-vtech-at-ces/</guid>
-      <description>&lt;p&gt;The first entry of 2009! Granted, this isn&amp;rsquo;t the most updated blog in the world, but I&amp;rsquo;ve managed to keep wordbit going for around two years now, which is not bad. I recently tried to find the oldest blog in the world, and &lt;a href=&#34;http://www.netfunny.com/rhf/oldest-blog.html&#34;&gt;this site&lt;/a&gt; claims to have been blogging since 1987. But that&amp;rsquo;s just their opinion - blogs in their modern incarnation haven&amp;rsquo;t been around for more than about 10 years.&lt;/p&gt;
-
-&lt;p&gt;Well, I&amp;rsquo;d like to wrap up 2008 on a personal note and let you know what&amp;rsquo;s been going on in my life - besides from recently getting engaged, which I&amp;rsquo;m really excited about. &lt;img src=&#34;http://wordbit.com/images/is9181.jpg&#34; alt=&#34;is9181&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On the work side of things, I recently extended my contract at Vtech by another 6 months. I asked for more money, which they were happy to give me. It&amp;rsquo;s been a great experience no matter what happens. I&amp;rsquo;ve been working primarily on a business phone system, but have also helped out with the Internal Product Specification (IPS) for an internet radio, which I quite enjoyed. This product recently made its debut at CES and was &lt;a href=&#34;http://www.engadget.com/2009/01/06/vtech-plunges-into-home-audio-market-with-is9181-wifi-radio/&#34;&gt;reviewed on Engadget&lt;/a&gt;. It&amp;rsquo;s nice to be able to finally talk about this stuff! I have one at my desk and really enjoy it - I can totally recommend this nifty little device. The guys put a lot of love into this one.&lt;/p&gt;
-</description>
+      <description>The first entry of 2009! Granted, this isn&amp;rsquo;t the most updated blog in the world, but I&amp;rsquo;ve managed to keep wordbit going for around two years now, which is not bad. I recently tried to find the oldest blog in the world, and this site claims to have been blogging since 1987. But that&amp;rsquo;s just their opinion - blogs in their modern incarnation haven&amp;rsquo;t been around for more than about 10 years.</description>
     </item>
     
     <item>
@@ -55,12 +44,8 @@
       <pubDate>Tue, 18 Nov 2008 04:37:46 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/culture-shockat-work/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/paper_people-.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;re more concerned with your company culture than the size of your pay cheque, your might be interested in this Vancouver start-up. &lt;a href=&#34;http://jiibe.com/&#34;&gt;Jiibe&lt;/a&gt; is a user-generated service that matches your value system to a compatible company based on a questionnaire you fill out.&lt;/p&gt;
-
-&lt;p&gt;I can see this site being really useful to young Millennials who care a great deal about the softer aspects of job satisfaction and are in a process of self-discovery. However, this sort of thing (&amp;ldquo;eHarmony for jobs&amp;rdquo; as one user put it) might be a bit touchy-feely for boomers. But hey, if you&amp;rsquo;re unemployed you probably have time to slog through the 100+ questions and spend some pleasant self-actualization time finding out you should have been working for Tim Hortons this whole time.&lt;/p&gt;
-</description>
+      <description>If you&amp;rsquo;re more concerned with your company culture than the size of your pay cheque, your might be interested in this Vancouver start-up. Jiibe is a user-generated service that matches your value system to a compatible company based on a questionnaire you fill out.
+I can see this site being really useful to young Millennials who care a great deal about the softer aspects of job satisfaction and are in a process of self-discovery.</description>
     </item>
     
     <item>
@@ -69,27 +54,8 @@
       <pubDate>Fri, 03 Oct 2008 05:01:32 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/would-you-hire-you/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/fired.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;In this rocky economic climate, marketing yourself has never been more crucial if you want to survive the inevitable cutbacks. When it comes to technical writing, it&amp;rsquo;s a useful exercise to understand and appreciate what companies look for in a writer.&lt;/p&gt;
-
-&lt;p&gt;Lyndsey Amott, in an &lt;a href=&#34;http://www.docsymmetry.com/hiring-a-technical-writer.html&#34;&gt;article on her website&lt;/a&gt;, stresses that industry knowledge should not be a primary deciding factor when mulling over suitable candidates. Her top three must-haves are:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;1. design a document that looks good both on paper and on-line  
-2. design a document that can be updated easily  
-3. write instructions that are easy to understand
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;She goes on to say that the proof of a good writer lies in the way they organize their thoughts and that inexperienced writers shouldn&amp;rsquo;t necessarily be dismissed.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;Technical writing consultant Jean Weber makes some good points in &lt;a href=&#34;http://www.jeanweber.com/newsite/?page_id=21&#34;&gt;this article&lt;/a&gt;. She agrees that the writing is more important than the software or technical expertise. She advises companies to look for problem-solvers who keep digging until they find all the answers. But they should be somebody tactful, not abrasive.&lt;/p&gt;
-
-&lt;p&gt;Employers are always concerned with costs and staying on budget. If you can relay the value of creating relevant content in a specific context and to a specific audience, you&amp;rsquo;re on the right track. Remember that as a technical writer you&amp;rsquo;re the bridge between subject matter experts and the stakeholders, the marketers, and the end-users. Without you, knowledge could not be channeled into capital gain.&lt;/p&gt;
-
-&lt;p&gt;So, if you find your head on the chopping block, start thinking like your employer and ask yourself why they should keep you around. The answer could just save your neck.&lt;/p&gt;
-</description>
+      <description>In this rocky economic climate, marketing yourself has never been more crucial if you want to survive the inevitable cutbacks. When it comes to technical writing, it&amp;rsquo;s a useful exercise to understand and appreciate what companies look for in a writer.
+Lyndsey Amott, in an article on her website, stresses that industry knowledge should not be a primary deciding factor when mulling over suitable candidates. Her top three must-haves are:</description>
     </item>
     
     <item>
@@ -98,47 +64,7 @@
       <pubDate>Tue, 29 Jul 2008 04:30:03 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/professional-writers-online/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/exploring.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s been about four months since my classmates and I graduated from the Print Futures Professional Writing Program. If you&amp;rsquo;re serious about your craft and are thinking of attending this two-year diploma program, I heartily encourage you to go for it. I love to write and I love getting paid to do it even more. But don&amp;rsquo;t kid yourself - writing well works up a mental sweat for every writer, whether oozing with talent or not.&lt;/p&gt;
-
-&lt;p&gt;I thought I&amp;rsquo;d acknowledge some of my graduated colleagues who have websites online. The reason most of the sites on the list below are not on my blogroll is because they&amp;rsquo;re static pages. In other words, they&amp;rsquo;re not regularly updated - which is a little unfortunate in my opinion because I love to read what people are up to in the minutiae of their lives and enjoy reading the blogs of people I know. I almost never check in with static pages. Facebook&amp;rsquo;s great, but is more like a sophisticated telegraphing machine than a home you can personalize and make your own.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;If you&amp;rsquo;re a Print Futures Grad and have a blog or regularly updated site that&amp;rsquo;s not on this list, please let me know - I&amp;rsquo;d love to add you.&lt;/p&gt;
-
-&lt;p&gt;In no particular order:&lt;/p&gt;
-
-&lt;p&gt;Josie Padro: &lt;a href=&#34;http://theprobe.wordpress.com/&#34;&gt;The Probe&lt;/a&gt; is Josie&amp;rsquo;s blog.&lt;br /&gt;
-Current position: Freelance writer (&lt;em&gt;alive&lt;/em&gt;, Vancouverplus).&lt;/p&gt;
-
-&lt;p&gt;Shawn Klemmer: You can find Shawn at &lt;a href=&#34;http://www.wildgrass.ca/&#34;&gt;Wildgrass Communications&lt;/a&gt;.&lt;br /&gt;
-Current position: Public Relations Officer at the Xa:ytem Longhouse Interpretive Centre.&lt;/p&gt;
-
-&lt;p&gt;Pamela Findling: Pamela&amp;rsquo;s &lt;a href=&#34;http://www.pamelafindling.com/&#34;&gt;portfolio website&lt;/a&gt;.&lt;br /&gt;
-Current position: Communications Coordinator at Science World (Telus World of Science).&lt;/p&gt;
-
-&lt;p&gt;James Lee: James&amp;rsquo; &lt;a href=&#34;http://www3.telus.net/jl/&#34;&gt;portfolio website&lt;/a&gt;.&lt;br /&gt;
-Current position: Procedures Analyst at Central 1 Credit Union.&lt;/p&gt;
-
-&lt;p&gt;Laura Kelsey: personal &lt;a href=&#34;http://www.laurakelsey.com/&#34;&gt;portfolio website&lt;/a&gt;.&lt;br /&gt;
-Current position: Editor of 100 Mile House Free Press.&lt;/p&gt;
-
-&lt;p&gt;Nicole Skutelnik: personal &lt;a href=&#34;http://www.nicoleskutelnik.com/&#34;&gt;portfolio website&lt;/a&gt;.&lt;br /&gt;
-Current position: Novelist (children&amp;rsquo;s lit).&lt;/p&gt;
-
-&lt;p&gt;Nissa Wells: personal &lt;a href=&#34;http://www.nissawells.com/&#34;&gt;portfolio website&lt;/a&gt;.&lt;br /&gt;
-Current position: Online editor for Tactics Magazine.&lt;/p&gt;
-
-&lt;p&gt;Denis Orellana: You can find Denis at &lt;a href=&#34;http://www.dmowriting.com/&#34;&gt;DMO Writing&lt;/a&gt;.&lt;br /&gt;
-Current position: Editor of E.GO Magazine.&lt;/p&gt;
-
-&lt;p&gt;Kai Jansson: Personal &lt;a href=&#34;http://www.kaijansson.com/&#34;&gt;site and blog&lt;/a&gt;.&lt;br /&gt;
-Current position: Copy editor at Stockwatch.&lt;/p&gt;
-
-&lt;p&gt;These aren&amp;rsquo;t all the people I graduated with, but the others don&amp;rsquo;t have an online presence. Shockingly, there are people in this world who don&amp;rsquo;t spend all their time on the net!&lt;/p&gt;
-</description>
+      <description>It&amp;rsquo;s been about four months since my classmates and I graduated from the Print Futures Professional Writing Program. If you&amp;rsquo;re serious about your craft and are thinking of attending this two-year diploma program, I heartily encourage you to go for it. I love to write and I love getting paid to do it even more. But don&amp;rsquo;t kid yourself - writing well works up a mental sweat for every writer, whether oozing with talent or not.</description>
     </item>
     
     <item>
@@ -147,20 +73,7 @@ Current position: Copy editor at Stockwatch.&lt;/p&gt;
       <pubDate>Tue, 15 Jul 2008 04:23:05 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/what-i-do/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/ph.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I thought it was high time for an update on the first two weeks of my contract. As I alluded to previously, the project I&amp;rsquo;m working on right now involves the design of a new phone. It&amp;rsquo;s a complex system with many components, and is rather hush-hush at the moment so I can&amp;rsquo;t really elaborate on it. Thus far, much of the system behaviour has been decided upon verbally, which is where I come in. Through interviews with the project manager and the software engineers, and by gleaning information from what is known as a state table (a map of the information architecture), I&amp;rsquo;ve been putting together engineering specifications for a product that does not exist yet.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;The goal is to provide the engineers with a base line so that they can move forward with the design process. This means I&amp;rsquo;m also creating screenshots of what the man-machine interface (MMI) will ideally look like. I&amp;rsquo;ve been doing these in Photoshop, but there is talk of moving to a program called Axure, which offers a much richer functionality and the ability to create master modules (so that you don&amp;rsquo;t have to re-generate a hundred screenshots every time a small change in the MMI is made).&lt;/p&gt;
-
-&lt;p&gt;All in all, it&amp;rsquo;s very interesting being involved at this stage of product development, although I was hoping to do some end-user documentation as well. At this point that looks doubtful as that&amp;rsquo;s the tech writer in Oregon&amp;rsquo;s baby.&lt;/p&gt;
-
-&lt;p&gt;Some of the work is a bit dry - for example, today I was determining how many characters to allocate a word for translation. The English interface has to be translated into French and Spanish, but there is a limited amount of pixels on the display screen on the phone, so I had to figure out how much wiggle room to allow the translators, in case their translation of &amp;ldquo;Answer&amp;rdquo;, for instance, turns out to be a five words long.&lt;/p&gt;
-
-&lt;p&gt;The company culture is quite rad - lots of barbeques and once a month there is a social with buckets of beer and an assortment of greasy food (no organic juice like at &lt;em&gt;alive&lt;/em&gt; unfortunately). In the lunch room is a sweet gaming setup -two widescreen hi-def TVs - one hooked up to an XBOX 360 and the other hooked up to a Wii. On the table sits a couple of Guitar Hero axes and steering wheel controllers. There&amp;rsquo;s also a pool table, ping-pong table, and foosball. Basically a geek&amp;rsquo;s paradise!&lt;/p&gt;
-</description>
+      <description>I thought it was high time for an update on the first two weeks of my contract. As I alluded to previously, the project I&amp;rsquo;m working on right now involves the design of a new phone. It&amp;rsquo;s a complex system with many components, and is rather hush-hush at the moment so I can&amp;rsquo;t really elaborate on it. Thus far, much of the system behaviour has been decided upon verbally, which is where I come in.</description>
     </item>
     
     <item>
@@ -169,14 +82,8 @@ Current position: Copy editor at Stockwatch.&lt;/p&gt;
       <pubDate>Wed, 18 Jun 2008 22:17:57 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/new-job/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; src=&#34;http://wordbit.com/images/vtlogo.gif&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve just signed a 6-month contract with &lt;a href=&#34;http://vtechcanada.com&#34;&gt;Vtech&lt;/a&gt; to work as a technical writer in their engineering department! As you probably know, Vtech primarily designs and manufactures cordless phones as well as other wireless devices.&lt;/p&gt;
-
-&lt;p&gt;The company usually outsources their documentation to the States. Presently, however, they&amp;rsquo;re developing a completely new product line (sorry, I can&amp;rsquo;t say what it is) and need a writer in-house. This is a new position, so the challenge for me will be in ensuring that I get the information I need from the engineers without taking too much time away from their primary tasks. There are other challenges which I won&amp;rsquo;t get into, suffice to say I&amp;rsquo;ll be involved in some hardcore digital asset management and interface design&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;If the position works out, I could get a permanent position down the road. Anyway, It&amp;rsquo;s exactly what I&amp;rsquo;ve been looking for, so I&amp;rsquo;m excited to start next week!&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;ve just signed a 6-month contract with Vtech to work as a technical writer in their engineering department! As you probably know, Vtech primarily designs and manufactures cordless phones as well as other wireless devices.
+The company usually outsources their documentation to the States. Presently, however, they&amp;rsquo;re developing a completely new product line (sorry, I can&amp;rsquo;t say what it is) and need a writer in-house. This is a new position, so the challenge for me will be in ensuring that I get the information I need from the engineers without taking too much time away from their primary tasks.</description>
     </item>
     
     <item>
@@ -185,28 +92,9 @@ Current position: Copy editor at Stockwatch.&lt;/p&gt;
       <pubDate>Fri, 02 May 2008 17:21:41 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/find-a-tech-writing-job-in-vancouver-part-3/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/580773.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;So, you&amp;rsquo;ve managed to land an interview. Congratulations! Time to prepare by going through possible interview questions and practicing in front of a mirror. Make sure you&amp;rsquo;ve done your research on the company and have some intelligent questions to ask them too.&lt;/p&gt;
-
-&lt;p&gt;Now what do you say once you&amp;rsquo;re sitting in the hot seat? Here are my top five tips for acing that tech-writing job interview:&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Tell your potential employer that even though you don’t know everything about their widgets right now, you love learning new things. In fact, it’s struggling through the learning process that enables you to communicate with their users.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Showcase professional pieces in your portfolio that not only show you’re a wiz in robohelp/framemaker, etc, but also show that you solved a problem and achieved a positive outcome for a real world client. If you don’t have these, volunteer to create them on spec for a non-profit organization.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Don’t sell yourself short when convincing your employer that writing matters. Make sure your employer knows that strong writing and editing is not just about juggling commas. It’s about organization, understanding your audience, usability, and ultimately creating a satisfying user experience.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Don’t be afraid to bring in some fresh ideas. Tell your potential employer about audio/visual/interactive elements that you think would enhance their traditional documentation. Show initiative.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Relax and be yourself. If you’re a geek who is passionate about technology, grammar, and the latest trends in communication, then it’ll come through in the interview. Remember that you’re trying to find the perfect fit for you.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;In part 4, coming sometime next week, I&amp;rsquo;ll talk about salary negotiations. And if you missed them, be sure to catch up on &lt;a href=&#34;http://wordbit.com/posts/find-a-tech-writing-job-in-vancouver-part-1/&#34;&gt;part 1&lt;/a&gt; and &lt;a href=&#34;http://wordbit.com/posts/find-a-tech-writing-job-in-vancouver-part-2/&#34;&gt;part 2&lt;/a&gt; in this series.&lt;/p&gt;
-</description>
+      <description>So, you&amp;rsquo;ve managed to land an interview. Congratulations! Time to prepare by going through possible interview questions and practicing in front of a mirror. Make sure you&amp;rsquo;ve done your research on the company and have some intelligent questions to ask them too.
+Now what do you say once you&amp;rsquo;re sitting in the hot seat? Here are my top five tips for acing that tech-writing job interview:
+ Tell your potential employer that even though you don’t know everything about their widgets right now, you love learning new things.</description>
     </item>
     
     <item>
@@ -215,24 +103,8 @@ Current position: Copy editor at Stockwatch.&lt;/p&gt;
       <pubDate>Mon, 28 Apr 2008 19:42:12 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/find-a-tech-writing-job-in-vancouver-part-2/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/chickenhonest.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I mentioned in part one of this series that 80% of jobs can only be found in that elusive place called &amp;ldquo;the hidden job market.&amp;rdquo; About 20% of those gigs can be gotten through employment services, cold calling, and other tactics, such as information interviews. But the other 60% are landed through referrals. That makes networking your only way to access a big chunk of the job market.&lt;/p&gt;
-
-&lt;p&gt;So how do you rustle up some contacts in Vancouver, a city that has a reputation for being a tad on the chilly side?&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;Well, a great way to get started is to join the local &lt;a href=&#34;http://www.stcwestcoast.ca/&#34;&gt;West coast STC&lt;/a&gt; chapter. Volunteering for them is a great way to make some contacts, probably even more so that just showing up for meetings.&lt;/p&gt;
-
-&lt;p&gt;Sign up for &lt;a href=&#34;http://www.bctechnology.com/&#34;&gt;T-Net direct&lt;/a&gt;, a weekly newsletter that tells you what BC technology events are happening around town. Go to events outside of your field, where you don&amp;rsquo;t expect to see a lot of other writers. That way you&amp;rsquo;ll be more unique and make more valuable connections than you would hanging out with other writers who are looking for work.&lt;/p&gt;
-
-&lt;p&gt;Let everyone know you&amp;rsquo;re looking for work, and if your cousin&amp;rsquo;s roommate&amp;rsquo;s girlfriend tells you her brother is a technical writer, ask for his contact info and set up an informational interview. Having some connection, no matter how distant, is always better than interviewing a complete stranger.&lt;/p&gt;
-
-&lt;p&gt;Most importantly, don&amp;rsquo;t network to find work. Network to be social and meet people. If you approach everybody as a possible job lead, they&amp;rsquo;ll smell the sleaze on you a mile away. Stay loose and have fun.&lt;/p&gt;
-
-&lt;p&gt;So how do you ace the tech-writing interview? That&amp;rsquo;ll be in part 3, coming this Friday.&lt;/p&gt;
-</description>
+      <description>I mentioned in part one of this series that 80% of jobs can only be found in that elusive place called &amp;ldquo;the hidden job market.&amp;rdquo; About 20% of those gigs can be gotten through employment services, cold calling, and other tactics, such as information interviews. But the other 60% are landed through referrals. That makes networking your only way to access a big chunk of the job market.
+So how do you rustle up some contacts in Vancouver, a city that has a reputation for being a tad on the chilly side?</description>
     </item>
     
     <item>
@@ -241,14 +113,9 @@ Current position: Copy editor at Stockwatch.&lt;/p&gt;
       <pubDate>Tue, 25 Mar 2008 03:22:47 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/check-out-my-eportfolio/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/scshotweb.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve officially uploaded the latest version of my ePortolio - you can &lt;a href=&#34;http://www.wordbit.freehostia.com/eportfolio&#34;&gt;check it out here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This website uses some flash elements and some fancy css coding and is basically geared towards technical writing employers as a way to showcase my work. I may expand it in the future to include other samples too.&lt;/p&gt;
-
-&lt;p&gt;For those who are interested, I designed it in Dreamweaver, Illustrator, and Photoshop. I used FlashSpring Pro 2 to convert a Powerpoint to flash. It&amp;rsquo;s best viewed using the latest version of any browser with a resolution of 1024x768. It&amp;rsquo;s also a bit flashier than the portfolio on this blog, which includes everything, including the kitchen sink.&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;ve officially uploaded the latest version of my ePortolio - you can check it out here.
+This website uses some flash elements and some fancy css coding and is basically geared towards technical writing employers as a way to showcase my work. I may expand it in the future to include other samples too.
+For those who are interested, I designed it in Dreamweaver, Illustrator, and Photoshop. I used FlashSpring Pro 2 to convert a Powerpoint to flash.</description>
     </item>
     
     <item>
@@ -257,34 +124,8 @@ Current position: Copy editor at Stockwatch.&lt;/p&gt;
       <pubDate>Tue, 11 Mar 2008 06:30:00 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/find-a-tech-writing-job-in-vancouver-part-1/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/vancouver-canada.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m going to start a series on finding a tech-writing job specifically in the high-tech hub of Vancouver, BC (which is where I happen to live). As I started the job search process myself, I noticed a dearth of information on this topic. I hope I can dig up some useful info for those in a similar position - eventually I&amp;rsquo;ll port this stuff over to my resources page.&lt;/p&gt;
-
-&lt;p&gt;So, without further ado, here is part 1, which will focus on job search engines. Sure, you&amp;rsquo;ll get 20% of jobs this way ( the other 80% you&amp;rsquo;ll find through the hidden job market), but it seems a good way to start. And after all, you might just might get lucky and beat the hordes of job seekers all vying for the same position&amp;hellip;&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;Here are some job search engines tailored specifically to the high-tech industry in Vancouver:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.techvibes.com/job/&#34;&gt;&lt;img src=&#34;http://wordbit.com/images/techvibes_logo.gif&#34; alt=&#34;techvibes_logo&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.techjobsvancouver.com/&#34;&gt;&lt;img src=&#34;http://wordbit.com/images/techjobsvan1.jpg&#34; alt=&#34;techjobsvan&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.bctechnology.com/frameset_emp.html&#34;&gt;&lt;img src=&#34;http://wordbit.com/images/tnet1.gif&#34; alt=&#34;tnet&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.devbistro.com/jobs/city/Vancouver/loc/Canada-BC&#34;&gt;&lt;img src=&#34;http://wordbit.com/images/db1.gif&#34; alt=&#34;db&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://seeker.dice.com/jobsearch/servlet/JobSearch?Ntx=mode+matchall&amp;amp;FRMT=0&amp;amp;COUNTRY=1338&amp;amp;N=0&amp;amp;Hf=0&amp;amp;Ntk=JobSearchRanking&amp;amp;NUM_PER_PAGE=30&amp;amp;op=300&amp;amp;y=16&amp;amp;LOCATION_OPTION=3&amp;amp;x=32&amp;amp;TAXTERM=0&amp;amp;caller=0&amp;amp;DAYSBACK=30&amp;amp;TRAVEL=0&amp;amp;Ns=p_Municipality|1&amp;amp;SORTDIR=6&amp;amp;SORTSPEC=0&#34;&gt;&lt;img src=&#34;http://wordbit.com/images/dice.gif&#34; alt=&#34;dice&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;And then of course there are the more generic search engines:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://vancouver.craigslist.ca/&#34;&gt;Craigslist&lt;/a&gt;, &lt;a href=&#34;http://www.eluta.ca/&#34;&gt;Eluta&lt;/a&gt; (I highly recommended this one), &lt;a href=&#34;http://monster.ca/&#34;&gt;Monster&lt;/a&gt;, &lt;a href=&#34;http://www.bcjobs.ca/&#34;&gt;BC jobs&lt;/a&gt;, &lt;a href=&#34;http://www.workopolis.com&#34;&gt;Workopolis&lt;/a&gt;, &lt;a href=&#34;http://www.working.com&#34;&gt;Working&lt;/a&gt;, &lt;a href=&#34;http://www.jobbank.gc.ca/&#34;&gt;Job Bank&lt;/a&gt;, and &lt;a href=&#34;http://ca.hotjobs.yahoo.com/&#34;&gt;Hot Jobs&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;For search terms, a simple boolean search (writer OR editor) normally does the trick, but you can get more specific if you want (technical communicator, information architect, etc.). There&amp;rsquo;s no perfect search term. So, start clicking and have fun checking out all those juicy (yet ephemeral) jobs out there!&lt;/p&gt;
-
-&lt;p&gt;In part 2, I&amp;rsquo;ll be discussing the interview - look for it later this week.&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;m going to start a series on finding a tech-writing job specifically in the high-tech hub of Vancouver, BC (which is where I happen to live). As I started the job search process myself, I noticed a dearth of information on this topic. I hope I can dig up some useful info for those in a similar position - eventually I&amp;rsquo;ll port this stuff over to my resources page.
+So, without further ado, here is part 1, which will focus on job search engines.</description>
     </item>
     
   </channel>

@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wordbit</title>
-    <link>http://wordbit.com/categories/the-internet/index.xml</link>
-    <description>Recent content on wordbit</description>
+    <title>The Internet on wordbit</title>
+    <link>http://wordbit.com/categories/the-internet/</link>
+    <description>Recent content in The Internet on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://wordbit.com/categories/the-internet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Apr 2008 19:14:58 +0000</lastBuildDate>
+    
+	<atom:link href="http://wordbit.com/categories/the-internet/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Firefox 3 coming June</title>
@@ -13,32 +16,11 @@
       <pubDate>Wed, 30 Apr 2008 19:14:58 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/firefox-3-coming-june/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/f3.jpg&#34;&gt;&lt;/p&gt;
+      <description>With the recent release of Firefox 3 Beta 5, the end is in sight for an official release of this popular browser (in the meantime, Internet Explorer 8 Beta 1 has just come out). Here are some of the improvements Firefox 3 has over it&amp;rsquo;s predecessor:
 
-&lt;p&gt;With the recent release of Firefox 3 Beta 5, the end is in sight for an official release of this popular browser (in the meantime, Internet Explorer 8 Beta 1 has just come out). Here are some of the improvements Firefox 3 has over it&amp;rsquo;s predecessor:&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Faster (better memory management). Two to four times faster than Firefox 2.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Safer. Scans for malware and checks for phishing.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;More intuitive address bar (with autofill feature).&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Improved history, bookmarks, and password manager.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Better customization. Supports skins.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;That said, here&amp;rsquo;s a word of caution if you&amp;rsquo;re thinking of trying out the Beta at this stage of the game.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;Although you can theoretically run both Firefox 2 and Firefox 3 separately, in practice this doesn&amp;rsquo;t work. I tried the Beta a while ago and found it was too buggy for me. So, I opened Firefox 2 and found some of my settings had changed. No big deal, I just changed them back the way I had them before.&lt;/p&gt;
-
-&lt;p&gt;A few weeks later, I decided to uninstall the Firefox 3 Beta because I never used it. Unfortunately, in doing so it deleted all my passwords, cookies, and bookmarks from Firefox 2. So the moral of the story is, just wait for the official release of Firefox 3 before you upgrade and save yourself a major headache. Or go ahead and take the leap - just don&amp;rsquo;t look back.&lt;/p&gt;
-</description>
+ Faster (better memory management). Two to four times faster than Firefox 2.
+ Safer. Scans for malware and checks for phishing.
+ More intuitive address bar (with autofill feature).</description>
     </item>
     
     <item>
@@ -47,22 +29,8 @@
       <pubDate>Fri, 25 Apr 2008 17:10:00 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/is-brijit-liberating-or-enslaving/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/briji.gif&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;For those of you who aren&amp;rsquo;t familiar with it, &lt;a href=&#34;http://www.brijit.com/&#34;&gt;Brijit&lt;/a&gt; is a website that publishes 100-word summaries of various web, TV, radio, and print media. The idea is that there is so much information out there - wouldn&amp;rsquo;t it be nice if we had the short-short version so we can get the gist of it and decide if it&amp;rsquo;s worth reading or watching the whole thing.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s a neat idea, but with so much content out there, it would be impossible for an editorial team to cover it all. Brijit came up with the genius idea of asking anybody to submit these 100-word summaries in exchange for $5.&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;p&gt;Now, let&amp;rsquo;s get this straight. Five buck for a hundred words works out to a paltry five cents a word. Top freelance rates in Canada hover at around a buck a word, and even that is pathetic. Most writers settle for around 50 cents a word, which is still ten times as much as Brijit is offering. I would assume that no serious writer would even consider working for pea&amp;hellip;oh wait, I think even peanuts are worth more than that.&lt;/p&gt;
-
-&lt;p&gt;The sad thing is that the writing on Brijit is actually &lt;em&gt;quite good&lt;/em&gt;. Are there people desperate enough to spend an hour or two reading an article and then capturing the essence of it in a 100 words? It may sound simple, but it takes far longer than you&amp;rsquo;d think to do it right.&lt;/p&gt;
-
-&lt;p&gt;Brijit ups the ante by submitting each requisition to competition - you actually have to compete with three other writers in the hopes that your piece gets chosen. So most times you just end up writing your beautifully crafted cribs note for free. Competition, however, is a great motivator for some people apparently.&lt;/p&gt;
-
-&lt;p&gt;Is Brijit turning freelance writing into a cheap mockery? Is it dragging down freelance rates by calling anybody a writer? Can you even stomach reading summaries that you know were written by word slaves?&lt;/p&gt;
-</description>
+      <description>For those of you who aren&amp;rsquo;t familiar with it, Brijit is a website that publishes 100-word summaries of various web, TV, radio, and print media. The idea is that there is so much information out there - wouldn&amp;rsquo;t it be nice if we had the short-short version so we can get the gist of it and decide if it&amp;rsquo;s worth reading or watching the whole thing.
+It&amp;rsquo;s a neat idea, but with so much content out there, it would be impossible for an editorial team to cover it all.</description>
     </item>
     
   </channel>

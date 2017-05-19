@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wordbit</title>
-    <link>http://wordbit.com/categories/deals/index.xml</link>
-    <description>Recent content on wordbit</description>
+    <title>Deals on wordbit</title>
+    <link>http://wordbit.com/categories/deals/</link>
+    <description>Recent content in Deals on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://wordbit.com/categories/deals/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Dec 2008 05:56:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://wordbit.com/categories/deals/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Christmas shopping deals</title>
@@ -13,30 +16,7 @@
       <pubDate>Wed, 03 Dec 2008 05:56:00 +0000</pubDate>
       
       <guid>http://wordbit.com/posts/christmas-shopping-deals/</guid>
-      <description>&lt;p&gt;&lt;img align=&#34;left&#34; style=&#34;border:20px solid white&#34; src=&#34;http://wordbit.com/images/pres.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;So the economy is caught in a perpetual flush cycle and the government is crumbling under the pressure of imminent deficits. You&amp;rsquo;re waiting for HR to ask you to stop by so they can talk about &amp;ldquo;restructuring&amp;rdquo;. You&amp;rsquo;re wondering if you can even afford to drive to the mall this holiday season, let alone buy mounds of stuff there. Well, no worries. Here are some resources for thrifty Canadians with the most meagre of budgets, because let&amp;rsquo;s face it - right now it&amp;rsquo;s cool to be cheap.&lt;/p&gt;
-
-&lt;p&gt;Don&amp;rsquo;t waste your time surfing around for deals, I&amp;rsquo;ve put together a list of the eight best Canadian deal sites out there for you:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.pricecanada.com/&#34;&gt;Pricecanada.com&lt;/a&gt; - a shopping search engine that allows you to compare prices among numerous retailers.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.redflagdeals.com/&#34;&gt;Redflagdeals.com&lt;/a&gt; - One of Canada&amp;rsquo;s oldest and best deals and freebies websites.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.bigbigforums.com/&#34;&gt;Bigbigforums.com&lt;/a&gt; - Where cheapskate-wannabes gather in droves to discuss the latest scoop on deals, coupons and contests.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://slickdeals.net/&#34;&gt;Slickdeals.net&lt;/a&gt; - This frequently updated site has Deal Alerts&amp;hellip;sweet!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.pricenetwork.ca/deals.php?d=315&amp;amp;s=0&#34;&gt;Pricenetwork.ca&lt;/a&gt; - On this site, people can vote on the hottest deals.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.pricegrabber.ca/&#34;&gt;Pricegrabber.ca&lt;/a&gt; - Another comparison shopping website that allows you to customize your own shopping list.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://smartcanucks.ca/&#34;&gt;Smartcanucks.ca&lt;/a&gt; - The first Canadian deals blog (or so they claim).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://coupons.lockergnome.com/&#34;&gt;Lockergnome coupons&lt;/a&gt; - Chris Pirillo&amp;rsquo;s coupon search engine creates custom search RSS feeds. Niiiiice.&lt;/p&gt;
-
-&lt;p&gt;Maybe that 42 inch TV isn&amp;rsquo;t out of your reach after all? Now dust off your credit card and do your part for the economy!&lt;/p&gt;
-</description>
+      <description>So the economy is caught in a perpetual flush cycle and the government is crumbling under the pressure of imminent deficits. You&amp;rsquo;re waiting for HR to ask you to stop by so they can talk about &amp;ldquo;restructuring&amp;rdquo;. You&amp;rsquo;re wondering if you can even afford to drive to the mall this holiday season, let alone buy mounds of stuff there. Well, no worries. Here are some resources for thrifty Canadians with the most meagre of budgets, because let&amp;rsquo;s face it - right now it&amp;rsquo;s cool to be cheap.</description>
     </item>
     
   </channel>
