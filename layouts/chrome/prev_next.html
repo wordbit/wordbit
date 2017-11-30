@@ -14,7 +14,6 @@
 
 <div class="container">
   <hr />
-  <hr />
   {{if .Prev}}
     <span class="left">
     &nbsp; <em>&laquo; Previous:</em> <a class="next" href="{{.Prev.Permalink}}">{{.Prev.Title}}</a>
@@ -26,4 +25,5 @@
     <em>Next: </em><a class="next" href="{{.Next.Permalink}}"> &nbsp; {{ .Next.Title }}</a> &raquo;
     </span>
   {{end}}
+  <br>
 </div>
