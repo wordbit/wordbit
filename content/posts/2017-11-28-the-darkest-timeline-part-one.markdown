@@ -26,8 +26,6 @@ Anyway, this preamble is now longer than part one of my story, so I'd best begin
 
 ---
 
-## Prologue: The Judas paradox
-
 I’ve been thinking a lot about Judas lately.
 
 Judas has been reviled throughout history as the betrayer of Jesus Christ, the Messiah. But in the *Gospel of Judas* - a heretical Gnostic manuscript long-since buried by the Catholic Church - Judas is portrayed, not as a greedy opportunist, but as Christ’s favourite apostle.
