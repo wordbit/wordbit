@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://wordbit.com/posts/the-microblog/</loc>
+    <lastmod>2017-12-26T14:37:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://wordbit.com/posts/the-darkest-timeline-part-two/</loc>
     <lastmod>2017-12-04T19:10:00+00:00</lastmod>
   </url>
@@ -2212,6 +2217,10 @@
   </url>
   
   <url>
+    <loc>http://wordbit.com/pages/status/</loc>
+  </url>
+  
+  <url>
     <loc>http://wordbit.com/categories/article/</loc>
     <lastmod>2011-11-29T23:13:52+00:00</lastmod>
     <priority>0</priority>
@@ -2416,7 +2425,7 @@
   
   <url>
     <loc>http://wordbit.com/posts/</loc>
-    <lastmod>2017-12-04T19:10:00+00:00</lastmod>
+    <lastmod>2017-12-26T14:37:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2578,7 +2587,7 @@
   
   <url>
     <loc>http://wordbit.com/</loc>
-    <lastmod>2017-12-04T19:10:00+00:00</lastmod>
+    <lastmod>2017-12-26T14:37:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
