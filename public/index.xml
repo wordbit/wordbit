@@ -5,10 +5,29 @@
     <link>http://wordbit.com/</link>
     <description>Recent content on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 04 Dec 2017 19:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2017 14:37:00 +0000</lastBuildDate>
     
 	<atom:link href="http://wordbit.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The micro-blog: a reappropriation</title>
+      <link>http://wordbit.com/posts/the-microblog/</link>
+      <pubDate>Tue, 26 Dec 2017 14:37:00 +0000</pubDate>
+      
+      <guid>http://wordbit.com/posts/the-microblog/</guid>
+      <description>&lt;p&gt;A decade ago, there was a naïve delight in posting on Facebook or Twitter. Social media hadn’t yet evolved into the complex, anxiety-producing system of social currency it is today. Status updates were simply that - status updates.&lt;/p&gt;
+
+&lt;p&gt;In fact, when Facebook opened up in 2007, you were forced to write them in the third-person: “John is baking cookies today.”&lt;/p&gt;
+
+&lt;p&gt;There was no pressure to be culturally savvy or sarcastic or applause-worthy. You could be authentic, sincere, or boring if you wanted to because it all started out as a friendly little experiment. In the beginning, there were no “likes”. Can you even imagine social media without a heart or a thumbs up moderating every online interaction?&lt;/p&gt;
+
+&lt;p&gt;So, when I came across &lt;a href=&#34;https://theoutline.com/post/2689/mastodon-makes-the-internet-feel-like-home-again&#34;&gt;this article about Mastodon&lt;/a&gt; on the Outline, I was intrigued. I’d forgotten that microblogging used to be fun. I’d also totally forgotten about Mastodon, which arrived on the scene in 2016 and seemed as doomed to fail as app.net or ello. But how could you not feel the nostalgic, warm-and-fuzzy appeal of “a nicer version of Twitter” that “makes the internet feel like home again”? And sometimes open-source initiatives in the decentralized web can flourish - just look at where Bitcoin is going these days.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, although the people who hang out in Mastodon instances seem just lovely (depending on the instance), the Mastodon front-end user interface is just horrible.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>The darkest timeline - part two</title>
@@ -4549,6 +4568,16 @@ On Thursday night we went out to dinner at one of my student&amp;rsquo;s parent&
       <guid>http://wordbit.com/pages/about/</guid>
       <description>Antoine Giraud&amp;rsquo;s Blog Greetings netizen – thanks for stopping by. My name is Antoine and this is my personal blog. I’ve been blogging online since 2003 and am a writer by trade. Here you’ll find longform posts covering a variety of topics that interest me.
 This blog is pretty simple and you won’t find anything except pure unadulterated content here; however, you’re welcome to talk to me about anything I’ve written about on Twitter.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://wordbit.com/pages/status/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://wordbit.com/pages/status/</guid>
+      <description>Status Updates  
+   $(document).ready(function() { // jQUERY is required! var mapi = new MastodonApi({ target_selector : &#39;#myTimeline&#39; ,instance_uri : &#39;https://wandering.shop&#39; ,access_token : &#39;32f63bc22ce9927b919fc670976f812781c7ce644d0a086be6d076c2a71f3c6d&#39; ,account_id : &#39;20307&#39; // optional parameters // =================== // - status max // ,toots_limit : 5 // - if you are using font-awesome: // ,pic_icon : &#39;&#39; // or a picture // ,pic_icon : &#39;&#39; }); });</description>
     </item>
     
   </channel>

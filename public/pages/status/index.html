@@ -1,0 +1,136 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8">
+    <base href="http://wordbit.com">
+    <title>  </title>
+    <link rel="canonical" href="http://wordbit.com/pages/status/">
+    
+
+<link rel="stylesheet" href="/css/poole.css">
+
+<link rel="stylesheet" href="/css/lanyon.css">
+<link rel="stylesheet" href="/css/custom.css">
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
+
+</head>
+
+
+<body class="theme-base-08">
+  
+
+
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox"
+       xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
+
+
+<div class="sidebar" id="sidebar">
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+    <a class="sidebar-nav-item" href="/posts">All Blog Posts</a>
+    <a class="sidebar-nav-item" href="/pages/status">Status Updates</a>
+    <a class="sidebar-nav-item" href="/pages/about">About</a>
+  </nav>
+
+  <div class="sidebar-item">
+    <p>
+      &copy; 2018. All rights reserved.
+    </p>
+  </div>
+</div>
+
+
+  
+  <div class="wrap">
+
+    <div class="masthead">
+  <div class="container">
+    <h3 class="masthead-title">
+      <a href="/" title="Home">wordbit</a>
+    </h3>
+  </div>
+</div>
+
+
+    
+    
+    <div class="container content">
+      <h1 class="post-title"></h1>
+        <section id="main">
+          
+
+<h1 id="status-updates">Status Updates</h1>
+
+<p><html>
+<head></p>
+
+<!-- Call up jquery  -->
+
+<script src="/JavaScript/jquery-3.2.1.min.js"></script>
+
+<!-- Call up mastodon api and widget  -->
+
+<script type="text/javascript" src="/JavaScript/mastodon.widget.js"></script>
+<script>
+$(document).ready(function() {
+// jQUERY is required!
+  var mapi = new MastodonApi({
+    target_selector  : '#myTimeline'
+    ,instance_uri    : 'https://wandering.shop'
+    ,access_token    : '32f63bc22ce9927b919fc670976f812781c7ce644d0a086be6d076c2a71f3c6d'
+    ,account_id      : '20307'
+    // optional parameters
+    // ===================
+    // - status max
+    // ,toots_limit     : 5
+    // - if you are using font-awesome:
+    // ,pic_icon        : '<i class="fa fa-picture-o"></i>'
+    // or a picture
+    // ,pic_icon        : '<img src="mypicicon.gif" />'
+  });
+});
+</script>
+
+<p></head>
+<body></p>
+
+<div id="myTimeline" class="mastodon-timeline mastodon-timeline-light"></div>
+
+<p></body>
+</html></p>
+
+        </section>
+    </div>
+  </div>
+
+  <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+  
+  
+
+<div class="container content">
+  <footer>
+    <div>
+      
+    </div>
+  </footer>
+</div>
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+
