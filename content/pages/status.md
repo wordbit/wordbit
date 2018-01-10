@@ -35,5 +35,9 @@ $(document).ready(function() {
 
 <div id="myTimeline" class="mastodon-timeline mastodon-timeline-light"></div>
 
+<hr>
+
 </body>
 </html>
+
+[Archive](https://wandering.shop/@wordbit)
