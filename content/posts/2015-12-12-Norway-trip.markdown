@@ -1,6 +1,6 @@
 ---
 date: 2015-12-12 09:05:22+00:00
-slug: Norway
+slug: trip-to-norway
 title: 'Norway'
 ---
 
