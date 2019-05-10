@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Internet on wordbit</title>
-    <link>http://wordbit.com/categories/the-internet/</link>
+    <link>https://wordbit.com/categories/the-internet/</link>
     <description>Recent content in The Internet on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 30 Apr 2008 19:14:58 +0000</lastBuildDate>
     
-	<atom:link href="http://wordbit.com/categories/the-internet/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wordbit.com/categories/the-internet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Firefox 3 coming June</title>
-      <link>http://wordbit.com/posts/firefox-3-coming-june/</link>
+      <link>https://wordbit.com/posts/firefox-3-coming-june/</link>
       <pubDate>Wed, 30 Apr 2008 19:14:58 +0000</pubDate>
       
-      <guid>http://wordbit.com/posts/firefox-3-coming-june/</guid>
+      <guid>https://wordbit.com/posts/firefox-3-coming-june/</guid>
       <description>With the recent release of Firefox 3 Beta 5, the end is in sight for an official release of this popular browser (in the meantime, Internet Explorer 8 Beta 1 has just come out). Here are some of the improvements Firefox 3 has over it&amp;rsquo;s predecessor:
 
  Faster (better memory management). Two to four times faster than Firefox 2.
@@ -25,10 +25,10 @@
     
     <item>
       <title>Is Brijit liberating or enslaving?</title>
-      <link>http://wordbit.com/posts/is-brijit-liberating-or-enslaving/</link>
+      <link>https://wordbit.com/posts/is-brijit-liberating-or-enslaving/</link>
       <pubDate>Fri, 25 Apr 2008 17:10:00 +0000</pubDate>
       
-      <guid>http://wordbit.com/posts/is-brijit-liberating-or-enslaving/</guid>
+      <guid>https://wordbit.com/posts/is-brijit-liberating-or-enslaving/</guid>
       <description>For those of you who aren&amp;rsquo;t familiar with it, Brijit is a website that publishes 100-word summaries of various web, TV, radio, and print media. The idea is that there is so much information out there - wouldn&amp;rsquo;t it be nice if we had the short-short version so we can get the gist of it and decide if it&amp;rsquo;s worth reading or watching the whole thing.
 It&amp;rsquo;s a neat idea, but with so much content out there, it would be impossible for an editorial team to cover it all.</description>
     </item>

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vancouver on wordbit</title>
-    <link>http://wordbit.com/categories/vancouver/</link>
+    <link>https://wordbit.com/categories/vancouver/</link>
     <description>Recent content in Vancouver on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 01 May 2008 19:09:19 +0000</lastBuildDate>
     
-	<atom:link href="http://wordbit.com/categories/vancouver/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wordbit.com/categories/vancouver/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Canada&#39;s most livable cities</title>
-      <link>http://wordbit.com/posts/canadas-most-livable-cities/</link>
+      <link>https://wordbit.com/posts/canadas-most-livable-cities/</link>
       <pubDate>Thu, 01 May 2008 19:09:19 +0000</pubDate>
       
-      <guid>http://wordbit.com/posts/canadas-most-livable-cities/</guid>
+      <guid>https://wordbit.com/posts/canadas-most-livable-cities/</guid>
       <description>Canadian Business magazine has just released their annual report on Canada&amp;rsquo;s best places to live. Our cold and sober capital, Ottawa, graced the number one spot based on factors like household income, unemployment rate, and new cars (New cars? Really? What does splashing out on some smoking wheels have to do with livability?). Vancouver shuffled in at number 10. And what impoverished, crappy-car-driving town came in last at number 154?</description>
     </item>
     

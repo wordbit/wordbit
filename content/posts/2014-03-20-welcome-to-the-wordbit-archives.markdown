@@ -20,6 +20,6 @@ This blog serves as an archive for my blogging activity over the years, stretchi
 
 [A Private Word (2011-ongoing)](http://aprivateword.wordpress.com/)
 
-[wordbit version two (2013-ongoing)](http://wordbit.com/)
+[wordbit version two (2013-ongoing)](https://wordbit.com/)
 
 That's it, I think. Most of the image links are broken right now - importing doesn't do a great job of preserving these.

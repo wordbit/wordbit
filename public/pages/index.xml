@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on wordbit</title>
-    <link>http://wordbit.com/pages/</link>
+    <link>https://wordbit.com/pages/</link>
     <description>Recent content in Pages on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://wordbit.com/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wordbit.com/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://wordbit.com/pages/about/</link>
+      <link>https://wordbit.com/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://wordbit.com/pages/about/</guid>
+      <guid>https://wordbit.com/pages/about/</guid>
       <description>Antoine Giraud&amp;rsquo;s Blog Greetings netizen – thanks for stopping by. My name is Antoine and this is my personal blog. I’ve been blogging online since 2003 and am a writer by trade. Here you’ll find longform posts covering a variety of topics that interest me.
 This blog is pretty simple and you won’t find anything except pure unadulterated content here; however, you’re welcome to talk to me about anything I’ve written about on Twitter.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://wordbit.com/pages/status/</link>
+      <link>https://wordbit.com/pages/status/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://wordbit.com/pages/status/</guid>
+      <guid>https://wordbit.com/pages/status/</guid>
       <description>Status Updates  
    $(document).ready(function() { // jQUERY is required! var mapi = new MastodonApi({ target_selector : &#39;#myTimeline&#39; ,instance_uri : &#39;https://wandering.shop&#39; ,access_token : &#39;32f63bc22ce9927b919fc670976f812781c7ce644d0a086be6d076c2a71f3c6d&#39; ,account_id : &#39;20307&#39; // optional parameters // =================== // - status max ,toots_limit : 999999999 // - if you are using font-awesome: // ,pic_icon : &#39;&#39; // or a picture // ,pic_icon : &#39;&#39; }); });</description>
     </item>

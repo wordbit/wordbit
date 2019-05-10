@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grammar on wordbit</title>
-    <link>http://wordbit.com/categories/grammar/</link>
+    <link>https://wordbit.com/categories/grammar/</link>
     <description>Recent content in Grammar on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 28 Feb 2007 09:24:51 +0000</lastBuildDate>
     
-	<atom:link href="http://wordbit.com/categories/grammar/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wordbit.com/categories/grammar/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cultural sensitivity in user documentation</title>
-      <link>http://wordbit.com/posts/cultural-sensitivity-in-user-documentation/</link>
+      <link>https://wordbit.com/posts/cultural-sensitivity-in-user-documentation/</link>
       <pubDate>Wed, 28 Feb 2007 09:24:51 +0000</pubDate>
       
-      <guid>http://wordbit.com/posts/cultural-sensitivity-in-user-documentation/</guid>
+      <guid>https://wordbit.com/posts/cultural-sensitivity-in-user-documentation/</guid>
       <description>When editing technical documents, how aware should you be of regional differences in pronunciation? Here is an interesting article on the subject by Brian Forte. Forte raises the following issue regarding the usage of an indefinite article with initialisms:
  How do you pronounce an initialism like HTML?
 I was taught English in public Australian schools of the 1970s. So I was taught aitch rather than haitch. Which means I pronounce ‘HTML’ with an initial vowel sound and I write ‘an HTML page.</description>

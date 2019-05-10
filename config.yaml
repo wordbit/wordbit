@@ -4,7 +4,7 @@ layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "categories"
-baseURL: "http://wordbit.com"
+baseURL: "https://wordbit.com"
 canonifyurls: false
 title: "wordbit"
 params:
