@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Review on wordbit</title>
-    <link>http://wordbit.com/categories/review/</link>
+    <link>https://wordbit.com/categories/review/</link>
     <description>Recent content in Review on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 30 Nov 2011 00:32:36 +0000</lastBuildDate>
     
-	<atom:link href="http://wordbit.com/categories/review/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wordbit.com/categories/review/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Game of Thrones review</title>
-      <link>http://wordbit.com/posts/game-of-thrones-review/</link>
+      <link>https://wordbit.com/posts/game-of-thrones-review/</link>
       <pubDate>Wed, 30 Nov 2011 00:32:36 +0000</pubDate>
       
-      <guid>http://wordbit.com/posts/game-of-thrones-review/</guid>
+      <guid>https://wordbit.com/posts/game-of-thrones-review/</guid>
       <description>You may be wondering if I’m talking about the book or the HBO series. Well, I read the book first, so the TV show paled in comparison, as is usually the case. I was optimistic at first, mostly because of the glowing reviews and comparisons to Lord of the Rings. Peter Jackson undoubtedly won the hearts of purists and lovingly captured the spirit of the books. Unfortunately, the Game of Thrones TV series falls short of this benchmark.</description>
     </item>
     
