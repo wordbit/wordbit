@@ -18,7 +18,7 @@ Anyway, enough idle chatter - I’ve put together a few random things you should
 
 <!--more-->
 
-# The ultimate nap hack
+## The ultimate nap hack
 
 Who doesn’t love sleep (besides from all children everywhere)? I know I do. And besides from exercise, healthy eating, and lowering your stress levels, sleep is such an underrated - yet powerful - promoter of health.
 
@@ -36,7 +36,7 @@ Sounds great, right?
 
 Now the only missing plug-in for this hack is having time allocated to this healthy habit. Unfortunately, the demise of the midday siesta in the modern world is a big step backwards. Let’s kill Daylight Savings Time and bring back the siesta - for the good of humankind. Why should napping only benefit the rich or the retired (or the freelancer)?
 
-# I support the war on drugs
+## I support the war on drugs
 
 No, not that war on drugs. The other war on drugs. I’m saying we should support natural measures to combat bugs - no more antibiotics, antimicrobials, or antifungals (unless it saves lives). The liberal use of these things is giving rise to drug-resistant superbugs that should give everybody nightmares. 
 
@@ -44,7 +44,7 @@ If you want to know how the premise of *Last of Us* is becoming a reality, read 
 
 For some reason, people are more afraid of AI wiping us out in a dystopian future despite the fact that it will take another hundred years for Siri to be vaguely threatening. But superbugs are here today and, on the path we’re on, it can only get worse.
 
-# Stream all the things?
+## Stream all the things?
 
 Enough about health - let’s do a hard pivot back to the familiar territory of technology and talk about streaming services. Many Canadians, [including myself]({{< relref "2014-07-05-bullish-on-music-streaming.markdown" >}}), were eager early adopters of streaming services such as Netflix and Google Play Music when they arrived several years ago. But the so-called streaming wars have made our relationship with such services...complicated.
 
@@ -70,7 +70,7 @@ Streaming everything in a digital world sounds good in principle, especially if 
 
 The casual gamer, for example, would be happy to purchase one or two games a year, as long as they own those games. Why not allow a one-time payment for streaming access to one game in perpetuity? After all, it’s a small step from being able to download anything from your Steam Library at any time to playing a game in your Steam Library at any time… without even downloading it.
 
-# Notch watch
+## Notch watch
 
 I’m not sure when the notch in smartphones become my hill to die on, but the dream of a single, uninterrupted plane of glass is too tantalizing to give up on. Based on the latest iPhone 11 leaks, it looks like the Apple faithful are in for another year living with the notch. 
 
@@ -84,7 +84,7 @@ Apple achieves symmetry by bending the bottom of the display inside the chassis 
 
 I was hoping that a truly all-screen iPhone would arrive in 2020. But if that doesn’t happen and I’m still feeling stubborn, I could either switch back to Android or wait longer. After all, my iPhone 6S is still getting the latest software updates… for now.
 
-# One more thing
+## One more thing
 
 I’ll keep the fifth random thing short. I mean, if I was being smart, I would have split this post up into five small posts and been set for the rest of the year. But where’s the fun in that? So, in the spirit of fun, I’ll leave you with this famous Chinese poem called *Lion-Eating Poet in the Stone Den* (shown here in [pinyin](http://blog.tutorming.com/mandarin-chinese-learning-tips/what-is-pinyin)):
 
