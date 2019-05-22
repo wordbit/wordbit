@@ -1,5 +1,5 @@
 /*
-  Custom CSS overrides for Stuart's Notes blog.
+  Custom CSS overrides for Antoine's blog.
 */
 
 /* Default chocolate theme -- easier to change here rather than edit the theme class name in all the template tags. */
@@ -54,3 +54,11 @@ img {
   width:auto;
   max-width: 100%;
 }
+
+/* CSS for Dark Mode support */
+
+@media (prefers-color-scheme: dark) {
+        .theme-base-08 .body {
+          background-color: #46494c;
+        }
+      								}
