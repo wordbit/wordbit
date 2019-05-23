@@ -14,8 +14,35 @@
   color: #202020;
 }
 
+/* DARK MODE PROPERTY "COLOR" AND "BACKGROUND-COLOR" */
+
+@media (prefers-color-scheme: dark) {
+
+.theme-base-08 .sidebar,
+.theme-base-08 .sidebar-toggle:active,
+.theme-base-08 #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #c5c3c6;
+}
+.theme-base-08 .container a,
+.theme-base-08 .sidebar-toggle,
+.theme-base-08 .related-posts li a:hover {
+  color: #dcdcdd;
+}
+
+} 
+
 .theme-base-08 .container a {
   color: #ac4142;
+}
+
+/* DARK MODE PROPERTY "COLOR" */
+
+@media (prefers-color-scheme: dark) {
+
+.theme-base-08 .container a {
+  color:#1985a1;
+}
+
 }
 
 /* Expand width on hover (http://perishablepress.com/perfect-pre-tags/). */
