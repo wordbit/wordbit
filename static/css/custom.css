@@ -54,11 +54,3 @@ img {
   width:auto;
   max-width: 100%;
 }
-
-/* CSS for Dark Mode support */
-
-@media (prefers-color-scheme: dark) {
-        .theme-base-08 .body {
-          background-color: #46494c;
-        }
-      								}
