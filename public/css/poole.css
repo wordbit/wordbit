@@ -117,8 +117,17 @@ p {
 }
 
 strong {
-  color: #c5c3c6;
+  color: #313131;
 }
+
+/* DARK MODE PROPERTY "COLOR" */
+
+@media (prefers-color-scheme: dark) {
+
+strong {
+  color: #c5c3c6;
+}       
+        							}
 
 dt {
   font-weight: bold;
