@@ -81,3 +81,21 @@ img {
   width:auto;
   max-width: 100%;
 }
+
+.primarycolour {
+	
+color: #ac4142 	
+	
+}
+
+/* DARK MODE PROPERTY "COLOR" */
+
+@media (prefers-color-scheme: dark) {
+
+.primarycolour {
+	
+color: #1985a1 	
+	
+}
+
+}
