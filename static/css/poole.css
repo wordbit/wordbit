@@ -166,6 +166,21 @@ code {
   background-color: #f9f9f9;
   border-radius: 3px;
 }
+
+/* DARK MODE PROPERTY "COLOR" and "BACKGROUND-COLOR" */
+
+@media (prefers-color-scheme: dark) {
+
+code {
+  padding: .25em .5em;
+  font-size: 85%;
+  color: #1985a1;
+  background-color: #c5c3c6;
+  border-radius: 3px;
+}
+
+}
+
 pre {
   display: block;
   margin-top: 0;

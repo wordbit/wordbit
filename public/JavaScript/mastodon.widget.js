@@ -242,7 +242,7 @@ MastodonApi.prototype.listStatuses = function() {
 
 		var date = prepareDateDisplay(status_.created_at);
 		// var timestamp = $("<div class='mt-date'><a href='"+status_.url+"'>" + date + "</a></div>");
-		var timestamp = $("<div style='color: #ac4142'>" + date + "</div>");
+		var timestamp = $("<div class='primarycolour'>" + date + "</div>");
 		// sensitive content
 		if(status_.sensitive) {
 			timestamp.prepend('<span class="nsfw">' + MastodonApi.text.nsfwLabel + '</span>');
