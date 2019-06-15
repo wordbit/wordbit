@@ -47,7 +47,7 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",Arial,sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -105,7 +105,7 @@ h3 {
   font-size: 1.25rem;
 }
 h4, h5, h6 {
-  font-family: "ff-meta-web-pro", "Helvetica Neue", "Helvetica", Arial, sans-serif;  
+font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",Arial,sans-serif;
   margin-top: 1rem;
   font-size: 1rem;
 }
