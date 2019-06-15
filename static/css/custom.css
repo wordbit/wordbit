@@ -2,6 +2,11 @@
   Custom CSS overrides for Antoine's blog.
 */
 
+html {
+
+	font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",Arial,sans-serif;	
+	}
+
 /* Default chocolate theme -- easier to change here rather than edit the theme class name in all the template tags. */
 .theme-base-08 .sidebar,
 .theme-base-08 .sidebar-toggle:active,
