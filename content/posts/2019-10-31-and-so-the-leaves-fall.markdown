@@ -78,7 +78,7 @@ Also, Maui’s popularity has increased over the years to the point where it is 
 
 I could go on about how selfie sticks and Instagram has ruined tourism, but I’m not trying to be a buzzkill here. I’ll leave you with this picture I took of the black-sand beach, a hard-won picture precisely because it is devoid of tourists:
 
-![maui](/images/Maui.jpg)
+![maui](/images/maui_ahg.jpg)
 
 ## Christmas shopping?
 
