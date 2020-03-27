@@ -4,7 +4,7 @@ slug: march-viral-madness
 title: 'March (viral) madness'
 ---
 
-In January, I said that 2020 was going to be one heck of a year, but…
+In January, I said that 2020 was "going to be one heck of a year", but…
 
 ![notlikethis](/images/tenor.gif)
 
