@@ -62,7 +62,9 @@ Apple didn’t totally write March off to the virus, despite a rumoured March ev
 
 Unfortunately AR hasn’t really graduated from gimmick school just yet. Maybe it will be a big deal in a few years - and maybe it won’t - but it’s no reason to rush out and buy an iPad.
 
-The iPhone 12 is also rumoured to include the LiDAR sensor, but I hope this isn’t the main selling point. Also rumoured is a squared-off metal frame like the iPhone 4 and maybe a 120Hz display. Okay. Sadly, the rumours also point toward the notch staying this year.
+The iPhone 12 is also rumoured to include the LiDAR sensor, but I hope this isn’t the main selling point. Also rumoured is a squared-off metal frame like the iPhone 4 and maybe a 120Hz display. Okay.
+
+Sadly, the rumours also point toward the notch staying this year.
 
 If that’s the case, then maybe a smarter move would be to upgrade to the iPhone 11 Pro instead when it gets a price drop. As [Dave Lee](https://youtu.be/tFsLpLOEUIk) talks about in his video *“Flagship Killer” Phones in 2020*, the very idea of a flagship has shifted. Sometimes the “price-to-performance” ratio works out in favour of a year-old phone. And I couldn’t see the iPhone 11 Pro’s cameras getting any better.
 
