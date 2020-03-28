@@ -12,7 +12,9 @@ Needless to say, the struggle to contain the COVID-19 (Coronavirus) pandemic has
 
 This is the worst public health crisis I've personally ever seen.
 
-Any gathering of more than 50 people is prohibited. We are all working from home (I've been out of the office for two solid weeks now) and there is no more toilet paper. We have not, however, been issued a shelter-in-place order (as in California) that prohibits people from going outside. There are plenty of people enjoying the spring sunshine on the beach - and they’re not staying six feet apart. I’m sure our Provincial Health Officer has cocked her eyebrow at these hedonists and has her finger on the stay-at-home trigger. 
+Any gathering of more than 50 people is prohibited. We are all working from home (I've been out of the office for two solid weeks now) and there is no more toilet paper. We have not, however, been issued a shelter-in-place order (as in California) that prohibits people from going outside. 
+
+In Vancouver, there are plenty of people enjoying the spring sunshine on the beach - and they’re not staying six feet apart. I’m sure our Provincial Health Officer has cocked her eyebrow at these non-social-distancing hedonists and has her finger on the stay-at-home trigger. 
 
 The resulting economic slowdown from all this, while arguably not as serious as the death toll, has nonetheless triggered a terrible domino effect of temporary layoffs, a ravaged stock market, and personal hardship.
 
@@ -56,7 +58,9 @@ If you’re buying a $300 phone, then you can get away with a measly two years. 
 
 ## Notch watch
 
-Apple didn’t totally write March off to the virus, despite a rumoured March event failing to materialize - they quietly released a new MacBook Air and a new iPad Pro. There wasn’t any new tech of interest in these, except for the LiDAR sensor in the iPad. The sensor doesn’t do a whole lot right now, except improve AR applications. Unfortunately AR hasn’t really graduated from gimmick school just yet. Maybe it will be a big deal in a few years, and maybe it won’t, but it’s no reason to rush out and buy an iPad.
+Apple didn’t totally write March off to the virus, despite a rumoured March event failing to materialize - they quietly released a new MacBook Air and a new iPad Pro. There wasn’t any new tech of interest in these, except for the LiDAR sensor in the iPad. The sensor doesn’t do a whole lot right now, except improve AR applications. 
+
+Unfortunately AR hasn’t really graduated from gimmick school just yet. Maybe it will be a big deal in a few years - and maybe it won’t - but it’s no reason to rush out and buy an iPad.
 
 The iPhone 12 is also rumoured to include the LiDAR sensor, but I hope this isn’t the main selling point. Also rumoured is a squared-off metal frame like the iPhone 4 and maybe a 120Hz display. Okay. Sadly, the rumours also point toward the notch staying this year.
 
