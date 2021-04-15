@@ -6,3 +6,7 @@ title = "Insert title here"
 
 +++
 Intro content
+
+<!--more-->
+
+Body content
