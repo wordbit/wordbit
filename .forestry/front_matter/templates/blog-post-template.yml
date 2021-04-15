@@ -3,11 +3,12 @@ label: Blog Post Template
 hide_body: false
 fields:
 - type: datetime
-  name: date
+  name: date_
   label: date
   config:
     date_format: YYYY-MM-DD
     time_format: 00:00:00+00:00
+  default: now
 - type: text
   name: slug
   label: slug
