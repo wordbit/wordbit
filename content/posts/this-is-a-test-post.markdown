@@ -9,3 +9,6 @@ Welcome to the test post!
 
 Page break here:
 
+<!--more-->
+
+Body content here.
