@@ -1,5 +1,6 @@
 +++
-date = 2021-04-15T07:00:00Z
+date = ""
+date_ = ""
 page_break = []
 slug = "insert-slug-here"
 title = "'Insert title here'"
