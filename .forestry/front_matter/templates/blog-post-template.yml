@@ -16,9 +16,5 @@ fields:
   name: title
   label: title
   default: "'Insert title here'"
-- name: page_break
-  type: tag_list
-  default: []
-  label: Page Break
 pages:
 - content/posts/insert-title-here.md
