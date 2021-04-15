@@ -5,9 +5,13 @@ fields:
 - type: datetime
   name: date
   label: date
+  config:
+    date_format: YYYY/MM/DD
 - type: text
   name: slug
   label: slug
+  default: insert-slug-here
 - type: text
   name: title
   label: title
+  default: Insert title here
