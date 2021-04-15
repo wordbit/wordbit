@@ -11,7 +11,7 @@ fields:
 - type: text
   name: slug
   label: slug
-  default: insert-slug-here
+  default: YYYY-MM-DD-insert-slug-here
 - type: text
   name: title
   label: title
