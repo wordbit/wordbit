@@ -5,9 +5,18 @@ fields:
 - type: datetime
   name: date
   label: date
+  config:
+    date_format: YYYY-MM-DD
+    time_format: 00:00:00+00:00
 - type: text
   name: slug
   label: slug
+  default: insert-slug-here
 - type: text
   name: title
   label: title
+  default: "'Insert title here'"
+- name: page_break
+  type: tag_list
+  default: []
+  label: Page Break
