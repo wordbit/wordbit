@@ -7,3 +7,6 @@ title = "This is a test post!"
 +++
 Welcome to the test post
 
+<!--more-->
+
+Body text goes here.
