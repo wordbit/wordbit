@@ -16,5 +16,3 @@ fields:
   name: title
   label: title
   default: Insert title here
-pages:
-- content/posts/this-is-a-test-post.markdown
