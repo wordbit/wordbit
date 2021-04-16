@@ -1,0 +1,95 @@
+---
+date: 2019-05-20 16:35:00+00:00
+slug: five-random-things
+title: 'Five random things'
+---
+
+Hey there dear reader - thanks for stopping by! We’re already five months into 2019, but this is the first blog post of the year, so I’m here to regale you with some delightfully random topics of interest. After all, we’re both here for a bit of entertainment aren’t we? A break from the relentless flow of our lives. Time never slows, and there are things in this world we should talk about.
+
+Before we jump into it, I’d like to assure you that I’m alive and well, despite once again failing to keep up my end of the post-once-a-month bargain. I will also assure you that I will never mention this particular failing again, lest every post begins with another lame apology and an empty promise.
+
+Having said that, my focus this year has been on developing some healthy fitness and eating habits. And, despite a setback every now and then, I’ve stuck with it since January. I know it’s working because the notch progression on my belt has reversed direction and my pants now look scrunched up at the waist and ridiculous. 
+
+A few years ago, my previous doctor told me to drink more red wine. I ignored him. And then my next doctor also told me to drink red wine - and eat unsalted almonds - or he would put me on cholesterol-lowering medication. He gave me until December to turn the ship around. Well, I don’t want to go on meds, but I don’t want to start a drinking habit either. So I eat lots of almonds now. And less chips and chocolate.
+
+I’ll blame my high bad cholesterol / low good cholesterol as the impetus for my recent lifestyle changes, but the truth is - I’m getting old folks. And writers have the most sedentary lifestyle of all. We don’t even get up very often to go into meetings.
+
+Anyway, enough idle chatter - I’ve put together a few random things you should know about in 2019 - after the break.
+
+<!--more-->
+
+## The ultimate nap hack
+
+Who doesn’t love sleep (besides from all children everywhere)? I know I do. And besides from exercise, healthy eating, and lowering your stress levels, sleep is such an underrated - yet powerful - promoter of health.
+
+Naps, of course, are a great way to give you a boost of energy, but they are also [good for cardiovascular health](https://www.reuters.com/article/us-heart-nap-idUSN2C35458820070213) - and I think I’ve discovered the holy grail of power naps. Full disclosure - I haven’t actually mastered the holy grail of power naps. So this is only an untested theory posited from an armchair sleep enthusiast. The fever dreams of a post-lunch mind.
+
+The first step is to drink a strong cup of coffee. 
+
+Yes, you read that correctly. There is [scientific evidence](https://www.vox.com/2014/8/28/6074177/coffee-naps-caffeine-science) that chugging a java before taking a twenty-minute nap will prepare your brain to maximize the forthcoming caffeine jolt.
+
+The second step is to fall asleep quickly before the coffee kicks in.
+
+Falling asleep on command can be hard, especially under pressure. But all it takes is discipline. There are techniques, [such as this one used by the military](https://www.inc.com/melanie-curtin/want-to-fall-asleep-faster-combat-pilots-use-this-hack-to-get-to-sleep-in-2-minutes-or-less.html), that - with practice - will allow you to fall asleep in within two minutes.
+
+Sounds great, right?
+
+Now the only missing plug-in for this hack is having time allocated to this healthy habit. Unfortunately, the demise of the midday siesta in the modern world is a big step backwards. Let’s kill Daylight Savings Time and bring back the siesta - for the good of humankind. Why should napping only benefit the rich or the retired (or the freelancer)?
+
+## I support the war on drugs
+
+No, not that war on drugs. The other war on drugs. I’m saying we should support natural measures to combat bugs - no more antibiotics, antimicrobials, or antifungals (unless it saves lives). The liberal use of these things is giving rise to drug-resistant superbugs that should give everybody nightmares. 
+
+If you want to know how the premise of *Last of Us* is becoming a reality, read [this New York Times article](https://www.nytimes.com/2019/04/06/health/drug-resistant-candida-auris.html) on a nasty drug-resistant fungus called Candida auris.
+
+For some reason, people are more afraid of AI wiping us out in a dystopian future despite the fact that it will take another hundred years for Siri to be vaguely threatening. But superbugs are here today and, on the path we’re on, it can only get worse.
+
+## Stream all the things?
+
+Enough about health - let’s do a hard pivot back to the familiar territory of technology and talk about streaming services. Many Canadians, [including myself]({{< relref "2014-07-05-bullish-on-music-streaming.markdown" >}}), were eager early adopters of streaming services such as Netflix and Google Play Music when they arrived several years ago. But the so-called streaming wars have made our relationship with such services...complicated.
+
+With cord-cutting becoming more prevalent, scraps over exclusivity have fragmented the video-streaming landscape in a big way. 
+
+The forthcoming Disney+ streaming platform, for example, caused Netflix to spitefully cancel all their Marvel shows. I really liked those shows. Also, Netflix keeps raising their prices to make more original content. Some of their homegrown shows are good, but most are forgettable. Almost all their movies are terrible.
+
+Netflix can’t afford to pay billions of dollars in licensing fees for popular network shows forever - or may not have any choice in the matter. For instance, it looks like NBC will be removing the much-loved *Friends* and *The Office* from Netflix and starting up a their own streaming service. Can Netflix stand on original content alone? Perhaps. Brand loyalty goes a long way.
+
+Meanwhile, Apple is throwing heaps of cash at stalwart celebrity heavyweights such as Oprah and Steven Spielberg in an effort to crack open the streaming market through brute force. Their efforts may be laughable so far (their media event for Apple TV+ didn’t show even one trailer), but you’d be a fool to underestimate Apple’s persistence once they’ve committed to something.
+
+On the music side, Apple’s doggedness has paid off for them with Apple Music now in second place behind Spotify in terms of subscriber counts. Google, on the other hand, is far more fickle when it comes to ongoing product support (RIP Google Reader). Sadly, my beloved Google Play Music is also being shuttered in favour of the inferior Youtube Music. 
+
+Yet, despite a few lingering skirmishes, the music streaming war is mostly over. A few artists have tried to use exclusivity to leverage subscriptions (looking at you Beyoncé and Tidal). But the music industry hasn’t got any fight left in them after Steve Jobs blindsided them in the early 2000s.
+
+So what will be the next arena in the streaming wars?
+
+It’s a big one: the billion-dollar gaming industry. 
+
+When you move processing power to a remote server, you save the gamer from spending thousands on a gaming PC every few years. Take the forthcoming [Google Stadia](https://store.google.com/magazine/stadia), for example. Their slogan says it all: “The future of gaming is not a box”. Sony and Microsoft are also coming up with their own streaming platforms. I assumed I’d play all day on my Playstation 10 when I retire, but maybe that won’t happen if gaming hardware becomes just another dumb pipe.
+
+Streaming everything in a digital world sounds good in principle, especially if an initial hardware investment become unnecessary. But companies have to stop pushing the subscription model on us. Subscriptions are very profitable income streams - I get it. But for the consumer, it doesn’t make sense in some cases. Attention is a finite resource and at some point, subscription fatigue will set in. 
+
+The casual gamer, for example, would be happy to purchase one or two games a year, as long as they own those games. Why not allow a one-time payment for streaming access to one game in perpetuity? After all, it’s a small step from being able to download anything from your Steam Library at any time to playing a game in your Steam Library at any time… without even downloading it.
+
+## Notch watch
+
+I’m not sure when the notch in smartphones become my hill to die on, but the dream of a single, uninterrupted plane of glass is too tantalizing to give up on. Based on the latest iPhone 11 leaks, it looks like the Apple faithful are in for another year living with the notch. 
+
+Disappointing. Especially compared to the latest Android phones which are already living the all-screen dream - albeit with some sacrifice. The recently announced OnePlus 7 Pro, for example, ostensibly has the best phone screen ever manufactured: an unblemished 1440 x 3120 pixel AMOLED 6.67-inch display with HDR 10+ compatibility and a 90 Hz refresh rate. Gorgeous. 
+
+But to avoid the notch, or the equally horrible cut-out hole that Samsung went with on the S10 this year, the OnePlus 7 Pro opted for a mechanized pop-up camera. Clever idea - but you know what they say about moving parts. The price of mechanical engineering: fragile, vulnerable, novelty phones. Another case-in-point: the Asus ZenFone 6 with its crazy rotating camera.
+
+And what’s with the asymmetrical top and bottom bezels on every single android phone these days? It drives me nuts. Symmetry is such a fundamental industrial design concept but is ignored in favour of a few extra pixels of screen real estate at the top of the phone. Sure, the display controller prevents the screen from going all the way to the edge at the bottom. But why not make the “forehead” the same size as the “chin”? 
+
+Apple achieves symmetry by bending the bottom of the display inside the chassis and tucking the controller underneath the fold. Over-engineering for the sake of aesthetics: typical Apple overindulgence, but in this case, worth it.
+
+I was hoping that a truly all-screen iPhone would arrive in 2020. But if that doesn’t happen and I’m still feeling stubborn, I could either switch back to Android or wait longer. After all, my iPhone 6S is still getting the latest software updates… for now.
+
+## One more thing
+
+I’ll keep the fifth random thing short. I mean, if I was being smart, I would have split this post up into five small posts and been set for the rest of the year. But where’s the fun in that? So, in the spirit of fun, I’ll leave you with this famous Chinese poem called *Lion-Eating Poet in the Stone Den* (shown here in [pinyin](http://blog.tutorming.com/mandarin-chinese-learning-tips/what-is-pinyin)):
+
+> Shíshì shīshì Shī Shì, shì shī, shì shí shí shī. Shì shíshí shì shì shì shī. Shí shí, shì shí shī shì shì. Shì shí, shì Shī Shì shì shì. Shì shì shì shí shī, shì shǐ shì, shǐ shì shí shī shìshì. Shì shí shì shí shī shī, shì shíshì. Shíshì shī, Shì shǐ shì shì shíshì. Shíshì shì, Shì shǐ shì shí shì shí shī. Shí shí, shǐ shí shì shí shī shī, shí shí shí shī shī. Shì shì shì shì.
+
+You see, every syllable has the same sound, but is pronounced in a different tone. Mandarin is a much more tonal language than English and this neat poem shows the wonderful variety of expression which has evolved linguistically throughout the world. [Go here](https://forum.duolingo.com/comment/25323797/Fun-Chinese-poem-The-Lion-Eating-Poet-in-the-Stone-Den) if you want to read the translation.
+
+We live in an amazing world and these are incredible times. Thanks for joining me on the journey - I hope we can do this again soon!
