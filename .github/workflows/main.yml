@@ -14,12 +14,12 @@ jobs:
       - name: Setup hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "0.82.2"
+          hugo-version: "0.32"
 
       - name: Build
-        # remove --minify tag if you do not need it
+        # remove --minify tag if you do not need it (ahg: I removed it - was "run: hugo --minify")
         # docs: https://gohugo.io/hugo-pipes/minification/
-        run: hugo --minify
+        run: hugo
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
