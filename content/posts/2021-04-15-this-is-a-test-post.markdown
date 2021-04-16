@@ -4,7 +4,7 @@ slug = "this-is-a-test-post"
 title = "This is a test post"
 
 +++
-Welcome to the test post
+Welcome to the test post - if this works, I'll be gobsmacked!
 
 <!--more-->
 
