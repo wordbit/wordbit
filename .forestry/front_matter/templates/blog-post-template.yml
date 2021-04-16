@@ -16,3 +16,5 @@ fields:
   name: title
   label: title
   default: Insert title here
+pages:
+- content/posts/blinking-in-the-light.markdown
