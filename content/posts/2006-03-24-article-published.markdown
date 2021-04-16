@@ -1,0 +1,26 @@
+---
+date: 2006-03-24 12:43:00+00:00
+slug: article-published
+title: Article published
+---
+
+I haven't had anything published in a while! Here is an article I wrote entitled "Unlearning Racism" and it deals with growing up in South Africa. This is something my S.A. friends might find interesting, although I hope you guys from "die moederland" will appreciate it was written for a North American audience. It was published in a magazine entitled "Think Equity" which is distributed on the U.B.C. campus; there is a [PDF version](http://students.ubc.ca/access/download/ThinkEquity2-2.pdf) available on-line, if you're interested follow the link and check out page 4.
+
+*[November 16, 2015: Think Equity is no longer available online. However, here is what I believe to be the first draft:]*
+
+## Unlearning a Racist Pedagogy
+
+
+You may think I learned a lot about racism growing up in apartheid South Africa. The truth is, I learned nothing about it. Words such as ‘discrimination’, ‘prejudice’ and ‘emancipation’ were missing from our academic lexicon. Yet, in a subtle, inexorable way, we learned everything about racism. That is to say, we were educated to be racist. Our all-white schools were perfectly self-contained euro-centric islands. In our imposed cultural isolation, we were not privy to the voice of an oppressed nation. Our sense of injustice was neutered; our perception of the world shaped by a deliberately innocuous pedagogy. In a way, we too were oppressed by the very institutions that nurtured us. 
+
+When I was very young, before I went to school, I used to play with our maid’s children outside in the sunshine. As children we had no preconceptions influencing our interactions, all we cared about was having fun. As I grew older and started school, this carelessness gave way to the expectations of society. The unspoken rules of society are hard to challenge when they are so pervasive, yet so invisible. Outside of school we learned to fear the black multitudes; on television they were portrayed as a violent and cruel race. Our parents discouraged us from walking around on the streets, where any number of (black) criminals might be lurking. In school, the “other” was somewhat romanticized. In history class we were dazzled with stories of Shaka Zulu and battles where blood dyed the rivers red. Barefooted Zulu warriors with spears and assegais marched through our dreams. We were in fear; we were in awe.
+
+In 1994, the year I graduated from high school, South Africa instituted its first democratic government and former whites-only schools opened their doors to everybody. The first brave students were shy and awkward in their crisp new school uniforms; hardly the spear-wielding savages that had excited our collective imagination! Some welcomed them, most ignored them but none of us could understand them. We had never learned about a real people, about a living culture. We were confused and disenchanted. In time, they brought their culture, their language, their music and their joy into the classrooms. New generations of children were playing with each other again. They were having fun. Colour fell away. This was something I was never to experience. This was the new South Africa, and I was part of the old.
+
+Was I deceived? Brainwashed? Deliberately kept in a state of fear? Ultimately, I found I could not blame a racist government, or my teachers or an erroneous ideology. I could never justify being the victim of anything, especially since the real victims never enjoyed the privileged upbringing I did. It was enough to bear the guilt of a nation sundered for so long by an embarrassingly archaic imperialistic regime. That hot shame has brought so many of us to our knees with the weight of it. I needed instead to emancipate myself and in the process grow up. It is not easy to open your heart and embrace life like a lover. So many of us allow our mental vigilance to lapse and accept the inequity of this world far too readily. 
+
+For me, part of this process involved traveling to many places and meeting many different people. I have been to places in South Africa I had previously feared to go, and found my fear unsubstantiated. I have rediscovered my country and found it to be inhabited by many humble and beautiful people both black and white. I have studied anthropology and actively sought the truth. We stagnate here in the developed world, while the developing world is painfully aware of the poignancy of this ephemeral life and lives each day in joy and pain. Too often, we draw lines of colour and in our bitterness denigrate those we fail to understand. As for my part, I strive to ensure lack of understanding will never be a hindrance to me again as I continue to learn the bittersweet lessons of life.    
+
+
+By Antoine H. Giraud
+
