@@ -1,0 +1,147 @@
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8">
+    <base href="https://wordbit.com">
+    <title> Blinking in the light </title>
+    <link rel="canonical" href="https://wordbit.com/posts/blinking-in-the-light/">
+    
+
+<link rel="stylesheet" href="/css/poole.css">
+
+<link rel="stylesheet" href="/css/lanyon.css">
+<link rel="stylesheet" href="/css/custom.css">
+
+
+</head>
+
+
+<body class="theme-base-08">
+  
+
+
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox"
+       xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
+
+
+<div class="sidebar" id="sidebar">
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+    <a class="sidebar-nav-item" href="/posts">All Blog Posts</a>
+    <a class="sidebar-nav-item" href="/pages/status">Status Updates</a>
+    <a class="sidebar-nav-item" href="/pages/about">About</a>
+  </nav>
+
+  <div class="sidebar-item">
+    <p>
+      &copy; 2021. All rights reserved.
+    </p>
+  </div>
+</div>
+
+
+  
+  <div class="wrap">
+
+    <div class="masthead">
+  <div class="container">
+    <h3 class="masthead-title">
+      <a href="/" title="Home">wordbit</a>
+    </h3>
+  </div>
+</div>
+
+
+    
+    <div class="container content">
+      <h1 class="post-title">Blinking in the light</h1>
+        <section id="main">
+          <h5 id="date"> Sat Apr 17, 2021 </h5>
+          <p>Spring has arrived in full force. The temperature magically jumped up ten degrees in the past week. One day you&rsquo;re huddling inside sipping Coffee in the gloom in Gotland-wool slippers, and the next you&rsquo;re paddling on the lake in boardshorts and bare feet. Incredible.</p>
+
+<p>It&rsquo;s enough to make you forget that the variants are also out in full force. And yet, as the blazing Spring sun has burned away the darkness, there is also hope that the vaccination rollout will continue to curb the rising covid tide. Today I registered my interest in receiving the vaccine on the government website, so that&rsquo;s a small win I guess.</p>
+
+<p>I don&rsquo;t mind the Winter too much because I like cozy blankets, hot chocolate, and Netflix. I don&rsquo;t particularly like sunscreen, allergies, and mowing the lawn. But I&rsquo;d forgotten how good warm sun feels on bare skin. The colourization of the landscape as it transforms from brown to vivid green is a real mood booster too.</p>
+
+<p>With the warm weather breathing new life into the land, my mind has turned to Spring-cleaning projects - this blog being no exception. It&rsquo;s time to get meta.</p>
+
+<p></p>
+
+<p>For the <a href="/posts/banned-for-blogging-about-apple/">past six years</a>, I&rsquo;ve been using a Hugo static site hosted on GitHub Pages. But the workflow has been cumbersome - quite frankly, I don&rsquo;t know how I put up with so much friction for so long.</p>
+
+<p>My current workflow goes like this: I write the posts in Google Docs, which doesn&rsquo;t have native markdown support. So, writing in plain text forces me to constantly look up code snippets for more complicated actions. When I&rsquo;m done, I use BBEdit to create a text file in the cloned repository on my MacBook Pro. At this point, I edit and revise as necessary. But these revisions do not, of course, sync with the original versions on Google Docs.</p>
+
+<p>I have to use my MacBook Pro to publish because my local Hugo deployment must be run on the command line with the text files on my hard drive. But it isn&rsquo;t great being tied to your physical computer in our convenient online world. What if my laptop died on me? I&rsquo;d be hooped.</p>
+
+<p>It&rsquo;s not like I would ever go back to Wordpress, or even more unthinkably, Tumblr. But I was starting to think that an integrated WYSIWYG text editor and online deployment would be nice. So, I decided to make it happen.</p>
+
+<p>It wasn&rsquo;t exactly easy. I&rsquo;m not a software engineer and static sites have to be hacked together with various developer tools to get them working. There&rsquo;s no turnkey solution out there. There&rsquo;s certainly no decent documentation. And I&rsquo;d kind of forgotten how I got my blog working in the first place. Six years is a long time after all.</p>
+
+<p>I did some research, even watching a two-hour YouTube video with about four views from a painfully-nerdy programmer. To be clear, I didn&rsquo;t watch the whole thing - I&rsquo;m not a masochist.</p>
+
+<p>Anyway, for content management, I stumbled on <a href="https://forestry.io/">forestry.io</a> and after some tinkering, got it working nicely. However, in my naiveté, I didn&rsquo;t realize that the remote Hugo server in forestry could only host previews - not deploy the site. Basically, I could see what the blog post would look like, but not actually publish it.</p>
+
+<p>So, the research continued. At least the integrated WYSIWYG text editor was in place.</p>
+
+<p>Some time later, after realizing that I could somehow use <a href="https://github.com/features/actions">GitHub Actions</a> to automatically deploy my Hugo site, I set to work once more. I found <a href="https://ruddra.com/hugo-deploy-static-page-using-github-actions/">this post</a> most useful, so thank you Mister Arnab Kumar Shil - I don&rsquo;t know you but you&rsquo;re the bomb.</p>
+
+<p>After troubleshooting multiple failed deployments, I finally managed to get the workflow working with the right Hugo version (I have to use an older version because my modified duct-taped theme crashes the deployment on newer versions).</p>
+
+<p>But because I was still fumbling in a fog of ignorance like a total noob, I overwrote the root of my repo with the public files, thus deleting all my source files, including the forestry CMS I&rsquo;d just set up, and the workflow file itself. After discovering that you cannot revert a commit on the online version of GitHub (why, damn you, why?), I downloaded the Desktop version onto my recently-acquired PC and rolled the changes back, only to have the workflow re-trigger and wipe it all out again in a nightmare loop - I couldn&rsquo;t edit the workflow file because as I said earlier, it deleted itself as part of the workflow.</p>
+
+<p>Anyway, long story short, I disabled GitHub Actions, figured out that I should deploy to the gh-pages branch in my repo (not the root!), re-enabled Actions, and finally got it all working perfectly. I can now write drafts in forestry and publish them online on any browser anywhere. Even on mobile. Magic!</p>
+
+<p>Well, there was a lot of mentally-sweaty work in getting the magic to happen, but still - magic! Sorcery!</p>
+
+<p>That was actually a lot of fun. I enjoy learning new things; I miss it. More fun is on its way next week with Apple&rsquo;s <em>Spring Loaded</em> event. Now that my nifty workflow is up and running, I&rsquo;ll be sure to write a brief post with my thoughts on whatever they announce.</p>
+        </section>
+    </div>
+  </div>
+
+  <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+  
+
+<div class="container">
+  <hr />
+  
+
+  
+    <span class="right">
+    <em>Next: </em><a class="next" href="https://wordbit.com/posts/a-bruiser-of-a-year/"> &nbsp; A bruiser of a year</a> &raquo;
+    </span>
+  
+  <br>
+</div>
+
+  <br />
+
+
+  
+  
+
+<div class="container content">
+  <footer>
+    <div>
+      
+    </div>
+  </footer>
+</div>
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+
