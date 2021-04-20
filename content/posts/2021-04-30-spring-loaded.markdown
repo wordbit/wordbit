@@ -5,7 +5,11 @@ slug = "spring-loaded"
 title = "Spring Loaded"
 
 +++
-In the recent _Spring Loaded_ Apple event, the landscaping at Apple Park was on point.
+In Apple's recent _Spring Loaded_ event, the landscaping at Apple Park was on point. The path sightlines, the balance of trees and shrubbery, the striking wooden decks - even the mulch - was all so pleasant to look at in its verdant splendour.
+
+As Tim Cook strolled through the starkly empty courtyard grounds, around the shallow pool with its form-fitting crescent-shaped bench, in front of the rainbow arches, it became abundantly clear that working at the richest company on Planet Earth has its perks.
+
+Criticize Apple all you want for creating a suburban oasis instead of a practical urban headquarters with better public transit options. But if you had the choice of spending your working days inside a grungy city office building or outdoors on a sunny California patio straight out of a manicured Airbnb listing, which would you pick?
 
 Notes:
 
