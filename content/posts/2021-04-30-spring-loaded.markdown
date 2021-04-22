@@ -11,6 +11,14 @@ As Tim Cook strolled through the starkly empty courtyard grounds, around the sha
 
 Criticize Apple all you want for creating a suburban oasis instead of a practical urban headquarters with better public transit options. But if you had the choice of spending your working days inside a grungy city office building or outdoors on a sunny California patio straight out of a manicured Airbnb listing, which would you pick?
 
+I'm enjoying these polished online presentations - hopefully they don't go away completely when traditional in-person events come back. I will miss strolling through Apple Park with Tim.
+
+True to the event name, a plethora of product announcements were crammed into the hour. These were a mixed bag, from podcast subscriptions to purple iPhones to a Ted Lasso trailer. Fairly minor stuff. If I were forced to come up with a theme, however, I'd say the common thread - with one exception - was a focus on the average non-nerdy consumer.
+
+<!--more-->
+
+Ordinary people, living ordinary - if somewhat privileged - lives (they can afford Apple products after all).
+
 Notes:
 
 * Apple Park looking green and verdant
