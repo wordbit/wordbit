@@ -19,13 +19,19 @@ True to the event name, a plethora of product announcements were crammed into th
 
 Ordinary people, living ordinary - if somewhat privileged - lives (they can afford Apple products after all).  From the family struggling to work from home, to the eco-conscious biker dude, to the hirsute, underdressed silicon-valley guy working on the Ferry. Apple's marketing department knows their audience - or, at least, thinks they do.
 
-For a full rundown of the event, go to your favourite tech publication. For a quick take, stick around here; I'm going to break down the major announcements with a subjective pro and con for each.
+For a full rundown of the event, go to your favourite tech publication. For a quick take, stick around here; I'm going to break down the major announcements with subjective pros and cons for each.
 
 ### AirTags
 
-<img src="/images/thumbs_up.png" align="left"> Instead of requiring users to download an app - looking at you Tile - this little tracker is seamlessly integrated into Apple's existing operating systems. On a macro level, AirTags create an ad hoc surveillance network by piggybacking off the location of millions of iPhone users wondering around in the world with Bluetooth turned on. For the record, that's a lot. At least in areas where iPhones are popular. Despite how creepy this feature sounds, Apple worked the privacy angle hard.
+<img src="/images/thumbs_up.png" align="left"> Instead of requiring users to download an app - looking at you Tile - this little tracker is seamlessly integrated into Apple's existing operating systems.
 
-On a micro level, the ultra-wideband chip in Apple's newer devices allow you to find AirTags with fine-grained precision. Remember those 
+On a macro level, AirTags create an ad hoc surveillance network by piggybacking off the location of millions of iPhone users wondering around in the world with Bluetooth turned on. For the record, that's a lot. At least in areas where iPhones are popular. Despite how creepy this feature sounds, Apple worked the privacy angle hard.
+
+On a micro level, the ultra-wideband chip in Apple's newer devices allow you to find AirTags with fine-grained precision. These eco-system locked micro and macro technologies are a one-two punch to the competition - again, looking at you Tile. No, they aren't happy about it.
+
+<img src="/images/thumbs_down.png" align="left"> I get that AirTags were designed around a user-replaceable battery, which limits the form factor. But there isn't even a lanyard hole built in to the AirTag, so you have to buy a case to attach it to your keys or backpack or whatever. In true Apple fashion, they will gladly sell you an Hermès luggage tag for $580, which is obviously outrageous.
+
+However, the real bummer is that the AirTag isn't quite slim enough to slide into your wallet. If you ask me, losing your keys is an inconvenience - but losing your wallet is a code-red scramble to cancel your credit cards and pray your identity isn't being ripped out from under you. In other words, I think trackers should be designed for the wallet before anything else.
 
 Notes:
 
