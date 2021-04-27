@@ -19,19 +19,43 @@ True to the event name, a plethora of product announcements were crammed into th
 
 Ordinary people, living ordinary - if somewhat privileged - lives (they can afford Apple products after all).  From the family struggling to work from home, to the eco-conscious biker dude, to the hirsute, underdressed silicon-valley guy working on the Ferry. Apple's marketing department knows their audience - or, at least, thinks they do.
 
-For a full rundown of the event, go to your favourite tech publication. For a quick take, stick around here; I'm going to break down the major announcements with subjective pros and cons for each.
+For a full rundown of the event, go to your favourite tech publication. For a quick take, stick around here; I'm going to break down the major four hardware announcements with subjective pros and cons for each.
 
 ### AirTags
+
+These have been rumoured for a while, and now they're finally here. Diminutive and surprisingly inexpensive (for Apple), AirTags are Bluetooth trackers that help you find your lost stuff - a brand-new product category for the company.
 
 <img src="/images/thumbs_up.png" align="left"> Instead of requiring users to download an app - looking at you Tile - this little tracker is seamlessly integrated into Apple's existing operating systems.
 
 On a macro level, AirTags create an ad hoc surveillance network by piggybacking off the location of millions of iPhone users wondering around in the world with Bluetooth turned on. For the record, that's a lot. At least in areas where iPhones are popular. Despite how creepy this feature sounds, Apple worked the privacy angle hard.
 
-On a micro level, the ultra-wideband chip in Apple's newer devices allow you to find AirTags with fine-grained precision. These eco-system locked micro and macro technologies are a one-two punch to the competition - again, looking at you Tile. No, they aren't happy about it.
+On a micro level, the ultra-wideband chip in Apple's newer devices allow you to find AirTags with fine-grained precision. These ecosystem-locked micro and macro technologies are a one-two punch to the competition - again, looking at you Tile. No, they aren't happy about it.
 
 <img src="/images/thumbs_down.png" align="left"> I get that AirTags were designed around a user-replaceable battery, which limits the form factor. But there isn't even a lanyard hole built in to the AirTag, so you have to buy a case to attach it to your keys or backpack or whatever. In true Apple fashion, they will gladly sell you an Hermès luggage tag for $580, which is obviously outrageous.
 
 However, the real bummer is that the AirTag isn't quite slim enough to slide into your wallet. If you ask me, losing your keys is an inconvenience - but losing your wallet is a code-red scramble to cancel your credit cards and pray your identity isn't being ripped out from under you. In other words, I think trackers should be designed for the wallet before anything else.
+
+### Apple TV
+
+So, I still use the third-generation Apple TV, which is no longer supported. To be honest, these new Apple TVs miss the mark and won't inspire anyone in the same boat as me to upgrade. I don't see why anyone with a newer Apple TV would want to upgrade either. But before I get into it, let me talk about the positives first.
+
+<img src="/images/thumbs_up.png" align="left"> The automatic colour calibration (by pointing your iPhone at the TV screen) is the delightful sort of cross-platform integration you've come to love (or hate) about Apple. TV calibration is usually such a messy, complicated affair - simplifying it so everyone can do it is hallmark Apple.
+
+The new remote control looks to be a solid upgrade. You'll still lose it in your couch cushions (why no U1 chip?), but it looks more functional than previous iterations. Personally, I love using my Apple Watch as a remote - it's always there on your wrist and you'll never accidentally leave it in the kitchen when grabbing popcorn.
+
+<img src="/images/thumbs_down.png" align="left"> Okay, so anybody with an old 1080p TV like me who wants an Apple TV will have to choke up $200 for the Apple TV HD. The Apple TV 4K is only thirty bucks more at $230. Apple's math is way off here - why would anyone... I can't even...
+
+And do they know you can just buy a Roku for a measly thirty bucks? Thirty bucks, and boom - your old TV can stream Netflix.
+
+And if you have a newer 4K "smart" TV, you have all the streaming services already built in. Why pay to clutter up your TV stand with an unnecessary plug-in box? I'm scratching my head as to why anybody would buy this. Perhaps Apple has grander plans and the only purpose of this minor spec bump is to buy some time and confound those who thought Apple would kill of the Apple TV entirely.
+
+### iMac
+
+dddddd
+
+### iPad Pro
+
+dddddd
 
 Notes:
 
