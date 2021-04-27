@@ -21,9 +21,11 @@ Ordinary people, living ordinary - if somewhat privileged - lives (they can affo
 
 For a full rundown of the event, go to your favourite tech publication. For a quick take, stick around here; I'm going to break down the major announcements with a subjective pro and con for each.
 
-### Airtags
+### AirTags
 
-![](/images/thumbs_up.png) Instead of requiring users to download an app - looking at you Tile - this little tracker piggybacks off the millions of iPhone users wondering around in the world with Bluetooth turned on to create an ad hoc surveillance network.
+<img src="/images/thumbs_up.png" align="left"> Instead of requiring users to download an app - looking at you Tile - this little tracker is seamlessly integrated into Apple's existing operating systems. On a macro level, AirTags create an ad hoc surveillance network by piggybacking off the location of millions of iPhone users wondering around in the world with Bluetooth turned on. For the record, that's a lot. At least in areas where iPhones are popular. Despite how creepy this feature sounds, Apple worked the privacy angle hard.
+
+On a micro level, the ultra-wideband chip in Apple's newer devices allow you to find AirTags with fine-grained precision. Remember those 
 
 Notes:
 
