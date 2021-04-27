@@ -43,7 +43,7 @@ So, I still use the third-generation Apple TV, which is no longer supported. To 
 
 The new remote control looks to be a solid upgrade. You'll still lose it in your couch cushions (why no U1 chip?), but it looks more functional than previous iterations. Personally, I love using my Apple Watch as a remote - it's always there on your wrist and you'll never accidentally leave it in the kitchen when grabbing popcorn.
 
-<img src="/images/thumbs_down.png" align="left"> Okay, so anybody with an old 1080p TV like me who wants an Apple TV will have to choke up $200 for the Apple TV HD. The Apple TV 4K is only thirty bucks more at $230. Apple's math is way off here - why would anyone... I can't even...
+<img src="/images/thumbs_down.png" align="left"> Okay, so anybody with an old 1080p TV like me who wants an Apple TV will have to choke up $200 for the Apple TV HD. The Apple TV 4K is only thirty bucks more at $230! Apple's math is way off here - why would anyone... I can't even...
 
 And do they know you can just buy a Roku for a measly thirty bucks? Thirty bucks, and boom - your old TV can stream Netflix.
 
@@ -51,7 +51,9 @@ And if you have a newer 4K "smart" TV, you have all the streaming services alrea
 
 ### iMac
 
-dddddd
+The new iMac has the well-received M1 chip at its heart. And a nicer camera for all those working from home who want to look more flattering on their conference calls. But the major headline here is the eye-catching new design.
+
+<img src="/images/thumbs_up.png" align="left">
 
 ### iPad Pro
 
