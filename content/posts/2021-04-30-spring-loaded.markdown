@@ -53,7 +53,15 @@ And if you have a newer 4K "smart" TV, you have all the streaming services alrea
 
 The new iMac has the well-received M1 chip at its heart. And a nicer camera for all those working from home who want to look more flattering on their conference calls. But the major headline here is the eye-catching new design.
 
-<img src="/images/thumbs_up.png" align="left">
+<img src="/images/thumbs_up.png" align="left"> I'm going to keep this simple. With its vibrant colour choices, the back of this iMac looks fantastic. The colours, reminiscent of the iMac G3s, pop with deep, rich hues. From the side, this ridiculously-thin iMac also looks amazing. It sort of floats like a giant iPad.
+
+The colour-matched mouse and keyboard, and even power cable, elevate this iMac from appliance to art. You can tell the designers really want this iMac to be the linchpin of your home decor.
+
+<img src="/images/thumbs_down.png" align="left"> The front of this iMac doesn't look as good. Large white bezels and a larger chin constrain and detract from the display. Also, the pastel hue of the chin is very different from the resplendant back.
+
+Having said that, I think the average consumer will love the new design. There are people out there who adored the bling of a rose-gold iPhone with white bezels. I'm not one of those people, but I get it.
+
+An all-screen iMac with tiny bezels and no chin would be a delight to use, in my opinion. But then you'd have to increase the thickness by putting the internals behind the screen. With the screen --- invisible tech --- no design to look at --- Apple would lose all the iconic design elements they paid their designers handsomely for. They would also lose the wow factor that seemingly impossible thinness brings.
 
 ### iPad Pro
 
