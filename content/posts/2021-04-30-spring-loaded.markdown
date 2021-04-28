@@ -61,11 +61,15 @@ The colour-matched mouse and keyboard, and even power cable, elevate this iMac f
 
 Having said that, I think the average consumer will love the new design. There are people out there who adored the bling of a rose-gold iPhone with white bezels. I'm not one of those people, but I get it.
 
-An all-screen iMac with tiny bezels and no chin would be a delight to use, in my opinion. But then you'd have to increase the thickness by putting the internals behind the screen. With the screen --- invisible tech --- no design to look at --- Apple would lose all the iconic design elements they paid their designers handsomely for. They would also lose the wow factor that seemingly impossible thinness brings.
+An all-screen iMac with tiny bezels and no chin would be a delight to use, in my opinion. But then you'd have to increase the thickness by putting the internals behind the screen. Personally, I don't think thickness is a big deal for a Desktop computer that isn't portable at all.
+
+But an all-screen iMac would shift the focus from the industrial design to the content and essentially make the hardware invisible. Apple would lose all the iconic design elements they paid their designers handsomely for. They would also lose the "wow" factor that ridiculous thinness elicits on an emotional level (despite the lack of any practical benefit).
 
 ### iPad Pro
 
-dddddd
+I mentioned in the intro that there was one exception to a focus on the consumer in this event. The iPad Pro is that exception. Apple also threw the M1 chip into this new iPad - overkill for the average consumer. But is the iPad Pro even the right tool for creators?
+
+<img src="/images/thumbs_up.png" align="left"> The big upgrade here is the new mini-LED display with local dimming zones for inky blacks without the drawbacks of OLED. Apple calls it a "liquid retina XDR display", a marketing label they also tacked onto their Pro Display XDR, which retails for over $6,000. When Apple draws a parallel like this, you'd better sit up and take notice. This is one kick-ass screen for a tablet.
 
 Notes:
 
