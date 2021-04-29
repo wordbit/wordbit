@@ -71,6 +71,8 @@ I mentioned in the intro that there was one exception to a focus on the consumer
 
 <img src="/images/thumbs_up.png" align="left"> The big upgrade here is the new mini-LED display with local dimming zones for inky blacks without the drawbacks of OLED. Apple calls it a "liquid retina XDR display", a marketing label they also tacked onto their Pro Display XDR, which retails for over $6,000. When Apple draws a parallel like this, you'd better sit up and take notice. This is one kick-ass screen for a tablet.
 
+<img src="/images/thumbs_down.png" align="left"> Compared to the colourful iMac lineup and even the pastel hues on the latest iPad Air lineup, the iPad Pro seems a bit too straight laced. But the absence of fun
+
 Notes:
 
 * Apple Park looking green and verdant
