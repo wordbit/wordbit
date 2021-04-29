@@ -13,7 +13,7 @@ Criticize Apple all you want for creating a suburban oasis instead of a practica
 
 I'm enjoying these polished online presentations - hopefully they don't go away completely when traditional in-person events come back. I will miss strolling through Apple Park with Tim.
 
-True to the event name, a plethora of product announcements were crammed into the hour. These were a mixed bag, from podcast subscriptions to purple iPhones to a Ted Lasso trailer. Fairly minor stuff. If I were forced to come up with a theme, however, I'd say the common thread - with one exception - was a focus on the average (non-nerdy) consumer.
+True to the event name, a plethora of product announcements were crammed into the hour. These were a mixed bag, from credit card improvements, to podcast subscriptions, to purple iPhones, to a Ted Lasso trailer. Fairly minor stuff. If I were forced to come up with a theme, however, I'd say the common thread - with one exception - was a focus on the average (non-nerdy) consumer.
 
 <!--more-->
 
@@ -27,7 +27,7 @@ These have been rumoured for a while, and now they're finally here. Diminutive a
 
 <img src="/images/thumbs_up.png" align="left"> Instead of requiring users to download an app - looking at you Tile - this little tracker is seamlessly integrated into Apple's existing operating systems.
 
-On a macro level, AirTags create an ad hoc surveillance network by piggybacking off the location of millions of iPhone users wondering around in the world with Bluetooth turned on. For the record, that's a lot. At least in areas where iPhones are popular. Despite how creepy this feature sounds, Apple worked the privacy angle hard.
+On a macro level, AirTags create an ad-hoc surveillance network by piggybacking off the location of millions of iPhone users wondering around in the world with Bluetooth turned on. For the record, that's a lot. At least in areas where iPhones are popular. Despite how creepy this feature sounds, Apple worked the privacy angle hard.
 
 On a micro level, the ultra-wideband chip in Apple's newer devices allow you to find AirTags with fine-grained precision. These ecosystem-locked micro and macro technologies are a one-two punch to the competition - again, looking at you Tile. No, they aren't happy about it.
 
@@ -73,7 +73,7 @@ I mentioned in the intro that there was one exception to a focus on the consumer
 
 <img src="/images/thumbs_down.png" align="left"> Compared to the colourful iMac lineup and even the pastel hues on the latest iPad Air lineup, the iPad Pro seems a bit too straight laced. But you can excuse the absence of fun because this iPad is for Pros, right?
 
-Apple is throwing the M1 chip into everything, including this new iPad. Such raw computing power may be wasted on the average YouTube-watching consumer. But given the limitations of iPadOS (you can't install full Desktop-class apps), can Pros even harness all this power?
+Apple is throwing the M1 chip into everything, including this new iPad. Such raw computing power may be wasted on the average YouTube-watching consumer. But given the limitations of iPadOS (you can't install full Desktop-class apps), Pros can't even harness all this power - even if they wanted to.
 
 We'll see what WWDC brings in June - perhaps Apple will announce a revamped iPadOS that can take full advantage of the M1. Until then, this iPad Pro is overkill for anybody who doesn't rob banks for a living.
 
