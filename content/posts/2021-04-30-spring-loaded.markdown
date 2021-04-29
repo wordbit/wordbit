@@ -67,22 +67,14 @@ But an all-screen iMac would shift the focus from the industrial design to the c
 
 ### iPad Pro
 
-I mentioned in the intro that there was one exception to a focus on the consumer in this event. The iPad Pro is that exception. Apple also threw the M1 chip into this new iPad - overkill for the average consumer. But is the iPad Pro even the right tool for creators?
+I mentioned in the intro that there was one exception to a focus on the consumer in this event. The iPad Pro is that exception.
 
 <img src="/images/thumbs_up.png" align="left"> The big upgrade here is the new mini-LED display with local dimming zones for inky blacks without the drawbacks of OLED. Apple calls it a "liquid retina XDR display", a marketing label they also tacked onto their Pro Display XDR, which retails for over $6,000. When Apple draws a parallel like this, you'd better sit up and take notice. This is one kick-ass screen for a tablet.
 
-<img src="/images/thumbs_down.png" align="left"> Compared to the colourful iMac lineup and even the pastel hues on the latest iPad Air lineup, the iPad Pro seems a bit too straight laced. But the absence of fun
+<img src="/images/thumbs_down.png" align="left"> Compared to the colourful iMac lineup and even the pastel hues on the latest iPad Air lineup, the iPad Pro seems a bit too straight laced. But you can excuse the absence of fun because this iPad is for Pros, right?
 
-Notes:
+Apple is throwing the M1 chip into everything, including this new iPad. Such raw computing power may be wasted on the average YouTube-watching consumer. But given the limitations of iPadOS (you can't install full Desktop-class apps), can Pros even harness all this power?
 
-* Apple Park looking green and verdant
-* Apple Card: shared account, Apple Card family
-* New Podcast app, podcast subscriptions
-* New purple iPhone 12
-* Find My. (That deck!!!)
-* AirTags - can personalize. Very precise tracking!
-* Ted Lasso trailer, coming July 23
-* New Apple TV 4K, A12 bionic, high-framerate HDR, can use iphone to calibrate TV! New remote. Still expensive
-* new imac! still has big chin and big bezels. Great colours. very thin. Much better camera for video calls. 24 inches. Better speakers… very fast obviously. IMO, should have made it all screen and increased thickness. Ethernet jack in power adapter - nice. Colour-matched keyboard with touch id - nice. Colour-matched mouse too. No 27-inch option?
-* Tim Cook M1 heist - so funny
-* New iPad Pro has M1 - basically same design, thunderbolt port, 5G, new cameras with ultrawide camera with center stage - keeps people in view. New XDR display on 12.9 inch version - mini LED
+We'll see what WWDC brings in June - perhaps Apple will announce a revamped iPadOS that can take full advantage of the M1. Until then, this iPad Pro is overkill for anybody who doesn't rob banks for a living.
+
+Unless you're [evil Tim Cook](https://youtu.be/JdBYVNuky1M?t=2198) of course.
