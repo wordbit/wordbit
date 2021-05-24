@@ -5,13 +5,29 @@ slug = "blob-opera-and-the-talking-paper-airplane"
 title = "Blob Opera and the talking paper airplane"
 
 +++
-I don't know what Google has been smoking, but Google I/O this year was trippy.
+I don't know what those Googlers have been smoking, but Google I/O this year was trippy.
 
 It started out with a bunch of colourful, psychedelic slug-like blobs singing opera. Whether a machine-learning experiment or an acid trip, the effect was the same. We were also treated to a bizarre AI-generated conversation with an anthropomorphized Pluto and... a talking paper airplane.
 
 And just when you thought your head would explode after picturing error-corrected logical qubits wrapped up in a Bob Ross painting, Google brought back all the gross greens and oranges back from the 70s for Android's "new" UI design.
 
 It was a wild, heady, exhausting ride. But now that the I/O-induced haze has dissipated, there are a few interesting nuggets and tidbits I'd like to talk about.
+
+<!--more-->
+
+I really like Sundar Pichai - as CEO, he doesn't relish the spotlight, but he handles it well. He seems to be a level-headed, humble intellectual who doesn't rub people the wrong way. If you were to judge a company by the leader at its helm, I wouldn't blame you if the calm and re-assuring Pichai let you trust Google a little more than you would otherwise.
+
+After the brash Blob Opera trip, it was immediately sobering to hear Pichai mourn over how hard the coronavirus is hitting his home country of India right now.
+
+However, one man alone can't control the inextricable push and pull of conflicting interests in a company as large and varied as Google has become.
+
+For a deep dive into Google's culture and controversy, I recommend listening to the excellent podcast [Land of the Giants](https://podcasts.apple.com/us/podcast/land-of-the-giants/id1465767420). A recent dismaying chapter in Google's history 
+
+...airplane is so benign it seems like satire
+
+... AI is the real soul of Google but is not fully understood by us
+
+note: AI ethics team and podcast
 
 * Google I/O pre-show: Blob Opera - WTF! Wierdest shit I’ve ever seen. Some sort of machine-learning experiment slash acid trip
 * Somber Pichai after that - his home country of India is being hard hit right now
