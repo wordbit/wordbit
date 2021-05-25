@@ -5,7 +5,7 @@ slug = "blob-opera-and-the-talking-paper-airplane"
 title = "Blob Opera and the talking paper airplane"
 
 +++
-I don't know what those Googlers have been smoking, but Google I/O this year was trippy.
+I don't know what those Googlers have been smoking these days, but Google I/O this year was just trippy.
 
 It started out with a bunch of colourful, psychedelic slug-like blobs singing opera. Whether a machine-learning experiment or an acid trip, the effect was the same. We were also treated to a bizarre AI-generated conversation with an anthropomorphized Pluto and... a talking paper airplane.
 
@@ -17,11 +17,17 @@ It was a wild, heady, exhausting ride. But now that the I/O-induced haze has dis
 
 I really like Sundar Pichai - as CEO, he doesn't relish the spotlight, but he handles it well. He seems to be a level-headed, humble intellectual who doesn't rub people the wrong way. If you were to judge a company by the leader at its helm, I wouldn't blame you if the calm and re-assuring Pichai let you trust Google a little more than you would otherwise.
 
-After the brash Blob Opera trip, it was immediately sobering to hear Pichai mourn over how hard the coronavirus is hitting his home country of India right now.
+After the brash Blob Opera, it was immediately sobering to hear Pichai mourn over how hard the coronavirus is hitting his home country of India right now.
 
 However, one man alone can't control the inextricable push and pull of conflicting interests in a company as large and varied as Google has become.
 
-For a deep dive into Google's culture and controversy, I recommend listening to the excellent podcast [Land of the Giants](https://podcasts.apple.com/us/podcast/land-of-the-giants/id1465767420). A recent dismaying chapter in Google's history 
+For a deep dive into Google's culture and controversy, I recommend listening to the excellent podcast [Land of the Giants](https://podcasts.apple.com/us/podcast/land-of-the-giants/id1465767420). A recent dismaying chapter in Google's history, for instance, revolved around the firing of key members on Google's AI Ethics team - seemingly due to a research paper highlighting the downsides of AI.
+
+And yet, despite alienating academics in the AI field, Google is forging on with AI advances in translation, images, and voice. The aforementioned talking paper airplane was a demo of LaMDA - Google's natural language algorithm built on Transformer, an open-sourced neural network architecture. The technology is impressive, but talking to a paper airplane is so deliberately benign, it borders on satire.
+
+With other AI initiatives in simultaneous development like Google's Multitask Unified Model (MUM) - also built on Transformer - it is becoming clear that Google is positioning conversational AI as the true soul of Google. The problem is that most of us don't really understand the full implications of this increasingly-powerful AI, and Google is fast losing credibility with the researchers who do.
+
+Not a good look for a company whose guiding principle was once "don't be evil" (a phrase now downplayed in their Code of Conduct).
 
 ...airplane is so benign it seems like satire
 
