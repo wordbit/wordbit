@@ -9,7 +9,7 @@ I don't know what those Googlers have been smoking these days, but Google I/O th
 
 It started out with a bunch of colourful, psychedelic slug-like blobs singing opera. Whether a machine-learning experiment or an acid trip, the effect was the same. We were also treated to a bizarre AI-generated conversation with an anthropomorphized Pluto and... a talking paper airplane?
 
-And just when you thought your head would explode after picturing error-corrected logical qubits wrapped up in a Bob Ross painting, Google brought back all the gross greens and oranges back from the 70s for Android's "new" UI design.
+And just when you thought your head would explode after picturing error-corrected logical qubits wrapped up in a "colder than Canada" Bob Ross painting, Google brought back all the gross greens and oranges back from the 70s for Android's "new" UI design.
 
 It was a wild, heady, exhausting ride. But now that the I/O-induced haze has dissipated, there are a few interesting nuggets and tidbits I'd like to talk about.
 
@@ -37,15 +37,19 @@ I get it - the conflicting duality of trying to be helpful while also trying to 
 
 It's plain icky when Chrome will start displaying all your open shopping carts from all the sites you've visited in a new tab (if you aren't bothered by that sort of cross-site tracking, you should be).
 
-But is it any less disturbing when Google's camera will determine that you're black and adjusts the colour balance in it's image processing accordingly? Don't get me wrong - adjusting for darker skin tones is a million times better than the whitewashing camera algorithms from some companies (LG being one). But does Google actually care, or do they desperately want you to see them as a woke and inclusive company? Or, more cynically, do they want to know your ethnicity so they can add another data point to your ad profile?
+But is it any less disturbing when Google's camera will determine that you're black and adjusts the colour balance in it's image processing accordingly? Don't get me wrong - adjusting for darker skin tones is a million times better than the whitewashing camera algorithms from some companies (LG being one). But does Google actually care, or do they just desperately want you to see them as a woke and inclusive company? Or, more cynically, do they only want to know your ethnicity so they can add another data point to your ad profile?
 
-Overreaching with...
+Okay, let's talk about Google Photos.
 
-Overcompensating with...
+I've been burned by Google before - the demise of Google Reader being a particularly painful example. So I never expected Google to keep the free-photo-upload gravy train running forever. The fact that free uploads are ending this month is more of an irritant than a full-out sting. I never stopped keeping up with physical photo backups, so I'm not too worried about losing my precious memories. Although, if my house burned down, I'd be out of luck of course.
 
-Google Photos is dead to me and it has become cluttered and hard to navigate. Too many "creations".
+Hey, we survived the twentieth century without the cloud. Although damned convenient, I'm not quite ready to shackle myself with a lifetime photo-backup subscription just yet. And to be honest, the Google Photos interface has become kind of cluttered and hard to navigate lately. They keep on coming up with new AI-enhanced creations - photo animations and "little patterns" (tracking an object over time - see where your blue backpack has travelled!) being the latest. It's hard work keeping up with all their suggestions.
 
-Maybe have a rapid-fire bullet pint round for the rest
+Still, it was great while it lasted. Free photo uploads to everyone on planet Earth - the last five years have to be the most documented in human history. Thanks for the memories, Google Photos. I hope you managed to harvest all the image data you needed to [feed the google machine]({{< relref "2015-06-01-rise-of-the-google-machine.markdown" >}}).
+
+Talk about going head-to-head with Apple and how Android is only getting around to addressing a more fluid UI now.
+
+Maybe have a rapid-fire bullet pint round for the rest?
 
 * Google I/O pre-show: Blob Opera - WTF! Wierdest shit I’ve ever seen. Some sort of machine-learning experiment slash acid trip
 * Somber Pichai after that - his home country of India is being hard hit right now
