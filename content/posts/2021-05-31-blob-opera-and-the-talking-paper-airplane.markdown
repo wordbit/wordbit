@@ -47,6 +47,14 @@ Hey, we survived the twentieth century without the cloud. Although damned conven
 
 Still, it was great while it lasted. Free photo uploads to everyone on planet Earth - the last five years have to be the most documented in human history. Thanks for the memories, Google Photos. I hope you managed to harvest all the image data you needed to [feed the google machine]({{< relref "2015-06-01-rise-of-the-google-machine.markdown" >}}).
 
+Right before Steve Jobs passed away he declared "thermonuclear war" on Google for stealing from Apple to create Android smartphones. The more calculating Tim Cook has since defused the hostilities and now happily deposits an eight-billion dollar cheque every year from Google to remain the default search engine on iOS. It's been abundantly clear over the years that Google's attempts to compete with Apple are half-hearted at best and instead are focusing on what it does best - machine learning and big data.
+
+That hasn't stopped Google from aping Apple's ecosystem strategy this year. They are more tightly integrating Chrome OS with Android for example. They even created a Google TV Remote App for Android. Rumours are floating around about a completely revamped high-end Pixel 6.
+
+I can't help but feel these efforts are still tepid. Android is only now getting around to making navigation and UI animation smoother and faster. But hardware and software integration has and always will make iOS the snappiest of all.
+
+Apple also continues to rule the smartwatch market. Samsung and Google are teaming up to better compete by merging Tizen and Wear OS (and also presumably Fitbit software as well since Google acquired them - what a mess). Whether a desperate move or a strategically-sound one, it doesn't really matter - it's simply too late to take on a fully-matured Apple Watch. I hope the merger brings something good to the market though - competition is always good.
+
 Talk about going head-to-head with Apple and how Android is only getting around to addressing a more fluid UI now.
 
 Maybe have a rapid-fire bullet pint round for the rest?
