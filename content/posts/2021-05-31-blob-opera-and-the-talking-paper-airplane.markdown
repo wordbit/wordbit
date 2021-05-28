@@ -55,7 +55,11 @@ I can't help but feel these efforts are still tepid. Android is only now getting
 
 Apple also continues to rule the smartwatch market. Samsung and Google are teaming up to better compete by merging Tizen and Wear OS (and also presumably Fitbit software as well since Google acquired them - what a mess). Whether a desperate move or a strategically-sound one, it doesn't really matter - it's simply too late to take on a fully-matured Apple Watch. I hope the merger brings something good to the market though - competition is always good.
 
-Talk about going head-to-head with Apple and how Android is only getting around to addressing a more fluid UI now.
+There was a lot of frightening, cool, cringey, and weird stuff at Google I/O this year and I'm obviously not going to dissect it all. So I'll finish up with one of Google's legit moonshot projects - [Project Starline](https://blog.google/technology/research/project-starline/).
+
+Working from home as over-emphasized the fact that video cameras are notoriously bad in just about all laptops and PCs out there. But what if they weren't? In fact, forget sub-par selfie cams altogether. What if Google could turn you into a 3D hologram? That sounds insane, but that is exactly what Google is going for with this ambitious project. If this research is ever commercialized, we'll look back at the terrible Zoom calls we endured in lockdown and laugh our collective asses off.
+
+But then again, we're all getting vaccinated and emerging from the third wave like butterflies out of billions of cocoons. By September we should all be back to face-to-face meetings, gatherings, chats, and so on. Unless there are a lot of holdouts who are don't want to toss their threadbare sweatpants in a fire and emerge from their caves.
 
 Maybe have a rapid-fire bullet pint round for the rest?
 
