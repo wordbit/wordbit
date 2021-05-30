@@ -9,7 +9,7 @@ I don't know what those Googlers have been smoking these days, but Google I/O th
 
 It started out with a bunch of colourful, psychedelic slug-like blobs singing opera. Whether a machine-learning experiment or an acid trip, the effect was the same. We were also treated to a bizarre AI-generated conversation with an anthropomorphized Pluto and... a talking paper airplane?
 
-And just when you thought your head would explode after picturing error-corrected logical qubits wrapped up in a "colder than Canada" Bob Ross painting, Google brought back all the gross greens and oranges back from the 70s for Android's "new" UI design.
+And just when you thought your head would explode after picturing error-corrected logical qubits wrapped up in a "colder than Canada" Bob Ross painting, Google brought back all the gross greens and oranges back from the 70s in a demo for Android's "new" UI design.
 
 It was a wild, heady, exhausting ride. But now that the I/O-induced haze has dissipated, there are a few interesting nuggets and tidbits I'd like to talk about.
 
@@ -59,26 +59,6 @@ There was a lot of frightening, cool, cringey, and weird stuff at Google I/O thi
 
 Working from home as over-emphasized the fact that video cameras are notoriously bad in just about all laptops and PCs out there. But what if they weren't? In fact, forget sub-par selfie cams altogether. What if Google could turn you into a 3D hologram? That sounds insane, but that is exactly what Google is going for with this ambitious project. If this research is ever commercialized, we'll look back at the terrible Zoom calls we endured in lockdown and laugh our collective asses off.
 
-But then again, we're all getting vaccinated and emerging from the third wave like butterflies out of billions of cocoons. By September we should all be back to face-to-face meetings, gatherings, chats, and so on. Unless there are a lot of holdouts who are don't want to toss their threadbare sweatpants in a fire and emerge from their caves.
+But then again, we're all getting vaccinated and emerging from the third wave like butterflies out of billions of cocoons. By September we should all be back to face-to-face interaction and dragging Zoom to the trash can.
 
-Maybe have a rapid-fire bullet pint round for the rest?
-
-* Google I/O pre-show: Blob Opera - WTF! Wierdest shit I’ve ever seen. Some sort of machine-learning experiment slash acid trip
-* Somber Pichai after that - his home country of India is being hard hit right now
-* Nice Google Maps update - safer routing and fuel-efficient routes
-* Smart Canvas: Some sort of Microsoft Teams competitor? Live translations - cool. “Google Workspace” coming to all.
-* Pichai talks about AI advances in translation, images, and voice. LaMDA - natural language algorithm. Demo was an anthropomorphized Pluto and a paper airplane!? Impressive but weird!
-* Tour of Quantum Computing facility with comedian Michael Pena. Awkward jokes - “Colder than Canada?” referring to cooled quantum environment. Milestone is error-corrected logical qubit. Okay.
-* Really talked up privacy and safety. Password-free future through phone authentication. Improvements in Password Manager. “We don’t sell your personal information”, etc.
-* Multitask Unified Model: AI model for search. Conversational search queries. Better image search. Google Lens has improved a lot - good for math problems. “About this result” - looks good - more transparency with search results
-* Google Maps: AR navigation in Google Maps. Haven’t used it much so far. Live view looks good though - more overlays. More detailed street view, including crosswalks! Nice. More tailored maps - don’t love this. Time-based results. “Area Business”
-* Shopping Graph - mmmm - can search products to buy in pics. “Your Carts” - wow, that is unsettling.
-* Google Photos - “Little Patterns” - tracks objects across time. Animated photos.
-* “Material You” - new UI design across all products. Looks great.
-* New Android 12 UI - custom colour palettes based on wallpaper chosen. Some new fluid animations and lighting effects. Quite a big redesign. Smoother and faster - but is it iOS fast?
-* “Most secure devices run on Android” - wat!
-* More integration between google products - TV remote on phone, Chrome OS showing notifications from phone, etc. - really going head-to-head with Apple.
-* WearOS update: Pairing up with Samsung - unifying Tizen and WearOS! Wow.
-* Better colour balance in pictures for people of colour - great.
-* AI medical tools
-* Project Starline - some sort of 3D video chat experience. Cool
+Unless there are a lot of holdouts who won't let go of their threadbare sweatpants unless you pry it out of their cold, sanitized hands.
