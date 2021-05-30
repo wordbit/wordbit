@@ -51,7 +51,7 @@ Right before Steve Jobs passed away he declared "thermonuclear war" on Google fo
 
 That hasn't stopped Google from aping Apple's ecosystem strategy this year. They are more tightly integrating Chrome OS with Android for example. They even created a Google TV Remote App for Android. Rumours are floating around about a completely revamped high-end Pixel 6.
 
-I can't help but feel these efforts are still tepid. Android is only now getting around to making navigation and UI animation smoother and faster. But hardware and software integration has and always will make iOS the snappiest of all.
+I can't help but feel these efforts are still tepid. Android is only now in version 12 getting around to making navigation and UI animation smoother and faster. But hardware and software integration has and always will make iOS the snappiest of all.
 
 Apple also continues to rule the smartwatch market. Samsung and Google are teaming up to better compete by merging Tizen and Wear OS (and also presumably Fitbit software as well since Google acquired them - what a mess). Whether a desperate move or a strategically-sound one, it doesn't really matter - it's simply too late to take on a fully-matured Apple Watch. I hope the merger brings something good to the market though - competition is always good.
 
@@ -59,6 +59,6 @@ There was a lot of frightening, cool, cringey, and weird stuff at Google I/O thi
 
 Working from home as over-emphasized the fact that video cameras are notoriously bad in just about all laptops and PCs out there. But what if they weren't? In fact, forget sub-par selfie cams altogether. What if Google could turn you into a 3D hologram? That sounds insane, but that is exactly what Google is going for with this ambitious project. If this research is ever commercialized, we'll look back at the terrible Zoom calls we endured in lockdown and laugh our collective asses off.
 
-But then again, we're all getting vaccinated and emerging from the third wave like butterflies out of billions of cocoons. By September we should all be back to face-to-face interaction and dragging Zoom to the trash can.
+But then again, we're all getting vaccinated and emerging from the third wave like butterflies out of billions of cocoons. By September we should all be back to face-to-face interaction and dragging our motley collection of video conferencing programs to the trash can.
 
-Unless there are a lot of holdouts who won't let go of their threadbare sweatpants unless you pry it out of their cold, sanitized hands.
+Unless, of course, there are a lot of holdouts who won't let go of their threadbare sweatpants unless you pry it out of their cold, sanitized hands.
