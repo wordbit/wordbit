@@ -1,6 +1,5 @@
 +++
 date = 2021-05-30T22:00:00Z
-draft = true
 slug = "blob-opera-and-the-talking-paper-airplane"
 title = "Blob Opera and the talking paper airplane"
 
