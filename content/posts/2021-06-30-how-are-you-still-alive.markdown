@@ -7,7 +7,7 @@ title = "How are you still alive?"
 +++
 The iPhone 6S just won't die.
 
-With [confirmation at WWDC](https://www.theverge.com/2021/6/8/22523351/ios-15-iphone-6s-plus-se-compatibility) that it will be receiving iOS 15, the 6S has officially become the [longest-supported smartphone](https://youtu.be/GARFBHz51nk) of all time. With an incredible seven years of guaranteed software support, this gracefully-aging phone has been conferred the title of Living Legend.
+With [confirmation at WWDC](https://www.theverge.com/2021/6/8/22523351/ios-15-iphone-6s-plus-se-compatibility) that it will be receiving iOS 15, the 6S has officially become the [longest-supported smartphone](https://youtu.be/GARFBHz51nk) of all time. With an incredible seven years of guaranteed software support, this gracefully-aging phone has just been conferred the title of Living Legend.
 
 I was fully expecting my 6S to be killed off this year. I was even making succession plans. But instead, Apple granted my phone another year of reprieve. I'm pretty happy about it, and so is the Internet - here are some Twitter reactions:
 
@@ -27,12 +27,18 @@ If you follow the latest tech media, podcasts, and YouTube videos, you probably 
 
 According to [statistics on the most popular iOS devices](https://www.phonearena.com/news/most-popular-active-ios-android-devices-north-america-market-report_id132703) currently used in North America, there are far more people using an iPhone 6S than an iPhone 12. Surprised? You shouldn't be - most normal people are somewhat financially responsible, it turns out.
 
-Okay, so the 6S is the new longevity champ, and I ain't complaining. But we still need to answer the burning question in the title of this post: How are you still alive?
+Okay, so the 6S is the new longevity champ, and I ain't complaining. But we still need to answer the burning question in the title of this post:
+
+How are you still alive?
 
 To answer that question, we'll have to dig a bit deeper into this year's WWDC.
 
 <!--more-->
 
-I would like to say that the 6S is still alive because Apple is committed to making high-quality hardware that lasts a long time, or that they are concerned about all the e-waste generated with rapid phone upgrade cycles. And perhaps that is partly true.
+As always, go to your favourite tech site to read an itemized list of all the updates. As you do that, you will inevitably come across all the sullen editorials complaining about how boring this year's WWDC was.
+
+I would like to say that the 6S is still alive only because Apple is committed to making high-quality hardware that lasts a long time, or that they are concerned about all the e-waste generated with rapid phone upgrade cycles. And I believe that is partly true.
+
+The true 
 
 * Save for later? - Yet, as iPhone 13 rumours started popping up, I wished it weren't so. The iPhone 13 (or 12S most likely, but I'll call it 13 for now), is shaping up to be more of an iterative update than a complete overhaul. That's fine - I'm not complaining, but
