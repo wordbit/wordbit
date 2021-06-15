@@ -37,6 +37,22 @@ To answer that question, we'll have to dig a bit deeper into this year's WWDC.
 
 As always, go to your favourite tech site to read an itemized list of all the updates. As you do that, you will inevitably come across all the sullen editorials complaining about how boring this year's WWDC was.
 
+However, labelling a developer's conference as "boring" is akin to labelling a dentist's conference as "only interested in teeth". But hey, this is the Internet. You can safely skip the cop-out "analysis" of a green Gen-Z college graduate with an English degree and find some real journalism elsewhere.
+
+When you thoughtfully analyze Apple's new tentpole features announced at dub dub, you'll  almost certainly see the pattern and recognize the context.
+
+When the freight train of COVID-19 hit hard last year, everybody started working from home. Unfortunately for Apple, with it's insular work culture and emphasis on inter-departmental collaboration, productivity took a major hit.
+
+I'm not implying that Apple's software engineers were kicking back, playing video games slack-mouthed and covered in Cheetos dust. I'm saying they were blindsided without the right productivity tools and not going to download Office 365 anytime soon.
+
+So, at the height of the pandemic, they started creating those tools. And this was what we got at WWDC as a result:
+
+* Big improvements to FaceTime
+* blah
+*  blah
+
+......but we are moving out of the pandemic which is why it felt a bit stale ....not technically innovative so 6S could handle it ....having said that many features not available
+
 I would like to say that the 6S is still alive only because Apple is committed to making high-quality hardware that lasts a long time, or that they are concerned about all the e-waste generated with rapid phone upgrade cycles. And I believe that is partly true.
 
 The true 
