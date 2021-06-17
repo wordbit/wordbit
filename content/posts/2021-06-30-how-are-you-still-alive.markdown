@@ -52,10 +52,24 @@ So, at the height of the pandemic, they started creating those tools. And this w
 
 There were some other scattered improvements to Photos, Maps, Weather, iCloud, and Safari, but the overall productivity-at-home theme was clearly the focus this year.
 
-......but we are moving out of the pandemic which is why it felt a bit stale ....not technically innovative so 6S could handle it ....having said that many features not available
+However, we are now starting to exit the pandemic. Work-at-home tools that would have been welcome a year ago now seem stale and passé. It's no wonder that impatient pundits and Apple fans felt somewhat deflated at WWDC this year - unfortunately, the sum of 2020's distracted efforts were never going to blow minds.
 
-I would like to say that the 6S is still alive only because Apple is committed to making high-quality hardware that lasts a long time, or that they are concerned about all the e-waste generated with rapid phone upgrade cycles. And I believe that is partly true.
+The logical answer, then, to the question of how the 6S made the cut this year is that iOS 15 wasn't technically innovative enough to require beefier hardware specs. Such a weak update should have no problem running on a six-year old phone, right?
 
-The true
+And yet, this answer doesn't encapsulate the full story.
+
+A closer look at the new features on iOS 15 reveals that many of them are actually [not supported](https://www.iphoneincanada.ca/news/new-ios-15-features-require-iphone-xs-above/) on the 6S. In particular, any feature that offloads processing power from the cloud onto the device itself simply won't work on older hardware. For example, machine-learning features such as Live Text, offline Siri support, and AR walking directions all require an iPhone XS or newer (although, I am puzzled as to why even an iPhone X can't handle weather animations).
+
+Another odd development is that Apple will allow users to [stay on iOS 14](https://9to5mac.com/2021/06/07/apple-will-let-users-stay-on-ios-14-and-receive-security-updates-even-after-ios-15-is-released/) after iOS 15 is released and continue to receive security updates. Coupled with a crippled iOS 15 and continuing support for iOS 14, Apple's software strategy here is somewhat baffling.
+
+Perhaps Apple really took offense to the "planned obsolescence" narrative that was floating around a few years ago and is making real efforts to extend the life of their products.
+
+It seems trite to say that the 6S is still alive because Apple is committed to making high-quality hardware that lasts a long time, or that they are concerned about all the e-waste generated with rapid phone upgrade cycles. But perhaps it is partly true.
+
+The other half of the truth is that 2020 was a write-off for everyone - including Apple. Away from the intense workaholic energy of Apple Park, engineers had work-life balance thrust upon them whether they wanted it or not. So, Apple can certainly be forgiven for squeezing out some iterative software updates this year instead of cooking up a major paradigm shift.
+
+...............hardware is looking like more of an "S" year too
+
+When looking forward to 2022 and beyond
 
 * Save for later? - Yet, as iPhone 13 rumours started popping up, I wished it weren't so. The iPhone 13 (or 12S most likely, but I'll call it 13 for now), is shaping up to be more of an iterative update than a complete overhaul. That's fine - I'm not complaining, but
