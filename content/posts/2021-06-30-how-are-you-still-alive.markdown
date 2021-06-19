@@ -2,7 +2,7 @@
 date = 2021-07-01T00:00:00Z
 draft = true
 slug = "how-are-you-still-alive"
-title = "How are you still alive?"
+title = "How are you still alive, my old-ass baby?"
 
 +++
 The iPhone 6S refuses to die.
@@ -39,16 +39,16 @@ However, labelling a developer's conference as "boring" is akin to labelling a d
 
 If you take a little time to analyze the new tentpole features announced at dub dub, you'll almost certainly see the pattern and recognize the context.
 
-When the freight train of COVID-19 hit hard last year, everybody started working from home. Unfortunately for Apple, with it's insular work culture and emphasis on face-to-face inter-departmental collaboration, productivity took a major hit.
+When the freight train of COVID-19 hit hard last year, everybody started working from home. Unfortunately for Apple, with it's insular work culture and emphasis on face-to-face, inter-departmental collaboration - productivity took a major hit.
 
-I'm not implying that Apple's software engineers were kicking back, playing video games slack-mouthed and covered in Cheetos dust. I'm saying they were blindsided without the right productivity tools and not going to download Office 365 anytime soon.
+I'm not implying that Apple's software engineers were kicking back this whole time, playing video games slack-mouthed, covered in Cheetos dust. I'm saying they were blindsided without the right productivity tools. And they weren't going to download Office 365 anytime soon.
 
 So, at the height of the pandemic, they started creating those tools. And this was what we got at WWDC as a result:
 
 * Big improvements to FaceTime: screen sharing, spatial audio, voice isolation, wide spectrum, grid view, portrait mode... and FaceTime links that work in any browser on any OS. Android friends can now join the chat! Also, a fun new feature called SharePlay that lets you watch movies, listen to music, etc. with your friends in perfect sync.
 * Media and links in Messages will now be saved in a "Shared with You" section in the relevant app. Nice. You can also enable a "Focus" mode (when you are busy at work, for example) that sets a status notification in Messages.
 * Assorted productivity boosters: Rich results for contacts, conversation boost on AirPods, better multitasking on iPad, Quick Notes, system-wide translation, and Shortcuts on the Mac. Apple is also playing catch-up with Google by implementing full OCR across all photos (Live Text).
-* Universal Control: The ultimate ecosystem flex and by far the most-impressive demo in WWDC. Using one mouse, Craig Federighi seamlessly dragged a file from his iPad, over onto his MacBook, then over onto his iMac and dropped it into a presentation.
+* Universal Control: The ultimate ecosystem flex and by far the most-impressive demo in the WWDC keynote video. Using one mouse, Craig Federighi seamlessly dragged a file from his iPad, over onto his MacBook, then over onto his iMac and dropped it into a presentation.
 
 There were some other scattered improvements to Photos, Maps, Weather, iCloud, and Safari, but the overall productivity-at-home theme was clearly the focus this year.
 
@@ -68,7 +68,7 @@ It seems trite to say that the 6S is still alive because Apple is committed to m
 
 The other half of the truth is that 2020 was a write-off for everyone - including Apple. Away from the intense workaholic energy of Apple Park, engineers had work-life balance thrust upon them whether they wanted it or not. So, Apple can certainly be forgiven for squeezing out some iterative software updates this year instead of cooking up a major paradigm shift.
 
-It looks like hardware development on the next iPhones is following a similar pattern with the "iPhone 13" looking more like an "iPhone 12S". We haven't had an "S" year (i.e. refreshed internals rather than a major chassis design change) since 2018 with the iPhone XS. Given that "S" years aren't very exciting, I'm especially glad I can hang onto my 6S until the iPhone 14 comes out and make a decision then. Yes, the camera is sweltering garbage compared to the latest flagships, but maybe taking less pictures is a good thing now that I have to pay for my own photo storage (Adieu Google Photos).
+It looks like hardware development on the next iPhones is following a similar pattern, with the "iPhone 13" looking more like an "iPhone 12S". We haven't had an "S" year (i.e. refreshed internals rather than a major chassis design change) since 2018 with the iPhone XS. Given that "S" years aren't very exciting, I'm especially glad I can hang onto my 6S until the iPhone 14 comes out and make a decision then. Yes, the camera on my 6S is sweltering garbage compared to the latest flagships, but maybe taking less pictures is a good thing now that I have to pay for my own photo storage (Adieu Google Photos).
 
 ## Notch Watch
 
