@@ -68,8 +68,26 @@ It seems trite to say that the 6S is still alive because Apple is committed to m
 
 The other half of the truth is that 2020 was a write-off for everyone - including Apple. Away from the intense workaholic energy of Apple Park, engineers had work-life balance thrust upon them whether they wanted it or not. So, Apple can certainly be forgiven for squeezing out some iterative software updates this year instead of cooking up a major paradigm shift.
 
-...............hardware is looking like more of an "S" year too
+It looks like hardware development on the next iPhones is following a similar pattern with the "iPhone 13" looking more like an "iPhone 12S". We haven't had an "S" year (i.e. refreshed internals rather than a major chassis design change) since 2018 with the iPhone XS. Given that "S" years aren't very exciting, I'm especially glad I can hang onto my 6S until the iPhone 14 comes out and make a decision then. Yes, the camera is sweltering garbage compared to the latest flagships, but maybe taking less pictures is a good thing now that I have to pay for my own photo storage (Adieu Google Photos).
 
-When looking forward to 2022 and beyond
+## Notch Watch
 
-* Save for later? - Yet, as iPhone 13 rumours started popping up, I wished it weren't so. The iPhone 13 (or 12S most likely, but I'll call it 13 for now), is shaping up to be more of an iterative update than a complete overhaul. That's fine - I'm not complaining, but
+If you're looking for the latest report on the unlikely demise of the interminable notch, you've come to the right place.
+
+Based on multiple rumours, it looks like the "iPhone 13" will indeed have a smaller notch. Contrary to an earlier rumour, it will be slightly less wide, not less tall. It will be, unfortunately, still offensive - perhaps even more so. Somebody said - I forget who, but I agree with them - that a small-notch design looks like an ugly old Android phone. A few Android phones copied the notch at first but quickly moved onto hole-punch designs.
+
+If you believe my man Ming-Chi Kuo (who has a good track record, but his timeline can be off), Apple may even adopt the hole-punch design in the 2022 iPhones. He also prophesized, and this is [the most tantalizing rumour of all](https://www.macrumors.com/2021/04/14/kuo-2023-iphones-under-display-face-id/), that the notch will finally disappear in 2023.
+
+I refuse to italicize that "finally" until it actually happens.
+
+I can't say that I truly believe it will happen  - rumours about an all-screen iPhone pop up every year. And every year I lose a little more hope when it never materializes. But I will continue to hang on to [the dream I had]({{< relref "2017-11-16-iphone-x.markdown" >}}) when the iPhone X first came out:
+
+> ...the reality is that the notch is also a design compromise. A compromise that will disappear as soon as it is technically feasible. And trust me when I say that nobody will mourn its absence even if it was once posited as the new defining shape of the iPhone.
+>
+> ...The iPhone X is a premium, beautifully machined device. But without the camera bump and the notch, it will become nothing less than the pinnacle of smartphone design.
+>
+> That is the phone that I’m going to get.
+
+I said that four years ago, and the only thing that has changed is that I've given up caring about the camera bump. The camera arms race in flagships causes the bump to get bigger every year. If we get an amazeballs camera upgrade like a periscope zoom lens, then I definitely don't care. Everyone just slaps a case on their phone anyway (unless you're insanely careless or insanely wealthy).
+
+However, the haunting phrase "That is the phone I'm going to get" is a good reminder from my past self not to settle.
