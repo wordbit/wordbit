@@ -92,4 +92,4 @@ I said that four years ago, and the only thing that has changed is that I've giv
 
 The haunting phrase "That is the phone I'm going to get" is a good reminder from my past self not to settle.
 
-However, I am starting to think that by the time the notch is gone I won't even care anymore because we'll have a folding iPhone or AR glasses or some other future-facing technology that eclipses the iPhone entirely.
+However, I am starting to think that by the time the notch is gone I won't even care anymore because we'll have a folding iPhone or AR glasses or some other future-facing technology that eclipses the iPhone entirely, notch or no notch.
