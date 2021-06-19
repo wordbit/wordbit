@@ -35,9 +35,9 @@ To answer that question, we'll have to dig a bit deeper into this year's WWDC.
 
 As always, go to your favourite tech site to read an itemized list of all the WWDC updates. As you do that, you will inevitably come across all the sullen editorials complaining about how boring this year's WWDC was.
 
-However, labelling a developer's conference as "boring" is akin to labelling a dentist's conference as "only interested in teeth". But hey, this is the Internet. If you're smart, you can safely skip the cop-out "analysis" of a green Gen-Z college graduate with an English degree and find some real journalism elsewhere.
+However, labelling a developer's conference as "boring" is akin to labelling a dentist's conference as "only interested in teeth". But hey, this is the Internet. If you're smart, you can safely skip the cop-out "analysis" of some green Gen-Z college graduate with an English degree and find real journalism elsewhere.
 
-When you take some time to analyze Apple's new tentpole features announced at dub dub, you'll almost certainly see the pattern and recognize the context.
+If you take a little time to analyze the new tentpole features announced at dub dub, you'll almost certainly see the pattern and recognize the context.
 
 When the freight train of COVID-19 hit hard last year, everybody started working from home. Unfortunately for Apple, with it's insular work culture and emphasis on face-to-face inter-departmental collaboration, productivity took a major hit.
 
