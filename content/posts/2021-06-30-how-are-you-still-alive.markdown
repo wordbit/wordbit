@@ -88,6 +88,8 @@ I can't say that I truly believe it will happen  - rumours about an all-screen i
 >
 > That is the phone that I’m going to get.
 
-I said that four years ago, and the only thing that has changed is that I've given up caring about the camera bump. The camera arms race in flagships causes the bump to get bigger every year. If we get an amazeballs camera upgrade like a periscope zoom lens, then I definitely don't care. Everyone just slaps a case on their phone anyway (unless you're insanely careless or insanely wealthy).
+I said that four years ago, and the only thing that has changed is that I've given up caring about the camera bump. The camera arms race in flagships causes the bump to get bigger every year. But if we get an amazeballs camera upgrade like a periscope zoom lens, then I definitely won't be mad. Everyone just slaps a case on their phone anyway (unless you're insanely careless or insanely wealthy).
 
-However, the haunting phrase "That is the phone I'm going to get" is a good reminder from my past self not to settle.
+The haunting phrase "That is the phone I'm going to get" is a good reminder from my past self not to settle.
+
+However, I am starting to think that by the time the notch is gone I won't even care anymore because we'll have a folding iPhone or AR glasses or some other future-facing technology that eclipses the iPhone entirely.
