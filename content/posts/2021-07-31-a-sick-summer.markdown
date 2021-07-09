@@ -5,6 +5,18 @@ slug = "a-sick-summer"
 title = "A sick summer"
 
 +++
-I went with an ambiguous title for this post on purpose.
+I went with an ambiguous title for this post on purpose. Summer is usually a relaxing, carefree time. Time spent outdoors barbequing, camping, forest bathing, swimming, and hanging out in boardshorts and flip flops with a cold beer.
+
+I've most definitely been enjoying a sick summer - taking some time off work to go on a road trip...etc. ###
+
+...............got second shot. And Look at the death per millions chart: [https://www.cbc.ca/news/canada/british-columbia/covid-19-british-columbia-charts-1.5510000](https://www.cbc.ca/news/canada/british-columbia/covid-19-british-columbia-charts-1.5510000 "https://www.cbc.ca/news/canada/british-columbia/covid-19-british-columbia-charts-1.5510000")
+
+but
+
+............impossible to book a campsite - resort to bush camping or backcountry
+
+.............lakes are always closed on hot days around here - ridiculous in the second-largest country in the world
+
+Heat wave:
 
 [https://www.vice.com/en/article/pkbq8n/all-the-apocalyptic-things-that-happened-because-of-north-americas-heat-wave](https://www.vice.com/en/article/pkbq8n/all-the-apocalyptic-things-that-happened-because-of-north-americas-heat-wave "https://www.vice.com/en/article/pkbq8n/all-the-apocalyptic-things-that-happened-because-of-north-americas-heat-wave")
