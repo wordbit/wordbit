@@ -11,16 +11,20 @@ And, in a sense, I have been enjoying a "sick" summer. I got my second COVID-19 
 
 BC is in good shape overall - look at [the numbers](https://www.cbc.ca/news/canada/british-columbia/covid-19-british-columbia-charts-1.5510000), especially the "COVID-19 deaths per million residents" chart. We have the second-fewest deaths (Norway has the fewest).
 
-On the other hand, we are very much experiencing a sick summer, with a brutal heat wave in late June sending temperatures so high that even Death Valley started looking temperate. It got so bad that the town of Lytton recorded the highest temperature in Canada ever for two days before completely burning to the ground on the third day.
+On the other hand, we are very much experiencing a sick summer, with a brutal [heat wave](https://www.vice.com/en/article/pkbq8n/all-the-apocalyptic-things-that-happened-because-of-north-americas-heat-wave) in late June sending temperatures so high that even Death Valley started looking temperate. It got so bad that the town of Lytton recorded the highest temperature in Canada ever for two days before completely burning to the ground on the third day.
 
 The heat wave kicked off an early wildfire season. Throughout July, hundreds of out-of-control fires have evacuated numerous small towns and are choking the air with smoke. We drove through some of the affected areas with the windows down (our car's air conditioning broke at an inopportune time), so I can confirm it was terrible.
 
-but
+<!--more-->
 
-............impossible to book a campsite - resort to bush camping or backcountry
+I guess I could go on about how you can't even book a campsite in the second-largest country in the world because they get reserved in seconds by bots or how they always close lower-mainland lakes on summer weekends due to overcrowding.
 
-.............lakes are always closed on hot days around here - ridiculous in the second-largest country in the world
+But that's just how it is now so what's the point in being bitter about it. You can't hate BC for being so beautiful - tourists come from all over the world to experience what BC has to offer so it's going to get busy. Especially this summer when the unleashed millions are emerging from their COVID caves hungry for travel and eager to spend money.
 
-Heat wave:
+When it comes to camping this year - we've had to be creative. With campsite reservations impossible to get, we've introduced the kids to backcountry/Crown land camping. And honestly, we've either been lucky or our guardian angels are working overtime.
 
-[https://www.vice.com/en/article/pkbq8n/all-the-apocalyptic-things-that-happened-because-of-north-americas-heat-wave](https://www.vice.com/en/article/pkbq8n/all-the-apocalyptic-things-that-happened-because-of-north-americas-heat-wave "https://www.vice.com/en/article/pkbq8n/all-the-apocalyptic-things-that-happened-because-of-north-americas-heat-wave")
+For example, at a bush camp along the Chilliwack river favoured by throngs of drunk teenagers, we were unpacking our car when a truck barrelling down the road at full speed smashed into another car pulling out. The truck careened our way as we stood their like frozen deer before it skidded to a stop a few paces away from our car. The rest of the weekend was fantastic.
+
+And at Manning Park, we hiked into a backcountry site with backbreaking packs and kids about to curl into a mosquito-swarmed balls of fury in the dirt, only to find all the tent pads taken. However, a construction crew was on site building a new shelter. The foreman, a nice chubby guy called Scott, offered to let us stay on the construction site as adhoc security. So in exchange for keeping an eye on the crew's power tools - we got a sweet private tent pad with our own pit toilets and bear caches on site. The rest of the weekend was amazing - except for the relentless mosquitoes.
+
+In the Kootenays we lucked out again as my wife has an Uncle with an enormous off-grid woodlot. So, no need to get campsite reservations there either. So, we've done lots of unconventional camping this year - you get creative and you make it happen. We're also exploring the possibility of accessing marine campsites on our paddleboards.
