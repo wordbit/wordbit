@@ -1,6 +1,5 @@
 +++
 date = 2021-07-30T23:00:00Z
-draft = true
 slug = "a-sick-summer"
 title = "A sick summer"
 
