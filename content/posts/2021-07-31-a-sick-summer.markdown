@@ -17,7 +17,7 @@ The heat wave kicked off an early wildfire season. Throughout July, hundreds of 
 
 <!--more-->
 
-It's true that summers aren't what they used to be.
+It's true that summers aren't what they used to be - and I'm not talking just about climate change.
 
 I guess I could go on about how you can't even book a campsite in the second-largest country in the world because they get reserved in seconds by bots or how they always close lower-mainland lakes on summer weekends due to overcrowding.
 
