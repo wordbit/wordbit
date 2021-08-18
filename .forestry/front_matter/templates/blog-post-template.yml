@@ -16,5 +16,3 @@ fields:
   name: title
   label: title
   default: Insert title here
-pages:
-- content/posts/august-and-everything-after.md
