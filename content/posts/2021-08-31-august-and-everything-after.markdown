@@ -1,6 +1,5 @@
 +++
 date = 2021-09-01T00:00:00Z
-draft = true
 slug = "august-and-everything-after"
 title = "August and everything after"
 
