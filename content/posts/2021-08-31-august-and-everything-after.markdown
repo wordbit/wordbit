@@ -1,14 +1,14 @@
 +++
-date = 2021-09-01T00:00:00Z
+date = 2021-08-31T17:00:00Z
 slug = "august-and-everything-after"
 title = "August and everything after"
 
 +++
 So there we were - violently donkey kicking the flat tire in turns like a gang of crazed soccer hooligans. Rust, dirt, and mother nature's malice had fused the tire rim onto the wheel hub and it wasn't coming off.
 
-We were in Port Renfrew. If you don't know Port Renfrew then let me explain: with two restaurants and about a hundred residents, there isn't much else to it. True to its name - there is a port. But certainly no auto repair shops. And most tragically, no cell service or internet.
+We were in Port Renfrew. If you don't know Port Renfrew then let me explain: with two restaurants and about a hundred residents, there isn't much else to it. True to its name, there is a port. But certainly no auto repair shops. And most tragically - no cell service or internet.
 
-We had no other option than to kick that tire off.
+We had no other option than to bruise that tire.
 
 Then, humanity shone through. One after another, people stopped to help. One guy bent his piece of rebar trying to pry it off. Another shirtless, barefoot guy borrowed my shoes and taught us the donkey-kicking technique. Another suggested we lower the tire back down with the jack to loosen it with the car's weight. Another clean-cut young man used his satellite internet to look up the problem. He wasn't much help but his heart was in the right place.
 
