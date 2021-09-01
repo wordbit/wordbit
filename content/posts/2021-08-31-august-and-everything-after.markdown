@@ -1,5 +1,5 @@
 +++
-date = 2021-08-31T17:00:00Z
+date = 2021-09-01T00:00:00Z
 draft = true
 slug = "august-and-everything-after"
 title = "August and everything after"
@@ -28,3 +28,9 @@ August was one of those months where a confluence of events chewed through days 
 Tech takes a breather in the summer months, but gadget season is coming and I'll be soaking it up. To be fair, Samsung did put out some foldable phones this month and they're getting better. What really piqued my interest though was the first appearance of an under-display-camera in a Samsung device. For fellow notch watchers, [this article](https://www.phonearena.com/news/phones-with-under-display-camera-finally-here-mi-mix-4-galaxy-z-fold-3-axon-30_id134393) presents a great summary of the current notchless landscape.
 
 Unfortunately, bargain hunters looking to score a deal this shopping season might be have to settle with window shopping only. The shortage of, well, everything in the supply chain is not only ongoing, but is getting worse. You still cannot, for example, easily buy a Playstation 5, even though it is now almost a year old. I've been mulling over upgrading to a 4K TV this year, but who knows if Black Friday will end up being Blue Friday this year, if you know what I mean.
+
+Well, it isn't much, but that's the post. With a month this busy, I normally wouldn't write at all, but I've been making an effort to make the monthly deadline. Sorry for the boring read, but you have to admit I worked really hard on the "hook" in the intro, right?
+
+If nothing else, I'll leave on that positive note: faith in humanity restored.
+
+See you in September.
