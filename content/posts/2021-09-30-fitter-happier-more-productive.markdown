@@ -24,7 +24,7 @@ Let's take a closer look at these "S" improvements. Once again, there are four n
 * The new A15 chip. Likely more efficient, but not faster than the A14. The Pros get an extra GPU core in the chip this year.
 * A bigger battery for a couple extra hours of screen-on time.
 * A screen that can hit a higher peak brightness in SDR.
-* A 2o-percent smaller notch. _Notch Watch_ fans rejoice? More on this later.
+* A 2o-percent smaller notch. Notch Watchers rejoice? More on this later. And yes, I did just coin the term Notch Watcher for rabid fans of my _Notch Watch_ segment. So far, I am the only member 😊
 * Improved camera system of course, the same as every year. A diagonal camera layout because of those bigger sensors. The Pros have even better cameras.
 * Starting storage of 128GB on the base model, instead of 64GB.
 * Only the Pros get the 120Hz adaptive refresh rate (ProMotion).
@@ -47,12 +47,22 @@ Given the sheer volume of iPhone sales - let's not forget that the iPhone is arg
 
 Look at the "new" iPad Apple announced, for example: by sticking with the exact same form factor since 2013, they are pure profit. In the presentation, Tim Cook confirmed that these base-model iPads outsell all other fancy iPad models despite the slimmer bezels, Face ID, and other myriad of improvements.
 
-The all-too-familiar shape of the Apple Watch is another case in point, although there is a [compelling conspiracy theory]() out there that the "real" Series 7 was scrapped at the last minute due to manufacturing issues. Looking at the circumstantial evidence, this theory actually sounds pretty plausible. If true, then the mellow Californian vibe Apple was trying to convey to the public and to investors in the presentation was actually a cover-up for mass panic and scrambling internally. Slapping together a product at zero hour is no easy feat, so if this actually happened, then hats off to the Apple engineers' impressive improvisational skills. They deserve a raise and a stiff drink - but if the Series 7 was actually a patch job, consumers should stay well away from it.
+The all-too-familiar shape of the Apple Watch is another case in point, although there is a [compelling conspiracy theory]() out there that the "real" Series 7 was scrapped at the last minute due to manufacturing issues. Looking at the circumstantial evidence, this theory seems outlandish enough to be plausible. If true, then the mellow Californian vibe Apple was trying to convey to the public and to investors in the presentation was actually a cover-up for mass panic and scrambling internally. Slapping together a product at zero hour is no easy feat, so if this actually happened, then hats off to the Apple engineers' impressive improvisational skills. They deserve a raise and a stiff drink - but if the Series 7 was actually a patch job, consumers should stay well away from it.
 
-The only product with significant design changes revealed at the presentation was the neglected iPad mini. Neglected no more, the mini was given a makeover, transforming it into a mini iPad Air.
+Realistically, though, it's more likely that the leaked square design is for the Series 8. There's no way Apple could ramp up mass production of an alternative design in a matter of months, right? Hardware is usually nailed down years in advance. Even so, I do wonder...
+
+So, the only product with significant design changes revealed at the presentation was the neglected iPad mini. Neglected no more, the mini was given a makeover, transforming it into a mini iPad Air.
 
 The squared-off design with thin bezels and Touch ID in the power button looks great, but more than ever, it looks like a giant iPhone. Even the [marketing video](https://youtu.be/gdeqbg8QFJM "iPad mini marketing promo") aggressively pushed the idea of portability and 5G. Not once did this video show somebody lying in their bed at home watching Netflix, which is the main use case for iPads.
 
 So why not just throw a SIM card in there and call it the iPhone SuperMax? Right now, the iPad mini is just a confusing niche product. The irony of such an unimportant product in Apple's catalog being dusted off and revealed as the most beautiful Belle at Apple's annual Ball is not lost on me.
 
-..........looking ahead to 2022........no notch? 
+But hey, there's always next year. For those already looking ahead to 2022, you can bookmark the MacRumors [iPhone 14](https://www.macrumors.com/roundup/iPhone-14/ "iPhone 14") rumour roundup page now.
+
+Notch Watchers will note that the hole-punch design for 2022 is gaining more traction, with 2023 still being the earliest date for an all-screen design. Whether the hole-punch rumour pans out depends on whether Apple can move Face ID sensors under the screen (ostensibly easier than moving a selfie camera under the screen).
+
+Prolific leaker Jon Prosser has taken iPhone 14 leaks [one step further](https://youtu.be/42Ot6Y0gBzs "Jon Prosser") by claiming next year's design will go full iPhone 4. He claims the glass sandwich (glass sitting on top of antenna bands), the round volume buttons, and even a camera module flush with the chassis will all return. Okay, so the hole-punch is an intriguing possibility, but bringing back every single design element of the iPhone 4? 
+
+I call bullshit on that.
+
+I could see an homage to the iPhone 4 or subtle references that harken back to the classic design, but resurrecting the iPhone 4 beat for beat comes off as nerdy fan fiction. Besides, Apple already did the iPhone 4 homage thing with the squared-off design of the iPhone 12 - I just can't see them beating the same horse two years later.
