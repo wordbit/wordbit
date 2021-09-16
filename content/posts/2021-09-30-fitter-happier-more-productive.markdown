@@ -11,7 +11,7 @@ Apple's marketing guys tried their level best to feed the hype machine. They put
 
 A case in point: [this animation](https://youtu.be/EvGOlAkLSLw?t=1392 "Apple Watch animation") of a massive avalanche pelting huge boulders down onto the new Apple Watch screen to illustrate... an IP6X certification (dust resistance).
 
-With no new sensors, no new design (despite the erroneous rumours of a square chassis), and not even a new chipset, the only thing going for the Apple Watch Series 7 is a screen with 1mm shaved off the bezels and slightly faster charging. Oh, and improved dust resistance of course. Such feature paucity makes me feel good about getting the Series 6 last year: I stand by [my analysis]({{< relref "2020-12-31-the-apple-watch-series-6.markdown" >}}) - the Apple Watch reached it's peak in 2020.
+With no new sensors, no new design (despite the erroneous rumours of a square chassis), and not even a new chipset, the only thing going for the Apple Watch Series 7 is a screen with 1mm shaved off the bezels and slightly faster charging. Oh, and improved dust resistance of course. Such feature paucity makes me feel good about getting the Series 6 last year: [my analysis]({{< relref "2020-12-31-the-apple-watch-series-6.markdown" >}}) back then was spot on - the Apple Watch reached it's peak in 2020.
 
 The crack marketing team also decided to inflate the importance of this year's iPhone upgrade by calling it the iPhone 13 instead of the iPhone 12S. I totally get it - "S" year upgrades (same external design with updated internals) don't sound as exciting. But in cold hard reality, that is exactly what the iPhone 13 is - an "S" year upgrade.
 
