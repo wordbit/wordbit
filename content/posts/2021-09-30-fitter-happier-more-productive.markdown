@@ -13,7 +13,7 @@ A case in point: [this animation](https://youtu.be/EvGOlAkLSLw?t=1392 "Apple Wat
 
 With no new sensors, no new design (despite the erroneous rumours of a square chassis), and not even a new chipset, the only thing going for the Apple Watch Series 7 is a screen with 1mm shaved off the bezels and slightly faster charging. Oh, and improved dust resistance of course. Such feature paucity makes me feel good about getting the Series 6 last year: [my analysis]({{< relref "2020-12-31-the-apple-watch-series-6.markdown" >}}) back then was spot on - the Apple Watch reached it's peak in 2020.
 
-The crack marketing team also decided to inflate the importance of this year's iPhone upgrade by calling it the iPhone 13 instead of the iPhone 12S. I totally get it - "S" year upgrades (same external design with updated internals) don't sound as exciting. But in cold hard reality, that is exactly what the iPhone 13 is - an "S" year upgrade.
+Apple's crack marketing team also decided to inflate the importance of this year's iPhone upgrade by calling it the iPhone 13 instead of the iPhone 12S. I totally get it - "S" year upgrades (same external design with updated internals) don't sound as exciting. But in cold hard reality, that is exactly what the iPhone 13 is - an "S" year upgrade.
 
 That's not to say that "S" year upgrades are bad - many tech enthusiasts actually prefer the refinements offered on a time-tested design rather than the riskier early adoption of a new design. I went with the 6S partly for this reason, and it has indisputably stood the test of time.
 
@@ -45,11 +45,13 @@ To be clear, the green angle isn't all lip service - Apple's phones last a long,
 
 Given the sheer volume of iPhone sales - let's not forget that the iPhone is arguably the most successful product in the world - it's more important for Apple to keep their supply chains in check. No longer small and nimble, they can't pivot quickly or push radical hardware changes to market without first procuring a mindboggling number of components along with the manpower to assemble them.
 
-Look at the "new" iPad Apple announced, for example: by sticking with the exact same form factor since 2013, they are pure profit. In the presentation, Tim Cook confirmed that these base-model iPads outsell all other fancy iPad models despite the slimmer bezels, Face ID, and other myriad of improvements.
+For example, look at the "new" iPad Apple announced: by sticking with the exact same form factor since 2013, these uncontested tablets are pure profit. In the presentation, Tim Cook confirmed that these base-model iPads outsell all other fancy iPad models that have slimmer bezels, Face ID, and other myriad of improvements.
 
-The all-too-familiar shape of the Apple Watch is another case in point, although there is a [compelling conspiracy theory]() out there that the "real" Series 7 was scrapped at the last minute due to manufacturing issues. Looking at the circumstantial evidence, this theory seems outlandish enough to be plausible. If true, then the mellow Californian vibe Apple was trying to convey to the public and to investors in the presentation was actually a cover-up for mass panic and scrambling internally. Slapping together a product at zero hour is no easy feat, so if this actually happened, then hats off to the Apple engineers' impressive improvisational skills. They deserve a raise and a stiff drink - but if the Series 7 was actually a patch job, consumers should stay well away from it.
+The all-too-familiar shape of the Apple Watch is another case in point, although there is a [compelling conspiracy theory](https://youtu.be/HdoHODCV1RE "Apple Watch conspiracy") out there that the "real" Series 7 was scrapped at the last minute due to manufacturing issues. Looking at the circumstantial evidence, this theory seems outlandish enough to be plausible.
 
-Realistically, though, it's more likely that the leaked square design is for the Series 8. There's no way Apple could ramp up mass production of an alternative design in a matter of months, right? Hardware is usually nailed down years in advance. Even so, I do wonder...
+If true, then the mellow Californian vibe Apple was trying to convey to the public and to investors in the presentation was actually a cover-up for mass panic and scrambling internally. Slapping together a product at zero hour is no easy feat, so if this actually happened, then hats off to the Apple engineers' impressive improvisational skills. They deserve a raise and a stiff drink. However, if the Series 7 was actually a patch job, consumers should stay well away from it.
+
+More realistically, it's more likely that the leaked square design is for the Series 8. There's no way Apple could ramp up mass production of an alternative design in a matter of months, right? Hardware is usually nailed down years in advance. Even so, I do wonder...
 
 So, the only product with significant design changes revealed at the presentation was the neglected iPad mini. Neglected no more, the mini was given a makeover, transforming it into a mini iPad Air.
 
@@ -61,9 +63,11 @@ But hey, there's always next year. For those already looking ahead to 2022, you 
 
 Notch Watchers will note that the hole-punch design for 2022 is gaining more traction, with 2023 still being the earliest date for an all-screen design. Whether the hole-punch rumour pans out depends on whether Apple can move Face ID sensors under the screen (ostensibly easier than moving a selfie camera under the screen).
 
+However, there is one thing that doesn't quite sit right with me about the rumoured hole-punch design: from the front, the iPhone would look identical to the Samsung Galaxy S21. Apple would essentially erase the iconic look of the iPhone and cause widespread brand confusion. I doubt they would be okay with this.
+
 Prolific leaker Jon Prosser has taken iPhone 14 leaks [one step further](https://youtu.be/42Ot6Y0gBzs "Jon Prosser") by claiming next year's design will go full iPhone 4. He claims the glass sandwich (glass sitting on top of antenna bands), the round volume buttons, and even a camera module flush with the chassis will all return. Okay, so the hole-punch is an intriguing possibility, but bringing back every single design element of the iPhone 4?
 
-I call bullshit on that.
+I call bullshit.
 
 I could see an homage to the iPhone 4 or subtle references that harken back to the classic design, but resurrecting the iPhone 4 beat for beat comes off as nerdy fan fiction. Besides, Apple already did the iPhone 4 homage thing with the squared-off design of the iPhone 12 - I just can't see them beating the same horse two years later.
 
