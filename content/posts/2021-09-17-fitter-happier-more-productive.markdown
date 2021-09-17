@@ -1,6 +1,5 @@
 +++
 date = 2021-09-17T20:00:00Z
-draft = true
 slug = "fitter-happier-more-productive"
 title = "Fitter, happier, more productive"
 
