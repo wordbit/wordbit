@@ -61,8 +61,12 @@ But hey, there's always next year. For those already looking ahead to 2022, you 
 
 Notch Watchers will note that the hole-punch design for 2022 is gaining more traction, with 2023 still being the earliest date for an all-screen design. Whether the hole-punch rumour pans out depends on whether Apple can move Face ID sensors under the screen (ostensibly easier than moving a selfie camera under the screen).
 
-Prolific leaker Jon Prosser has taken iPhone 14 leaks [one step further](https://youtu.be/42Ot6Y0gBzs "Jon Prosser") by claiming next year's design will go full iPhone 4. He claims the glass sandwich (glass sitting on top of antenna bands), the round volume buttons, and even a camera module flush with the chassis will all return. Okay, so the hole-punch is an intriguing possibility, but bringing back every single design element of the iPhone 4? 
+Prolific leaker Jon Prosser has taken iPhone 14 leaks [one step further](https://youtu.be/42Ot6Y0gBzs "Jon Prosser") by claiming next year's design will go full iPhone 4. He claims the glass sandwich (glass sitting on top of antenna bands), the round volume buttons, and even a camera module flush with the chassis will all return. Okay, so the hole-punch is an intriguing possibility, but bringing back every single design element of the iPhone 4?
 
 I call bullshit on that.
 
 I could see an homage to the iPhone 4 or subtle references that harken back to the classic design, but resurrecting the iPhone 4 beat for beat comes off as nerdy fan fiction. Besides, Apple already did the iPhone 4 homage thing with the squared-off design of the iPhone 12 - I just can't see them beating the same horse two years later.
+
+So there you have it - new Apple products to help you become [fitter, happier, and more productive](https://www.youtube.com/watch?v=hOYzfLS0dg0 "Radiohead"). For me, this song choice encapsulates the feeling of ennui that often accompanies Apple events. Incidentally, did you know that Thom Yorke thought this track was "the most upsetting thing I've ever written"?
+
+There's always a flip side. In _California Streaming_, maybe the beautiful drone shots of California and shiny new colours was enough of a distraction. Or maybe there is something shifting in shadows that even Californian sunshine can't quite dispel.
