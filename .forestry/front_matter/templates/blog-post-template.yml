@@ -16,3 +16,5 @@ fields:
   name: title
   label: title
   default: Insert title here
+pages:
+- content/posts/most-advanced-connectivity-ever.md
