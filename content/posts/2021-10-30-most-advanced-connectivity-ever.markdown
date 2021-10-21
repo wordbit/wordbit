@@ -14,3 +14,7 @@ In 2021, at their recent [Unleashed online event](https://youtu.be/exM1uajp--A),
 ![](/images/most-advanced-connectivity-ever.png)
 
 So, irony or hubris? Obviously both, and I just can't stop laughing.
+
+..........go read my post - Apple gambled on a portless future that never materialized
+
+..........MKBHD's tweet about "poetry"
