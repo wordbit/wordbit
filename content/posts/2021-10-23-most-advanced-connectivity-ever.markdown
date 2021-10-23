@@ -1,6 +1,5 @@
 +++
 date = 2021-10-23T20:00:00Z
-draft = true
 slug = "most-advanced-connectivity-ever"
 title = "Most advanced connectivity ever"
 
