@@ -33,13 +33,13 @@ Despite being blemished by a notch, the screen itself seems top notch (sorry). T
 
 All we wanted for Christmas was a monitor with a colour screen. Kids today are just spoiled.
 
-But the real stars of the MacBook Pro are undoubtedly the "unleashed" M1 Pro and M1 Max chips. These in-house chips are are literal game changers, allowing you to put in a 21-hour workday on battery alone. Of course, this inane battery life does beg the question of whether you want to put in a 21-hour workday.
+But the real stars of the MacBook Pro are undoubtedly the "unleashed" M1 Pro and M1 Max chips. These in-house chips are are literal game changers, allowing you to put in a 21-hour workday on battery alone. Of course, this insane battery life does beg the question of whether you want to put in a 21-hour workday.
 
 A workaholics wet dream, or the end of any R & R on transatlantic flights?
 
-"Uh, say Bob, I'm going to need that 8K video done and rendered before you land in London today..." What kind of insane portable productivity is Apple enabling here?
+"Uh, say Bob, I'm going to need that 8K video done and rendered before you land in London on Sunday..." What kind of extreme portable productivity is Apple enabling here?
 
-It gets better: the CPU performance of these machines has put Intel on high alert with hockey-stick benchmark charts that look like fantasy art for nerds. Apple's integrated GPU performance doesn't look too freaking bad either. Maybe "integrated graphics" will no longer be a dirty word one day soon. After all, Apple is a practiced virtuoso when it comes to integrating hardware and software so that they sing in perfect harmony together.
+It gets better: the CPU performance of these machines has put Intel on high alert with hockey-stick benchmark charts that look like fantasy art for nerds. Apple's integrated GPU performance doesn't look too freaking bad either (maybe "integrated graphics" will no longer be a dirty word one day soon). After all, Apple is a practiced virtuoso when it comes to integrating hardware and software so that they sing in perfect harmony together.
 
 It used to be that regular people (me included) would buy a MacBook Pro to "future proof" an expensive purchase. Decent specs are what you'd need to keep going for longer than a few years. Nobody wants to replace a laptop that often, mostly because it's a disruptive pain to migrate your workflow and stuff over to a new machine. But the "non-pro" models had the sort of price-to-performance ratio that were about as compelling as fine dining on Valentine's Day. At least the Pro machines were actually worth the money.
 
@@ -47,6 +47,6 @@ However, more than ever before, these MacBook Pros are really just for - you gue
 
 I'm not naming any names, but writers who put out a blog post once a month on their money-losing website don't need these MacBook Pros. Especially writers who refer to themselves in the third person.
 
-I hope my 2015 MacBook Pro has many long years ahead of it. And it should - I paid extra for the Pro machine so that it would. But when the time comes to upgrade, I'm certain that I won't need a "Pro" MacBook anymore. If I ever get another MacBook, it will be a "cheap", cheerful, and colourful consumer laptop. A MacBook Air perhaps. I don't know.
+I hope my 2015 MacBook Pro has many long years ahead of it. And it should - I paid extra for the Pro machine so that it would. But when the time comes to upgrade, I'm certain that I won't need a "Pro" MacBook anymore. If I ever get another MacBook, it will be a "cheap", cheerful, and colourful consumer laptop. A MacBook Air perhaps (if it still exists). I don't know.
 
 What I do know, based on the trajectory of Apple's in-house silicon development, is that it will be more than powerful enough. Far more than I'll ever need it to be.
