@@ -41,7 +41,13 @@ It gets better, the CPU performance of these machines has put Intel on high aler
 
 It used to be that regular people (me included) would buy a MacBook Pro to "future proof" an expensive purchase. Decent specs are what you'd need to keep going for longer than a few years. Nobody wants to replace a laptop that often, mostly because it's a disruptive pain to migrate your workflow and stuff over to a new machine. But the "non-pro" models had the sort of price-to-performance ratio that were about as compelling as fine dining on Valentine's Day. At least the Pro machines were actually worth the money.
 
-However, more than ever before, these MacBook Pros are really just for - you guessed it - professionals.
+However, more than ever before, these MacBook Pros are really just for - you guessed it - professionals. These are expensive laptops designed for demanding tasks. You either invest in these machines to generate income, or your employer foots the bill. These are not laptops that you leave lying around the bedroom for watching Netflix and shopping on Amazon.
+
+I'm not naming any names, but writers who put out a blog post once a month on their money-losing website don't need these MacBook Pros. Especially writers who refer to themselves in the third person.
+
+I hope my 2015 MacBook Pro has many long years ahead of it. And it should - I paid extra for the Pro machine so that it would. But when the time comes to upgrade, I'm certain that I won't need a "Pro" MacBook anymore. If I ever get another MacBook, it will be a "cheap", cheerful, and colourful consumer laptop. A MacBook Air perhaps. I don't know.
+
+What I do know, based on the trajectory of Apple's in-house silicon development, is that it will be more than powerful enough. Far more than I'll ever need it to be.
 
 ......more than ever these are for pros
 
