@@ -31,7 +31,7 @@ This is all giving me a headache - let's move onto the good stuff.
 
 Despite being blemished by a notch, the screen itself seems top notch (sorry). The mini-LED backlighting with local dimming zones will no doubt prompt diehard display enthusiasts to wax ecstatic on the contrast and "inky blacks". The 120Hz panel will proliferate the phrase "buttery smoothness" until your eyes hurt. That is until the 1600 nits of peak brightness literally blinds you. And a billion colours is nine hundred ninety-nine million nine hundred ninety-nine thousand nine hundred ninety-eight more colours than the two-colour CGA monitor I lived with in the early 90s.
 
-Kids today are just spoiled really.
+All we wanted for Christmas was a monitor with a colour screen. Kids today are just spoiled really.
 
 But the real stars of the MacBook Pro are undoubtedly the "unleashed" M1 Pro and M1 Max chips. These in-house chips are are literal game changers, allowing you to put in a 21-hour workday on battery alone. Of course, this inane battery life does beg the question of whether you want to put in a 21-hour workday.
 
