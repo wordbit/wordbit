@@ -25,4 +25,8 @@ First off, I'm not even thinking about jumping ship to Android. I'm not only dee
 
 Out of all the current offerings, I think Google Pixels offer the purest Android experience. But they're way too big and the massive "camera visor" tacked onto the back is atrocious. Google has guaranteed software support for three years, but... well, I think you know how I feel about that. Piddling.
 
-On the other hand, I'm not excited about the latest-and-greatest iPhone 13 either. ........................There's no way I'm dropping over a grand 
+On the other hand, I'm not excited about the latest-and-greatest iPhone 13 either. What I've stated previously at great length on this blog still stands - I'm not going to settle. I'm still waiting for the notchless all-screen dream iPhone. I just need to amend my stand slightly: I'm still waiting to throw all my money at a notchless all-screen dream iPhone.
+
+You see, according to the rumours, the earliest we might be seeing that dream iPhone is in 2023. So, I don't need a new iPhone that's going to last me another seven years - I just need a transitionary iPhone that will last me another two or three years.
+
+To cut costs down, I've ruled out buying anything new in Apple's current lineup: so, no......x x or x
