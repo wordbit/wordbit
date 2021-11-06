@@ -39,31 +39,64 @@ I looked at all my options, considered carefully, and watched an embarrassing nu
 
 The iPhone XS.
 
-A rather underrated iPhone that debuted in 2018, [I barely gave it any thought]({{< relref "2018-11-06-i-dont-feel-bad.markdown" >}}) when it was originally released. I did, however, express a preference for the blue or red iPhone XR. As an "S" year update, the XS predictably didn't get much attention because it looked exactly like the iPhone X. But the iPhone XS checks so many boxes for me - in fact, I managed to come up with ten reasons why the iPhone XS is the perfect phone for me to buy right now:
+A rather underrated iPhone that debuted in 2018, [I barely gave it any thought]({{< relref "2018-11-06-i-dont-feel-bad.markdown" >}}) when it was originally released. I did, however, express a preference for the blue or red iPhone XR. As an "S" year update, the XS predictably didn't get much attention because it looked exactly like the iPhone X.
 
- 1. The iPhone XS is three years newer than my iPhone 6S and three years older than the latest iPhone 13, so it sits right in the middle of the last six-year time period.
+But the iPhone XS checks so many boxes for me - in fact, I managed to come up with ten reasons why the iPhone XS is the perfect phone for me to buy right now:
 
-    Yes, the last three years have brought a lot of cool tech to the iPhone, including impressive new cameras with night mode (and an Ultra Wide lens), 5G, MagSafe, and LiDAR. Also, iPhones always improve with each generation, with faster processors, more battery life, and nicer screens that are harder to crack.
+### 1. It's not too old and not too new
 
-    But by the same token, look what I get for three years of development: a telephoto and wide-angle camera, IP-certified water and dust resistance, wireless charging, Face ID, and a larger edge-to-edge OLED display with small bezels (including, sigh, a notch I will have to actually live with now). And when you experience it, the bonuses of a faster processor, more battery life, and nicer screen are considerable quality-of-life improvements.
- 2. next item
- 3. next item
- 4. next item
- 5. next item
- 6. next item
- 7. next item
- 8. next item
- 9. next item
-10. final item
+The iPhone XS is three years newer than my iPhone 6S and three years older than the latest iPhone 13, so it sits right in the middle of the last six-year time period.
+
+Yes, the last three years have brought a lot of cool tech to the iPhone, including impressive new cameras with Night Mode (and an Ultra Wide lens), 5G, MagSafe, and LiDAR. Also, iPhones always improve with each generation, with faster processors, more battery life, and nicer screens that are harder to crack.
+
+But by the same token, look what I get for three years of development: a wide-angle and telephoto lens with Portrait Mode, IP-certified water and dust resistance, wireless charging, Face ID, and a larger edge-to-edge OLED display with small bezels (including, sigh, a notch I will have to actually live with now). And when you experience it, the bonuses of a faster processor, more battery life, and nicer screen are considerable quality-of-life improvements.
+
+### 2. All the cool new iOS 15 features are supported
+
+My iPhone 6S may technically support iOS 15, but in reality it can only handle a small subset of all the cool new features.
+
+No AI-driven features are supported, such as Spatial Audio and Portrait Mode in FaceTime, an interactive 3D globe and immersive walking directions in Maps, Live Text in photos, Visual Look Up, new animated backgrounds in Weather, on-device speech processing, and Keys in the Wallet. 
+
+Apple's [Neural Engine](https://apple.fandom.com/wiki/Neural_Engine) debuted in the iPhone X - dedicated processing power on the chip to handle AI and machine learning tasks. With the iPhone XS, Apple doubled the neural engine cores from only two up to eight - a massive leap that allowed five trillion operations per second.
+
+This beefed-up neural engine is the reason that [every single iOS 15 feature](https://www.iphoneincanada.ca/news/new-ios-15-features-require-iphone-xs-above/ ) is supported on the XS.
+
+### 3. It will have three more years of support
+
+It is almost guaranteed that the iPhone XS will be supported for three more years. Why? Because Apple has never dropped support for two iPhone generations at the same time.
+
+So, looking at [historical iOS compatibility](https://www.statista.com/chart/5824/ios-iphone-compatibility/) and taking an educated guess, the worst case scenario would be that Apple drops support for the 6S in 2022, the 7 in 2023, the 8 and X in 2024, and finally the XS and XR in 2025.
+
+Actually what am I talking about - that's four more years of support! I'll leave a one-year buffer in there in case Apple goes for a major shake-up like dropping the 6S and 7 at the same time. But it's not inconceivable that Apple will give the XS seven years of support from 2018-2025.
+
+What about Android, you ask? Well, the Pixel 3 also came out in 2018 and it's support [just ended](https://gizmodo.com/rip-pixel-3-1847985883). I'm just getting started.
+
+### 4. It has the same amount of RAM as the iPhone 13
+
+### 5. It has the first 7 nanometer chip
+
+### 6. It's battery is not as bad as they say
+
+### 7. It's the perfect size
+
+### 8. It's the last premium iPhone
+
+Up until 2017, Apple's marketing team was doing a great job at naming the iPhones. You had the iPhone 3, iPhone, 4, iPhone 5, iPhone 6, iPhone 7, etc. with the "S" years slotted in between consistently.
+
+Then they shipped the iPhone 8 along with the iPhone 10 and skipped the iPhone 9 entirely. Except they used Roman numerals, so it was the "iPhone X", not the "iPhone 10". Then in 2018, came the XS and XR. Nobody knew what the "R" stood for, but it was cheaper and less-premium than the XS. Then in 2019, they turned the XR into the iPhone 11 and split off the premium iPhone into a new "Pro" line.
+
+So you see - or maybe you don't and I don't blame you - somewhere in that ghastly time period where the marketing guys were losing their minds, they pulled a switcheroo.
+
+It used to be that there was only one iPhone and it was the very best iPhone. Now the Pro iPhones have muddied the waters and made the regular iPhones seem inferior. But the iPhone XS was the last premium "iPhone", and it was the best iPhone, and I like that.
+
+### 9. It's better than the XR for the same price
+
+### 10. It's over $1000 cheaper than it used to be
 
 NOTES:
 
-* All the cool new features in iOS 15 are supported on XS or newer: [https://www.iphoneincanada.ca/news/new-ios-15-features-require-iphone-xs-above/](https://www.iphoneincanada.ca/news/new-ios-15-features-require-iphone-xs-above/ "https://www.iphoneincanada.ca/news/new-ios-15-features-require-iphone-xs-above/") Verify if this is because of the neural engine...
-* It is three years older than 6S, but three years older than the newest iPhone, so, right in the middle.
-* It’s the last phone to come out before Apple split the line into unaffordable “Pro” models.
 * On the second-hand market, they are priced the same as XR, but are much more premium with stainless steel frame, OLED screen, small bezels, two cameras, etc.
 * The discount is huge. Originally cost $1544 CAD after tax, but around $400 now, so over a thousand bucks cheaper. [https://mobilesyrup.com/2018/09/12/iphone-xs-max-iphone-xr-canadian-specs-pricing-availability/](https://mobilesyrup.com/2018/09/12/iphone-xs-max-iphone-xr-canadian-specs-pricing-availability/ "https://mobilesyrup.com/2018/09/12/iphone-xs-max-iphone-xr-canadian-specs-pricing-availability/")
-* I want it to last until at least 2023, and that is almost guaranteed with the A12 chip.
 * It is the same width as the iPhone 13 Pro, which is sleeker and nicer in the hand than the wider iPhone XR and 11. [https://www.hotspot3d.com/#compare/apple-iphone-xs-silver/apple-iphone-13-pro-silver](https://www.hotspot3d.com/#compare/apple-iphone-xs-silver/apple-iphone-13-pro-silver "https://www.hotspot3d.com/#compare/apple-iphone-xs-silver/apple-iphone-13-pro-silver")
 * It has 4GB of RAM which is twice as much as the 6S and one more than the iPhone X, which had 3GB. I believe this will make a difference for future iOS support where the iPhone 6 was cut off early because it only had 1GB of RAM. Also, need to verify, but I heard all the base models of iPhone up to the 13 have 4GB RAM.
 * First 7 nanometer chip! And better neural engine - hence full support for iOS 15.
