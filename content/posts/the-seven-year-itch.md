@@ -55,7 +55,7 @@ But by the same token, look what I get for three years of development: a wide-an
 
 My iPhone 6S may technically support iOS 15, but in reality it can only handle a small subset of all the cool new features.
 
-No AI-driven features are supported, such as Spatial Audio and Portrait Mode in FaceTime, an interactive 3D globe and immersive walking directions in Maps, Live Text in photos, Visual Look Up, new animated backgrounds in Weather, on-device speech processing, and Keys in the Wallet. 
+No AI-driven features are supported, such as Spatial Audio and Portrait Mode in FaceTime, an interactive 3D globe and immersive walking directions in Maps, Live Text in photos, Visual Look Up, new animated backgrounds in Weather, on-device speech processing, and Keys in the Wallet.
 
 Apple's [Neural Engine](https://apple.fandom.com/wiki/Neural_Engine) debuted in the iPhone X - dedicated processing power on the chip to handle AI and machine learning tasks. With the iPhone XS, Apple doubled the neural engine cores from only two up to eight - a massive leap that allowed five trillion operations per second.
 
@@ -73,7 +73,23 @@ What about Android, you ask? Well, the Pixel 3 also came out in 2018 and it's su
 
 ### 4. It has the same amount of RAM as the iPhone 13
 
-### 5. It has the first 7 nanometer chip
+Despite looking just like the 6S, the iPhone 6 only had five years of support, which ended with iOS 12. One of the main reasons the 6S has outlasted the 6 is that the iPhone 6 only has 1 GB of RAM, whereas the iPhone 6S has 2 GB.
+
+Each new iOS release requires more RAM to handle multitasking in the user interface and to keep everything running smoothly.
+
+The "S" year improvements usually bump up the RAM, and the XS is no exception - the iPhone X has 3 GB of RAM, while the iPhone XS has 4 GB. Interestingly, all the newer models, including the iPhone 11, 12, and 13 also have 4 GB of RAM. Only the "Pro" models have 6GB.
+
+So, if the amount of RAM correlates to ongoing solid performance and future software support, the XS is in a great position.
+
+### 5. It has the first 7 nanometre (nm) chip
+
+The number of transistors you can cram onto a chip determines how many operations per second the CPU can perform. [I talked about this at length]({{< relref "2020-10-29-the-iphone-twelves.markdown" >}}) when Apple moved to the 5 nm chip with 11.8 billion transistors. Not bad considering there was only one transistor on the latest and greatest microchip in 1952.
+
+For reference, the latest iPhone 13 also has a 5 nm chip with 15 billion transistors and can perform 15.8 trillion operations per second.
+
+Similar to the iPhone 12, the iPhone XS also represents an inflection point in chip evolution. With previous iPhones being based on a 10 nm process, the XS was the first smartphone in the industry to use a 7 nm chip containing 6.9 billion transistors.
+
+This 7 nm chip, the A12 Bionic to be precise, is still being used in a lot of Apple devices, including ones that have just been released in 2021, such as the second-generation Apple TV 4K.
 
 ### 6. It's battery is not as bad as they say
 
