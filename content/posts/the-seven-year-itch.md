@@ -51,7 +51,7 @@ Yes, the last three years have brought a lot of cool tech to the iPhone, includi
 
 But by the same token, look what I get for three years of development: a wide-angle and telephoto lens with Portrait Mode, IP-certified water and dust resistance, wireless charging, Face ID, and a larger edge-to-edge OLED display with small bezels (including, sigh, a notch I will have to actually live with now). And when you experience it, the bonuses of a faster processor, more battery life, and nicer screen are considerable quality-of-life improvements.
 
-### 2. All the cool new iOS 15 features are supported
+### 2. It supports all the cool new iOS 15 features
 
 My iPhone 6S may technically support iOS 15, but in reality it can only handle a small subset of all the cool new features.
 
@@ -77,9 +77,9 @@ Despite looking just like the 6S, the iPhone 6 only had five years of support, w
 
 Each new iOS release requires more RAM to handle multitasking in the user interface and to keep everything running smoothly.
 
-The "S" year improvements usually bump up the RAM, and the XS is no exception - the iPhone X has 3 GB of RAM, while the iPhone XS has 4 GB. Interestingly, all the newer models, including the iPhone 11, 12, and 13 also have 4 GB of RAM. Only the "Pro" models have 6GB.
+The "S" year improvements usually bump up the RAM, and the XS is no exception - the iPhone X has 3 GB of RAM, while the iPhone XS has 4 GB (double what the 6S has).
 
-So, if the amount of RAM correlates to ongoing solid performance and future software support, the XS is in a great position.
+Interestingly, all the newer models, including the iPhone 11, 12, and 13 also have 4 GB of RAM. Only the "Pro" models have 6GB. So, if the amount of RAM correlates to ongoing solid performance and future software support, the XS is in a great position.
 
 ### 5. It has the first 7 nanometre (nm) chip
 
@@ -89,11 +89,33 @@ For reference, the latest iPhone 13 also has a 5 nm chip with 15 billion transis
 
 Similar to the iPhone 12, the iPhone XS also represents an inflection point in chip evolution. With previous iPhones being based on a 10 nm process, the XS was the first smartphone in the industry to use a 7 nm chip containing 6.9 billion transistors.
 
-This 7 nm chip, the A12 Bionic to be precise, is still being used in a lot of Apple devices, including ones that have just been released in 2021, such as the second-generation Apple TV 4K.
+This 7 nm chip, the A12 Bionic to be precise, is still fast (especially when compared to chips used in Android phones) and is being used in a lot of Apple devices, including ones that have just been released in 2021, such as the second-generation Apple TV 4K.
 
 ### 6. It's battery is not as bad as they say
 
+A few years ago, iPhones weren't ever lauded for their battery life. Traditionally, Android phones (which were also far larger) handily beat the iPhone's battery life hands down. This changed with the iPhone 11.
+
+Where the iPhone XS only had about 30 minutes more battery life than the iPhone X, the iPhone 11 Pro boasted up to _four hours_ more battery life than the XS. Battery life has only gotten better every year since, with the iPhone 13 Pro getting over seven hours of screen-on time.
+
+According to most reviewers, the battery life is a weak point in the XS, especially if buying used or refurbished with low Battery Health (more on this later). Reviewers will also tend to recommend the XR over the XS because it has far better battery life (the XR is larger and has an LCD screen, so there are compromises - also more on this later).
+
+But here's the thing - do you really need seven hours screen-on time? Honestly, you have bigger problems if you're staring at your phone for that long all day.
+
+Personally, since wearing the Apple Watch, I've been conditioned to use my phone less. Also, under normal usage, the iPhone XS can get up to four hours screen-on time, which is more than enough. Not only that, but the XS supports fast charging, which recharges the battery up to 50 percent in around 30 minutes. What more do you need?
+
+Compared to my 6S, the XS is incredible. In my usage, it goes all day without needing to be plugged in and ends the day at around 50 percent.
+
 ### 7. It's the perfect size
+
+I appreciate smaller pocket-friendly phones. When it comes down to the fundamentals of the form factor, isn't that the _raison d'être_ of portable devices?
+
+Steve Jobs famously thought that a 3.5-inch screen was the perfect size for a smartphone because in one-handed use your thumb could easily reach the top. He was right, it's hard to use most smartphones today with one hand. However, the 3.5-inch screen of the iPhone 4 feels far too cramped compared to the "expansive" 4.7-inch screen of the iPhone 6.
+
+Personally, I don't like the size and thickness of the 6.1-inch screen that debuted with the iPhone XR and continued on with the iPhone 11.
+
+It comes down to personal preference, but I especially don't like the chunky width of the XR and iPhone 11. It not only looks bad, especially with the thicker screen bezels, but it feels subtly too wide in the hand. At least the iPhone 12 and 13 slimmed down the width somewhat while retaining the 6.1-inch height.
+
+To me, the XS feels perfect in the hand and the 5.8-inch screen is a very nice upgrade to 4.7-inch 6S, which instantly feels far too cramped when I go back to it. Take a look at [this 3D-model comparison](https://www.hotspot3d.com/#compare/apple-iphone-xs-silver/apple-iphone-13-pro-silver) between the XS and the latest iPhone 13 Pro. The XS is the same width as the 13 - both look equally sleek (and feel nicer in the hand than the XR and 11). The design of the XS has held up extremely well with a smaller pocketable form factor that ended with the 11 Pro.
 
 ### 8. It's the last premium iPhone
 
@@ -107,16 +129,16 @@ It used to be that there was only one iPhone and it was the very best iPhone. No
 
 ### 9. It's better than the XR for the same price
 
+That OLED is so sick.
+
 ### 10. It's over $1000 cheaper than it used to be
+
+.......talk about the colour you got, and ebay refurbished features, and the battery health, and scratch, etc. Maybe a pic or two?
 
 NOTES:
 
 * On the second-hand market, they are priced the same as XR, but are much more premium with stainless steel frame, OLED screen, small bezels, two cameras, etc.
 * The discount is huge. Originally cost $1544 CAD after tax, but around $400 now, so over a thousand bucks cheaper. [https://mobilesyrup.com/2018/09/12/iphone-xs-max-iphone-xr-canadian-specs-pricing-availability/](https://mobilesyrup.com/2018/09/12/iphone-xs-max-iphone-xr-canadian-specs-pricing-availability/ "https://mobilesyrup.com/2018/09/12/iphone-xs-max-iphone-xr-canadian-specs-pricing-availability/")
-* It is the same width as the iPhone 13 Pro, which is sleeker and nicer in the hand than the wider iPhone XR and 11. [https://www.hotspot3d.com/#compare/apple-iphone-xs-silver/apple-iphone-13-pro-silver](https://www.hotspot3d.com/#compare/apple-iphone-xs-silver/apple-iphone-13-pro-silver "https://www.hotspot3d.com/#compare/apple-iphone-xs-silver/apple-iphone-13-pro-silver")
-* It has 4GB of RAM which is twice as much as the 6S and one more than the iPhone X, which had 3GB. I believe this will make a difference for future iOS support where the iPhone 6 was cut off early because it only had 1GB of RAM. Also, need to verify, but I heard all the base models of iPhone up to the 13 have 4GB RAM.
-* First 7 nanometer chip! And better neural engine - hence full support for iOS 15.
-* Battery only has moderate improvement, but the XS does have fast charge capability (50% charge in 30 minutes).
 
 A bit dramatic, but could use this article in the post:
 
