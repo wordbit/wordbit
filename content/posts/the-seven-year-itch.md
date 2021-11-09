@@ -125,19 +125,36 @@ Then they shipped the iPhone 8 along with the iPhone 10 and skipped the iPhone 9
 
 So you see - or maybe you don't and I don't blame you - somewhere in that ghastly time period where the marketing guys were losing their minds, they pulled a switcheroo.
 
-It used to be that there was only one iPhone and it was the very best iPhone. Now the Pro iPhones have muddied the waters and made the regular iPhones seem inferior. But the iPhone XS was the last premium "iPhone", and it was the best iPhone, and I like that.
+It used to be that there was only one iPhone and it was the very best iPhone. Now the Pro iPhones have muddied the waters and made the regular iPhones seem inferior. But the iPhone XS was the last premium base-model "iPhone", and it was the best iPhone, and I like that.
 
 ### 9. It's better than the XR for the same price
 
-That OLED is so sick.
+So, continuing on from the last point, I mentioned above that when the iPhone XS and XR came out, the XR was positioned as a cheaper alternative to the base model. 
+
+But for some reason, on the second-hand market, they are now selling for roughly the same price. Perhaps it's because the XR was a best seller and stayed in Apple's lineup long after the XS was discontinued. Perhaps it's because they both have the same processor, but the XR has better battery life and a bigger screen.
+
+Whatever the reason, the choice has come down to the XR and XS - and I believe the XS is the far better iPhone. Sure, maybe the XR's value proposition was better when it was way cheaper than the XS - but with the cost being equal, the XS wins.
+
+I've already mentioned the pocketable size and smaller bezels, but the XS also gets gigabit-class LTE, better water resistance, 4 GB RAM compared to 3 GB, a 4-core GPU instead of 3-core, a premium stainless-steel chassis, and that extra telephoto lens.
+
+And even if all those features sound expendable, there is one difference that is a deal breaker: the screen. While the LCD screen on the XR is not bad, the higher-resolution OLED screen on the XS is just stunning.
+
+The only OLED screen I had before I got the XS was the one on my Apple Watch. Now that I've experienced the crispy text, rich colours, and true blacks of OLED on a phone, I can't go back to LCD.
+
+The screen is the phone.
+
+It's the one-and-only touch and visual interface and a high-quality display is the only component that directly impacts the level of joy and delight you get from using a smartphone. I get that now.
+
+In night mode, OLED literally transforms the user experience. The black background in an app completely subsumes the notch and bezels so that you get the illusion of an uninterrupted edge-to-edge plane of glass flowing seamlessly into the stainless-steel frame. It is an illusion, to be sure, but it is also a tantalizing glimpse of the true full-screen smartphone that I've been dreaming of.
 
 ### 10. It's over $1000 cheaper than it used to be
+
+.........besides from price, do you want to talk about how much you paid for 6S? How you are committed for a shorter time? Value proposition jumps way up?
 
 .......talk about the colour you got, and ebay refurbished features, and the battery health, and scratch, etc. Maybe a pic or two?
 
 NOTES:
 
-* On the second-hand market, they are priced the same as XR, but are much more premium with stainless steel frame, OLED screen, small bezels, two cameras, etc.
 * The discount is huge. Originally cost $1544 CAD after tax, but around $400 now, so over a thousand bucks cheaper. [https://mobilesyrup.com/2018/09/12/iphone-xs-max-iphone-xr-canadian-specs-pricing-availability/](https://mobilesyrup.com/2018/09/12/iphone-xs-max-iphone-xr-canadian-specs-pricing-availability/ "https://mobilesyrup.com/2018/09/12/iphone-xs-max-iphone-xr-canadian-specs-pricing-availability/")
 
 A bit dramatic, but could use this article in the post:
