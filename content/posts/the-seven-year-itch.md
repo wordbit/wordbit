@@ -129,7 +129,7 @@ It used to be that there was only one iPhone and it was the very best iPhone. No
 
 ### 9. It's better than the XR for the same price
 
-So, continuing on from the last point, I mentioned above that when the iPhone XS and XR came out, the XR was positioned as a cheaper alternative to the base model. 
+So, continuing on from the last point, I mentioned above that when the iPhone XS and XR came out, the XR was positioned as a cheaper alternative to the base model.
 
 But for some reason, on the second-hand market, they are now selling for roughly the same price. Perhaps it's because the XR was a best seller and stayed in Apple's lineup long after the XS was discontinued. Perhaps it's because they both have the same processor, but the XR has better battery life and a bigger screen.
 
@@ -148,6 +148,26 @@ It's the one-and-only touch and visual interface and a high-quality display is t
 In night mode, OLED literally transforms the user experience. The black background in an app completely subsumes the notch and bezels so that you get the illusion of an uninterrupted edge-to-edge plane of glass flowing seamlessly into the stainless-steel frame. It is an illusion, to be sure, but it is also a tantalizing glimpse of the true full-screen smartphone that I've been dreaming of.
 
 ### 10. It's over $1000 cheaper than it used to be
+
+In 2018, the iPhone XS cost a staggering $1544 CAD after taxes. At the time, it was the most expensive iPhone to date and the sticker shock was no joke to consumers. Just [read the comments](https://mobilesyrup.com/2018/09/12/iphone-xs-max-iphone-xr-canadian-specs-pricing-availability/) on the pricing announcement to get an idea of the outrage.
+
+That price is, of course, now the new normal.
+
+Anyway, I stuck with my initial budget and picked up a refurbished XS for $445 CAD, shaving off over a thousand bucks for a three-year old phone. 2018 doesn't even feel that long ago to me. 2015 does feel like a while ago though, when I paid over a thousand for my 6S.
+
+The more you pay, the longer you are committed, and I got my money's worth out of the 6S. A shorter commitment for far less money is nice though. If something goes horribly wrong, like I accidentally drop the refurbished phone off a cliff, it's not as big of a deal (but I'm not about to be flippant around cliffs either). Also, it keeps things fresh when you get to upgrade to something newer much sooner.
+
+I'm liking the value proposition of refurbished phones so much that maybe in three years, I'll just pay $450 for the iPhone 13 Pro instead of buying brand new.
+
+The refurbished market can be full of landmines, though, if you don't know where to step. Buying refurbished is like investing in the stock market. If you're willing to accept more risk, you can get a great deal. If that's you, then feel free to buy a phone from some random dude on Facebook Marketplace and maybe you'll strike gold. But you could also end up with a box filled with sand.
+
+Okay, maybe if you're totally gullible, you could buy a sand-filled box, but the more-likely scenario is you pay next to nothing for a well-loved phone with lots of scratches and poor battery health. If you get the battery replaced, you could still come out ahead.
+
+On the other end of the spectrum, if you're completely risk averse, you could pay top dollar from a reputable company and guarantee a high-quality refurb. One example in Canada would be [Orchard](https://www.getorchard.com/). Their quality control is fantastic, but the prices - not so much.
+
+For example, Orchard is selling a refurbished iPhone XS for around $600 - not really worth it, in my opinion, as you can get a brand new iPhone 11 straight from Apple for $679.
+
+I took the middle road and opted to get a refurbished phone through the [eBay Refurbished](https://pages.ebay.ca/refurbishedprogramhub/) program.
 
 .........besides from price, do you want to talk about how much you paid for 6S? How you are committed for a shorter time? Value proposition jumps way up?
 
