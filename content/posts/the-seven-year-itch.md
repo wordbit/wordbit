@@ -167,15 +167,21 @@ On the other end of the spectrum, if you're completely risk averse, you could pa
 
 For example, Orchard is selling a refurbished iPhone XS for around $600 - not really worth it, in my opinion, as you can get a brand new iPhone 11 straight from Apple for $679.
 
-I took the middle road and opted to get a refurbished phone through the [eBay Refurbished](https://pages.ebay.ca/refurbishedprogramhub/) program.
+I took the middle road and opted to get a refurbished phone through the [eBay Refurbished](https://pages.ebay.ca/refurbishedprogramhub/) program. This program vets sellers and all refurbs go through a certified inspection process. But it's the program's one-year warranty that gives real peace of mind. This warranty beats the usual 90-day one most refurbishers provide.
 
-.........besides from price, do you want to talk about how much you paid for 6S? How you are committed for a shorter time? Value proposition jumps way up?
+To be clear - these are still used phones that the seller flips, not high-quality refurbs with a new screen and chassis like Apple Refurbished products. They are guaranteed to be fully functional, but not cosmetically perfect.
 
-.......talk about the colour you got, and ebay refurbished features, and the battery health, and scratch, etc. Maybe a pic or two?
+In my case, the iPhone XS I received does have a deep visible scratch in the notch area. But the scratch does not obscure any of the Face ID or camera sensors, so no big deal. I'm not going to lie - it stings a bit to look at the scratch, but the sting will fade with time. There are also some light scratches on the frame - but this is to be expected as stainless steel scratches easily. The previous owner must have used a case and screen protector, though, because the display area and glass back are flawless.
+
+Side note: I wonder what would happen with screen protectors if Apple moved the camera under the display. Would you still need a little cut-out in the screen protector so it doesn't interfere with the camera and muddy the image?
+
+I mentioned earlier that battery health is a crucial factor when buying refurbished. The eBay Refurbished program guarantees a battery health of 85 percent or more. Well, I'm happy to report that my iPhone XS arrived with a battery health of 100 percent. The seller must have replaced the battery, which is above and beyond (and more than compensates for the minor scratches). Overall, I'm very happy with the condition of the phone.
+
+I'd immediately smother a brand new $1000+ phone in a case and screen protector, but for this phone, I'm going naked. Might as well enjoy it - less paranoia is one of the perks of buying refurbished.
+
+I went with the silver model, which has a really nice glossy off-white back and shiny silver frame. It looks amazing and the glass and steel are really grippy. My 6S was all kinds of slippery. I haven't held the newer iPhone "Pro" models, but I've heard that the matte glass backs on those models aren't nearly as grippy - hopefully they return to the glossy finish in future models.
 
 NOTES:
-
-* The discount is huge. Originally cost $1544 CAD after tax, but around $400 now, so over a thousand bucks cheaper. [https://mobilesyrup.com/2018/09/12/iphone-xs-max-iphone-xr-canadian-specs-pricing-availability/](https://mobilesyrup.com/2018/09/12/iphone-xs-max-iphone-xr-canadian-specs-pricing-availability/ "https://mobilesyrup.com/2018/09/12/iphone-xs-max-iphone-xr-canadian-specs-pricing-availability/")
 
 A bit dramatic, but could use this article in the post:
 
