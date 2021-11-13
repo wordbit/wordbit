@@ -190,4 +190,4 @@ So, this is the part at the end where He-Man comes out and delivers the moral of
 
 But when have you held on for too long? I think I've made it clear that if you're upgrading from an iPhone 6S (or 7), you're going to have a ball with the XS.
 
-If you really want to hang on to the 6S until its inevitable end, go for it - you're stronger than I am. But think about your quality of life - is it worth suffering patiently for another year just to say you've made it? Seven years is a long time - the itch will only get worse, and you'll want to scratch it.
+If you really want to hang on to the 6S until its inevitable end, go for it - you're stronger than I am. But think about your quality of life - is it worth suffering patiently for another year just to say you've made it? Seven years is a long time - the itch will only get worse, and you'll desperately want to scratch it.
