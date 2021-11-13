@@ -181,10 +181,6 @@ I'd immediately smother a brand new $1000+ phone in a case and screen protector,
 
 I went with the silver model, which has a really nice glossy off-white back and shiny silver frame. It looks amazing and the glass and steel are really grippy. My 6S was all kinds of slippery. I haven't held the newer iPhone "Pro" models, but I've heard that the matte glass backs on those models aren't nearly as grippy - hopefully they return to the glossy finish in future models.
 
-NOTES:
+So this is the part at the end where He-Man comes out and delivers the moral of the story. I could tell you that upgrading to a new phone every year could [cost you your retirement](https://www.phonearena.com/news/Upgrading-your-phone-could-cost-you-your-retirement_id135906). So don't do that. There - a satisfying end.
 
-A bit dramatic, but could use this article in the post:
-
-[https://www.phonearena.com/news/Upgrading-your-phone-could-cost-you-your-retirement_id135906](https://www.phonearena.com/news/Upgrading-your-phone-could-cost-you-your-retirement_id135906 "https://www.phonearena.com/news/Upgrading-your-phone-could-cost-you-your-retirement_id135906")
-
-I like the premium, understated design of the XS - as affirmation, take a look at the direction Android is going: ...... what's up with these terrible design choices - the Pixel 6 takes the camera bump to the next level.
+But I suspect if you've read this far, I'm preaching to the choir. If you're upgrading from an iPhone 6S or 7, you're going to have a ball with the XS. If you really want to hang on to the 6S until the inevitable end next year, go for it - you're stronger than I am. But think about your quality of life - is it worth suffering patiently for another year just to say you've made it. Seven years is a long time. Too long for me anyway.
