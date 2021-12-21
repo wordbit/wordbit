@@ -27,6 +27,10 @@ The wealthiest and most privileged people in this world have long ago hardened t
 
 Where do we go from here?
 
+Toxic positivity: [https://www.verywellmind.com/what-is-toxic-positivity-5093958](https://www.verywellmind.com/what-is-toxic-positivity-5093958 "https://www.verywellmind.com/what-is-toxic-positivity-5093958")
+
+Is this a big lol, or is there something to it?
+
 Well, the stark truth about life is that nobody is getting out of it alive. As Gandalf wisely says, "all we have to decide is what to do with the time that is given us". ### Christmas was never about the presents under the tree. Well, maybe in pagan times.
 
 Jesus = rebirth, renewal, hope, new life, hope...etc.
