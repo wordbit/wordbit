@@ -25,7 +25,7 @@ The good news is that the Omicron variant, by most accounts, is far milder than 
 
 However, once the administration starts down a path, they are compelled by the weight of bureaucracy to keep going down it. And after two years, temporary measures stop being temporary.
 
-Regardless of whether you are on team Booster or are on team Conspiracy Theory, one thing everyone can agree on is that COVID is the biggest buzzkill since the introduction of the income tax.
+Regardless of whether you are on team Booster or are on team Conspiracy Theory, one thing everyone can agree on is that COVID is the biggest buzzkill since the "temporary" introduction of the income tax.
 
 The wealthiest and most privileged people in this world have long ago hardened their hearts to the world around them. But for many, even those who are physically comfortable, declining mental health is the inevitable icing on top of all this.
 
