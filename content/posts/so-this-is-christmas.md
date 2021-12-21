@@ -19,17 +19,17 @@ We've just gone through one of the worst floods in BC history, leaving a wake of
 
 Inflation is at an all-time high, and food costs are set to skyrocket even more in 2022. Both rent and mortgage rates will follow suit as the banks scramble to keep inflation in check. For non-essential items, ongoing supply constraints have revealed the giant cracks in our reliance on a flailing shipping network. The furniture you ordered a year ago probably still hasn't arrived.
 
-On top of that fetid mix, sprinkle the Omicron variant on top. It's bad enough that COVID has created division, with the unvaccinated losing their jobs and the vaccinated hoping that their eroding trust in government and big pharma is not misplaced. But now Christmas is cancelled once more, with the government enforcing never-ending restrictions and lockdowns in a futile effort to curb yet another variant.
+On top of that fetid mix, sprinkle the Omicron variant on top. It's bad enough that COVID has created division, with the unvaccinated losing their jobs and the vaccinated trusting that their faith in government and big pharma is not misplaced. But now Christmas is cancelled once more, with the government enforcing never-ending restrictions and lockdowns in a (futile) effort to curb yet another variant.
 
-The Omicron variant, by most accounts, is far milder than previous ones. But once the administration starts down a path, they are compelled by the weight of bureaucracy to keep going down it. They've stopped asking "why?" and are laser-focused on the "how?" in perpetuity. The question is, after two years, when do temporary measures stop being temporary?
+The good news is that the Omicron variant, by most accounts, is far milder than previous ones. And 80 percent of British Columbians are double vaccinated.
 
-The wealthiest and most privileged people in this world have long ago hardened their hearts to the world around them. But for many, even those who are physically comfortable, declining mental health is the icing on top of all this.
+However, once the administration starts down a path, they are compelled by the weight of bureaucracy to keep going down it. And after two years, temporary measures stop being temporary.
 
-Where do we go from here?
+Regardless of whether you are on team Booster or are on team Conspiracy Theory, one thing everyone can agree on is that COVID is the biggest buzzkill since the introduction of the income tax.
 
-Toxic positivity: [https://www.verywellmind.com/what-is-toxic-positivity-5093958](https://www.verywellmind.com/what-is-toxic-positivity-5093958 "https://www.verywellmind.com/what-is-toxic-positivity-5093958")
+The wealthiest and most privileged people in this world have long ago hardened their hearts to the world around them. But for many, even those who are physically comfortable, declining mental health is the inevitable icing on top of all this.
 
-Is this a big lol, or is there something to it?
+It's gotten so bad, that [toxic positivity](https://www.verywellmind.com/what-is-toxic-positivity-5093958) is a thing now.
 
 Well, the stark truth about life is that nobody is getting out of it alive. As Gandalf wisely says, "all we have to decide is what to do with the time that is given us". ### Christmas was never about the presents under the tree. Well, maybe in pagan times.
 
