@@ -31,7 +31,9 @@ The wealthiest and most privileged people in this world have long ago hardened t
 
 It's gotten so bad, that [toxic positivity](https://www.verywellmind.com/what-is-toxic-positivity-5093958) is a thing now.
 
-And yet, while you can't accuse me of putting on a "cheerful facade" or chastising you with "toxic platitudes" such as "happiness is a choice", I did promise you that I'd try to end on a positive note. Well, a slightly less grim note at any rate.
+......I promised you earlier that I'd end on a positive note, but I just don't have anything good to say right now.
+
+......And yet, while you can't accuse me of putting on a "cheerful facade" or chastising you with "toxic platitudes" such as "happiness is a choice", I did promise you that I'd try to end on a positive note. Well, a slightly less grim note at any rate.
 
 I mentioned earlier that Christmas can be the best of times or the worst of times, and that this Christmas is a tough one for many. For me, the tension of Christmas is evident in it's shifting history. Starting as a Pagan celebration of the winter solstice, then becoming an anniversary of Jesus' birth, and ultimately ending up as secular mishmash of various traditions with a commercial spin, there has always been one commonality surrounding Christmas - it starts badly.
 
