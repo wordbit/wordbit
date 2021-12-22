@@ -31,6 +31,20 @@ The wealthiest and most privileged people in this world have long ago hardened t
 
 It's gotten so bad, that [toxic positivity](https://www.verywellmind.com/what-is-toxic-positivity-5093958) is a thing now.
 
+And yet, while you can't accuse me of putting on a "cheerful facade" or chastising you with "toxic platitudes" such as "happiness is a choice", I did promise you that I'd try to end on a positive note. Well, a slightly less grim note at any rate.
+
+I mentioned earlier that Christmas can be the best of times or the worst of times, and that this Christmas is a tough one for many. For me, the tension of Christmas is evident in it's shifting history. Starting as a Pagan celebration of the winter solstice, then becoming an anniversary of Jesus' birth, and ultimately ending up as secular mishmash of various traditions with a commercial spin, there has always been one commonality surrounding Christmas - it starts badly.
+
+For pagans, the winter solstice was the coldest, darkest time of year.
+
+Jesus was born in a cow shed before being hunted down by Roman soldiers.
+
+And in modern times, even the most secular can't stand going to the mall at Christmas.
+
+Maybe you can't choose to be happy, but you do get to decide what to do with your life. I don't mean you have to 
+
 Well, the stark truth about life is that nobody is getting out of it alive. As Gandalf wisely says, "all we have to decide is what to do with the time that is given us". ### Christmas was never about the presents under the tree. Well, maybe in pagan times.
 
-Jesus = rebirth, renewal, hope, new life, hope...etc.
+Jesus at the time = no room at the inn, hunted down by soldiers, etc.
+
+Jesus in hindsight = rebirth, renewal, hope, new life, hope...etc.
