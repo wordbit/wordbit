@@ -9,9 +9,9 @@ Before you continue reading, I should warn you that this post is a bit of a bumm
 
 I'll try end on a positive note, although I haven't gotten there yet obviously as I've just started writing and I don't know where I'm going with this yet. Everywhere and nowhere, most likely, is where all flows of consciousness tend to go.
 
-So, if you're a middle-aged adult like me, you've probably come to the realization that Christmas is about shielding the horrid state of the world from your kids. It's about furtive doom scrolling bathed in the glow of the Christmas tree. It's maintaining a fantasy, crafting myth and mystery, an antidote against the literal darkest month of the year, knowing all the while it is simply a placebo.
+So, if you're a jaded middle-aged adult like me, you've probably come to the realization that Christmas is about shielding the horrid state of the world from your kids. It's about furtive doom scrolling bathed in the glow of the Christmas tree. It's maintaining a fantasy, crafting myth and mystery, an antidote against the literal darkest month of the year, knowing all the while it is simply a placebo.
 
-It's exhausting. And for those in the cold, without family, food, or a place to sleep, it's absolutely the worst time of year. The best of times and the worst of times - the border between these two extremes has become very porous this year.
+It's exhausting. And we're the lucky ones. For those in the cold, without family, food, or a place to sleep, it's absolutely the worst time of year. The best of times and the worst of times - the border between these two extremes has become very porous this year.
 
 <!--more-->
 
@@ -27,26 +27,20 @@ However, once the administration starts down a path, they are compelled by the w
 
 Regardless of whether you are on team Booster or are on team Conspiracy Theory, one thing everyone can agree on is that COVID is the biggest buzzkill since the "temporary" introduction of the income tax.
 
-The wealthiest and most privileged people in this world have long ago hardened their hearts to the world around them. But for many, even those who are physically comfortable, declining mental health is the inevitable icing on top of all this.
+The wealthiest and most privileged people in this world have long ago hardened their hearts to the world around them and for them, it's business as usual. But for many, even those who are physically okay, declining mental health is the inevitable icing on top of all this.
 
 It's gotten so bad, that [toxic positivity](https://www.verywellmind.com/what-is-toxic-positivity-5093958) is a thing now.
 
-......I promised you earlier that I'd end on a positive note, but I just don't have anything good to say right now.
+So, I can't guarantee that I won't throw any "toxic platitudes" at you, but you definitely can't accuse me of putting up a "cheerful facade". I'll be the first to admit that I'm not exactly winning at life right now and have been spending way too much time wandering around Ancient Greece in _Assassin's Creed Odyssey_ killing both Spartans and Athenians in equal measure.
 
-......And yet, while you can't accuse me of putting on a "cheerful facade" or chastising you with "toxic platitudes" such as "happiness is a choice", I did promise you that I'd try to end on a positive note. Well, a slightly less grim note at any rate.
+But how do you win at life, anyway? You can't. Life isn't a competition to see who is the richest, the happiest, or the fittest. We're all just tourists dropping in for a visit on Planet Earth. You get to choose whether you want to schedule every minute of your stay, whether you want to chill by the pool, or whether you're open to spontaneous adventure and serendipity. Everybody's different and it's your vacation. But don't waste all your precious time trying to impress the other tourists.
 
-I mentioned earlier that Christmas can be the best of times or the worst of times, and that this Christmas is a tough one for many. For me, the tension of Christmas is evident in it's shifting history. Starting as a Pagan celebration of the winter solstice, then becoming an anniversary of Jesus' birth, and ultimately ending up as secular mishmash of various traditions with a commercial spin, there has always been one commonality surrounding Christmas - it starts badly.
+We never asked to be born, but you [can decide what to do with the time that is given](https://www.youtube.com/watch?v=hdAN0o3oqB8) to you. (Scoff if you will, but reading Lord of the Rings helped me through a tough time.)
 
-For pagans, the winter solstice was the coldest, darkest time of year.
+Have a happy Christmas, or have a sad Christmas too, if you prefer.
 
-Jesus was born in a cow shed before being hunted down by Roman soldiers.
+Let's not forget that before Christmas morphed into a secular mishmash of various traditions with a commercial spin, it was not a happy time. For pagans, the winter solstice was the darkest, coldest time of year. For Christians, the birth of Jesus in a ramshackle cow shed before being hunted by Roman soldiers intent on slaughtering every baby in Bethlehem doesn't exactly scream joy.
 
-And in modern times, even the most secular can't stand going to the mall at Christmas.
+The happiness only comes after. The one commonality across all Christmas traditions is that it is a time of rebirth, renewal, and hope that the days will get brighter. That the new year will be better than the last. Hope is what keeps the despair at bay - it's what keeps us alive. I can't think of a better gift to give.
 
-Maybe you can't choose to be happy, but you do get to decide what to do with your life. I don't mean you have to 
-
-Well, the stark truth about life is that nobody is getting out of it alive. As Gandalf wisely says, "all we have to decide is what to do with the time that is given us". ### Christmas was never about the presents under the tree. Well, maybe in pagan times.
-
-Jesus at the time = no room at the inn, hunted down by soldiers, etc.
-
-Jesus in hindsight = rebirth, renewal, hope, new life, hope...etc.
+Does that count as ending on a positive note? It'll have to do.
