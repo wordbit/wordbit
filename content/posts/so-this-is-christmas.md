@@ -37,7 +37,7 @@ But how do you win at life, anyway? You can't. Life isn't a competition to see w
 
 We never asked to be born, but you [can decide what to do with the time that is given](https://www.youtube.com/watch?v=hdAN0o3oqB8) to you. (Scoff if you will, but reading Lord of the Rings helped me through a tough time.)
 
-Have a happy Christmas, or have a sad Christmas too, if you prefer.
+So, have a happy Christmas, or have a sad Christmas, if you prefer.
 
 Let's not forget that before Christmas morphed into a secular mishmash of various traditions with a commercial spin, it was not a happy time. For pagans, the winter solstice was the darkest, coldest time of year. For Christians, the birth of Jesus in a ramshackle cow shed before being hunted by Roman soldiers intent on slaughtering every baby in Bethlehem doesn't exactly scream joy.
 
