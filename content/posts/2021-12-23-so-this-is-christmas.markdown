@@ -30,7 +30,7 @@ The wealthiest and most privileged people in this world have long ago hardened t
 
 It's gotten so bad, that [toxic positivity](https://www.verywellmind.com/what-is-toxic-positivity-5093958) is a thing now.
 
-So, I can't guarantee that I won't throw any "toxic platitudes" at you, but you definitely can't accuse me of putting up a "cheerful facade". I'll be the first to admit that I'm not exactly winning at life right now and have been spending way too much time wandering around Ancient Greece in _Assassin's Creed Odyssey_ killing both Spartans and Athenians in equal measure. My greatest accomplishment this year was snagging a free one-year trial to Disney+ by attending an online Salesforce conference.
+So, I can't guarantee that I won't throw any "toxic platitudes" at you, but you definitely can't accuse me of putting up a "cheerful facade". I'll be the first to admit that I'm not exactly winning at life right now and have been spending way too much time wandering around Ancient Greece in _Assassin's Creed Odyssey_ killing both Spartans and Athenians in equal measure. My greatest accomplishment this year was snagging a free one-year subscription to Disney+ by attending an online Salesforce conference.
 
 But how do you win at life, anyway? You can't. Life isn't a competition to see who is the richest, the happiest, or the fittest. We're all just tourists dropping in for a visit on Planet Earth. You get to choose whether you want to schedule every minute of your stay, whether you want to chill by the pool, or whether you're open to spontaneous adventure and serendipity. Everybody's different and it's your vacation. But don't waste all your precious time trying to impress the other tourists.
 
