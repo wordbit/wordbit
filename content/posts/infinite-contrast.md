@@ -47,7 +47,7 @@ Also, OLEDs degrade more quickly than LED because they are "organic" (the "O" in
 
 And, most terrifying of all, they are susceptible to permanent burn-in. You have to avoiding watching content with static elements, especially if the elements use highly-saturated colours. I think it's safe to say that you're [playing with fire](https://youtu.be/hWrFEU_605g) if you use an OLED display as a computer monitor for eight hours a day. OLED TVs are a treat, to be used sparingly and in moderation.
 
- They are also expensive to make - so expensive that, over the past decade, one display manufacturer after another has cancelled OLED production. [The only manufacturer still making them is LG](https://www.lg.com/uk/lg-magazine/brand-story/the-history-of-the-oled-tv).
+They are also expensive to make - so expensive that, over the past decade, one display manufacturer after another has cancelled OLED production. [The only manufacturer still making them is LG](https://www.lg.com/uk/lg-magazine/brand-story/the-history-of-the-oled-tv).
 
 The rise and fall of display technology is a classic case of capitalism at work. As a case in point, look at [plasma](https://www.techradar.com/news/plasma-tv) - a display technology that also had high contrast ratios, but was ultimately killed by the dominant LCD industry.
 
@@ -57,7 +57,13 @@ One of the main reasons is simply that nobody else has managed to reach OLED-wor
 
 A promising emerging technology is microLED which consists of inorganic self-emitting microscopic LEDs that by all appearances address all of OLED's deficits. However, they are super expensive to the point where it just isn't affordable to the average consumer yet. Whether microLED is the future of display technology is a future that remains to be seen, but it very well could be.
 
-A possible stepping stone was announced at CES this year, a new development which will surely keep LG in the OLED manufacturing business for years to come.
+A possible stepping stone between OLED and microLED was announced by Samsung at CES this year, a new development which will ironically keep LG in the OLED manufacturing business for years to come. That new technology is called [Quantum Dot OLED (QD-OLED)](https://www.digitaltrends.com/home-theater/qd-oled-hybrid-display-technology-fully-explained/). In simple terms, by placing a quantum-dot layer over an OLED panel, Samsung claims a significant boost to brightness and colour volume while decreasing burn-in risk. The key innovation here is efficiency - by fusing Quantum Dot technology with OLED, the OLED pixels don't have to work as hard, thus lasting longer.
+
+How expensive these displays end up being remains to be seen, as CES is notorious as a hive of scum, villainy, and vapourware. Sony is also jumping on the QD-OLED train this year, so the hype is real, but QD-OLED TVs will likely be more expensive than LG's OLEDs. I assume, however, that LG will continue to supply OLEDs to Samsung and Sony, which is great for LG and their huge bet on OLED.
+
+Indeed, in 2021, OLED shipments were on an [upwards trajectory](https://www.oled-a.org/2021-oled-panel-yy-shipments-and-revenue-up-47-and-273-respectively_070421.html), and 2022 will continue that trend as OLED starts to go mainstream. One of the main reasons for OLEDs rise in popularity and profitability are smartphone manufacturers. In particular, Apple, the biggest player in the game, is going all-in on OLED for iPhones, the Apple Watch, and are rumoured to bring it to iPads and MacBooks in the future as well.
+
+Also, foldable Android phones with flexible OLED screens are making a big splash on the bleeding edge and could signal a sea-change in the smartphone form factor if they continue to capture consumer interest.
 
 ............... QD-OLED
 
@@ -68,7 +74,3 @@ OLED displays only accounted for [30 percent of the global display market](https
 Good article:
 
 [https://www.techradar.com/news/what-is-oled](https://www.techradar.com/news/what-is-oled "https://www.techradar.com/news/what-is-oled")
-
-LG's history:
-
-[https://www.lg.com/uk/lg-magazine/brand-story/the-history-of-the-oled-tv](https://www.lg.com/uk/lg-magazine/brand-story/the-history-of-the-oled-tv "https://www.lg.com/uk/lg-magazine/brand-story/the-history-of-the-oled-tv")
