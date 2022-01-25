@@ -47,7 +47,7 @@ Also, OLEDs degrade more quickly than LED because they are "organic" (the "O" in
 
 And, most terrifying of all, they are susceptible to permanent burn-in. You have to avoiding watching content with static elements, especially if the elements use highly-saturated colours. I think it's safe to say that you're [playing with fire](https://youtu.be/hWrFEU_605g) if you use an OLED display as a computer monitor for eight hours a day. OLED TVs are a treat - a special experience - to be used sparingly and in moderation. They are the fine-dining of TVs - you don't leave it on all day, but it's the best part of your night.
 
-They are also expensive to make - so expensive that, over the past decade, one display manufacturer after another has cancelled OLED production. [The only manufacturer still making them is LG](https://www.lg.com/uk/lg-magazine/brand-story/the-history-of-the-oled-tv).
+They are also expensive to make - so expensive that, over the past decade, one display manufacturer after another has cancelled OLED production. Until recently, [the only manufacturer that stuck with OLED was LG](https://www.lg.com/uk/lg-magazine/brand-story/the-history-of-the-oled-tv). Now, Samsung is ramping up their OLED production with QD-OLED, which I'll talk about in a bit.
 
 The rise and fall of display technology is a classic case of capitalism at work. As a case in point, look at [plasma](https://www.techradar.com/news/plasma-tv) - a display technology that also had high contrast ratios, but was ultimately killed by the dominant LCD industry.
 
@@ -74,3 +74,7 @@ It happened to me - slowly at first - starting with my Apple Watch (my first OLE
 > In night mode, OLED literally transforms the user experience. The pitch-black background completely subsumes the notch and bezels so that you get the illusion of an uninterrupted edge-to-edge plane of glass flowing seamlessly into the stainless-steel frame.
 
 And so it goes...
+
+Caleb's analysis:
+
+[https://youtu.be/zUAFkWtuxZU](https://youtu.be/zUAFkWtuxZU "https://youtu.be/zUAFkWtuxZU")
