@@ -61,7 +61,9 @@ A possible stepping stone between OLED and microLED was announced by Samsung at 
 
 How expensive these displays end up being (and how good they really are) remains to be seen, as CES is notorious as a hive of scum, villainy, and vapourware. Sony is also jumping on the QD-OLED train this year, so the hype is real, but QD-OLED TVs will likely be more expensive than LG's OLEDs. I assume, however, that LG will continue to supply OLEDs to Samsung and Sony, which is great for LG and their bottom line.
 
-Indeed, in 2021, OLED shipments were on an [upwards trajectory](https://www.oled-a.org/2021-oled-panel-yy-shipments-and-revenue-up-47-and-273-respectively_070421.html), and 2022 will continue that trend as OLED starts to go mainstream. One of the main reasons for OLEDs rise in popularity and profitability are smartphone manufacturers. In particular, Apple, the biggest player in the game, is going all-in on OLED for iPhones, Apple Watches, and are rumoured to bring it to iPads and MacBooks in the future as well.
+I agree with [Caleb Denison's take](https://youtu.be/zUAFkWtuxZU) - LG has gotten very good at making OLED panels and has nothing to worry about in the short-term, but in the long-term, it depends on whether LG has "something cooking in its super-secret tech kitchen, and if they do, it's going to need to be super tasty". 
+
+But right now, OLED shipments are on an [upwards trajectory](https://www.oled-a.org/2021-oled-panel-yy-shipments-and-revenue-up-47-and-273-respectively_070421.html), and 2022 will continue that trend as OLED starts to go mainstream. One of the main reasons for OLEDs rise in popularity and profitability are smartphone manufacturers. In particular, Apple, the biggest player in the game, is going all-in on OLED for iPhones, Apple Watches, and are rumoured to bring it to iPads and MacBooks in the future as well.
 
 Also, foldable Android phones with flexible OLED screens are making a big splash on the bleeding edge and could signal a sea-change in the smartphone form factor if they continue to capture consumer interest.
 
@@ -73,8 +75,12 @@ It happened to me - slowly at first - starting with my Apple Watch (my first OLE
 >
 > In night mode, OLED literally transforms the user experience. The pitch-black background completely subsumes the notch and bezels so that you get the illusion of an uninterrupted edge-to-edge plane of glass flowing seamlessly into the stainless-steel frame.
 
-And so it goes...
+And now, I've taken a long hard look at the 2009 Sony Bravia 1080p LCD TV I've been rocking for the past thirteen years and decided it's time to go big or go home.
 
-Caleb's analysis:
+Spooked at first by the high price of OLED TVs, I initially put money down on TCL's mini-LED 6 series. But due to the ubiquitous supply chain issues we're having, the R646 I ordered didn't ship for months. I also had major second thoughts when it became apparent that Google TV was buggy as all hell, to the point that Best Buy stopped selling them for a while so TCL could patch it with some rushed software updates. TCL's quality control is also not the greatest - I've heard it isn't the worst - but regardless, I couldn't stand the thought of dealing with the "panel lottery".
 
-[https://youtu.be/zUAFkWtuxZU](https://youtu.be/zUAFkWtuxZU "https://youtu.be/zUAFkWtuxZU")
+So, anyway, I decided not to compromise. I cancelled my R646 order and threw down a large chunk of change on the 65-inch LG C1 OLED 4K TV. The C1 is widely regarded as the best TV of 2021 for a reason. I won't get into the details here, because you don't have to look far to find out everything you'll need to know. The short version is that I'm extremely happy with the C1 - it is absolutely one of the most stunning pieces of technology I've ever owned.
+
+I'm all in on OLED now for the next decade. By 2032, it is likely that microLED will be the best display tech you can get. But for now, OLED is winning - and has won me over.
+
+Most people love colour. But, I'm that ten-year old kid again who loves black. Not because of KITT this time. This time, I appreciate black for what it is - the infinite canvas.
