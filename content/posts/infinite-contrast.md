@@ -1,5 +1,5 @@
 +++
-date = 2022-01-31T00:00:00Z
+date = 2022-01-26T17:00:00Z
 draft = true
 slug = "why-oled-is-winning-for-now"
 title = "Why OLED is winning (for now)"
@@ -87,4 +87,4 @@ No regrets.
 
 So now I'm all in on OLED for the next decade. By 2032, it is possible that microLED will be the best display tech you can get. But for now, OLED is winning - and has won me over.
 
-Most people love colour. But, I'm that ten-year old kid again who loves black. Not because of KITT this time. Rather, I appreciate black for what it is - an infinite canvas unconstrained by any borders, as clear as the cold, unrelenting start of the universe waiting for the stars to be born.
+Most people love colour. But, I'm that ten-year old kid again who loves black. Not because of KITT this time. Rather, I appreciate black for what it is - an infinite canvas unconstrained by any borders, as clear as the blank, unrelenting start of the universe waiting for the stars to be born.
