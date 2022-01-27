@@ -1,6 +1,5 @@
 +++
 date = 2022-01-26T17:00:00Z
-draft = true
 slug = "why-oled-is-winning-for-now"
 title = "Why OLED is winning (for now)"
 
