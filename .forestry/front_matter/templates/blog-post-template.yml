@@ -16,3 +16,5 @@ fields:
   name: title
   label: title
   default: Insert title here
+pages:
+- content/posts/the-february-doldrums.md
