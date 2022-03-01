@@ -1,6 +1,5 @@
 +++
 date = 2022-02-28T13:00:00Z
-draft = true
 slug = "the-february-doldrums"
 title = "The February doldrums (and some advice)"
 
