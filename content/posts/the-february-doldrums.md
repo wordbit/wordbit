@@ -31,6 +31,8 @@ But, there's plenty of time in 2022 to turn things around, even if the only sphe
 If you're looking for a healthier, happier year, my unsolicited advice is to avoid the following, and you'll do okay:
 
 * The 1988 movie _Beaches_ starring Bette Midler. Billed as a comedy, instead this flick will have you sobbing by the end. Not funny at all. Fortunately, I managed to avoid watching this 80s movie until now. Unfortunately, I discovered that _Beaches_ is the origin point of the overplayed Bette Midler song _Wind Beneath My Wings_, which nobody alive in the 80s managed to avoid.
-* The Hugo and Nebula award-winning novel _Ancillary Justice_ by Ann Leckie.
+* The 2013 Hugo and Nebula award-winning novel _Ancillary Justice_ by Ann Leckie. After all the hype and praise for this book, I was blown away by how terrible it was. As the narrator is an AI, you could almost excuse the robotic, soulless prose. But there's no excuse for cardboard characters and a limp plot that even a four-year old would have issue with.
+* Twitter darling and viral word-guessing game, Wordle. You can only play once a day, so the game truly is habit-forming. Coded by a super-nice guy and recently bought by the New York Times, I don't really have a problem with the game or its creator. Except for one thing: it's just too easy. I've been playing for months and haven't lost a game yet. But, darn it, the game is so addictive that I keep coming back to extend my winning streak every day. A pointless habit best avoided lest you get sucked in too.
+* 
 
  
