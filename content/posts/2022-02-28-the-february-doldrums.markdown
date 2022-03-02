@@ -16,7 +16,7 @@ So, anyway, I promised some advice before I sign off.
 
 Look, I know it's hard to be positive. We were all hoping for a great start to 2022, but instead got this:
 
-<video max-width="100%" height="auto" controls>
+<video width="100%" height="auto" controls>
 <source src="/images/russian_missles.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
