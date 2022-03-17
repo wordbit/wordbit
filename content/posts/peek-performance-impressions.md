@@ -43,7 +43,7 @@ The new iPhone SE features the A15 chip, 5G, slightly better battery life, and s
 
 <img src="/images/thumbs_down.png" align="left"> Maybe kids and grandparents won't complain when they're handed the SE, but there's a reason anyone who is employed has moved on (myself included) to the newer iPhone X-era design. The tiny display, small battery, and single camera in the SE add up to a tired old design that is not worth $650 CAD you'll be paying (after tax).
 
-If Apple supports this SE as long as they supported the 6S, you'll still be pulling this retro tech out of your pocket in 2029. Just think of the looks you'll get.
+If Apple supports this SE as long as they supported the 6S, you'll still be pulling this retro tech out of your pocket in 2029. Just think of the looks you'll get from all the cool kids wearing their AR glasses.
 
 ### iPad Air 5
 
