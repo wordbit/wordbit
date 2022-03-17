@@ -21,8 +21,8 @@ Here we go.
 
 ### Friday Night Baseball
 
-Introductory text.
+Apple is bringing live Baseball games to Apple TV+ "free from local broadcast restrictions".
 
-<img src="/images/thumbs_up.png" align="left"> Positive comments
+<img src="/images/thumbs_up.png" align="left"> Dipping a pinky toe into live streaming could be the start of exciting developments for sports-loving cord cutters. Cable-network executives have another reason to lose sleep - assuming they aren't blind to the writing on the wall.
 
-<img src="/images/thumbs_down.png" align="left"> Negative comments
+<img src="/images/thumbs_down.png" align="left"> I'm not into Baseball
