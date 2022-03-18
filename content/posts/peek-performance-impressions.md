@@ -47,4 +47,6 @@ If Apple supports this SE as long as they supported the 6S, you'll still be pull
 
 ### iPad Air 5
 
-Iterating on the excellent iPad Air 4 re-design introduced in 2020, this year's model includes the blazing-fast M1 chip and a 12MP front camera.
+Iterating on the excellent iPad Air 4 re-design introduced in 2020, this year's model includes the blazing-fast M1 chip, a 12MP front camera, and a fetching new blue colour.
+
+<img src="/images/thumbs_up.png" align="left"> When the iPad Air 4 came out, I was [seriously tempted]({{< relref "2020-09-28-from-the-insane-to-the-mundane.markdown" >}}) to snap one up and toss my OG 2013 iPad Air away.
