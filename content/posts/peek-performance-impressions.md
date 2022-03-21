@@ -7,7 +7,7 @@ title = "Peek Performance impressions"
 +++
 Thank you, Apple, for giving me something to write about besides from today's unholy trinity of war, disease, and inflation.
 
-Perhaps not as flashy as last year's [Spring Loaded]({{< relref "2021-04-30-spring-loaded.markdown" >}}) digital event, [Peek Performance](https://youtu.be/CUwg_JoNHpo) was nonetheless a nice, mellow start to the 2022 Apple news cycle. And there was one cool surprise that escaped the leaks.
+Perhaps not as flashy as last year's [Spring Loaded]({{< relref "2021-04-30-spring-loaded.markdown" >}}) digital event, [Peek Performance](https://youtu.be/CUwg_JoNHpo) was nonetheless a nice, mellow start to the 2022 Apple news cycle. And was also another opportunity for Apple's chip team to flex hard.
 
 This presentation was a no-nonsense, all-business affair. Given the complete lack of levity, especially from a dead-eyed Tim Cook, you get the feeling Apple is ready to move on from pre-recorded video and return to in-person events.
 
@@ -60,3 +60,13 @@ So, I guess I'll keep my decade-old iPad Air until the day that the YouTube and 
 Also, rumours have it that Apple was planning on bringing OLED to the iPad Air 5, but this upgrade got pushed to another year, which is a bummer. I do have a thing for OLED, so maybe next year the temptation will become too hard to bear...
 
 ### Mac Studio
+
+So, the Mac Studio is a brand new product, but is basically a taller Mac mini with beefed-up internals and extra ports.
+
+<img src="/images/thumbs_up.png" align="left"> The neat trick in this product is that Apple's chip team connected two M1 Maxes together to form the "M1 Ultra". With a smoking-fast bandwidth of 2.5 terabytes between the chips, the two chips appear to the system as one super-powered chip. So, double the speed, double the memory, and double the performance. Really nice, especially if you've always wanted 128GB of RAM for some insane reason.
+
+<img src="/images/thumbs_down.png" align="left"> Apple's marketing team is having a field day with their chip names, which are, quite frankly, getting out of control. But, that's a minor complaint. These are impressive, compact machines. But the Mac Studio is such a niche product that it won't have a broad impact until the chip improvements trickle down to the consumer landscape. Starting at $2500 CAD, these aren't exactly a bargain, especially considering they are nowhere near as modular as PC builds.
+
+### Studio Display
+
+Apple is positioning this 27-inch 5K display as a companion to the Mac Studio.
