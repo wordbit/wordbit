@@ -69,4 +69,10 @@ So, the Mac Studio is a brand new product, but is basically a taller Mac mini wi
 
 ### Studio Display
 
-Apple is positioning this 27-inch 5K display as a companion to the Mac Studio.
+Apple is positioning this new 27-inch 5K display as a companion to the Mac Studio.
+
+<img src="/images/thumbs_up.png" align="left"> Nobody does a 5K display like Apple does. To be fair, nobody does a 5K display period (except for LG). With great built-in speakers, a webcam, terrific build quality, and a lower price than Apple's $6,000+ Pro Display XDR, you'd think that Apple has a winner on their hands.
+
+<img src="/images/thumbs_down.png" align="left"> Apple does not have a winner on their hands. Leaving aside reports of a bad, blotchy webcam (Apple claims they can fix it in a software update), this display has a lacklustre spec sheet for the two grand asking price. These days $2,000 will get you a cutting-edge OLED with HDR, local dimming zones, and a high-refresh rate. The Studio Display has none of these things.
+
+I hate to say it, but this display is a rip off. Apple recycled the 2014 Retina iMac, kept the display, tore the computer out the back, and charged more for it. Unless you're the ultimate fanboy, you can do better.
