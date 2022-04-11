@@ -17,4 +17,5 @@ fields:
   label: title
   default: Insert title here
 pages:
+- content/posts/insert-title-here.md
 - content/posts/peek-performance-impressions.md
