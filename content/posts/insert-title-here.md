@@ -39,6 +39,8 @@ Twitter: Bought by Elon Musk
 
 Social media and it's "content" now owned by cults of personality.
 
+Some good quotable stuff in here: [https://hughhowey.com/the-age-of-excess/](https://hughhowey.com/the-age-of-excess/ "https://hughhowey.com/the-age-of-excess/")
+
 But all I really want to know is... what happened to Julie Truscott? I like to think she is secretly living a fabulous life out there somewhere, not dead.
 
 A lot of the people I went to High School with are on Facebook. But not all...
