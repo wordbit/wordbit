@@ -45,9 +45,11 @@ Sure, "mind control" and "dystopian future" go together a little too comfortably
 
 Zuckerberg is gunning so hard to own "the metaverse", you have to wonder if he knows something we don't. Twenty years ago, I tried _Second Life_ for a few minutes and that scared me off social VR for life. Are people really going to surrender their souls at the gate to Facebook's (sorry, Meta's) virtual world? Given the current status quo, perhaps I shouldn't be surprised if they do.
 
-Twitter is not as ambitious in its plans of world domination, but has far more trolls. If you're especially witty or funny, perhaps there is a place for you on Twitter. But then again, it all comes down to the same question - how do you define yourself?
+Incidentally, I'm looking forward to seeing what Apple comes up with in the AR/VR space, and maybe they're working on something mind-blowing, but probably not. The issue is scale - Apple doesn't play on the bleeding edge anymore, and if they can't feasibly manufacture millions of units, they won't do it.
 
-I agree somewhat with [Hugh Howey's take]( https://hughhowey.com/the-age-of-excess/), in that "most users will stay with Twitter because of the same craving of a bully pulpit that caused Elon to purchase Twitter":
+Anyway, let's talk about Musk's new (adopted) baby. Twitter is not as ambitious in its plans of world domination, but has far more trolls. If you're especially witty or funny, perhaps there is a place for you on Twitter. But then again, it all comes down to the same question - how do you define yourself?
+
+Elon talks a big game about "free speech", but does this amount to nothing more than enabling the trolls and unleashing the Nazis? I agree somewhat with [Hugh Howey's take]( https://hughhowey.com/the-age-of-excess/), in that "most users will stay with Twitter because of the same craving of a bully pulpit that caused Elon to purchase Twitter":
 
 > That is, we are little different from him. If we were less like Elon, we would be content to send our thoughts and cat photos to our close friends using gmail, or Whatsapp, or group SMS. We would write on our blogs, knowing that few people would ever read what we wrote (and we wouldn’t even Tweet or FB a link to the blog). We would start a newsletter and send it to our eight subscribers.
 >
@@ -56,7 +58,11 @@ I agree somewhat with [Hugh Howey's take]( https://hughhowey.com/the-age-of-exce
 
 I would add that only a small, vocal minority has a high level of engagement on Twitter. The vast majority of Twitter users shout from their soapbox and nobody listens.
 
-But some people crave attention, and engagement on Twitter validates their existence. When they are ignored, depression, anger, and loneliness can compel them to lash out. Harassment, trolling, and subversive or extreme views can garner negative attention, but as destructive and socially deviant as this is, the individual need for attention is fulfilled. Without any real accountability, it's all too easy to become a monster online.
+But some people crave attention, and engagement on Twitter validates their existence. When they are ignored, depression, anger, and loneliness can compel them to lash out.
+
+Harassment, trolling, and subversive or extreme views can garner negative attention, but as destructive and socially deviant as this is, the individual need for attention is fulfilled. Without any real accountability, it's all too easy for "normal" people to become monsters online.
+
+And some of us do write ~~blog posts~~ longform pieces that nobody reads, and that's okay.
 
 Are you a creator or an artist?
 
