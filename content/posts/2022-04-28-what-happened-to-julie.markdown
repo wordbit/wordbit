@@ -64,7 +64,7 @@ But some people crave attention, and engagement on Twitter validates their exist
 
 Harassment, trolling, and subversive or extreme views gives them attention - yes, it's negative attention, but as destructive and socially deviant as this is, their selfish needs are fulfilled. Without any real accountability, it's all too easy for "normal" people to become monsters online.
 
-Some of us just write ~~blog posts~~ longform pieces that nobody reads, and that's okay.
+On the other hand, some people just write ~~blog posts~~ longform pieces that nobody reads, and that's okay.
 
 How did social media get so complicated? When you have to deal with a spectrum of "trigger warnings" on one extreme to "toxic positivity" on the other, it just isn't fun. But when you can't be found on social media these days, people either think you're weird or you're dead.
 
