@@ -65,6 +65,14 @@ Harassment, trolling, and subversive or extreme views can garner negative attent
 
 And some of us do write ~~blog posts~~ longform pieces that nobody reads, and that's okay.
 
+How did social media get so complicated? When you have to deal with a spectrum of "trigger warnings" on one extreme to "toxic positivity" on the other, it just isn't fun. But when you're not on social media these days, people either think you're weird or you're dead.
+
+I'm just as guilty as everybody else - there are people I went to High School with that are nowhere to be found online. Sometimes I wonder what happened to them. Where is Ross - a friend I used to play _Space Quest_ with? He used to feed his dogs Biltong and once my hair caught on fire when we were setting off fireworks at his house on Guy Fawkes Day. Now he's a ghost.
+
+What happened to Julie? She lived on my street and I used to walk home from school with her sometimes. I once made her blush because I liked her new hairstyle. Now she's gone without a digital trace.
+
+I like to think she's out there living a fabulous, authentic life - she's probably a true artist, shunning the limelight, living off the grid, creating something beautiful.
+
 Are you a creator or an artist?
 
 How do you define yourself?
