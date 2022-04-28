@@ -72,31 +72,3 @@ I'm just as guilty as everybody else - there are people I went to High School wi
 What happened to Julie? She lived on my street and I used to walk home from school with her sometimes. I once made her blush because I liked her new hairstyle. Now she's gone without a digital trace.
 
 I like to think she's out there living a fabulous, authentic life - she's probably a true artist, shunning the limelight, living off the grid, creating something beautiful...
-
-Are you a creator or an artist?
-
-How do you define yourself?
-
-Social media discussion ->
-
-Facebook: Meta and its "mind-reading" tech
-
-Twitter: Bought by Elon Musk
-
-Social media and it's "content" now owned by cults of personality.
-
-Some good quotable stuff in here: [https://hughhowey.com/the-age-of-excess/](https://hughhowey.com/the-age-of-excess/ "https://hughhowey.com/the-age-of-excess/")
-
-But all I really want to know is... what happened to Julie Truscott? I like to think she is secretly living a fabulous life out there somewhere, not dead.
-
-A lot of the people I went to High School with are on Facebook. But not all...
-
-NO -> Post on Mastodon only -
-
-Adventures in JavaScript
-
-New ergonomic chair
-
-Another time? ->
-
-Disappointing iPhone 14 rumours + Notch Watch
