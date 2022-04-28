@@ -29,31 +29,32 @@ And needless to say, I'll be calling myself a "writer" until the day I die - nev
 
 Humans thrive on creativity. Molding something beautiful out of chaos isn't easy, but creation is the breath of life. Breath is movement, a wind that brings change and growth and joy at the breaking of the doldrums. Whatever creative space you inhabit, your ultimate goal should be to evolve from creator to artist.
 
-The distinction is subtle, but spiritually significant. Creators are trapped in a fruitless cycle of appeasement trying to hold an audience. Artists don't care about an audience - they only try to please themselves, staying true to their vision of what constitutes something unique - a raw creation without precedent. One has integrity, the other does not. Choose wisely.
+The distinction is subtle, but spiritually significant. Creators are trapped in a fruitless cycle of appeasement trying to hold an audience. Artists don't care about an audience - instead, they rely on an internal compass, staying true to their vision of what constitutes something unique - a raw creation without precedent. One has integrity, the other does not. Choose wisely.
 
 Social media is anathema to a true artist. But it is now the dominant form of cultural expression in our society. User-generated "content" is completely lacking in artistry, yet so many are pulled into both the sordid and trivial minutiae of people's lives.
 
-This concept isn't new. Reality TV paved the way - cheap and exploitative, from the _Jerry Springer Show_ to _America's Funniest Home Videos_, voyeuristic forays into peoples lives has always been around, but at least it used to be on the fringe.
+This concept isn't new. Reality TV paved the way decades ago - cheap and exploitative, from the _Jerry Springer Show_ to _America's Funniest Home Videos_, voyeuristic forays into peoples lives has always been around, but at least it used to be on the fringe.
 
-Now there are those who are so deeply submerged in social media that, instead of harmless entertainment, they consider it a credible source of news and journalism. How far we have fallen.
+Yet today there are those who are so deeply submerged in social media that, instead of harmless entertainment, they consider it a credible source of news and journalism.
 
-As if this situation wasn't weird enough, Elon Musk actually bought Twitter this week (for the bargain price of 44 Billion Dollars). So, now both Facebook and Twitter are owned by cults of personality - the egomaniacs Mark Zuckerberg and Elon Musk who are both, ironically, the most socially-awkward men on the planet.
+How far we have fallen.
+
+As if this situation wasn't weird enough, Elon Musk actually bought Twitter this week (for the bargain price of 44 Billion Dollars). So, now both Facebook and Twitter will be owned by cults of personality - the egomaniacs Mark Zuckerberg and Elon Musk - who are both, ironically, the most socially-awkward men on the planet.
 
 Oh man, Facebook, WTF. If Facebook's big bet on the future of VR and AR (now rebranded as "Meta" to avoid all the negative connotations of the Facebook brand) doesn't have you alarmed, it soon will. They're developing a wrist-mounted electromyography device that you can train to sense the signals you're sending from your brain to your hands. So, basically you can manipulate virtual objects with your mind - absolutely bonkers.
 
-Sure, "mind control" and "dystopian future" go together a little too comfortably in a sentence, so maybe it's unfair to jump to conclusions. But more importantly, why aren't other players investing as heavily in AR/VR Research and Development?
+Sure, "mind control" and "dystopian future" go together a little too comfortably in a sentence, so maybe it's unfair to jump to conclusions. The technology actually sounds impressive, to be honest, as it should when you pump billions of dollars a year into R&D. But, ugh, Facebook. I'd like to know why aren't other players investing as heavily in AR/VR Research and Development?
 
 Zuckerberg is gunning so hard to own "the metaverse", you have to wonder if he knows something we don't. Twenty years ago, I tried _Second Life_ for a few minutes and that scared me off social VR for life. Are people really going to surrender their souls at the gate to Facebook's (sorry, Meta's) virtual world? Given the current status quo, perhaps I shouldn't be surprised if they do.
 
-Incidentally, I'm looking forward to seeing what Apple comes up with in the AR/VR space, and maybe they're working on something mind-blowing, but probably not. The issue is scale - Apple doesn't play on the bleeding edge anymore, and if they can't feasibly manufacture millions of units, they won't do it.
+I'm looking forward to seeing what Apple comes up with in the AR/VR space, and maybe they're working on something mind-blowing, but probably not. The issue is scale - Apple doesn't play on the bleeding edge anymore, and if they can't feasibly manufacture millions of units, they won't do it.
 
-Anyway, let's talk about Musk's new (adopted) baby. Twitter is not as ambitious in its plans of world domination, but has far more trolls. If you're especially witty or funny, perhaps there is a place for you on Twitter. But then again, it all comes down to the same question - how do you define yourself?
+Anyway, let's move on to Musk's new (adopted) baby. Twitter is not as ambitious in its plans of world domination, but has far more trolls. If you're especially witty or funny, perhaps there is a place for you on Twitter. But then again, it all comes down to the same question - how do you define your self worth?
 
-Elon talks a big game about "free speech", but does this amount to nothing more than enabling the trolls and unleashing the Nazis? I agree somewhat with [Hugh Howey's take]( https://hughhowey.com/the-age-of-excess/), in that "most users will stay with Twitter because of the same craving of a bully pulpit that caused Elon to purchase Twitter":
+Elon talks a big game about "free speech", but does this amount to nothing more than enabling the trolls and unleashing the Nazis? I agree somewhat with [Hugh Howey's take](https://hughhowey.com/the-age-of-excess/), in that "most users will stay with Twitter because of the same craving of a bully pulpit that caused Elon to purchase Twitter":
 
 > That is, we are little different from him. If we were less like Elon, we would be content to send our thoughts and cat photos to our close friends using gmail, or Whatsapp, or group SMS. We would write on our blogs, knowing that few people would ever read what we wrote (and we wouldn’t even Tweet or FB a link to the blog). We would start a newsletter and send it to our eight subscribers.
 >
->   
 > But we don’t. We have a billionaire mentality as well. We want to broadcast to the whole world, command everyone’s attention, amass as many followers as possible, acquire, acquire, acquire, preach, preach, preach. It is an age of excess, and we are its inhabitants.
 
 I would add that only a small, vocal minority has a high level of engagement on Twitter. The vast majority of Twitter users shout from their soapbox and nobody listens.
