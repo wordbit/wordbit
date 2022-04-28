@@ -31,7 +31,7 @@ Humans thrive on creativity. Molding something beautiful out of chaos isn't easy
 
 The distinction is subtle, but spiritually significant. Creators are trapped in a fruitless cycle of appeasement trying to hold an audience. Artists don't care about an audience - instead, they rely on an internal compass, staying true to their vision of what constitutes something unique - a raw creation without precedent. One has integrity, the other does not. Choose wisely.
 
-Social media is anathema to a true artist. But it is now the dominant form of cultural expression in our society. User-generated "content" is completely lacking in artistry, yet so many are pulled into both the sordid and trivial minutiae of people's lives.
+Social media is anathema to a true artist. But it is now the dominant form of cultural expression in our society. User-generated "content" (Gemmell's definition of "content" almost certainly applies here) is completely lacking in artistry, yet so many are pulled into both the sordid and trivial minutiae of people's lives.
 
 This concept isn't new. Reality TV paved the way decades ago - cheap and exploitative, from the _Jerry Springer Show_ to _America's Funniest Home Videos_, voyeuristic forays into peoples lives has always been around, but at least it used to be on the fringe.
 
@@ -49,7 +49,9 @@ Zuckerberg is gunning so hard to own "the metaverse", you have to wonder if he k
 
 I'm looking forward to seeing what Apple comes up with in the AR/VR space, and maybe they're working on something mind-blowing, but probably not. The issue is scale - Apple doesn't play on the bleeding edge anymore, and if they can't feasibly manufacture millions of units, they won't do it.
 
-Anyway, let's move on to Musk's new (adopted) baby. Twitter is not as ambitious in its plans of world domination, but has far more trolls. If you're especially witty or funny, perhaps there is a place for you on Twitter. But then again, it all comes down to the same question - how do you define your self worth?
+Anyway, let's move on to Musk's new (adopted) baby.
+
+Twitter is not as ambitious in its plans of world domination, but has far more trolls. If you're especially witty or funny, perhaps there is a place for you on Twitter. But then again, it all comes down to the same question - how do you define your self worth?
 
 Elon talks a big game about "free speech", but does this amount to nothing more than enabling the trolls and unleashing the Nazis? I agree somewhat with [Hugh Howey's take](https://hughhowey.com/the-age-of-excess/), in that "most users will stay with Twitter because of the same craving of a bully pulpit that caused Elon to purchase Twitter":
 
@@ -57,17 +59,17 @@ Elon talks a big game about "free speech", but does this amount to nothing more 
 >
 > But we don’t. We have a billionaire mentality as well. We want to broadcast to the whole world, command everyone’s attention, amass as many followers as possible, acquire, acquire, acquire, preach, preach, preach. It is an age of excess, and we are its inhabitants.
 
-I would add that only a small, vocal minority has a high level of engagement on Twitter. The vast majority of Twitter users shout from their soapbox and nobody listens.
+I would add that only a small, vocal minority has a high level of engagement on Twitter. The vast majority of Twitter users shout from their soapboxes and nobody listens.
 
-But some people crave attention, and engagement on Twitter validates their existence. When they are ignored, depression, anger, and loneliness can compel them to lash out.
+But some people crave attention, and engagement on Twitter validates their existence. When they are ignored - depression, anger, and loneliness can compel them to lash out.
 
-Harassment, trolling, and subversive or extreme views can garner negative attention, but as destructive and socially deviant as this is, the individual need for attention is fulfilled. Without any real accountability, it's all too easy for "normal" people to become monsters online.
+Harassment, trolling, and subversive or extreme views gives them attention - yes, it's negative attention, but as destructive and socially deviant as this is, their selfish needs are fulfilled. Without any real accountability, it's all too easy for "normal" people to become monsters online.
 
-And some of us do write ~~blog posts~~ longform pieces that nobody reads, and that's okay.
+Some of us just write ~~blog posts~~ longform pieces that nobody reads, and that's okay.
 
 How did social media get so complicated? When you have to deal with a spectrum of "trigger warnings" on one extreme to "toxic positivity" on the other, it just isn't fun. But when you can't be found on social media these days, people either think you're weird or you're dead.
 
-I'm just as guilty as everybody else - there are people I went to High School with that are nowhere to be found online. Sometimes I wonder what happened to them. Where is Ross - a friend I used to play _Space Quest_ with? He used to feed his dogs Biltong and once my hair caught on fire when we were setting off fireworks at his house on Guy Fawkes Day. Now he's a ghost.
+I'm just as guilty as everybody else - there are people I went to High School with that are nowhere to be found online. Sometimes I wonder what happened to them. Where is Ross, a friend I used to play _Space Quest_ with? He used to feed his dogs Biltong and once my hair caught on fire when we were setting off fireworks at his house on Guy Fawkes Day. Now he's a ghost.
 
 What happened to Julie? She lived on my street and I used to walk home from school with her sometimes. I once made her blush because I liked her new hairstyle. Now she's gone without a digital trace.
 
