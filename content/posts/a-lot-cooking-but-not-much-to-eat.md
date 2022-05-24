@@ -13,6 +13,10 @@ This year's I/O felt very similar to ones from the last few years - measured, ac
 
 PLUS:
 
+Talk about DALL E 2 and how it is the most impressive implementation of AI right now - See subreddit for samples: [https://www.reddit.com/r/dalle2/](https://www.reddit.com/r/dalle2/ "https://www.reddit.com/r/dalle2/")
+
+PLUS:
+
 The mystery of the iPhone 14 - same chip as last year, same notch, same everything - so what's changed?
 
 PLUS:
