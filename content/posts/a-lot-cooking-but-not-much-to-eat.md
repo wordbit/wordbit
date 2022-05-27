@@ -1,6 +1,5 @@
 +++
 date = 2022-05-27T07:00:00Z
-draft = true
 slug = "a-lot-cooking-but-not-much-to-eat"
 title = "Google I/O - a lot cooking, but not much to eat"
 
