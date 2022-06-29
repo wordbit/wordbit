@@ -45,12 +45,15 @@ Apple **CarPlay** gets the award for the most surprising update - a full-on inva
 
 Finally, that leaves Apple's **tvOS**... except there were no updates announced for tvOS. I think it's safe to say that the overpriced Apple TV hardware will continue down the road of redundancy to the destination of irrelevancy.
 
-It wasn't all fast and furious eye candy, however. After the stream ended, however, there were some disgruntled folks
+After the dust settled on the fast-and-furious eye candy of the keynote, everybody started digging into the details and the disgruntled mumbling began.
+
+First in line with a legitimate grievance
 
 * iPhone 7 gets shafted - refer back to my piece on iPhone XS
 * Stage Manager for M1 iPads only
 * My 2015 MacBook doesn't make the grade
 * Some iOS features are iPhone 12 only I believe - have to check
+* No AR announcements, which is the next big thing.
 
 Had no idea that this was a thing, but it's fantastic:
 
