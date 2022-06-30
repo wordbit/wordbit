@@ -61,16 +61,20 @@ It's a big controversy and I won't get into it here, suffice to say that anybody
 
 Third in line is me.
 
-My 2015 MacBook Pro will not be getting macOS Ventura. It still runs fine and I have no complaints with it, so I don't have any immediate plans to upgrade. The 2015 MacBook Pro turned out to be one of [the finest laptops]({{< relref "2016-12-07-the-new-old-macbook-pro.markdown" >}}) Apple ever made, and was followed by six years of inferior design until [last year's]({{< relref "2021-10-23-most-advanced-connectivity-ever.markdown" >}}) excellent return to form.
+My 2015 MacBook Pro will not be getting macOS Ventura. It still runs fine and I have no complaints with it, so I don't have any immediate plans to upgrade. The 2015 MacBook Pro turned out to be one of [the finest laptops\]({{< relref "2016-12-07-the-new-old-macbook-pro.markdown" >}}) Apple ever made, and was followed by six years of inferior design until \[last year's]({{< relref "2021-10-23-most-advanced-connectivity-ever.markdown" >}}) excellent return to form.
 
 But I hate to have another device drop off the support list, leaving only my iPhone XS and Apple Watch Series 6 new enough to support the latest software versions.
 
 Now seems like a good time to bring up this year's "hardware surprise" - a redesigned MacBook Air with an M2 chip. If there was ever a temptation for newly-obsolete MacBook owners like me, then this is it. The impossibly-thin, midnight-blue machine looks so very lovely. But, I don't do anything too intensive with my MacBook nor do I use it for work. With a starting price of $1500 CAD, upgrading now just for extra-snappy web browsing doesn't make any sense.
 
+For gaming, which is more intensive, I still have [the PC I got for free last year]({{< relref "2021-03-31-a-bruiser-of-a-year.markdown" >}}) and the free games keep rolling in on the Epic Games Store. The plummet in Bitcoin's value has finally ended the GPU extortion, so I picked up a new GTX 1650 to significantly upgrade my gaming experience. I got a low-power 75W model that is powered from the PCI-E slot instead of connecting directly to the power supply (which I couldn't do without upgrading the power supply). I recently played _Alan Wake_ in 60 fps with ultra graphics settings turned up to max - it was a blast.
+
+I'd like to get a PS5 one day, but almost two years after launch, they still aren't in stock. I'm starting to think I'd be better off waiting for the next gen.
+
 We're getting down to the nit-picking level now, but fourth in line for mild disappointment are iPhone 8 and X users. Many of the new iOS 16 features require the A12 Bionic (or later)  chip. This was the case last year too (and the reason I thought the XS was solid), but this year even more so. The dividing line is clear: the A11 chip in the iPhone 8 and X is based on a 10 nm process, whereas the A12 moved to 7 nm. Great to see my XS still fully supported though.
 
 And finally, fifth in the would-have-been-nice line are those who were hoping for an AR/VR software reveal. Widely touted as "the next big thing", an Apple-made VR headset, and eventually AR glasses, is rumoured to be on the imminent horizon.
 
-The name floating around for Apple's AR software is "realityOS", so it is out there. But AR wasn't even mentioned in the keynote and there were no awkward demos this year of developers holding up their iPads and building virtual Lego.
+The name floating around for Apple's AR software is "realityOS", so it is out there. But AR wasn't even mentioned in the keynote and there were no awkward demos this year of developers holding up their iPads and building virtual Lego. Maybe next year?
 
-ennnnnnnnnnnnnnnnnnnnd it?
+That's it for June. We're heading into the summer months now, aka known as tech-detox time, and spending more time outdoors, swimming, camping, all that good stuff. I wish you and your family all the best - until next time.
