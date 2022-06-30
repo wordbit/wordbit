@@ -45,16 +45,32 @@ Apple **CarPlay** gets the award for the most surprising update - a full-on inva
 
 Finally, that leaves Apple's **tvOS**... except there were no updates announced for tvOS. I think it's safe to say that the overpriced Apple TV hardware will continue down the road of redundancy to the destination of irrelevancy.
 
-After the dust settled on the fast-and-furious eye candy of the keynote, everybody started digging into the details and the disgruntled mumbling began.
+Naturally, after the dust settled on the fast-and-furious eye candy of the keynote, everybody started digging into the details and the disgruntled mumbling began.
 
-First in line with a legitimate grievance
+First in line with a legitimate grievance are iPhone 7 owners who got shafted with an early iOS version cut-off. I knew my iPhone 6S wouldn't make it to iOS 16, but I wasn't expecting the 7 to lose support too. My sympathies, iPhone 7, for the sudden death.
 
-* iPhone 7 gets shafted - refer back to my piece on iPhone XS
-* Stage Manager for M1 iPads only
-* My 2015 MacBook doesn't make the grade
-* Some iOS features are iPhone 12 only I believe - have to check
-* No AR announcements, which is the next big thing.
+When I recently switched to a refurbished iPhone XS, I made a crucial error in [my analysis]({{< relref "2021-11-12-the-seven-year-itch.markdown" >}}), erroneously stating that "Apple has never dropped support for two iPhone generations at the same time". This statement is incorrect as both the iPhone 5S and iPhone 6 did not get iOS 13. So, axing two generations does indeed have precedent.
 
-Had no idea that this was a thing, but it's fantastic:
+I did estimate about three more years of support for my XS (until the end of 2024) and actually accounted for "a major shake-up like dropping the 6S and 7 at the same time" in my analysis. That guess turned out to be bang on.
 
-[https://www.theverge.com/2022/6/24/23181821/chris-evans-iphone-6s-ios-16-upgrade-iphone-13-pro](https://www.theverge.com/2022/6/24/23181821/chris-evans-iphone-6s-ios-16-upgrade-iphone-13-pro "https://www.theverge.com/2022/6/24/23181821/chris-evans-iphone-6s-ios-16-upgrade-iphone-13-pro")
+Incidentally, I hadn't even heard about the Chris Evans iPhone 6S meme until now. Major respect for the guy and - how delightful, rocking the 6S all this time just like me (although he held out even longer than I could). Apparently, he is [singing his swan song](https://www.theverge.com/2022/6/24/23181821/chris-evans-iphone-6s-ios-16-upgrade-iphone-13-pro) for the 6S and finally upgrading. I can definitely relate to the sudden battery drops.
+
+Anyway, second in the grievances line has to be those who bought an iPad Pro in 2020 fully expecting their pricey hardware to eventually support the multitasking improvements they were asking for. However, the answer to their prayers, Stage Manager, requires the M1 chip, which arrived on iPads just last year.
+
+It's a big controversy and I won't get into it here, suffice to say that anybody looking for a an actual computer that can run desktop-class apps should skip the iPad Pro and buy a MacBook instead. Apple hasn't quite figured out how to make the iPad "pro" quite yet and the teething process is very expensive.
+
+Third in line is me.
+
+My 2015 MacBook Pro will not be getting macOS Ventura. It still runs fine and I have no complaints with it, so I don't have any immediate plans to upgrade. The 2015 MacBook Pro turned out to be one of [the finest laptops]({{< relref "2016-12-07-the-new-old-macbook-pro.markdown" >}}) Apple ever made, and was followed by six years of inferior design until [last year's]({{< relref "2021-10-23-most-advanced-connectivity-ever.markdown" >}}) excellent return to form.
+
+But I hate to have another device drop off the support list, leaving only my iPhone XS and Apple Watch Series 6 new enough to support the latest software versions.
+
+Now seems like a good time to bring up this year's "hardware surprise" - a redesigned MacBook Air with an M2 chip. If there was ever a temptation for newly-obsolete MacBook owners like me, then this is it. The impossibly-thin, midnight-blue machine looks so very lovely. But, I don't do anything too intensive with my MacBook nor do I use it for work. With a starting price of $1500 CAD, upgrading now just for extra-snappy web browsing doesn't make any sense.
+
+We're getting down to the nit-picking level now, but fourth in line for mild disappointment are iPhone 8 and X users. Many of the new iOS 16 features require the A12 Bionic (or later)  chip. This was the case last year too (and the reason I thought the XS was solid), but this year even more so. The dividing line is clear: the A11 chip in the iPhone 8 and X is based on a 10 nm process, whereas the A12 moved to 7 nm. Great to see my XS still fully supported though.
+
+And finally, fifth in the would-have-been-nice line are those who were hoping for an AR/VR software reveal. Widely touted as "the next big thing", an Apple-made VR headset, and eventually AR glasses, is rumoured to be on the imminent horizon.
+
+The name floating around for Apple's AR software is "realityOS", so it is out there. But AR wasn't even mentioned in the keynote and there were no awkward demos this year of developers holding up their iPads and building virtual Lego.
+
+ennnnnnnnnnnnnnnnnnnnd it?
