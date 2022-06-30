@@ -13,7 +13,7 @@ Although Apple did invite a group of both developers and journalists to attend, 
 
 Who knows what next year will bring. But, for now, I'm enjoying the cheeky transitions and faster pace of a pre-recorded show.
 
-As is tradition around here, here are my personal thoughts and impressions of what went down. For a full detailed rundown, head over to your favourite tech journalism site.
+As is tradition around here, here are my personal thoughts and impressions of what went down. For a full detailed rundown, head over to your favourite tech journalism site...
 
 <!--more-->
 
@@ -41,13 +41,13 @@ On MacBooks and iMacs, **macOS Ventura** also brings Stage Manager, along with t
 
 Perhaps the best (and worse) feature of macOS Ventura is the ability to mount your iPhone on the top of your display to use it was a webcam.
 
-Apple **CarPlay** gets the award for the most surprising update - a full-on invasion of the car's entire instrument cluster. Assuming that your new car only uses displays for its instrument cluster - and I actually don't know of any. Come to think of it, this announcement is either vaporware or has something to do with the rumoured Apple Car project. [But just look at it](https://youtu.be/q5D55G7Ejs8?t=2332) - it's glorious.
+Apple **CarPlay** gets the award for the most surprising update - a full-on invasion of the car's entire instrument cluster, assuming that your new car only uses displays for its instrument cluster - and I actually don't know of any. Come to think of it, this announcement is either vaporware or has something to do with the rumoured Apple Car project. [But just look at it](https://youtu.be/q5D55G7Ejs8?t=2332) - it's glorious.
 
 Finally, that leaves Apple's **tvOS**... except there were no updates announced for tvOS. I think it's safe to say that the overpriced Apple TV hardware will continue down the road of redundancy to the destination of irrelevancy.
 
 Naturally, after the dust settled on the fast-and-furious eye candy of the keynote, everybody started digging into the details and the disgruntled mumbling began.
 
-First in line with a legitimate grievance are iPhone 7 owners who got shafted with an early iOS version cut-off. I knew my iPhone 6S wouldn't make it to iOS 16, but I wasn't expecting the 7 to lose support too. My sympathies, iPhone 7, for the sudden death.
+First in line with a legitimate grievance are iPhone 7 owners who got shafted with an early iOS version cut-off. I knew my iPhone 6S wouldn't make it to iOS 16, but I wasn't expecting the 7 to lose support too. My sympathies, iPhone 7, for your sudden death.
 
 When I recently switched to a refurbished iPhone XS, I made a crucial error in [my analysis]({{< relref "2021-11-12-the-seven-year-itch.markdown" >}}), erroneously stating that "Apple has never dropped support for two iPhone generations at the same time". This statement is incorrect as both the iPhone 5S and iPhone 6 did not get iOS 13. So, axing two generations does indeed have precedent.
 
@@ -61,7 +61,7 @@ It's a big controversy and I won't get into it here, suffice to say that anybody
 
 Third in line is me.
 
-My 2015 MacBook Pro will not be getting macOS Ventura. It still runs fine and I have no complaints with it, so I don't have any immediate plans to upgrade. The 2015 MacBook Pro turned out to be one of [the finest laptops\]({{< relref "2016-12-07-the-new-old-macbook-pro.markdown" >}}) Apple ever made, and was followed by six years of inferior design until \[last year's]({{< relref "2021-10-23-most-advanced-connectivity-ever.markdown" >}}) excellent return to form.
+My 2015 MacBook Pro will not be getting macOS Ventura. It still runs fine and I have no complaints with it, so I don't have any immediate plans to upgrade. The 2015 MacBook Pro turned out to be one of [the finest laptops]({{< relref "filename.markdown" >}}) Apple ever made, and was followed by six years of inferior design until [last year's]({{< relref "2021-10-23-most-advanced-connectivity-ever.markdown" >}}) excellent return to form.
 
 But I hate to have another device drop off the support list, leaving only my iPhone XS and Apple Watch Series 6 new enough to support the latest software versions.
 
@@ -77,4 +77,4 @@ And finally, fifth in the would-have-been-nice line are those who were hoping fo
 
 The name floating around for Apple's AR software is "realityOS", so it is out there. But AR wasn't even mentioned in the keynote and there were no awkward demos this year of developers holding up their iPads and building virtual Lego. Maybe next year?
 
-That's it for June. We're heading into the summer months now, aka known as tech-detox time, and spending more time outdoors, swimming, camping, all that good stuff. I wish you and your family all the best - until next time.
+That's it for June. We're heading into the summer months now, aka known as tech-detox time, and spending more time outdoors, swimming, camping - all that good stuff. I wish you and your family all the best until next time.
