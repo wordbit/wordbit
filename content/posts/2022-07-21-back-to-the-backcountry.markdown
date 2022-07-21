@@ -15,15 +15,15 @@ Smartphones are actually more efficient because they save time. It's quicker to 
 
 On the other hand, I'm genuinely mystified on how people can spend four to five hours on their phones everyday. Is there really that much to do after reading a few tweets?
 
-Regardless, some time in the backcountry, away from civilization- and far away from the crowds - is good for everybody.
+Regardless, some time in the backcountry, away from civilization - and far away from the crowds - is good for everybody.
 
 <!--more-->
 
 It is jaw-droppingly gorgeous out in the quiet wilds of Canada where the bugs and the bears roam free. Leaving the car behind and getting out there on your own steam is a profoundly rewarding experience.
 
-We [tried the backcountry last year]({{< relref "2021-07-31-a-sick-summer.markdown" >}}) because it was impossible to get a traditional campsite reservation. Also, Airbnb or VRBO, which used to present affordable options, is now so expensive and is burdened with so many extra fees, that you need to kiss your quiet vacation goodbye because sharing with busloads of extra friends or family is the only way you can afford to rent a cabin.
+We [tried the backcountry last year]({{< relref "2021-07-31-a-sick-summer.markdown" >}}) because it was impossible to get a traditional campsite reservation. Also, owner-rental sites like Airbnb or VRBO, which used to present affordable options, are now so expensive and burdened with so many extra fees, that you need to kiss your quiet vacation goodbye because sharing with busloads of extra friends or family is the only way you can afford to rent a cabin.
 
-But the backcountry, despite being harder and even a little more dangerous, offers so much more serenity than miraculously snagging the last campsite reservation nobody else wanted next to the outhouse, only to find yourself sandwiched between two RVs or beside a group of friends determined to prattle on in their loudest voices long after midnight.
+But the backcountry, despite being harder and even a little more dangerous, offers so much more serenity than miraculously snagging the last campsite reservation nobody else wanted next to the outhouse, only to find yourself sandwiched between two RVs or beside a group of boozing friends determined to prattle on in their loudest voices long after midnight.
 
 This summer we've been trying something new - marine backcountry camping. We load up our paddleboards with gear and paddle to a campsite on a lake or on an ocean island that is usually only accessible by boat.
 
@@ -37,6 +37,6 @@ With even first-come-first-served walk-in backcountry sites filling up extraordi
 
 And in case you're yelling at me to share all these great spots, I'm not going to talk specifics about where we've been. The internet, Instagram especially, has ruined so many idyllic places in this world. There are breathtaking places out there that aren't discussed in forums or showcased in YouTube videos. Yes, other people go there, but they are the kind of people who don't like to share - even with close friends. They are the kind of people who keep the world's last remaining secrets off the Internet.
 
-Come to think of it, they are the kind of people that almost certainly don't spend any time online. The "secret spots" will leak eventually, as they always do - but not by them - and not by me. 
+Come to think of it, they are the kind of people that almost certainly don't spend any time online. The "secret spots" will leak eventually, as they always do - but not by them - and not by me.
 
 But regardless, the beauty of the backcountry is that you can pitch a tent anywhere you like and have a ball - that's all you need to know, really. Choose your own adventure, choose life, choose the backcountry!
