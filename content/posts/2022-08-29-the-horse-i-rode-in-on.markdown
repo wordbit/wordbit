@@ -1,6 +1,5 @@
 +++
 date = 2022-08-29T11:00:00Z
-draft = true
 slug = "the-horse-i-rode-in-on"
 title = "The horse I rode in on"
 
