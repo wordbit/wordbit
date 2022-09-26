@@ -49,6 +49,8 @@ Thankfully, Apple products are still high quality and still last a really long t
 
 That pep talk was more for me than for you by the way, but hey, like and subscribe if you agree.
 
-I'll wrap up by talking about the third product announced at the September event - the Airpods Pro 2.
+I'll wrap up by talking about the third product announced at the September event - the Airpods Pro 2. When the first-gen Airpods Pro came out, [I was impressed]({{< relref "2019-10-31-and-so-the-leaves-fall.markdown" >}}) by the upgraded specs compared to the regular Airpods. And while I am less blown away this time, these new second-gen Airpods Pro seem like a meaningful upgrade in terms of sound quality and improved active noise cancelling.
 
-I was 
+They look almost identical, which is why there is less surprise and delight, but I'm still intrigued. A large part of my intrigue is due to the fact that I haven't jumped on the Airpods bandwagon yet and I love to try new product categories. I bought some cheap wireless earbuds from AliExpress, but you know how that goes. I even had to glue one earbud back together after it split in two.
+
+If the first-gen Airpods Pro drop in price, perhaps I'll pick them up. Maybe I'm being overly optimistic about a sweet deal though: After the Airpods Pro 2 announcement, Best Buy actually raised the price of the first-gen Airpods (presumably to cash in on renewed interest and to sucker people into thinking they're buying the latest ones) - obviously the opposite of what I was hoping for.
