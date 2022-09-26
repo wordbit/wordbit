@@ -31,4 +31,24 @@ But perhaps the most frustrating aspect of the island is its longevity. Firstly,
 
 Secondly, when the full-screen dream iPhone does arrive, say four years from now, will the now-beloved island just vanish as if it were never there, like an episode of _Lost_? After tricking people into falling in love with it, would Apple really yank away their precious plaything?
 
-My personal take is that the island will stick around in some capacity - even on a full-screen iPhone. Perhaps it will momentarily disappear when watching video. Or it will evolve further, becoming less of an island and more of a fluid notification area in the top of the display. The status icons and animations could stay, but the black pill shape would no longer be necessary.
+My personal take is that the island will stick around in some capacity - even on a full-screen iPhone. Perhaps it will momentarily disappear when watching video. Or it will evolve further, becoming less of an island and more of a fluid notification area at the top of the display. The status icons and animations could stay, but the black pill shape would no longer be necessary.
+
+The more pressing question though, is what will happen to _Notch Watch_?
+
+Well, after thinking about it, I'll keep the name for now. After all, the notch is still there on the regular iPhone 14.
+
+Oh man, the iPhone 14. With the exact same form factor and A15 chip as last year, the iPhone 14 is essentially a rebranded iPhone 13. Sure, some of the iPhone 13 Pro parts have trickled down to the 14, but dude, this phone is aggressively iterative.
+
+The same can be said for the Apple Watch Series 8, which only has two minor new features over the Series 7. If you want to go big or go home, then you need to drop over a grand (Canadian of course) on the beefy Apple Watch Ultra. That extra thickness gets you more protection and a longer battery life so that you can go scuba diving or climb a mountain. Or so that you can just be a poser, of course - there are plenty of those people out there.
+
+Personally, I'm not into large watches nor do I have a large amount of cash lying around.
+
+Paying more to get more was the theme of this year's Apple event, but guess what folks, we're heading into a major recession. Apple's more affluent customer base may be immune to it, but one can't help but feel that Tim Cook has gotten a little too good at maximizing profit.
+
+Thankfully, Apple products are still high quality and still last a really long time, so if you're spending too much money every year on the latest and greatest, well, that's on you. There's no shame in being a few years behind - believe me. I love shiny new things as much as anybody, but let's be real - there are more important things to invest in.
+
+That pep talk was more for me than for you by the way, but hey, like and subscribe if you agree.
+
+I'll wrap up by talking about the third product announced at the September event - the Airpods Pro 2.
+
+I was 
