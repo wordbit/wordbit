@@ -65,4 +65,4 @@ Interestingly, the Airpods Pro adopt a lot of technology from hearing aids. Thes
 
 ### Some housekeeping
 
-I'll wrap up 
+I'll wrap up with some small, but linguistically significant site improvements. In particular, I'd like to address the comments I made previously about 
