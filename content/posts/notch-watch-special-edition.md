@@ -65,6 +65,14 @@ Interestingly, the Airpods Pro adopt a lot of technology from hearing aids. Thes
 
 ### Some housekeeping
 
-I'll wrap up with some small, but linguistically significant site improvements. Firstly, I've renamed "Blog Posts" on this site to simply "Posts". I've done this to partially address the connotations in Matt Gemmell's rhetoric of writing - ideas which have stuck with me. In these dark times, the word "blog" has “connotations of the ramblings of some random person, without authority or polish”.
+I'll wrap up with some small, but linguistically significant site improvements. Firstly, I've renamed "Blog Posts" on this site to simply "Posts". I've done this to partially address the connotations in Matt Gemmell's [rhetoric of writing]({{< relref "2022-04-28-what-happened-to-julie.markdown" >}}) - ideas which have stuck with me. To summarize: In these dark times, the word "blog" has “connotations of the ramblings of some random person, without authority or polish”.
 
-He also condemns the word "post", but I don't really have a problem with it. The alternatives, such as "longform piece" sounds a bit pompous and self-important in my opinion.
+He also condemns the word "post", but I've had a change of heart and don't really have a problem with it anymore. The alternatives, such as "longform piece" sounds a bit pompous and self-important in my opinion.
+
+Secondly, I've changed "Status Updates" to "Snippets". The impetus for this change is the recent Verge re-design. I think the new layout looks terrible on a desktop monitor by the way, but Nilay Patel has explained that they are working on it, so I won't go on about it. Everybody designs "mobile first" these days, and who can blame them.
+
+Anyway, to wean their reporters off using Twitter for short-form posts, the Verge has introduced an in-house feed they call "Storystream". I have to congratulate them for coming up with this brilliant idea which [I implemented five years ago]({{< relref "2017-12-26-the-microblog.markdown" >}}).
+
+Anyway, it got me thinking about the naming of my version: "Status Updates". Call it what you will - a "feed", "Storystream", or "micro-blogging", I think we can all agree that "Status Updates" doesn't quite capture the fun idea of brief, random commentary. There's no standard term for it though and I've come to really like the word "snippet", so why not - it works better and is more fun than the dry, IT-sounding "Status Update".
+
+Now that the Verge is bringing link posting back in a big way, I'll try do it more often.
