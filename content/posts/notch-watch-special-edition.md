@@ -65,4 +65,6 @@ Interestingly, the Airpods Pro adopt a lot of technology from hearing aids. Thes
 
 ### Some housekeeping
 
-I'll wrap up with some small, but linguistically significant site improvements. In particular, I'd like to address the comments I made previously about 
+I'll wrap up with some small, but linguistically significant site improvements. Firstly, I've renamed "Blog Posts" on this site to simply "Posts". I've done this to partially address the connotations in Matt Gemmell's rhetoric of writing - ideas which have stuck with me. In these dark times, the word "blog" has “connotations of the ramblings of some random person, without authority or polish”.
+
+He also condemns the word "post", but I don't really have a problem with it. The alternatives, such as "longform piece" sounds a bit pompous and self-important in my opinion.
