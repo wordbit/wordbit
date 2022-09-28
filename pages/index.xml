@@ -25,7 +25,7 @@ This site is pretty simple and you won’t find anything except pure unadulterat
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wordbit.com/pages/status/</guid>
-      <description>Status Updates  
+      <description>Snippets  
    $(document).ready(function() { // jQUERY is required! var mapi = new MastodonApi({ target_selector : &#39;#myTimeline&#39; ,instance_uri : &#39;https://wandering.shop&#39; ,access_token : &#39;32f63bc22ce9927b919fc670976f812781c7ce644d0a086be6d076c2a71f3c6d&#39; ,account_id : &#39;20307&#39; // optional parameters // =================== // - status max ,toots_limit : 999999999 // - if you are using font-awesome: // ,pic_icon : &#39;&#39; // or a picture // ,pic_icon : &#39;&#39; }); });</description>
     </item>
     
