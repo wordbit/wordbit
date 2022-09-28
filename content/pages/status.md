@@ -1,4 +1,4 @@
-# Status Updates
+# Snippets
 
 <html>
 <head>
