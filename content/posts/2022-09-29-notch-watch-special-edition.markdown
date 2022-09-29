@@ -1,6 +1,5 @@
 +++
 date = 2022-09-29T14:00:00Z
-draft = true
 slug = "notch-watch-special-edition"
 title = "Notch Watch: Special Edition"
 
