@@ -16,3 +16,5 @@ fields:
   name: title
   label: title
   default: Insert title here
+pages:
+- content/posts/a-tale-of-two-tablets-part-1.md
