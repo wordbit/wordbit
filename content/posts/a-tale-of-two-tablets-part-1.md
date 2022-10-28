@@ -55,17 +55,21 @@ I'm not going to pretend I can properly review these. For a detailed video revie
 
 The short version is that, for such small buds, they sound really good and the ANC is incredible. The new H2 chip is doing a lot of heavy lifting using algorithms to make these next level.
 
-I am disappointed with the device switching though. Switching audio between my iPhone and Apple Watch just doesn't work. The audio slows down like an unplugged record player before stopping completely. I've tried a few things, but haven't figured out how to fix it yet. Fortunately, I can still control iPhone audio with my Apple Watch, but the whole audio-switching experience is hardly as seamless as I was expecting.
+I am disappointed with the device switching though. Switching audio between my iPhone and Apple Watch just doesn't work. The audio slows down like an unplugged record player before stopping completely. I've tried a few things, but haven't figured out how to fix it yet. Fortunately, I can still control iPhone audio with my Apple Watch, but the whole audio-switching experience is hardly as seamless as I was expecting. First World problem, I know.
 
-In general, the second-gen AirPods Pro just ooze high quality all round, and they're undoubtedly the nicest earbuds I've ever owned. But I wouldn't pay full price for them.
+In general, the second-gen AirPods Pro just ooze high quality all round, and they're undoubtedly the nicest earbuds I've ever owned. I wouldn't pay full price for them though - there is a lot of healthy competition in the earbud space these days and you can get 80% of the same audio experience a lot cheaper elsewhere.
 
-Apple Music is great too, and spatial audio (Dolby Atmos) may not blow away non-audiophiles, but is icing on the cake for new releases that are properly mixed with surround sound in mind. I'll see how the next six months goes before deciding which music subscription to stick with, but I like what I'm hearing so far.
+Apple Music is polished and I actually like the emphasis on human curation rather than relying solely on algorithms. Spatial audio (Dolby Atmos) may not blow away non-audiophiles, but is icing on the cake for new releases that are properly mixed with surround sound in mind. I'll see how the next six months goes before deciding which music subscription to stick with, but I like what I'm hearing so far.
 
-Speaking of subscriptions...
+Speaking of subscriptions, for many years Amazon has begged me to sign up with Amazon Prime and I've always refused. You have to admire their persistence though because they finally offered me something I couldn't refuse:  A _Lord of the Rings_ show.
 
-Include some extras, like LOTR and Amazon Prime?
+The most expensive TV show ever made, _The Rings of Power_ is fantastic. It looks stunning in 4K Dolby Vision. Production values match and exceed the Peter Jackson movies. I can't say the writing is as good, but it's frankly impossible to write at Tolkien's level, so they were doomed to fail on that front from the start. I can forgive the mediocre writing though because it's just so great to be in Middle Earth again.
 
-AirPods Pro 2 thoughts?
+As a rule of thumb, I don't spend more than $20 a month on TV subscriptions, so I've started doing the juggling act of subscribing and unsubscribing to bounce between services. I've just finished up my one-year free trial of Disney Plus. I had a great time catching up on all the Star Wars and Marvel shows.
+
+I've also burned through the must-watch shows in my Netflix queue, but I'm done for a while. Netflix charges over 20 bucks a month for 4K, which is too much to set and forget. Their new plan with ads is cheap enough to keep as a holding pattern so the kids can still watch their shows (no ads on kids profiles fortunately).
+
+There are a few really good shows on Amazon Prime Video now, so I'll sub for a while after _The Rings of Power_ until switching again, but I'm not making the mistake of trapping myself in the ecosystem - that's how they get you.
 
 NOTES FOR PART 2:
 
