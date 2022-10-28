@@ -53,7 +53,7 @@ In the meantime, I've been enjoying another Apple accessory that I've recently a
 
 I'm not going to pretend I can properly review these. For a detailed video review, my man [Kenneth](https://youtu.be/q7DhG4pHwho) is underrated and deserves more views.
 
-The short version is that, for such small buds, they sound really good and the ANC is incredible. The new H2 chip is doing a lot of heavy lifting using algorithms to make these next level.
+The short version is that, for such small buds, they sound really good and the ANC is incredible. The new H2 chip is doing a lot of heavy lifting using algorithms to make these sound like a choir of angels and to eliminate the sound of my microwave.
 
 I am disappointed with the device switching though. Switching audio between my iPhone and Apple Watch just doesn't work. The audio slows down like an unplugged record player before stopping completely. I've tried a few things, but haven't figured out how to fix it yet. Fortunately, I can still control iPhone audio with my Apple Watch, but the whole audio-switching experience is hardly as seamless as I was expecting. First World problem, I know.
 
@@ -65,12 +65,8 @@ Speaking of subscriptions, for many years Amazon has begged me to sign up with A
 
 The most expensive TV show ever made, _The Rings of Power_ is fantastic. It looks stunning in 4K Dolby Vision. Production values match and exceed the Peter Jackson movies. I can't say the writing is as good, but it's frankly impossible to write at Tolkien's level, so they were doomed to fail on that front from the start. I can forgive the mediocre writing though because it's just so great to be in Middle Earth again.
 
-As a rule of thumb, I don't spend more than $20 a month on TV subscriptions, so I've started doing the juggling act of subscribing and unsubscribing to bounce between services. I've just finished up my one-year free trial of Disney Plus. I had a great time catching up on all the Star Wars and Marvel shows.
+As a rule of thumb, I don't spend more than $20 a month on TV subscriptions, so I've started doing the juggling act of subscribing and unsubscribing to bounce between services. I've just finished up my one-year free trial of Disney Plus. I had a delightful year catching up on all the Star Wars and Marvel shows but everything good must come to an end.
 
 I've also burned through the must-watch shows in my Netflix queue, but I'm done for a while. Netflix charges over 20 bucks a month for 4K, which is too much to set and forget. Their new plan with ads is cheap enough to keep as a holding pattern so the kids can still watch their shows (no ads on kids profiles fortunately).
 
 There are a few really good shows on Amazon Prime Video now, so I'll sub for a while after _The Rings of Power_ until switching again, but I'm not making the mistake of trapping myself in the ecosystem - that's how they get you.
-
-NOTES FOR PART 2:
-
-* The story of how I purchased my iPad on eBay. Include screenshot saved to media.
