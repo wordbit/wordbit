@@ -1,5 +1,5 @@
 +++
-date = 2022-10-31T13:00:00Z
+date = 2022-10-28T11:00:00Z
 draft = true
 slug = "a-tale-of-two-tablets-part-1"
 title = "A tale of two tablets - Part 1"
@@ -29,7 +29,7 @@ So, in 2015, Apple tried to appease them with the iPad Pro. It didn't work.
 
 It wasn't that Apple couldn't slap macOS on an iPad, because of course they could - easily. It's that Apple is a very different company than say, Microsoft, who were more than willing to put Windows on a tablet, despite the UI being all wrong for touch input.
 
-The fundamental reason is that Steve's core values on Apple "being at the intersection of technology and liberal arts" is deeply embedded into Apple's design philosophy. So, while the iPad Pro came with a nicer screen and better cameras, it also came with the Apple Pencil. It became clear then that the "Pro" in iPad Pro referred to professional artists and illustrators - not coders and mid-level managers. Those guys have always had the Mac - why should they have the iPad as well?
+The fundamental reason it didn't work is that Steve's core values on Apple "being at the intersection of technology and liberal arts" is deeply embedded into Apple's design philosophy. So, while the iPad Pro came with a nicer screen and better cameras, it also came with the Apple Pencil. It became clear then that the "Pro" in iPad Pro referred to professional artists and illustrators - not coders and mid-level managers. Those guys have always had the Mac - why should they have the iPad as well?
 
 Anyway, to make a long story short (or is it too late to keep it short?), that's why I think the question over whether the iPad's software is holding back the hardware is a moot point. Apple should focus on keeping creatives happy and give up on trying to make the iPad appealing to power users. They just make a mess of it anyway because, as I said, they're not that kind of company. The [poorly-received Stage Manager](https://www.macrumors.com/2022/10/25/stage-manager-criticized-as-ipados-16-released/) is a prime example of this.
 
@@ -43,11 +43,11 @@ On the other hand, the 10th-gen iPad got that nice redesign, which brings a mode
 
 A slightly worse display and chip compared to the iPad Air seems about right, given it's supposed to be the "base" iPad. But what everybody is crying about is that the 10th-gen iPad only supports the first-gen Apple Pencil, and then only with a hideous lightening-to-USB-C dongle.
 
-But to me, this makes sense. Apple wants to push professional artists who use the Apple Pencil daily to the Pro line. What they thought was more important to base-model customers (primarily students, I'd guess) was a nicer FaceTime experience. So, they re-positioned the selfie camera to a landscape orientation instead of using that space for the magnetic charging that the Apple Pencil 2 requires.
+But to me, this makes sense. Apple wants to push professional artists who use the Apple Pencil daily to the Pro line. What they thought was more important to base-model customers (primarily students, I'd guess) was a nicer FaceTime experience. So, they re-positioned the selfie camera to a landscape orientation instead of using that space for the magnetic charging that the Apple Pencil 2 requires. They couldn't do both without some serious re-engineering.
 
-That choice will be debated for a while to come, but, as someone who doesn't care that much about the Apple Pencil, I'm okay with it. What bother me far more is the price increase. In Canada, the base iPad now costs a hefty $600 (up from $429). Wow.
+That choice will be debated for a while to come, but, as someone who doesn't care that much about the Apple Pencil, I'm okay with it. What bothers me far more is the price increase. In Canada, the base iPad now costs a hefty $600 (up from $429). Wow.
 
-Maybe in two years, this iPad will be priced more appropriately, but right now... it isn't. But is the iPad Air worth $200 more? So, it's time to upgrade my iPad and I've got a decision to make. Stay tuned for Part 2 of this tale to find out what it is (coming next month).
+Maybe in two years, this iPad will be priced more appropriately, but right now... it isn't. But is the iPad Air worth $200 more? Hmmm, it's time to upgrade my iPad and I've got a decision to make. Stay tuned for Part 2 of this tale to find out what it is (coming next month as usual).
 
 In the meantime, I've been enjoying another Apple accessory that I've recently added to the ecosystem. I had an unused Best Buy gift card lying around, so I figured what the hell, and picked up the second-gen AirPods Pro that everybody is raving about. I got a free six-month Apple Music trial with it, so I cancelled my YouTube Music subscription (which I wasn't in love with). In the end, I'm actually coming out ahead.
 
@@ -63,9 +63,9 @@ Apple Music is polished and I actually like the emphasis on human curation rathe
 
 Speaking of subscriptions, for many years Amazon has begged me to sign up with Amazon Prime and I've always refused. You have to admire their persistence though because they finally offered me something I couldn't refuse:  A _Lord of the Rings_ show.
 
-The most expensive TV show ever made, _The Rings of Power_ is fantastic. It looks stunning in 4K Dolby Vision. Production values match and exceed the Peter Jackson movies. I can't say the writing is as good, but it's frankly impossible to write at Tolkien's level, so they were doomed to fail on that front from the start. I can forgive the mediocre writing though because it's just so great to be in Middle Earth again.
+The most expensive TV show ever made, _The Rings of Power_ is fantastic. It looks stunning in 4K Dolby Vision. Production values match and exceed the Peter Jackson movies. I can't say the writing is as good, but it's impossible to write at Tolkien's level, so they were doomed to fail on that front from the start. I can forgive the mediocre writing though because it's just so great to be in Middle Earth again.
 
-As a rule of thumb, I don't spend more than $20 a month on TV subscriptions, so I've started doing the juggling act of subscribing and unsubscribing to bounce between services. I've just finished up my one-year free trial of Disney Plus. I had a delightful year catching up on all the Star Wars and Marvel shows but everything good must come to an end.
+As a rule of thumb, I don't spend more than $20 a month on TV subscriptions, so I've started doing the juggling act of subscribing and unsubscribing to bounce between services. I've just finished up my one-year free trial of Disney Plus. I had a delightful year catching up on all the Star Wars and Marvel shows, but everything good must come to an end.
 
 I've also burned through the must-watch shows in my Netflix queue, but I'm done for a while. Netflix charges over 20 bucks a month for 4K, which is too much to set and forget. Their new plan with ads is cheap enough to keep as a holding pattern so the kids can still watch their shows (no ads on kids profiles fortunately).
 
