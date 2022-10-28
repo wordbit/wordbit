@@ -1,6 +1,5 @@
 +++
 date = 2022-10-28T11:00:00Z
-draft = true
 slug = "a-tale-of-two-tablets-part-1"
 title = "A tale of two tablets - Part 1"
 
