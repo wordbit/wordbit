@@ -19,11 +19,15 @@ Firstly, I knew before it arrived that the 10th-gen iPad could never be better t
 
 These conditions created the perfect storm and I found a deal on eBay that seemed too good to be true. On impulse, I jumped on it, knowing that I'd be covered if I'd just bought a lump of clay inside an iPad box. It seemed legit though - and was from a seller I'd bought from before.
 
-When the iPads were released, not only was the base model surprisingly expensive, but all iPads got a price bump. My educated gamble had paid off. I ended up paying almost a hundred bucks less for my Air than the new base iPad. In fact, according to eBay's iPad Air sales history, I'd just gotten the best deal on the entire site: 
+When it arrived, I carefully inspected it and trepidation soon turned to elation. It was indeed a brand-new, sealed iPad Air 5. Looking at eBay's sales history, I'd gotten the best deal on the site:
 
-I have no idea why I got such a great price. My working theory is that most dudes aren't interested in a pink iPad (even though it isn't pink - more on the colour later). Blue is by far the most popular colour.
+![](/images/ataleoftwotabletsimage.png)
 
-Another theory I have is that the seller used some sort of automated algorithm to set the price and this iPad sat for longer than usual while the price ticked down lower than it should have. Perhaps because the item metadata wasn't correctly set to "5th Generation" so didn't come up in filtered searches. 
+I have no idea why I got such a great price. My working theory is that most dudes aren't interested in a pink iPad (even though it isn't actually pink at all - more on the colour later). Blue is by far the most popular colour. And perhaps eBay is not as popular with girls?
+
+Another theory I have is that the seller used some sort of automated algorithm to set the price and this iPad sat for longer than usual while the price ticked down lower than it should have. Perhaps because the item metadata wasn't correctly set to "5th Generation" so didn't come up in filtered searches. The going price for a new iPad Air 4 was $613, after all.
+
+Whatever the case, I'm still slapping myself on the back.
 
 ... was worried about warranty...
 
