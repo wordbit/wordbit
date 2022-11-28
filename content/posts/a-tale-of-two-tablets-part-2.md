@@ -5,11 +5,11 @@ slug = "a-tale-of-two-tablets-part-2"
 title = "A tale of two tablets - Part 2"
 
 +++
-And so concludes a tale of two tablets. The stage has been set. To summarize from Part 1: We have a face-off between the 10th generation iPad and the iPad Air 5. The winner is my birthday present.
+And so concludes a tale of two tablets. The stage has been set. To summarize from Part 1: The 10th generation iPad and the iPad Air 5 are facing off. The winner is my birthday present.
 
-Plot twist - I already made my choice a while ago, long before October's iPad event.
+Plot twist - I already declared a winner a while ago, long before October's iPad event.
 
-In the run-up to the event, all the tech YouTubers and journalists kept spouting the same conventional wisdom: Hold off on buying an iPad until Apple reveals their new goodies. And under normal circumstances, this is great advice. Only fools, for example, buy new iPhones in August.
+In the run-up to last month's event, all the tech YouTubers and journalists kept spouting the same conventional wisdom: Hold off on buying an iPad until Apple reveals their new goodies. And under normal circumstances, this is great advice. Only fools, for example, buy new iPhones in August.
 
 I ignored their advice - and got a great deal on the iPad Air 5 that far surpasses any Black Friday deal out there.
 
@@ -19,7 +19,7 @@ Firstly, I knew before it arrived that the 10th-gen iPad could never be better t
 
 These conditions created the perfect storm and I found a deal on eBay that seemed too good to be true. On impulse, I jumped on it, knowing that I'd be covered if I'd just bought a lump of clay inside an iPad box. It seemed legit though - and was from a seller I'd bought from before.
 
-When it arrived, I carefully inspected it and trepidation soon turned to elation. It was indeed a brand-new, sealed iPad Air 5. Looking at eBay's sales history, I'd gotten the best deal on the site:
+When it arrived, I carefully inspected it and trepidation soon turned to elation. It was indeed a brand-new, sealed iPad Air 5. Looking back at eBay's sales history, I'd gotten the best deal on the site:
 
 ![](/images/ataleoftwotabletsimage.png)
 
@@ -27,7 +27,17 @@ I have no idea why I got such a great price. My working theory is that most dude
 
 Another theory I have is that the seller used some sort of automated algorithm to set the price and this iPad sat for longer than usual while the price ticked down lower than it should have. Perhaps because the item metadata wasn't correctly set to "5th Generation" so didn't come up in filtered searches. The going price for a new iPad Air 4 was $613, after all.
 
-Whatever the case, I'm still slapping myself on the back.
+Whatever the reason, I'm still slapping myself on the back for my bargain hunting skills. But, enough of that, what do I think of the iPad Air?
+
+### It's not pink, it's rose gold
+
+I don't know why Apple calls this particular model "pink", but it is plainly not pink. The "rose gold" iPad Air 4 is far pinker. Really, they should have swapped the colour names.
+
+You know what iPad truly is pink? The new pink 10th-gen iPad. It's a blinding Barbie pink colour that eliminates all ambiguity. The pink iPad Air 5, on the other hand, is extremely subtle and has a light bronze hue in most light conditions. It looks fantastic in the blue magnetic cover I picked up for it.
+
+So, I fired up my new iPad Air 5 on my birthday and was pleasantly surprised to see that the one-year product warranty kicked in after activation. I was worried the warranty would start ticking after the original purchase date of the eBay seller, not the re-sale date, leaving me only a couple of months to shake out any defects. Your mileage may vary for "sealed" electronics you buy on eBay, but in this case, I lucked out.
+
+Coming from a first-gen iPad Air released ten years ago, the upgrade to the iPad Air 5 is huge. That is the best kind of upgrade, because how could you not love it. Solid advice: Buy the best you can afford, and use it for as long as you can.
 
 ... was worried about warranty...
 
