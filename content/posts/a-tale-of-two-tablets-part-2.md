@@ -37,12 +37,12 @@ You know what iPad truly is pink? The new pink 10th-gen iPad. It's a blinding Ba
 
 So, I fired up my new iPad Air 5 on my birthday and was pleasantly surprised to see that the one-year product warranty kicked in after activation. I was worried the warranty would start ticking after the original purchase date of the eBay seller, not the re-sale date, leaving me only a couple of months to shake out any defects. Your mileage may vary for "sealed" electronics you buy on eBay, but in this case, I lucked out.
 
-Coming from a first-gen iPad Air released ten years ago, the upgrade to the iPad Air 5 is huge. That is the best kind of upgrade, because how could you not love it. Solid advice: Buy the best you can afford, and use it for as long as you can.
+Coming from a first-gen iPad Air released ten years ago, the upgrade to the iPad Air 5 is huge. That is the best kind of upgrade, because how could you not love it? Solid advice: Buy the best you can afford, and use it for as long as you can.
 
-... was worried about warranty...
+I know the "full screen" design isn't new, but it is new to me. For years I've been complaining about the iPhone notch and dreaming of a true all-screen device. But all that time, the perfect all-screen device was already here - this iPad display is both notchless and gorgeous.
 
-While I'm no analyst, I've become pretty good at taking an educated gamble.
+Does it represent the pinnacle of iPad design? Not quite. A 120Hz OLED display with even thinner bezels would be perfection. In 2022, a 60Hz LCD display seems positively barbaric. But, regardless, Apple makes a great LCD display, so I'm not disappointed.
 
-NOTES FOR PART 2:
+One of the best selling points of the iPad Air 5 is Apple's homegrown M1 chip - this iPad is the cheapest entry point for an M1-based machine. The M1 first debuted in the 2020 MacBook Pros and although the M2 is out now, the M1 was a far bigger leap forward.
 
-* The story of how I purchased my iPad on eBay. Include screenshot saved to media.
+Given that I've only done some light work and gaming on this iPad so far, I can't say I've pushed the limits of what the M1 can do. I do know this iPad will be supported for many years to come. The real test will be when external monitor support arrives for Stage Manager in iPadOS 16 (coming next month probably). Using the iPad in a traditional desktop environment on a 27-inch display will be sick, even if it is still half-baked.
