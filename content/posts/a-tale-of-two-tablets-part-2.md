@@ -27,13 +27,13 @@ I have no idea why I got such a great price. My working theory is that most dude
 
 Another theory I have is that the seller used some sort of automated algorithm to set the price and this iPad sat for longer than usual while the price ticked down lower than it should have. Perhaps because the item metadata wasn't correctly set to "5th Generation" so didn't come up in filtered searches. The going price for a new iPad Air 4 was $613, after all.
 
-Whatever the reason, I'm still slapping myself on the back for my bargain-hunting skills. But, enough of that, what do I think of the iPad Air?
+Whatever the reason, I'm still slapping myself on the back for my bargain-hunting skills. But that's enough shameless self-congratulation, what do I think of the iPad Air?
 
 ### It's not pink, it's rose gold
 
 I don't know why Apple calls this particular model "pink", because it is plainly not pink. The "rose gold" iPad Air 4 is far pinker. Really, they should have swapped the colour names.
 
-You know what iPad truly is pink? The new 10th-gen iPad has a blinding Barbie pink colour option that eliminates all ambiguity. The pink iPad Air 5, on the other hand, is extremely subtle and has a light bronze hue in most light conditions. It looks fantastic in the blue magnetic cover I picked up for it.
+You know what iPad truly is pink? The new 10th-gen iPad has a blinding Barbie-pink colour option that eliminates all ambiguity. The pink iPad Air 5, on the other hand, is extremely subtle and has a light bronze hue in most light conditions. It looks fantastic in the blue magnetic cover I picked up for it.
 
 So, I fired up my new iPad Air 5 on my birthday and was pleasantly surprised to see that the one-year product warranty kicked in after activation. I was worried the warranty would start ticking after the original purchase date of the eBay seller, not the re-sale date, leaving me only a couple of months to shake out any defects. Your mileage may vary for "sealed" electronics you buy on eBay, but in this case, I lucked out.
 
@@ -43,8 +43,14 @@ I know the "full screen" design isn't new, but it's new to me. For years I've be
 
 Does it represent the pinnacle of iPad design? Not quite. A 120Hz OLED display with even thinner bezels would be perfection. In 2022, a 60Hz LCD display seems positively barbaric. But, regardless, Apple makes a great LCD display, so I'm not disappointed.
 
+I'm digging the stereo speakers too - having the sound come out on one side of the iPad in landscape orientation was always annoying to me.
+
 One of the best selling points of the iPad Air 5 is Apple's homegrown M1 chip - this iPad is the cheapest entry point for an M1-based machine. The M1 first debuted in the 2020 MacBook Pros and although the M2 is out now, the M1 was a far bigger leap forward.
 
-Given that I've only done some light work and gaming on this iPad so far, I can't say I've pushed the limits of what the M1 can do. I do know this iPad will be supported for many years to come. The real test will be when external monitor support arrives for Stage Manager in iPadOS 16 (coming next month probably). Using the iPad in a traditional desktop environment on a 27-inch display will be sick, even if it is still half-baked.
+Given that I've only done some light work and gaming on this iPad so far, I can't say I've come close to pushing the limits of what the M1 can do. I do know this iPad will be supported for many years to come. The real test will be when external monitor support arrives for Stage Manager in iPadOS 16 (coming next month probably). Using the iPad in a traditional desktop environment on a 27-inch display will be sick, even if it is still half-baked.
 
 Now that I have the power of the M1 at my fingertips, will I start using the iPad Air as a laptop replacement? Nah. As I mentioned in Part 1, I'm okay with using the iPad as a casual, personal device for consumption mostly. But the potential is there for so much more than the 10th-gen iPad, whether I decide to buy an Apple Pencil 2 in the future, or get a keyboard case, or simply want to get another decade out of it.
+
+In conclusion, I declare the iPad Air to be the best iPad. The base model has too many compromises and the iPad Pro is too expensive for a consumption device.
+
+Also, look out for a sweet third-party deal (brand new - not refurbished), because there is no downside to saving money at this expensive time of year. Snap it up early before the hordes of bargain hunters come out on Black Friday. This year, I didn't jump on any Black Friday "deals" and I'm much happier for it.
