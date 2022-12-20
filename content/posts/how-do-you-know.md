@@ -11,7 +11,7 @@ I didn't think we'd get here so quickly. ChatGPT has revealed itself as the unca
 
 So, I ask you again, how do you know I'm real?
 
-Well, when I was in first grade, I threw up on a girl in reading circle and made her cry. Also, I hate eating raw onions and cooked apple pie. Trust me - I'm human.
+Well, when I was in first grade, I threw up on a girl in reading circle and made her cry. I hate eating raw onions and cooked apple pie. Country music is the worst, but I love a good Western. On a trip to Europe with my best friend, we got into an argument and just sat on a stairway in Florence for eight hours straight, refusing to speak to each other. Trust me - I'm human.
 
 But isn't that what an AI would say to convince you it's human? 🤔
 
@@ -21,15 +21,17 @@ I can promise you, however, that I have no plans to hand off my writing duties t
 
 There are of course problems with ChatGPT, the most troubling being that it states facts so confidently and eloquently, you'd assume those facts are true (they are often not). Don't believe what you read, indeed.
 
+But nobody can deny that how we think of the written word has forever changed, especially if you're a writer.
+
 <!--more-->
 
 Currently, OpenAI is burning three million dollars a day by giving the public access to ChatGPT. It's only a matter of time, then, before the genie is stuffed back into the bottle.
 
 But, you can't kill a genie. What will happen a decade from now when that cost comes down and most of the written word on the internet is AI-generated?
 
-Capitalism is all about saving money to make more money. Companies will default to the cheapest option by automating marketing and informational content instead of hiring writers.
+Capitalism is all about saving money to make more money. There is no doubt in my mind that companies will default to the cheapest option by automating marketing and informational content instead of hiring writers.
 
-Let me be frank - most marketing and informational content is pure bullshit. It's just a tragedy that because humans have been trying so hard to write like robots, the robots will eventually take over.
+Let me be frank - most marketing and informational content is pure bullshit. It's just a tragedy that because humans have been striving for so long to write like robots, the robots will eventually take over.
 
 But it won't stop there - it is all too easy for an AI to analyze your tweets or reddit posts and imitate a credible social media presence on your behalf.
 
@@ -39,7 +41,7 @@ It's ironic - the internet was created to bolster communication, only to have it
 
 Maybe this is how skynet starts, or maybe I'm being overly pessimistic. I asked ChatGPT to weigh on on whether AI will take over writer jobs in the future, and it was more optimistic, deferring to human creativity with just the right touch of humility:
 
-![](/images/2022-12-19_15-47-36.png)
+\[insert screenshot\]
 
 This answer didn't make me feel any better though, probably because it was such a good answer. It's like asking Picasso if your napkin doodle is any good - I'm sure he'd be very magnanimous and generous too.
 
