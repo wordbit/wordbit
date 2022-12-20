@@ -53,4 +53,4 @@ Perhaps it is the imperfections then, that make human writing endearing and rela
 
 On that note, I'd like to wish you and your family a Happy Christmas and wonderful New Year.
 
-It's been a busy.................reference last year?
+Round these parts, it's absolutely stunning outside - the world is blanketed in snow and everything is still and quiet. I just want to take it all in - this ephemeral moment of pure white, magical beauty before it all gets washed away.
