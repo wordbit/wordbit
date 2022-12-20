@@ -52,3 +52,5 @@ At the very least, those Nigerian Prince scam emails are about to get a whole lo
 Perhaps it is the imperfections then, that make human writing endearing and relatable. And in the future, imperfections will almost certainly be the only way to spot a human writer.
 
 On that note, I'd like to wish you and your family a Happy Christmas and wonderful New Year.
+
+It's been a busy.................reference last year?
