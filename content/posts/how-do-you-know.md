@@ -1,5 +1,5 @@
 +++
-date = 2022-12-22T13:00:00Z
+date = 2022-12-20T13:00:00Z
 draft = true
 slug = "how-do-you-know"
 title = "How do you know?"
@@ -11,7 +11,7 @@ I didn't think we'd get here so quickly. ChatGPT has revealed itself as the unca
 
 So, I ask you again, how do you know I'm real?
 
-Well, when I was in first grade, I threw up on a girl in reading circle and made her cry. I hate eating raw onions and cooked apple pie. Country music is the worst, but I love a good Western. On a trip to Europe with my best friend, we got into an argument and just sat on a stairway in Florence for eight hours straight, refusing to speak to each other. Trust me - I'm human.
+Well, when I was in first grade, I threw up on a girl in reading circle and made her cry. I hate eating raw onions and cooked apple pie. I think Country music is the worst, but I love a good Western. On a trip to Europe with my best friend, we got into an argument. Then we just sat on a stairway in Florence for eight hours straight, refusing to speak to each other. I've never tried bungie jumping, nor do I plan to. Trust me - I'm human.
 
 But isn't that what an AI would say to convince you it's human? 🤔
 
@@ -39,9 +39,7 @@ In the future, it will become impossible to find a real person on the internet.
 
 It's ironic - the internet was created to bolster communication, only to have it become an automated parody of communication. Since AI basically uses all the writing on the Internet for it's training data, the internet will become a snake eating it's own tail.
 
-Maybe this is how skynet starts, or maybe I'm being overly pessimistic. I asked ChatGPT to weigh on on whether AI will take over writer jobs in the future, and it was more optimistic, deferring to human creativity with just the right touch of humility:
-
-\[insert screenshot\]
+Maybe this is how Skynet starts, or maybe I'm being overly pessimistic. I asked ChatGPT to weigh on on whether AI will take over writer jobs in the future, and it was more optimistic, deferring to human creativity with just the right touch of humility:
 
 This answer didn't make me feel any better though, probably because it was such a good answer. It's like asking Picasso if your napkin doodle is any good - I'm sure he'd be very magnanimous and generous too.
 
@@ -49,8 +47,10 @@ Writing is hard - it is incredible that any words of value dribble out of such a
 
 At the very least, those Nigerian Prince scam emails are about to get a whole lot more lucid!
 
-Perhaps it is the imperfections then, that make human writing endearing and relatable. And in the future, imperfections will almost certainly be the only way to spot a human writer.
+Perhaps it is the imperfections then, that make human writing endearing and relatable. And in the future, imperfections will almost certainly be the only way to spot a human writer. I hope to still be writing in that weird future, warts and all.
 
-On that note, I'd like to wish you and your family a Happy Christmas and wonderful New Year.
+On that note, I'd like to wish you and your family a Happy Christmas and wonderful New Year. Besides from the war in Ukraine, Elon Musk ruining Twitter, and the harbinger of the end of my livelihood, 2022 has been a blast.
 
 Round these parts, it's absolutely stunning outside - the world is blanketed in snow and everything is still and quiet. I just want to take it all in - this ephemeral moment of pure white, magical beauty before it all gets washed away.
+
+Washed away in a future I can't even begin to imagine. See you in 2023.
