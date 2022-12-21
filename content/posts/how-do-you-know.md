@@ -41,6 +41,8 @@ It's ironic - the internet was created to bolster communication, only to have it
 
 Maybe this is how Skynet starts, or maybe I'm being overly pessimistic. I asked ChatGPT to weigh on on whether AI will take over writer jobs in the future, and it was more optimistic, deferring to human creativity with just the right touch of humility:
 
+![](/images/2022-12-19_15-47-36.png)
+
 This answer didn't make me feel any better though, probably because it was such a good answer. It's like asking Picasso if your napkin doodle is any good - I'm sure he'd be very magnanimous and generous too.
 
 Writing is hard - it is incredible that any words of value dribble out of such angst-ridden, insecure, emotional, biased creatures as ourselves. Honestly, ChatGPT and it's future supercharged offspring are doing us a favour by producing such immaculate prose.
