@@ -1,6 +1,5 @@
 +++
 date = 2022-12-20T13:00:00Z
-draft = true
 slug = "how-do-you-know"
 title = "How do you know?"
 
