@@ -29,6 +29,8 @@ The Carnaval itself had a cool ice castle, lots of ice sculptures, and quite a f
 
 It was a weird vibe, I've got to admit - not sure I'd go back. Personally, I think the Carnaval is a genius move by the Quebec tourism board, but is a bit overhyped. Even the Quebecers were wondering why anyone would visit from Vancouver in the winter, although they were just wonderful and friendly. The gorgeous Quebec City, however, made up for a lacklustre festival.
 
+![](/images/quebeccity2023.jpg)
+
 Returning to Montreal, we hit up the major tourist spots, including the Notre-Dame, Museum of Archaeology and History, and Canada's largest Ferris wheel. We ate Montreal bagels, stopped in at some vintage clothing stores and had a good time. Montreal may be dirty and scruffy-looking, but it is arguably Canada's coolest city.
 
 After Montreal, we ended the trip staying with family in the Mont-Tremblant area. We did some cross-country skiing and drank coffee at the Ultramar gas station. Gas stations in Quebec are a lot nicer than in BC and even have a nice vintage wine selection.
