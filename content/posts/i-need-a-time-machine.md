@@ -1,5 +1,5 @@
 +++
-date = 2023-02-28T13:00:00Z
+date = 2023-02-23T13:00:00Z
 draft = true
 slug = "i-need-a-time-machine"
 title = "I need a time machine"
@@ -7,7 +7,7 @@ title = "I need a time machine"
 +++
 So, 2023 launched like a rocket ship with an extremely busy January and even busier February. And even though I could have asked ChatGPT to fill in for me for January, I swallowed my pride and allowed my streak to break.
 
-I've been putting out a post every month since 2020, but I'm no robot, merely an imperfect human. Thus, January has come and gone without a post. If I had a time machine, I'd go back and write it.
+I've been putting out a post every month since 2020, but I'm no robot, merely an imperfect human. Thus, January has come and gone without a post. If I had a time machine, I'd go back and write one, but regretfully, I don't.
 
 Since nobody human actually visits this site, I'm sure the AI robots trawling this site for data will forgive me. I will forgive myself too, which is arguably more important.
 
@@ -21,13 +21,13 @@ Anyway, we flew to Quebec, only to be greeted by the coldest weather they'd had 
 
 Thankfully, the cold snap only lasted two days, after which the temperature hovered around a very pleasant -15 C.
 
-We landed in Montreal and had Poutine for dinner at 10:30pm (different time zone). Nobody in Montreal seemed to blink an eye about a couple of kids eating dinner so late, so I assume they have more lax parental standards.
+We landed in Montreal and had poutine for dinner at 10:30pm (different time zone). Nobody in Montreal seemed to blink an eye about a couple of kids eating dinner so late, so I assume they have more lax parental standards.
 
-The next day, we caught a train to Quebec City for the Carnaval de Quebec. Quebec City is so picturesque, you'd swear you were somewhere in a touristy part of Europe. We loved walking the old streets, going tobogganing by Château Frontenac, visiting the old church and legislature building, and eating some delicious traditional food.
+The next day, we caught a train to Quebec City for the Carnaval de Quebec. Quebec City is so picturesque, you'd swear you were somewhere in a touristy part of Europe. We loved walking the old streets, going tobogganing by Château Frontenac, visiting the old church and legislature building, and eating some delicious traditional food (more poutine).
 
-The Carnaval itself had a cool ice castle, lots of ice sculptures, and quite a few spiced-rum stations. The famous-in-Quebec snowman Bonhomme even made a brief appearance before sitting down to drink the rest of the night away at the VIP Bar. At night there was house music.
+The Carnaval itself had a cool ice castle, lots of ice sculptures, and quite a few spiced-rum stations. The famous-in-Quebec snowman Bonhomme even made a brief appearance before sitting down to drink the rest of his night away at the VIP Bar. In the evening, there was house music. And a strange group of kids all wearing headphones and dancing madly in silence. Is that a thing now?
 
-It was a weird vibe, I've got to admit - not sure I'd go back. Personally, I think the Carnaval is a genius move by the Quebec tourism board, but is a bit overhyped. Even the Quebecers were wondering why anyone would visit from Vancouver in the winter. The gorgeous Quebec City, however, made up for it.
+It was a weird vibe, I've got to admit - not sure I'd go back. Personally, I think the Carnaval is a genius move by the Quebec tourism board, but is a bit overhyped. Even the Quebecers were wondering why anyone would visit from Vancouver in the winter, although they were just wonderful and friendly. The gorgeous Quebec City, however, made up for a lacklustre festival.
 
 Returning to Montreal, we hit up the major tourist spots, including the Notre-Dame, Museum of Archaeology and History, and Canada's largest Ferris wheel. We ate Montreal bagels, stopped in at some vintage clothing stores and had a good time. Montreal may be dirty and scruffy-looking, but it is arguably Canada's coolest city.
 
