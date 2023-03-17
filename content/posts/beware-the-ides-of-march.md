@@ -15,11 +15,19 @@ I'm beginning to feel increasingly uneasy at the rapid pace of AI development, w
 
 Some links to explore and expand:
 
+The detractors:
+
 The false promise of chatgpt by Noam Chomsky:
 
 [https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html "https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html")
 
 Can't actually read this because its behind a paywall - but try
+
+The stupidity of AI:
+
+[https://www.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt](https://www.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt "https://www.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt")
+
+The idea that AI will lessen our workload and give us more free time:
 
 The phenomenon of bullshit jobs:
 
@@ -31,11 +39,11 @@ There is still momentum for the four-day work week, but they are missing the poi
 
 [https://globalnews.ca/news/9501740/four-day-working-week-major-study/](https://globalnews.ca/news/9501740/four-day-working-week-major-study/ "https://globalnews.ca/news/9501740/four-day-working-week-major-study/")
 
+Where are we now?
+
 The road to superintelligence by Tim Urban:
 
 [https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html")
-
-Where are we now?
 
 On the difficulty of living in exponential time:
 
