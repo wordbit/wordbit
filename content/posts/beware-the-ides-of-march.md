@@ -1,8 +1,8 @@
 +++
 date = 2023-03-31T13:00:00Z
 draft = true
-slug = "beware-the-ai-of-march"
-title = "Beware the AI of March"
+slug = "beware-the-ais-of-march"
+title = "Beware the AIs of March"
 
 +++
 I'm beginning to feel increasingly uneasy at the rapid pace of AI development, while at the same time finding it incredible useful.
