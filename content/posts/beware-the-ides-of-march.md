@@ -1,16 +1,15 @@
 +++
 date = 2023-03-31T13:00:00Z
 draft = true
-slug = "beware-the-ides-of-march"
-title = "Beware the Ides of March"
+slug = "beware-the-ai-of-march"
+title = "Beware the AI of March"
 
 +++
 I'm beginning to feel increasingly uneasy at the rapid pace of AI development, while at the same time finding it incredible useful.
 
-* Maybe open with the banks collapsing and other such "ides"?
+* Maybe open with the banks collapsing and other such "ides"? But AI is more significant and important
+* Talk about the rapid pace of development - Refer to 
 * Talk about your "toot" - Microsoft vs Apple
-
-
 * Set the record straight on "What is a wordbit, anyway?" by chatgpt
 * The introduction of ChatGPT4 and Microsoft's recent moves in the space...
 
@@ -33,3 +32,7 @@ The road to superintelligence by Tim Urban:
 [https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html")
 
 Where are we now?
+
+On the difficulty of living in exponential time:
+
+[https://kottke.org/23/03/the-difficulty-of-living-in-exponential-time](https://kottke.org/23/03/the-difficulty-of-living-in-exponential-time "https://kottke.org/23/03/the-difficulty-of-living-in-exponential-time")
