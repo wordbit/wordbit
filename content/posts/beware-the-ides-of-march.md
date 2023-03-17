@@ -8,7 +8,7 @@ title = "Beware the AIs of March"
 I'm beginning to feel increasingly uneasy at the rapid pace of AI development, while at the same time finding it incredible useful.
 
 * Maybe open with the banks collapsing and other such "ides"? But AI is more significant and important
-* Talk about the rapid pace of development - Refer to 
+* Talk about the rapid pace of development - Refer to
 * Talk about your "toot" - Microsoft vs Apple
 * Set the record straight on "What is a wordbit, anyway?" by chatgpt
 * The introduction of ChatGPT4 and Microsoft's recent moves in the space...
@@ -26,6 +26,10 @@ The phenomenon of bullshit jobs:
 [https://web.archive.org/web/20180807024932/http://strikemag.org/bullshit-jobs/](https://web.archive.org/web/20180807024932/http://strikemag.org/bullshit-jobs/ "https://web.archive.org/web/20180807024932/http://strikemag.org/bullshit-jobs/")
 
 Will AI create more BS, or will we actually work less?
+
+There is still momentum for the four-day work week, but they are missing the point by squeezing 40 hours into four days:
+
+[https://globalnews.ca/news/9501740/four-day-working-week-major-study/](https://globalnews.ca/news/9501740/four-day-working-week-major-study/ "https://globalnews.ca/news/9501740/four-day-working-week-major-study/")
 
 The road to superintelligence by Tim Urban:
 
