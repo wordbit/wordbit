@@ -5,6 +5,8 @@ slug = "beware-the-ais-of-march"
 title = "Beware the AIs of March"
 
 +++
+It’s the great AI oil rush and the finite resource is all our digital data. But will anybody bother to learn how to write and keep generating new data? What happens when we run out? Will the AI become recursive, eventually cannibalizing itself. Or will it evolve?
+
 I'm beginning to feel increasingly uneasy at the rapid pace of AI development, while at the same time finding it incredible useful.
 
 * Maybe open with the banks collapsing and other such "ides"? But AI is more significant and important
