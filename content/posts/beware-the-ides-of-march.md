@@ -50,3 +50,5 @@ The road to superintelligence by Tim Urban:
 On the difficulty of living in exponential time:
 
 [https://kottke.org/23/03/the-difficulty-of-living-in-exponential-time](https://kottke.org/23/03/the-difficulty-of-living-in-exponential-time "https://kottke.org/23/03/the-difficulty-of-living-in-exponential-time")
+
+* maybe mention that when audio and visual AI hits, we're going to see more censorship (making James Bond woke for example -real thing). More "fake news" but also customized movies and songs - "create a new humphrey bogart movie"
