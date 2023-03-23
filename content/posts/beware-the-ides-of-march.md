@@ -52,3 +52,11 @@ On the difficulty of living in exponential time:
 [https://kottke.org/23/03/the-difficulty-of-living-in-exponential-time](https://kottke.org/23/03/the-difficulty-of-living-in-exponential-time "https://kottke.org/23/03/the-difficulty-of-living-in-exponential-time")
 
 * maybe mention that when audio and visual AI hits, we're going to see more censorship (making James Bond woke for example -real thing). More "fake news" but also customized movies and songs - "create a new humphrey bogart movie"
+
+Bill Gates Blog Post:
+
+[https://www.gatesnotes.com/The-Age-of-AI-Has-Begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun "https://www.gatesnotes.com/The-Age-of-AI-Has-Begun")
+
+This quote!
+
+"Then there’s the possibility that AIs will run out of control. Could a machine decide that humans are a threat, conclude that its interests are different from ours, or simply stop caring about us? Possibly, but this problem is no more urgent today than it was before the AI developments of the past few months."
