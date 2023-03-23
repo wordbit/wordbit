@@ -5,6 +5,24 @@ slug = "beware-the-ais-of-march"
 title = "Beware the AIs of March"
 
 +++
+In his [recent blog post](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun), entitled "The Age of AI has begun", Bill Gates has this to say:
+
+> Then there’s the possibility that AIs will run out of control. Could a machine decide that humans are a threat, conclude that its interests are different from ours, or simply stop caring about us? Possibly, but this problem is no more urgent today than it was before the AI developments of the past few months.
+
+Wait, what?
+
+The thing is, when Bill Gates gushes with excitement over the new "Age of AI", he isn't being hyperbolic or bombastic.
+
+The great AI gold rush has begun.
+
+Given the hype, it's tempting to dismiss the constant flow of Twitter posts on "Ten ChatGPT prompts that will blow your mind 🤯", the thousands of shoddy AI start-ups flooding the app store, and the usual assortment of blustering trend-chasing idiots who have scratched "AR" or "NFTs" out of their bios to replace it with "AI all the time, every time".
+
+But, there are concrete products emerging out of the hype that are undeniable game changers. Microsoft is aggressively embedding AI into all their core Office products with a supercharged Clippy they call "Co-Pilot". Their promise is that the drudgery of office work 
+
+Hitting close to home, I've already seen Technical Writer job postings asking for experience "leveraging AI to expedite your editing/content writing with tools such as Chat GPT".
+
+So, given the rapid, exponential pace of AI development, is he right to dismiss the threat of AI malevolence so casually?
+
 It’s the great AI oil rush and the finite resource is all our digital data. But will anybody bother to learn how to write and keep generating new data? What happens when we run out? Will the AI become recursive, eventually cannibalizing itself. Or will it evolve?
 
 I'm beginning to feel increasingly uneasy at the rapid pace of AI development, while at the same time finding it incredible useful.
