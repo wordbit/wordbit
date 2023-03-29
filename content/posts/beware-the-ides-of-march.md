@@ -63,7 +63,9 @@ So, I've been tinkering... but am ambivalent right now. I'm starting to find AI 
 
 Eight years ago, deep thinker and author Tim Urban saw this coming and [published a mega-post](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) on the AI Revolution and the road to superintelligence.
 
-Where are we now?
+He created this graph to show how exponential progress can take us by surprise:
+
+Although it is impossible without hindsight to say where we are standing on this graph, it does seem that a lot of people are surprised.
 
 It's moving so quickly, could we be here on the curve? (drawing from tim urban)
 
@@ -71,8 +73,9 @@ On the difficulty of living in exponential time:
 
 [https://kottke.org/23/03/the-difficulty-of-living-in-exponential-time](https://kottke.org/23/03/the-difficulty-of-living-in-exponential-time "https://kottke.org/23/03/the-difficulty-of-living-in-exponential-time")
 
-* maybe mention that when audio and visual AI hits, we're going to see more censorship (making James Bond woke for example -real thing). More "fake news" but also customized movies and songs - "create a new humphrey bogart movie"
+Some people want to slow things down: [https://www.theverge.com/2023/3/29/23661374/elon-musk-ai-researchers-pause-research-open-letter](https://www.theverge.com/2023/3/29/23661374/elon-musk-ai-researchers-pause-research-open-letter "https://www.theverge.com/2023/3/29/23661374/elon-musk-ai-researchers-pause-research-open-letter")
 
+* maybe mention that when audio and visual AI hits, we're going to see more censorship (making James Bond woke for example -real thing). More "fake news" but also customized movies and songs - "create a new humphrey bogart movie"
 * Maybe open with the banks collapsing and other such "ides"? But AI is more significant and important
 * Talk about the rapid pace of development - Refer to
 * Talk about your "toot" - Microsoft vs Apple
