@@ -61,7 +61,7 @@ Yikes. After reading this, I scrambled to ask Bing AI (which uses ChatGPT 4) to 
 
 So, I've been tinkering... but am ambivalent right now. I'm starting to find AI surprisingly useful while feeling increasingly uneasy at the rapid pace of AI development.
 
-Eight years ago, deep thinker and author Tim Urban saw this coming and [published a mega-post](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) on the AI Revolution and the road to superintelligence. His post made a big impression on me when I read it back in 2015, and [I wrote a piece]({{< relref "2015-01-27-the-intersection-of-vr-and-ai.markdown" >}}) about how VR and AI could intersect to kickstart _The Matrix_.
+Eight years ago, deep thinker and author Tim Urban saw this coming and [published a mega-post](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) on the AI Revolution and the road to superintelligence. His post made a big impression on me when I read it back in 2015, and [I wrote a think piece]({{< relref "2015-01-27-the-intersection-of-vr-and-ai.markdown" >}}) about how VR and AI could intersect to kickstart _The Matrix_.
 
 Anyway, he created this graph to show how exponential progress can take us by surprise:
 
