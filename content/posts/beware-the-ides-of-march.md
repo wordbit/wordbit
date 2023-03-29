@@ -61,11 +61,19 @@ Yikes. After reading this, I scrambled to ask Bing AI (which uses ChatGPT 4) to 
 
 So, I've been tinkering... but am ambivalent right now. I'm starting to find AI surprisingly useful while feeling increasingly uneasy at the rapid pace of AI development.
 
-Eight years ago, deep thinker and author Tim Urban saw this coming and [published a mega-post](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) on the AI Revolution and the road to superintelligence.
+Eight years ago, deep thinker and author Tim Urban saw this coming and [published a mega-post](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) on the AI Revolution and the road to superintelligence. His post made a big impression on me when I read it back in 2015, and [I wrote a piece]({{< relref "2015-01-27-the-intersection-of-vr-and-ai.markdown" >}}) about how VR and AI could intersect to kickstart _The Matrix_.
 
-He created this graph to show how exponential progress can take us by surprise:
+Anyway, he created this graph to show how exponential progress can take us by surprise:
 
-Although it is impossible without hindsight to say where we are standing on this graph, it does seem that a lot of people are surprised.
+<insert edge1.png pic>
+
+Although it is impossible without hindsight to say where we are standing on this graph, it does seem that a lot of people are surprised. [Ezra Klein](https://www.nytimes.com/2023/03/12/opinion/chatbots-artificial-intelligence-future-weirdness.html) calls this collective surprise "the difficulty of living in exponential time", where the pace of improvement in the current crop of AI products is vastly outstripping the ability of society to react and respond to it.
+
+Using the parlance of AI research (you'll need to read Tim Urban's piece to catch up), we haven't yet achieved an "Artificial General Intelligence" (AGI). To recap, an AGI is the next level up from an "Artificial Narrow Intelligence" (ANI). Voice assistants, such as Siri or Alexa, fall into the ANI category. But an AGI would equal human intelligence across the board. Experts predict an AGI emerging around the year 2040, about twenty years from now.
+
+Honestly, at this point, it seems like we could get an AGI sooner than that. I hope I'm wrong, because we do need some breathing room to react.
+
+A group of people want to slow things down..........
 
 It's moving so quickly, could we be here on the curve? (drawing from tim urban)
 
