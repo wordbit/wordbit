@@ -1,6 +1,5 @@
 +++
-date = 2023-03-31T13:00:00Z
-draft = true
+date = 2023-03-30T13:00:00Z
 slug = "beware-the-ais-of-march"
 title = "Beware the AIs of March"
 
@@ -71,21 +70,12 @@ Although it is impossible without hindsight to say where we are standing on this
 
 Using the parlance of AI research (you'll need to read Tim Urban's piece to catch up), we haven't yet achieved an "Artificial General Intelligence" (AGI). To recap, an AGI is the next level up from an "Artificial Narrow Intelligence" (ANI). Voice assistants, such as Siri or Alexa, fall into the ANI category. But an AGI would equal human intelligence across the board. Experts predict an AGI emerging around the year 2040, about twenty years from now.
 
-Honestly, at this point, it seems like we could get an AGI sooner than that. I hope I'm wrong, because we do need some breathing room to react.
+Honestly, at this point, it seems like we could get an AGI sooner than that. I hope I'm wrong, because we need some breathing room to recover from the AI whiplash.
 
-A group of people want to slow things down..........
+A growing group of tech pioneers, including Elon Musk and Steve Wozniak, are calling for just that. They have [signed an open letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/) saying the AI race is dangerous, and we need to pump the brakes before the human race gets hurt.
 
-It's moving so quickly, could we be here on the curve? (drawing from tim urban)
+Did the greedy fortune hunters of the 18th-century Gold Rush heed warnings not to undertake the dangerous route to California where they would almost certainly die of starvation or cholera on the treacherous Oregon Trail? No, of course not - the allure was too great. I'm sure this strongly-worded online petition will have the same affect.
 
-On the difficulty of living in exponential time:
+However, a decade from now, when we're using the unbridled, creative power of generative AI with glee (Hey VideoGPT, make me a movie starring Sean Connery killing Nazis in an X-wing!), the student will surpass the master. The machine will become smarter than us, much faster than we thought possible, bringing the fun and games to a grinding halt. Then we'll all be asking the question Tim Urban posed at the start of the 21st century:
 
-[https://kottke.org/23/03/the-difficulty-of-living-in-exponential-time](https://kottke.org/23/03/the-difficulty-of-living-in-exponential-time "https://kottke.org/23/03/the-difficulty-of-living-in-exponential-time")
-
-Some people want to slow things down: [https://www.theverge.com/2023/3/29/23661374/elon-musk-ai-researchers-pause-research-open-letter](https://www.theverge.com/2023/3/29/23661374/elon-musk-ai-researchers-pause-research-open-letter "https://www.theverge.com/2023/3/29/23661374/elon-musk-ai-researchers-pause-research-open-letter")
-
-* maybe mention that when audio and visual AI hits, we're going to see more censorship (making James Bond woke for example -real thing). More "fake news" but also customized movies and songs - "create a new humphrey bogart movie"
-* Maybe open with the banks collapsing and other such "ides"? But AI is more significant and important
-* Talk about the rapid pace of development - Refer to
-* Talk about your "toot" - Microsoft vs Apple
-* Set the record straight on "What is a wordbit, anyway?" by chatgpt
-* The introduction of ChatGPT4 and Microsoft's recent moves in the space...
+Will it be a nice god?
