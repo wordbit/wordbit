@@ -4,7 +4,7 @@ slug = "beware-the-ais-of-march"
 title = "Beware the AIs of March"
 
 +++
-The great AI gold rush has begun.
+The great AI Gold Rush has begun.
 
 Given the constant hype, it's tempting to dismiss the constant flow of Twitter posts on "Ten ChatGPT prompts that will blow your mind 🤯", the thousands of shoddy AI start-ups flooding the app store, and the usual assortment of blustering, opportunistic idiots who have scratched "AR" or "NFTs" out of their bios to replace it with "AI all the time, every time".
 
@@ -14,7 +14,7 @@ Microsoft, for example, is aggressively embedding AI into all their core Office 
 
 Numerous other high-profile companies, from [Duolingo](https://blog.duolingo.com/duolingo-max/) to [Expedia](https://mashable.com/article/expedia-kayak-openai-chatgpt-plugins), are integrating ChatGPT plugins into their products, bringing AI to the mainstream.
 
-In a rare display of enthusiasm, even Bill Gates has declared that "[The Age of AI has begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun)"(the title of his latest blog post). But, when discussing the risks and problems with AI, he says this:
+In a rare display of enthusiasm, even Bill Gates has declared that "[The Age of AI has begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun)" (the title of his latest blog post). But, when discussing the risks and problems with AI, he says this:
 
 > Then there’s the possibility that AIs will run out of control. Could a machine decide that humans are a threat, conclude that its interests are different from ours, or simply stop caring about us? Possibly, but this problem is no more urgent today than it was before the AI developments of the past few months.
 
@@ -38,7 +38,7 @@ Eminent Anthropologist Noam Chomsky, who at 94 years old is still as sharp as ba
 
 Well, when you put it that way... it does seem silly to make all this fuss over something that doesn't even have a soul.
 
-But, what will happen when, instead of asking an AI to parse the entire internet, where it is all but impossible to sort out fact from fiction, we give it a corporeal presence? I'd be far more wary of a self-learning superintelligence housed in an autonomous body of sorts, with the senses of sight, touch, and hearing provided by enhanced, network-connected sensors.
+But, what will happen when, instead of asking an AI to parse the entire internet - where it is all but impossible to sort out fact from fiction - we give it a corporeal presence? I'd be far more wary of a self-learning superintelligence housed in an autonomous body of sorts, with the senses of sight, touch, and hearing provided by enhanced, network-connected sensors.
 
 I wonder if anyone at OpenAI has given Boston Dynamics a call? I wouldn't be surprised. Brace yourselves.
 
@@ -48,7 +48,7 @@ The idea of automated productivity freeing us so that we can work less is an old
 
 Obviously, that didn't happen. And, even though the idea of a four-day workweek has [gained traction recently](https://globalnews.ca/news/9501740/four-day-working-week-major-study/), this flawed concept misses the point entirely: "Three-quarters of workers said they would put in four 10-hour days in exchange for an extra day off a week". That's still a 40-hour workweek folks - do the math.
 
-I could write for several more pages on why we have a forty-hour workweek or why we have to pay taxes, or why any number of "temporary" solutions from the Industrial Age never went away, but I want to keep my hair.
+I could scribble furiously for several more pages on why we have a forty-hour workweek or why we have to pay taxes, or why any number of "temporary" solutions from the Industrial Age never went away, but I want to keep my hair.
 
 Anthropologist David Graeber even goes so far as to posit that, in order to "maintain the power of finance capital", the ruling class have made up a bunch of pointless jobs just to keep us all working. He calls this [the Phenomenon of Bullshit Jobs](https://web.archive.org/web/20180807024932/http://strikemag.org/bullshit-jobs/).
 
@@ -64,7 +64,7 @@ Eight years ago, deep thinker and author Tim Urban saw this coming and [publishe
 
 Anyway, he created this graph to show how exponential progress can take us by surprise:
 
-<insert edge1.png pic>
+![](/images/edge1.png)
 
 Although it is impossible without hindsight to say where we are standing on this graph, it does seem that a lot of people are surprised. [Ezra Klein](https://www.nytimes.com/2023/03/12/opinion/chatbots-artificial-intelligence-future-weirdness.html) calls this collective surprise "the difficulty of living in exponential time", where the pace of improvement in the current crop of AI products is vastly outstripping the ability of society to react and respond to it.
 
@@ -74,7 +74,7 @@ Honestly, at this point, it seems like we could get an AGI sooner than that. I h
 
 A growing group of tech pioneers, including Elon Musk and Steve Wozniak, are calling for just that. They have [signed an open letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/) saying the AI race is dangerous, and we need to pump the brakes before the human race gets hurt.
 
-Did the greedy fortune hunters of the 18th-century Gold Rush heed warnings not to undertake the dangerous route to California where they would almost certainly die of starvation or cholera on the treacherous Oregon Trail? No, of course not - the allure was too great. I'm sure this strongly-worded online petition will have the same affect.
+But, did the greedy fortune hunters of the 18th-century Gold Rush heed warnings not to undertake the dangerous route to California where they would almost certainly die of starvation or cholera on the treacherous Oregon Trail? No, of course not - the allure was too great. I'm sure this strongly-worded online petition will have even less impact.
 
 However, a decade from now, when we're using the unbridled, creative power of generative AI with glee (Hey VideoGPT, make me a movie starring Sean Connery killing Nazis in an X-wing!), the student will surpass the master. The machine will become smarter than us, much faster than we thought possible, bringing the fun and games to a grinding halt. Then we'll all be asking the question Tim Urban posed at the start of the 21st century:
 
