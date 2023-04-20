@@ -17,4 +17,4 @@ fields:
   label: title
   default: Insert title here
 pages:
-- content/posts/beware-the-ides-of-march.md
+- content/posts/insert-title-here.md
