@@ -83,7 +83,7 @@ This one is a no-brainer for Apple fans, but Steve Jobs had such extraordinary i
 
 The custom web experience was designed by Jony Ive's company, LoveFrom, and is the best way to read the book, although you can also download it.
 
-Just to tie it back to my earlier AI "business chat", it was Steve Jobs who kick-started the AI-assistant category with Siri on the iPhone 4S. Personally, I don't think that Steve Jobs would have allowed Siri to become the joke that it is today. He would have seen the potential of AI long before ChatGPT came along and pushed Siri for much more aggressive development.
+To tie it back to my earlier AI "business chat" - it was Steve Jobs who kick-started the AI-assistant category with Siri on the iPhone 4S. Personally, I don't think that Steve Jobs would have allowed Siri to become the joke that it is today. He would have seen the potential of AI long before ChatGPT came along and pushed Siri for much more aggressive development.
 
 Back in 1983, what Steve had to say on the future of computing was truly prescient:
 
