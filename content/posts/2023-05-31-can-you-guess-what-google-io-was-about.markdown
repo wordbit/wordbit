@@ -21,8 +21,8 @@ The key word here is "responsibly". Google would be in big trouble if its ChatGP
 
 A thoughtful and measured approach here is wise. This is a strategy ripped straight out of Apple's playbook.
 
-Step 1: Wait for the other guys to go first and screw up.
-Step 2: Swoop in and offer a product that is better in every way and addresses the other guy's mistakes. 
+1. Wait for the other guys to go first and screw up.
+2. Swoop in and offer a product that is better in every way and addresses the other guy's mistakes.
 
 To be clear - whether Google will actually pull this off is still unclear. All their AI-focused products, such as a new generative AI search query response, Google Bard, and some other "experiments" are still in Beta testing. Heck, despite Bard being available in 180 countries, Canada isn't even one of them.
 
@@ -54,6 +54,6 @@ I believe that in the next century the stigma over using AI to help with writing
 
 So, considering this post was supposed to be about Google I/O, I haven't actually written much about it. Last year, I wrote a piece on the 2022 Google I/O entitled [A lot cooking, but not much to eat]({{< relref "2022-05-27-a-lot-cooking-but-not-much-to-eat.markdown" >}}). At the time DALL·E 2 was just taking off and stealing the spotlight from Google. This year, I can't say there's much to eat either. In Canada, we don't even have snacks.
 
-But an empty plate from one of the biggest tech companies in the world is probably a good thing, considering that AI industry leaders just released [an alarming statement](https://www.cnn.com/2023/05/30/tech/ai-industry-statement-extinction-risk-warning/index.html#:~:text=%E2%80%9CMitigating%20the%20risk%20of%20extinction,the%20Center%20for%20AI%20Safety.) placing the risk of extinction from AI on the same level as pandemics and nuclear war. 😯
+But an empty plate from one of the biggest tech companies in the world is probably a good thing, considering that AI industry leaders just released [an alarming statement](https://www.cnn.com/2023/05/30/tech/ai-industry-statement-extinction-risk-warning/) placing the risk of extinction from AI on the same level as pandemics and nuclear war. 😯
 
 
