@@ -7,7 +7,7 @@ title = "Apple Vision Pro"
 
 It's the year 2063 and you're not as spry as you used to be. You're getting tired of listlessly gazing at the bio-engineered animatronic budgie in its cage, chirping loudly at every passing grey-haired resident in the care home. So, you decide to lie down for a bit.
 
-Shuffling past the rec room, you shake your head. The rec-room holo-TV is playing an excruciatingly bad violin concerto on an infinite loop. A few drooling watchers rock back and forth in their wheelchairs as they stare at a 3D hologram of an energetic violinist with dull eyes.
+Shuffling past the rec room, you shake your head. The rec-room holo-TV is playing an excruciatingly bad violin concerto on an infinite loop. A few drooling watchers rock back and forth in their wheelchairs as they stare with dull eyes at a 3D hologram of an energetic violinist.
 
 As you approach your room - which you share with Bob - you hear loud voices. Looks like Bob's family is visiting from Texas. Damn, you were hoping for some piece and quiet. No matter - you'll soon erase them from reality.
 
