@@ -5,7 +5,7 @@ title = "An island life for all"
 
 +++
 
-Last summer, [I mentioned]({{< relref "2022-07-21-back-to-the-backcountry.markdown >}}) that we tried marine camping on our paddleboards. On the plus side, we were able to escape the summertime crowds, halt the bleeding of our bank account, and circumvent the impossible camping reservation system. Minuses included swarms of mosquitoes, a leaking paddleboard, and mistiming the tides, resulting in a really rough paddle back to shore. Even the group of seals that were tailing us were wondering what the hell we were doing out on the open ocean in an inflatable.
+Last summer, [I mentioned]({{< relref "2022-07-21-back-to-the-backcountry.markdown">}}) that we tried marine camping on our paddleboards. On the plus side, we were able to escape the summertime crowds, halt the bleeding of our bank account, and circumvent the impossible camping reservation system. Minuses included swarms of mosquitoes, a leaking paddleboard, and mistiming the tides, resulting in a really rough paddle back to shore. Even the group of seals that were tailing us were wondering what the hell we were doing out on the open ocean in an inflatable.
 
 At this point in my story, Let me issue a standard warning that paddling on the open ocean in an inflatable paddleboard is dangerous. Even the paddleboard user manual has a warning unequivocally stating that you should not use this product on the ocean.
 
