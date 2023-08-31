@@ -17,13 +17,13 @@ It's a hard watch, but I recommend it, if only as a great real-world example tha
 
 <!--more-->
 
-In the final month of our West Coast summer, we continued to enjoy marine camping as a way to escape the frenzied crowds and broken reservation systems. And proliferation of reservation systems, I might add. You now need a "day pass" for permission to attend just about every popular lake in the lower mainland.
+In the final month of our West Coast summer, we continued to enjoy marine camping as a way to escape the frenzied crowds, broken reservation systems, and proliferation of said reservation systems. You now need a "day pass" for permission to attend just about every popular lake in the lower mainland.
 
 When camping with friends up in the Pemberton area, we tried to snag day passes for the insanely-popular Joffre Lakes, but couldn't get any for the weekend. Dear reader, we barely squeezed in on a Monday - a regular working Monday, not even a long-weekend Monday.
 
 It seems like just yesterday (okay, it was about 15 years ago) when I last went hiking up at Joffre Lakes with the lads. It was serene. But 15 years ago, Instagram had just come out. Now, it has [seemingly ruined tourism](https://www.cnn.com/travel/social-media-tourism-effect-scn-wellness/index.html).
 
-Hiking Joffre Lakes in 2023 is a totally different experience. Hordes of tourists rub shoulders with influencers as they all elbow their way to the top in leather jackets and inappropriate footwear. As far as locals go, I spotted a couple of youngsters fishing - but I'm pretty sure they snuck in without day passes. Apparently it was even worse before they introduced the "day passes" - Ay, caramba!
+Hiking Joffre Lakes in 2023 is a totally different experience. Hordes of tourists rub shoulders with influencers as they all elbow their way to the top in leather jackets and inappropriate footwear. As far as locals go, I spotted a couple of youngsters fishing - but I'm pretty sure they snuck in without day passes. Apparently it was even worse before they introduced the day passes - Ay, caramba!
 
 I cannot count the number of times we had to wait to cross a bridge because a lady in a yellow and shocking-pink 80s leotard had to strike numerous yoga poses for pictures, or another who had to have her sarong float in the wind just so for the shot. Are we all just living in a giant circus now?
 
