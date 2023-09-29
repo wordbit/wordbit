@@ -1,5 +1,5 @@
 +++
-date = 2023-09-29T13:00:00Z
+date = 2023-09-29T11:00:00Z
 slug = "the-fifteens"
 title = "The fifteens"
 
@@ -36,46 +36,3 @@ The notch is now officially dead, as all new models now sport the Dynamic Island
 Look, the incremental changes we got on the iPhones this year are completely unsurprising. Normal people don't upgrade their phone every year anymore - and nor should they. Even Apple spent a large chunk of this year's online presentation talking with Mother Nature in an unamusing comedic skit. It was their attempt to make their commitment to the environment palatable - reducing their carbon footprint (while conveniently also cutting costs of course, I could write this stuff in my sleep).
 
 I was about to wrap up when I remembered that Apple also introduced Apple Watch Series 9 as well. To summarize: it is the same as Series 8, except with a faster processor. Next year, however, will mark the tenth generation of the Apple Watch. I've heard whispers of a design change. We'll see.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Insert an image:
-
-![](/images/example.png)
-
-
-
-Cross Reference with another post:
-
-[text]({{< relref "filename.markdown" >}})
-
-
-For everything else, see: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
