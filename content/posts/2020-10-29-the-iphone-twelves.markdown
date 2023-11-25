@@ -10,7 +10,7 @@ There used to be only one choice - the iPhone. Gruber’s favourite [Andy Warhol
 
 Now, if you want the “halo” device (the very best, the most prestigious, the most capable), you’ll have to throw down an extremely eye-watering $2194 CAD after tax. That is quite simply, sad. And out of reach for most people.
 
-The confusion over an expanding product line (I wouldn’t call it *bloated* just yet, but it’s on the way), is compounded by the muddled differences between models. If it were simply a difference in size, that would be easy enough to understand. But the differences here are more niggling, even esoteric.What exactly is the real-world consequence of upgrading to a 2.5× ƒ/2.2 lens instead of a 2× ƒ/2.0 lens? Or recording in Dolby Vision 4K at 30fps versus 60fps?
+The confusion over an expanding product line (I wouldn’t call it *bloated* just yet, but it’s on the way), is compounded by the muddled differences between models. If it were simply a difference in size, that would be easy enough to understand. But the differences here are more niggling, even esoteric. What exactly is the real-world consequence of upgrading to a 2.5× ƒ/2.2 lens instead of a 2× ƒ/2.0 lens? Or recording in Dolby Vision 4K at 30fps versus 60fps?
 
 I’m not even going to try and parse it all. But if you held a gun to my head today and forced me to click the “Buy” button, I would get the iPhone 12 Pro. Not because I fully appreciate the long spec sheet. No, I just think that “Pacific Blue” colour is particularly fetching.
 
