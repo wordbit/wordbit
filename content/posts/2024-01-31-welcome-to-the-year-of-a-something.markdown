@@ -21,10 +21,10 @@ Wait, not so fast...
 
 This month, Apple's Vision Pro went on sale, and the plethora of reviews are already out. As always, I recommend [The Verge](https://www.theverge.com/24054862/apple-vision-pro-review-vr-ar-headset-features-price) and [John Gruber](https://daringfireball.net/2024/01/the_vision_pro)'s takes, but take your pick. So then, 2024 will be the year of AR!
 
-Except, it won't be, for the same reason that the future hasn't quite arrived yet. The Vision Pro is a first-gen product. It does not have a series of iterative changes under it's belt. It's more of a prototype for the future of AR - expensive, heavy, with a short battery life.
+Except, it won't be, for the same reason that the future hasn't quite arrived yet. The Vision Pro is a first-gen product. It does not have a series of iterative changes under it's belt. It's essentially a prototype - expensive, heavy, with a short battery life.
 
-Apple is going out of their way to position the Vision Pro as an AR device, when it is in reality a VR headset. Look, VR headsets are nothing new. But this is an exceptionally great VR headset. The insane price reflects that, naturally.
+Apple is going out of their way to position the Vision Pro as an AR device, when it is actually just a regular 'ol VR headset. Look, VR headsets are nothing new. But this is, at least, an exceptionally great VR headset. The insane price reflects that, naturally.
 
-But in five to ten years, if Apple stays true to their playbook, they will have hammered the Vision Pro into a shiny jewel that every consumer on this planet will want to buy.
+In five to ten years, if Apple stays true to their playbook, they will have hammered the Vision Pro into a shiny jewel that every consumer on this planet will want to buy. Let's have a longer discussion then. For now, let's move on, like the monkeys with short attention spans that we are, to other A-somethings. Like Autonomy, Androids, and Algorithms.
 
 So, 2024 is the year of A-something. We know that much at least. But I'm hoping there will be some nice surprises coming this year too. I'll try my best to make the time to write about it. Sorry the post was so short this month, but I had a lot of deadlines for other people. A short post is better than no post, right?
