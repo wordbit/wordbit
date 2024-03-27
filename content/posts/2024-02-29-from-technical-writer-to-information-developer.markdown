@@ -33,7 +33,7 @@ Text-to-video generators are catching up at an outstanding pace. The recent buzz
 
 My latest obsession in the technical-writing arena is trying to find the perfect solution to sandboxing proprietary information and creating a non-hallucinating conversational chatbot trained on this data. I'm sure I'm not the only one. It feels like we're going to get there really soon.
 
-The future for Information Development is exciting. There will be opportunities to mold and shape information in Augmented Reality. Eventually, seamless information transfer may be possible through a neurological brain-to-computer interface. Jus recently, Elon Musk's Neuralink [successfully implanted a chip](https://www.reuters.com/technology/neuralink-implants-brain-chip-first-human-musk-says-2024-01-29/#:~:text=Jan%2029%20(Reuters)%20%2D%20The,media%20platform%20X%20on%20Monday.) into somebody's brain, so this isn't pure fantasy.
+The future for Information Development is exciting. There will be opportunities to mold and shape information in Augmented Reality. Eventually, seamless information transfer may be possible through a neurological brain-to-computer interface. Just recently, Elon Musk's Neuralink [successfully implanted a chip](https://www.reuters.com/technology/neuralink-implants-brain-chip-first-human-musk-says-2024-01-29/#:~:text=Jan%2029%20(Reuters)%20%2D%20The,media%20platform%20X%20on%20Monday.) into somebody's brain, so this isn't pure fantasy.
 
 However, even though Content is King and Knowledge is Power, both Technical Writers and Information Developers have one thing in common: we're the elves of the writing world - invisibly tinkering away in the background to make the user's life - your life - better.
 
