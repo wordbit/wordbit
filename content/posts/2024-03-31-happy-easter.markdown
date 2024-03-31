@@ -7,3 +7,7 @@ title: 'Happy Easter'
 Winter is over. Spring is upon us. And on this beautiful Easter Sunday, I'd like to wish anyone who's reading this rejuvenation, light, and inspiration.
 
 That's all.
+
+<!--more-->
+
+No, really - that's all for this month. Carry on.
