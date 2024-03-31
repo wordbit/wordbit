@@ -5,10 +5,20 @@
     <link>https://wordbit.com/</link>
     <description>Recent content on wordbit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 29 Feb 2024 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 13:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://wordbit.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Happy Easter</title>
+      <link>https://wordbit.com/posts/happy-easter/</link>
+      <pubDate>Sun, 31 Mar 2024 13:00:00 +0000</pubDate>
+      
+      <guid>https://wordbit.com/posts/happy-easter/</guid>
+      <description>Winter is over. Spring is upon us. And on this beautiful Easter Sunday, I&amp;rsquo;d like to wish anyone who&amp;rsquo;s reading this rejuvenation, light, and inspiration.
+That&amp;rsquo;s all.</description>
+    </item>
     
     <item>
       <title>From Technical Writer to Information Developer</title>
