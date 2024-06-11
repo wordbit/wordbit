@@ -12,8 +12,7 @@ This is an old-school web log. I don't track metrics and I don't make any money 
 </head>
 <body>
 
-<div id="chatling-inline-bot" style="width: 100%; height: 500px;"></div>
-<script async data-id="7113522189" data-display="page_inline" id="chatling-embed-script" type="text/javascript" src="https://chatling.ai/js/embed.js"></script>
+<script async data-id="7113522189" id="chatling-embed-script" type="text/javascript" src="https://chatling.ai/js/embed.js"></script>
 
 </body>
 </html>
