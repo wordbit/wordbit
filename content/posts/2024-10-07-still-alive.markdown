@@ -9,7 +9,9 @@ Yes, I'm still alive - just working on some other writing projects! Thought I'd 
 
 I guess I am still dying - we all are - just more slowly.
 
-What did I miss? The summer months of July and August zipped by before I could catch a tan. We camped at Ellison Provincial Park on Okanagan Lake for one of our trips. On another, we explored the northern part of Vancouver Island, including a stay on Malcolm Island, a Finnish colony.
+What did I miss?
+
+The summer months of July and August zipped by before I could catch a tan. We camped at Ellison Provincial Park on Okanagan Lake for one of our trips. On another, we explored the northern part of Vancouver Island, including a stay on Malcolm Island, a Finnish colony.
 
 In September, there was a dull iPhone 16 event that wasn't even worth writing about.
 
