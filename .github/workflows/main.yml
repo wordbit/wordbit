@@ -1,7 +1,7 @@
 name: CI
 on: push
 
-# Added explicit permissions to resolve exit code 128
+# Explicit permissions required for GITHUB_TOKEN to push the deployment
 permissions:
   contents: write
 
@@ -10,13 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Git checkout
-        uses: actions/checkout@v4 # Updated from v2
+        uses: actions/checkout@v4
         with:
-          token: ${{ secrets.TOKEN_FOR_BLOG }}
-          submodules: recursive # Automatically handles submodule authentication securely
+          token: ${{ secrets.GITHUB_TOKEN }} # Swapped out broken token for built-in auth
+          submodules: recursive
 
       - name: Setup hugo
-        uses: peaceiris/actions-hugo@v3 # Updated from v2
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: "0.32"
 
@@ -26,9 +26,9 @@ jobs:
         run: hugo
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4 # Updated from v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          personal_token: ${{ secrets.TOKEN_FOR_BLOG }}
+          github_token: ${{ secrets.GITHUB_TOKEN }} # Swapped out here too for smooth deployment
           # external_repository: wordbit/wordbit/tree/master/public (ahg: commenting out because I'm not using external repo)
           publish_dir: ./public
           #   keep_files: true
