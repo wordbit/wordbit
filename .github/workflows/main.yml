@@ -1,18 +1,23 @@
 name: CI
 on: push
+
+# Added explicit permissions to resolve exit code 128
+permissions:
+  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Git checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4 # Updated from v2
 
       - name: Update theme
         # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
         run: git submodule update --init --recursive
 
       - name: Setup hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3 # Updated from v2
         with:
           hugo-version: "0.32"
 
@@ -22,7 +27,7 @@ jobs:
         run: hugo
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4 # Updated from v3
         with:
           personal_token: ${{ secrets.TOKEN_FOR_BLOG }}
           # external_repository: wordbit/wordbit/tree/master/public (ahg: commenting out because I'm not using external repo)
