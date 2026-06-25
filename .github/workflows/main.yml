@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Git checkout
         uses: actions/checkout@v4 # Updated from v2
+        with:
+          token: ${{ secrets.TOKEN_FOR_BLOG }}
 
       - name: Update theme
         # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
