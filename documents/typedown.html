@@ -1,0 +1,780 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>TYPEDOWN — Falling Words</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body {
+    height: 100%;
+    background: #0a0a1a;
+    color: #e8e8f0;
+    font-family: 'Trebuchet MS', system-ui, sans-serif;
+    overflow: hidden;
+    user-select: none;
+  }
+  #game {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+  }
+  /* Subtle starfield */
+  .star {
+    position: absolute;
+    width: 2px; height: 2px;
+    background: #fff;
+    border-radius: 50%;
+    opacity: 0.3;
+    pointer-events: none;
+  }
+  /* HUD */
+  #hud {
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 14px 22px;
+    background: linear-gradient(180deg, rgba(0,0,0,0.55), transparent);
+    z-index: 10;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+  }
+  .hud-item { display: flex; gap: 8px; align-items: center; }
+  .hud-label { opacity: 0.6; font-size: 11px; text-transform: uppercase; letter-spacing: 1.5px; }
+  .hud-value { font-size: 22px; font-weight: bold; color: #ffcc66; font-variant-numeric: tabular-nums; }
+  #lives { color: #ff5577; letter-spacing: 6px; }
+  /* Canvas */
+  #canvas {
+    display: block;
+    width: 100%; height: 100%;
+  }
+  /* Input */
+  #input-wrap {
+    position: absolute;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: min(540px, 92vw);
+    z-index: 10;
+  }
+  #input {
+    width: 100%;
+    padding: 14px 18px;
+    font-size: 22px;
+    background: rgba(20, 20, 40, 0.85);
+    border: 2px solid #445;
+    border-radius: 12px;
+    color: #fff;
+    outline: none;
+    text-align: center;
+    letter-spacing: 4px;
+    font-family: 'Consolas', 'Courier New', monospace;
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+  #input:focus { border-color: #66ccff; box-shadow: 0 0 18px rgba(102,204,255,0.35); }
+  #input.overheat { border-color: #ff7755; box-shadow: 0 0 18px rgba(255,119,85,0.45); }
+  /* Overheat meter */
+  #heat-wrap {
+    margin-top: 6px;
+    height: 6px;
+    background: rgba(255,255,255,0.08);
+    border-radius: 3px;
+    overflow: hidden;
+  }
+  #heat-bar {
+    height: 100%;
+    width: 0%;
+    background: linear-gradient(90deg, #66ff99, #ffcc66, #ff5577);
+    transition: width 0.1s linear;
+  }
+  #heat-label {
+    margin-top: 4px;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #aaa;
+    text-align: center;
+  }
+  /* Overlay (start, pause, game over) */
+  #overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(5, 5, 20, 0.92);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 100;
+    text-align: center;
+    padding: 20px;
+  }
+  #overlay.hidden { display: none; }
+  #overlay h1 {
+    font-size: clamp(40px, 9vw, 72px);
+    margin-bottom: 12px;
+    background: linear-gradient(180deg, #66ccff, #cc66ff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    letter-spacing: 4px;
+  }
+  #overlay h2 {
+    font-size: clamp(24px, 5vw, 36px);
+    margin-bottom: 18px;
+    color: #ffcc66;
+  }
+  #overlay p { max-width: 480px; line-height: 1.6; margin-bottom: 12px; color: #ccd; font-size: 15px; }
+  #overlay .key {
+    display: inline-block;
+    padding: 2px 8px;
+    background: rgba(255,255,255,0.1);
+    border: 1px solid #556;
+    border-radius: 4px;
+    font-family: monospace;
+    font-size: 13px;
+    margin: 0 2px;
+  }
+  #overlay .stats {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 8px 24px;
+    margin: 16px 0 24px;
+    font-size: 18px;
+  }
+  #overlay .stats .k { opacity: 0.6; text-align: right; }
+  #overlay .stats .v { color: #ffcc66; font-weight: bold; min-width: 100px; text-align: left; }
+  #overlay button {
+    padding: 14px 36px;
+    font-size: 18px;
+    background: linear-gradient(135deg, #66ccff, #cc66ff);
+    color: #0a0a1a;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    letter-spacing: 2px;
+    transition: transform 0.1s, box-shadow 0.15s;
+  }
+  #overlay button:hover { transform: translateY(-2px); box-shadow: 0 8px 22px rgba(102,204,255,0.4); }
+  #overlay button:active { transform: translateY(0); }
+  /* Toast feedback */
+  #toast {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 48px;
+    font-weight: bold;
+    pointer-events: none;
+    opacity: 0;
+    z-index: 50;
+    text-shadow: 0 0 12px currentColor;
+  }
+  /* Flash effects on canvas via JS class toggles */
+  .flash-good { animation: flashGood 0.25s ease-out; }
+  .flash-bad { animation: flashBad 0.25s ease-out; }
+  @keyframes flashGood { 0% { box-shadow: inset 0 0 0 rgba(102,255,153,0); } 50% { box-shadow: inset 0 0 120px rgba(102,255,153,0.35); } 100% { box-shadow: inset 0 0 0 rgba(102,255,153,0); } }
+  @keyframes flashBad { 0% { box-shadow: inset 0 0 0 rgba(255,85,119,0); } 50% { box-shadow: inset 0 0 120px rgba(255,85,119,0.4); } 100% { box-shadow: inset 0 0 0 rgba(255,85,119,0); } }
+</style>
+</head>
+<body>
+<div id="game">
+  <canvas id="canvas"></canvas>
+
+  <div id="hud">
+    <div class="hud-item">
+      <div>
+        <div class="hud-label">Score</div>
+        <div class="hud-value" id="score">0</div>
+      </div>
+    </div>
+    <div class="hud-item">
+      <div>
+        <div class="hud-label">Words</div>
+        <div class="hud-value" id="words">0</div>
+      </div>
+    </div>
+    <div class="hud-item">
+      <div>
+        <div class="hud-label">Wave</div>
+        <div class="hud-value" id="wave">1</div>
+      </div>
+    </div>
+    <div class="hud-item">
+      <div>
+        <div class="hud-label">Lives</div>
+        <div class="hud-value" id="lives">♥♥♥</div>
+      </div>
+    </div>
+  </div>
+
+  <div id="input-wrap">
+    <input id="input" type="text" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" placeholder="type to destroy words…" maxlength="14">
+    <div id="heat-wrap"><div id="heat-bar"></div></div>
+    <div id="heat-label">Combo heat</div>
+  </div>
+
+  <div id="toast"></div>
+
+  <div id="overlay">
+    <h1 id="ov-title">TYPEDOWN</h1>
+    <h2 id="ov-subtitle" style="display:none"></h2>
+    <div id="ov-stats" style="display:none"></div>
+    <div id="ov-body">
+      <p>Words are falling from the sky. <strong>Type them before they hit the ground.</strong></p>
+      <p>Each word you destroy raises your <strong>Combo</strong>. At a high combo, your <em>type speed matters more than ever</em> — but if you mess up a word, the combo breaks and the <span style="color:#ff7755">overheat meter fills</span>.</p>
+      <p>Press <span class="key">Esc</span> to pause • <span class="key">Enter</span> to confirm • Click the box to focus</p>
+    </div>
+    <button id="ov-btn">START</button>
+  </div>
+</div>
+
+<script>
+"use strict";
+
+/* =========================================================
+   TYPEDOWN — Falling words. Type them before they crash.
+   Built as a single self-contained HTML file.
+   ========================================================= */
+
+// ----- Embedded word list (curated: 3-7 letter common English words) -----
+const DICT = ("able,about,above,acid,across,act,actor,added,adapt,admit,adopt,adult,after,again,against,age,agent,ago,agree,ahead,aid,aim,air,airplane,airport,alarm,alike,alive,all,alley,allow,almost,alone,along,aloud,already,also,although,always,am,among,amount,and,anger,angle,angry,animal,another,answer,any,anybody,anyhow,anyone,anything,anyway,apart,apartment,appear,apple,applied,apply,are,area,arm,army,around,arrange,arrive,art,article,as,ash,aside,ask,asleep,aspect,assemble,assess,asset,assign,assist,assume,assure,at,atom,attach,attack,attempt,attend,attention,audience,author,auto,available,average,avoid,awake,away,awesome,awful,baby,back,background,backward,bacon,bad,badge,badly,bag,bake,baker,balance,ball,balloon,banana,band,bank,banner,bar,bare,bargain,barn,barrel,base,basic,basis,basket,bass,bath,bathe,beach,beam,bean,bear,beard,beast,beat,beauty,because,become,bed,bedroom,bee,beef,been,beer,before,began,begun,being,believe,bell,belong,below,belt,bench,beneath,beside,best,bet,better,between,beyond,bicycle,big,bigger,bike,bill,billion,bird,birth,bit,bite,black,blade,blame,blank,blast,blend,bless,blind,block,blood,bloom,blow,blue,board,boast,boat,bold,bone,bonus,book,booklet,boost,border,bore,born,borrow,boss,both,bother,bottle,bottom,bound,bow,bowl,box,boy,brain,brake,branch,brand,brass,brave,bread,break,breakfast,breath,breed,breeze,brick,bridge,brief,bright,brilliant,bring,broad,broke,broken,bronze,brook,broom,brother,brought,brown,brush,bubble,bucket,budget,buffalo,bug,build,builder,building,built,bunch,bundle,bunk,bus,bush,business,busy,but,butter,button,buy,buyer,cabin,cable,cage,cake,calculate,calendar,calf,call,came,camel,camera,can,canal,candle,candy,canvas,canyon,cap,capable,capacity,cape,car,card,care,career,careful,cargo,carpet,carrot,carry,cart,case,cash,cast,castle,casual,cat,catch,category,cattle,caught,cause,cave,cease,cedar,cell,cellar,center,central,century,ceremony,certain,chain,chair,chalk,chance,change,channel,chapter,character,charge,charity,charm,chart,chase,cheap,cheat,check,cheek,cheer,cheese,chef,chemical,chest,chicken,chief,child,chimney,chin,chip,choice,choose,chop,chord,chose,chosen,chunk,circle,circuit,citizen,city,civil,claim,class,classic,clean,clear,clerk,clever,click,client,cliff,climb,clinic,clip,clock,close,cloth,clothes,cloud,club,clue,coach,coal,coast,coat,cock,cocoa,code,coffee,coin,cold,collar,collect,college,colony,color,column,combat,combine,come,comedy,comet,comfort,coming,comma,common,compact,company,compare,compete,complain,complete,complex,concept,concern,concert,conduct,confirm,conflict,confront,confuse,connect,consider,consist,console,contact,contain,content,contest,context,continue,contract,contrast,contribute,control,convert,convey,cook,cookie,cool,copper,copy,coral,core,corn,corner,correct,cost,costume,cottage,cotton,could,count,country,couple,courage,course,court,cousin,cover,cow,coward,cozy,crab,crack,craft,crash,crawl,crazy,cream,create,creature,credit,crew,cricket,crime,crisis,critic,crop,cross,crowd,crown,cruel,cruise,crush,crust,crystal,cup,cupboard,cure,curfew,curious,curl,current,curse,curtain,curve,cushion,custom,cut,cute,cycle,daily,dairy,daisy,damage,dance,danger,dare,dark,darling,data,date,daughter,dawn,day,dead,deadline,deaf,deal,dealer,dear,death,debate,debt,decade,decay,decent,decide,decision,deck,declare,decline,decorate,deep,deer,defeat,defend,define,degree,delay,delight,deliver,demand,demonstrate,dense,dental,deny,depart,depend,deposit,depth,desert,design,designer,desire,desk,despair,destroy,detail,detect,develop,device,devote,dial,diamond,diary,did,die,diet,differ,difficult,dig,digit,dime,dimension,dinner,dinosaur,direct,direction,dirty,discover,discuss,disease,dish,dismiss,disorder,display,distance,distinct,district,divide,divine,divorce,dizzy,do,doctor,document,dog,dollar,dolphin,domain,dome,donate,donkey,door,dose,double,doubt,dough,dove,down,downtown,dozen,draft,drag,dragon,drain,drama,draw,drawer,dream,dress,drew,dried,drift,drill,drink,drive,driver,drop,drove,drown,drug,drum,drunk,dry,duck,due,dull,dumb,during,dust,duty,dwarf,dwell,dye,dynamic,eager,eagle,early,earn,earth,ease,east,easy,eat,echo,eclipse,edge,edit,effect,effort,egg,ego,eight,either,elastic,elbow,elder,elect,element,elephant,elevator,eleven,elite,else,embark,embrace,emerge,emit,emotion,emperor,empire,employ,empty,enable,enact,end,enemy,energy,enforce,engage,engine,engineer,enjoy,enlarge,enormous,enough,ensure,enter,entire,entrance,entry,envelope,environment,equal,equip,erase,erupt,escape,escort,essay,essential,establish,estate,estimate,eternal,ethnic,evaluate,even,event,ever,every,evident,evil,evoke,exact,examine,example,exceed,excellent,except,exchange,excite,excuse,execute,exercise,exhaust,exhibit,exist,exit,expand,expect,expire,explain,explode,explore,expose,express,extend,extra,extreme,eyebrow,face,facility,fact,factor,fade,fail,faint,fair,fairy,faith,false,fame,family,famous,fan,fancy,fantasy,farm,fascinate,fashion,fast,fat,fatal,fate,father,fatigue,fault,favor,favorite,fear,feast,feather,feature,february,federal,feed,feel,fee,fell,fellow,felt,fence,festival,fetch,fever,few,fiber,field,fierce,fifteen,fifth,fifty,fight,figure,file,fill,film,filter,final,find,fine,finger,finish,fire,firm,first,fiscal,fish,fist,fit,five,fix,fixed,flag,flame,flash,flat,flavor,flaw,flee,flesh,flew,flexible,flight,flip,float,flock,flood,floor,flour,flow,flower,flu,fluid,flush,flute,fly,focus,fog,foil,fold,folk,follow,food,fool,foot,forbid,force,forecast,foreign,forest,forever,forget,fork,form,formal,former,formula,fort,forth,fortune,forty,forum,forward,fossil,foster,found,four,fourteen,fourth,fox,fraction,fragile,frame,frank,fraud,free,freedom,freeze,fresh,friction,fridge,fried,friend,friendly,frighten,frog,front,frost,frown,frozen,fruit,fuel,full,fully,fun,function,fund,funny,fur,furniture,further,fury,fuse,fusion,future,gain,gallery,game,gang,gap,garage,garbage,garden,garlic,gas,gasp,gate,gather,gauge,gear,gem,gender,general,generate,genius,gentle,genuine,geology,get,giant,gift,giggle,ginger,giraffe,girl,give,glad,glance,glass,glide,glimpse,global,gloom,glory,glove,glow,glue,goal,goat,goddess,gold,golden,gone,good,goodbye,goose,gosh,govern,gown,grab,grace,grade,grain,grand,grant,grape,grass,grateful,grave,gravity,great,green,greet,grew,grid,grief,grill,grin,grip,grit,grocery,ground,group,grow,growth,guarantee,guard,guess,guest,guide,guild,guilt,guitar,gulf,gum,gun,guru,gust,guy,gym,habit,hair,haircut,half,hall,halt,ham,hammer,hand,handful,handle,handy,hang,happy,harbor,hard,hare,harm,harsh,harvest,haste,hat,hatch,hate,haul,have,hay,hazel,he,head,header,heal,health,heap,hear,heart,heat,heater,heaven,heavily,heavy,height,held,helicopter,hell,hello,help,helpful,hem,hen,herb,herd,here,hero,hesitate,hide,high,highlight,hike,hill,hint,hip,hire,history,hit,hobby,hockey,hold,holder,hole,holiday,hollow,holy,home,honest,honey,honor,hood,hook,hop,hope,horizon,horn,horror,horse,hose,host,hot,hotel,hour,house,hover,how,however,huge,human,humble,humor,hundred,hungry,hunt,hurdle,hurl,hurry,hurt,husband,husk,hybrid,ice,icon,idea,ideal,identify,identity,idle,ignore,ill,illegal,illness,image,imagine,imitate,immediate,immune,impact,implement,imply,import,impose,impress,improve,impulse,in,incentive,inch,incident,include,income,increase,indeed,independent,index,indicate,indoor,industry,infant,infect,inflate,inflict,inform,ingredient,inhabit,inhale,inherit,initial,inject,injury,ink,inmate,inner,innocent,innovation,inquiry,insane,insect,inside,insight,insist,inspect,inspire,install,instance,instant,instead,instruct,instrument,insult,insure,intact,intake,integer,integral,intend,intense,intent,interact,interest,interior,internal,interpret,interrupt,interval,intimate,into,introduce,invade,invent,invest,invite,invoice,involve,iron,irony,island,isolate,issue,it,item,ivory,jacket,jaguar,jail,jam,january,japan,jar,jaw,jealous,jeans,jelly,jersey,jewel,jingle, job,jog,join,joint,joke,journey,joy,judge,juice,july,jumble,jump,june,jungle,junior,jury,just,justice,kangaroo,keen,keep,kettle,key,kick,kid,kidney,kind,king,kingdom,kiss,kit,kitchen,kite,kitten,kiwi,knee,kneel,knew,knife,knight,knit,knock,knot,know,knowledge,label,labor,lace,lack,lacquer,lad,ladder,lady,lake,lamb,lamp,lamppost,land,landscape,landslide,lane,lapel,large,laser,last,latch,later,laugh,launch,laundry,lava,law,lawn,laydown,layer,lazy,lead,leader,leaf,league,leak,lean,leap,learn,least,leather,leave,lecture,left,leg,legal,legend,leisure,lemon,lend,length,lens,leopard,less,lesson,letter,level,liability,liar,liberty,library,license,lick,lid,lie,life,lift,light,like,likely,limb,lime,limit,line,linen,linger,link,lion,lip,liquid,list,listen,lit,liter,little,live,lizard,llama,load,loaf,loan,lobby,local,locate,lock,lodge,loft,log,logic,lonely,long,look,loop,loose,lord,lose,loss,lost,lot,loud,love,lovely,loving,lower,loyal,luck,lucky,luggage,lumber,luminous,lump,lunar,lunch,lung,luxury,lying,machine,mad,madam,made,magic,magnet,maid,mail,main,major,make,maker,male,mall,mammal,man,manage,mango,manner,manor,many,map,maple,march,margin,mark,marker,market,marry,mask,mass,master,match,math,matter,maximum,maybe,mayor,maze,meal,mean,meant,measure,meat,mechanic,medal,media,medical,medicine,medium,meet,melody,melt,member,memo,memory,menace,mend,menu,mercy,mere,merge,merit,merry,message,metal,meter,method,middle,midnight,might,mighty,mild,mile,milk,mill,million,mimic,mince,mind,mine,mingle,mini,minimum,minister,minor,minute,mirror,mischief,miser,miss,missile,mister,mix,mixed,mixture,moan,mobile,mode,model,modern,modest,modify,moist,mold,mole,molten,mom,moment,money,monkey,monster,month,monthly,monument,mood,moon,moor,mop,moral,more,morning,mosaic,mosque,mosquito,most,motel,moth,mother,motion,motor,mountain,mouse,move,movie,mow,much,mud,muffin,mule,mummy,murder,murmur,muscle,museum,mushroom,music,must,mustard,mutter,mutton,myself,mystery,myth,naive,name,narrow,nasal,nation,native,nature,naval,near,nearly,neat,neck,need,needle,negative,neglect,negotiate,neighbor,neither,nephew,nerve,nest,net,network,never,new,news,next,nice,nickel,night,nimble,nine,nineteen,ninety,ninth,noble,noise,noisy,none,noodle,nor,norm,north,nose,note,noted,nothing,notice,novel,november,now,nuclear,number,numerous,nun,nurse,nut,oak,oath,obedient,obey,object,observe,obtain,obvious,occur,ocean,october,octopus,odd,odor,off,offend,offer,office,officer,official,often,oh,oil,okay,old,olive,olympic,once,one,onion,online,only,onto,open,opera,operate,opinion,opium,opponent,opportunity,oppose,option,orange,orbit,orchard,order,ordinary,organ,organize,origin,orphan,other,otherwise,ought,ounce,out,outer,output,outside,oval,oven,over,overall,overcome,overlap,owe,owl,own,owner,oxygen,oyster,pace,pack,package,pad,page,paid,pail,pain,paint,pair,palace,pale,palm,pan,panda,panel,panic,paper,parade,parent,park,parlor,parrot,part,party,pass,passage,passive,past,paste,patch,path,patience,patient,patrol,pattern,pause,pave,pawn,pay,payment,peace,peach,peak,peanut,pear,pearl,peasant,pebble,peculiar,pedal,peek,peel,peep,peer,pen,penalty,pencil,penny,people,pepper,per,perfect,perform,perfume,perhaps,period,permit,person,pet,phase,phone,photo,phrase,physical,piano,pick,picnic,piece,pier,pig,pigeon,pile,pill,pillar,pilot,pin,pinch,pine,pink,pint,pipe,piston,pity,pixel,pizza,place,plain,plan,plane,planet,plant,plasma,plate,play,plaza,plead,please,pledge,plenty,plot,plow,plug,plum,plumb,plunge,plural,plus,pocket,poem,poet,point,poison,poke,polar,pole,police,policy,polish,polite,political,poll,pollute,pond,pony,pool,poor,pope,popular,population,porch,pork,port,portion,portrait,portray,pose,position,positive,possess,possible,post,postpone,potato,potion,pottery,poverty,powder,power,practice,praise,pray,prayer,preach,precise,predict,prefer,prefix,prepare,present,preserve,press,pretend,pretty,prevent,price,pride,priest,primary,prime,prince,principal,principle,print,priority,prison,private,prize,probable,problem,process,produce,product,profession,profile,profit,program,progress,project,promise,promote,prompt,prone,proof,proper,property,propose,prose,protect,proud,prove,provide,public,pudding,puddle,puff,pull,pulp,pulse,pump,punch,punish,pupil,puppet,puppy,pure,purge,purple,purpose,purse,push,put,puzzle,pyramid,quality,quantity,quarrel,quart,quarter,quartz,queen,quench,query,quest,question,quick,quiet,quilt,quit,quite,quiver,quiz,quotation,quote,rabbit,raccoon,race,rack,radar,radio,radish,rage,raid,rail,rain,rainbow,raise,rake,rally,ramp,ranch,random,range,rank,rapid,rare,rate,rather,raven,raw,reach,react,read,reader,ready,real,realize,really,realm,reap,reason,rebel,recall,receipt,receive,recent,recipe,recognize,recommend,record,recover,recruit,red,reduce,refer,reflect,reform,refresh,refuge,refuse,region,register,regret,regular,reign,reinforce,reject,rejoice,relate,relax,release,relevant,reliable,relief,religion,rely,remain,remark,remedy,remember,remind,remote,remove,render,renew,rent,repair,repeat,replace,reply,report,repress,require,rescue,research,resemble,resent,reserve,reside,resign,resist,resolve,resort,resource,respect,respond,restore,restrict,result,retain,retire,return,reveal,revenge,revenue,reverse,review,revise,revive,reward,rhythm,rib,ribbon,rice,rich,ride,rider,ridge,rifle,right,rigid,ring,rinse,riot,rip,ripe,rise,risk,ritual,rival,river,road,roam,roar,roast,robe,robin,robot,rocket,rocky,rode,roll,romance,roof,room,root,rope,rose,rotate,rough,round,route,rover,royal,rubber,rude,rug,ruin,rule,rumor,run,rural,rust,sacred,sad,saddle,safari,safe,sail,saint,salad,salary,sale,salmon,salt,salute,same,sample,sand,satellite,satisfy,sauce,save,saving,say,scale,scan,scar,scare,scarf,scary,scatter,scene,scent,scheme,scholar,school,science,scissors,scoff,scoop,scope,score,scorn,scout,scowl,scramble,scrap,screen,script,scroll,scrub,sculpture,sea,seal,seam,search,season,seat,second,secret,section,secure,seek,seem,segment,seize,seldom,select,self,sell,senate,send,senior,sense,sentence,sentiment,separate,series,serious,serve,service,session,set,settle,seven,seventeen,seventh,several,severe,sew,shade,shadow,shaft,shaggy,shake,shallow,shame,shampoo,shape,share,shark,sharp,shave,shawl,she,shed,sheep,sheet,shelf,shell,shelter,shield,shift,shine,ship,shirt,shock,shoe,shoot,shop,shore,short,shot,should,shoulder,shout,shove,show,shower,shred,shrimp,shrink,shrub,shrug,shuck,shut,shy,sick,side,sigh,sight,signal,silence,silent,silk,silly,silver,similar,simple,simply,sin,since,sincere,sing,single,sink,sip,sir,sister,sit,site,six,sixteen,sixth,sixty,size,skate,skeleton,sketch,ski,skill,skin,skip,skirt,skull,sky,slam,slap,slash,slave,sleep,sleeve,slice,slide,slight,slim,slip,slipper,slope,slot,slow,slug,smart,smile,smoke,smooth,smug,snail,snake,snap,snarl,snatch,sneak,sneeze,sniff,snore,snow,soak,soap,soar,sob,sober,soccer,social,society,sock,soda,sofa,soft,soil,solar,sold,sole,solid,solo,solution,solve,some,somebody,someone,something,sometimes,somewhat,son,song,soon,sorry,sort,sought,soul,sound,soup,sour,south,sow,soya,space,spare,spark,speak,special,speech,speed,spell,spend,sphere,spice,spider,spike,spill,spin,spine,spirit,spit,splash,split,spoil,spoke,spoken,sponge,spoon,sport,spot,spouse,sprain,spray,spread,spring,sprint,spy,squad,square,squash,squat,squid,squirrel,stable,stack,stadium,staff,stage,stair,stake,stamp,stand,star,stare,start,starve,state,station,stay,steady,steak,steal,steam,steel,steep,stem,step,stern,stick,stiff,still,sting,stink,stir,stitch,stock,stole,stomach,stone,stood,stool,stop,store,storm,story,stove,straight,strange,straw,stream,street,strength,stress,stretch,strict,stride,strike,string,strip,stroke,strong,struck,struggle,stub,student,studio,study,stuff,stumble,stun,stupid,style,subject,submit,subway,succeed,success,such,sudden,suffer,sugar,suggest,suicide,suit,sulfur,sum,summit,sun,sunday,super,supply,support,suppose,sure,surface,surge,surprise,surround,survey,suspect,sustain,swallow,swap,swarm,sway,swear,sweat,sweater,sweep,sweet,swim,swing,switch,swivel,sword,swore,table,tackle,tag,tail,take,tale,talent,talk,tall,tame,tan,tank,tap,tape,target,task,taste,tattoo,taxi,teach,team,tear,teen,teenage,teeth,tell,temperature,temple,ten,tend,tender,tennis,tense,tent,term,test,text,than,thank,that,the,theater,their,them,theme,then,there,these,they,thick,thigh,thin,thing,think,third,thirst,thirteen,thirty,this,thorn,those,though,thought,thousand,thread,threat,three,threw,throat,throne,through,throw,thrust,thumb,thunder,ticket,tide,tiger,tight,time,tin,tiny,tip,tire,tired,tissue,title,to,toast,today,toddler,toe,toffee,tofu,together,toil,told,tomato,tomorrow,tone,tongue,tonight,too,took,tool,tooth,top,topic,torch,total,touch,tough,tour,tow,toward,towel,tower,town,toxic,toy,trace,track,trade,traffic,tragic,trail,train,transfer,trap,trash,travel,tray,tread,treason,treat,tree,trek,trend,trial,tribe,trick,trigger,trim,trip,triple,triumph,troop,trophy,trouble,truck,true,truly,trumpet,trunk,trust,truth,try,tube,tuck,tug,tulip,tumble,tuna,tune,tunnel,turkey,turn,turtle,twelve,twenty,twice,twig,twin,twist,type,tyrant,ugly,ultimate,umbrella,umpire,unable,uncle,uncover,under,undergo,undo,unequal,unfair,unfold,unhappy,uniform,union,unique,unit,unite,universe,unknown,unless,unlike,unlock,until,unusual,unveil,update,upgrade,uphill,upon,upper,upset,upside,uptake,urban,urge,urn,use,useful,usher,usual,utility,vacant,vacation,vague,vain,valid,valley,valuable,value,van,vane,vapor,various,vary,vase,vault,vegetable,vehicle,velvet,vendor,venture,venue,verb,verdict,verify,verse,version,very,vessel,vet,veteran,vial,vibrant,vice,victim,victory,video,view,village,vinyl,viola,violet,violin,virtue,virus,visa,visible,vision,visit,visual,vital,vivid,vocabulary,vocal,voice,void,volcano,volume,vote,voucher,vow,vowel,voyage,wade,wage,wagon,waist,wait,wake,walk,wall,wander,want,war,ward,warm,warn,warrant,warrior,wary,was,wash,wasp,waste,watch,water,wave,way,we,weak,wealth,weapon,wear,weary,weather,weave,web,wedding,wedge,weed,week,weekend,weep,weigh,weight,weird,welcome,welfare,well,went,were,west,wet,whale,what,wheat,wheel,when,where,which,while,whip,whisper,whistle,white,who,whole,whom,whose,why,wicked,wide,widespread,widow,width,wield,wife,wig,wild,will,willow,win,wind,window,wine,wing,wink,winner,winter,wipe,wire,wise,wish,witch,with,withdraw,wither,within,without,witness,witty,wizard,woke,wolf,woman,wonder,wood,wool,word,work,worker,world,worm,worry,worse,worst,worth,would,wound,wrap,wrath,wreath,wreck,wrestle,wretch,wring,wrist,write,writer,writing,wrong,yard,yarn,year,yearn,yellow,yes,yesterday,yet,yield,yoga,young,your,yours,youth,zero,zone,zoom").split(",").map(w => w.trim().toLowerCase()).filter(w => /^[a-z]+$/.test(w));
+
+// Filter to game-appropriate length (3-7 letters) and remove duplicates
+const WORDS = [...new Set(DICT.filter(w => w.length >= 3 && w.length <= 7))];
+
+// ----- Game state -----
+const canvas = document.getElementById('canvas');
+const ctx = canvas.getContext('2d');
+const inputEl = document.getElementById('input');
+const overlayEl = document.getElementById('overlay');
+const ovTitle = document.getElementById('ov-title');
+const ovSubtitle = document.getElementById('ov-subtitle');
+const ovStats = document.getElementById('ov-stats');
+const ovBody = document.getElementById('ov-body');
+const ovBtn = document.getElementById('ov-btn');
+const scoreEl = document.getElementById('score');
+const wordsEl = document.getElementById('words');
+const waveEl = document.getElementById('wave');
+const livesEl = document.getElementById('lives');
+const heatBarEl = document.getElementById('heat-bar');
+const toastEl = document.getElementById('toast');
+
+let W = 0, H = 0, DPR = 1;
+let stars = [];
+let fallingWords = [];      // { word, x, y, vy, color, locked, typed }
+let particles = [];         // { x, y, vx, vy, life, color }
+let active = false;
+let paused = false;
+let lastTime = 0;
+let spawnTimer = 0;
+let waveSpawnTimer = 0;
+let score = 0;
+let wordsDestroyed = 0;
+let lives = 3;
+let wave = 1;
+let baseFallSpeed = 50;     // px/s, grows with wave
+let baseSpawnInterval = 1.8; // s, shrinks with wave
+let maxConcurrent = 4;
+let combo = 0;
+let bestCombo = 0;
+let heat = 0;               // 0-100; fills on mistakes, drains over time
+let inputBuffer = '';
+let hoveredWord = null;
+let lastMistakeTime = 0;
+let wordsAttempted = 0;
+
+const COLORS = ['#66ccff','#cc66ff','#ffaa66','#66ffaa','#ff6699','#ffcc66','#88ddff','#dd99ff'];
+const RARE_LETTERS = new Set(['q','x','z','j','k']);
+
+function resize() {
+  DPR = Math.min(window.devicePixelRatio || 1, 2);
+  W = window.innerWidth;
+  H = window.innerHeight;
+  canvas.width = W * DPR;
+  canvas.height = H * DPR;
+  canvas.style.width = W + 'px';
+  canvas.style.height = H + 'px';
+  ctx.setTransform(DPR, 0, 0, DPR, 0, 0);
+}
+window.addEventListener('resize', resize);
+
+// ----- Starfield -----
+function initStars() {
+  stars = [];
+  const count = Math.floor((W * H) / 8000);
+  for (let i = 0; i < count; i++) {
+    stars.push({
+      x: Math.random() * W,
+      y: Math.random() * H,
+      r: Math.random() * 1.2 + 0.2,
+      a: Math.random() * 0.4 + 0.1,
+      tw: Math.random() * 0.02 + 0.005
+    });
+  }
+}
+
+// ----- Falling words -----
+function pickWord() {
+  // Weight by length to avoid spammy 3-letter words
+  const lenBuckets = { 3: 0.05, 4: 0.15, 5: 0.30, 6: 0.30, 7: 0.20 };
+  const r = Math.random();
+  let acc = 0;
+  let chosenLen = 5;
+  for (const [len, p] of Object.entries(lenBuckets)) {
+    acc += p;
+    if (r < acc) { chosenLen = parseInt(len); break; }
+  }
+  const candidates = WORDS.filter(w => w.length === chosenLen);
+  // Avoid repeats when possible
+  const onScreen = new Set(fallingWords.map(f => f.word));
+  const fresh = candidates.filter(w => !onScreen.has(w));
+  const pool = fresh.length ? fresh : candidates;
+  return pool[Math.floor(Math.random() * pool.length)];
+}
+
+function spawnWord() {
+  const word = pickWord();
+  const fontSize = 22 + word.length * 2;
+  const textWidth = ctx.measureText(word).width;
+  const margin = 30;
+  const x = margin + Math.random() * Math.max(1, W - 2 * margin - textWidth);
+  // Slight speed variance so words don't move in lockstep
+  const vy = baseFallSpeed * (0.85 + Math.random() * 0.3);
+  // Spawn just below the HUD region (HUD is ~70px tall at top) so words never overlap the scoreboard.
+  const spawnY = 80;
+  fallingWords.push({
+    word,
+    x,
+    y: spawnY,
+    vy,
+    color: COLORS[Math.floor(Math.random() * COLORS.length)],
+    fontSize,
+    typed: '',
+    alpha: 1
+  });
+}
+
+function wordValue(word) {
+  // Base = letters. Bonus for longer words and rare letters.
+  let v = word.length * 2;
+  if (word.length >= 6) v += 4;
+  if (word.length >= 7) v += 6;
+  for (const c of word) if (RARE_LETTERS.has(c)) v += 3;
+  // Combo multiplier
+  v += Math.min(combo, 20);
+  return v;
+}
+
+// ----- Particles -----
+function spawnExplosion(x, y, color, count = 14) {
+  for (let i = 0; i < count; i++) {
+    const a = Math.random() * Math.PI * 2;
+    const sp = Math.random() * 220 + 60;
+    particles.push({
+      x, y,
+      vx: Math.cos(a) * sp,
+      vy: Math.sin(a) * sp,
+      life: 0.6 + Math.random() * 0.3,
+      age: 0,
+      color,
+      size: Math.random() * 3 + 1.5
+    });
+  }
+}
+
+// ----- Game loop -----
+function update(dt) {
+  if (!active || paused) return;
+
+  // Wave progression
+  waveSpawnTimer += dt;
+  if (waveSpawnTimer >= 12) {
+    waveSpawnTimer = 0;
+    wave += 1;
+    baseFallSpeed = 50 + (wave - 1) * 12;
+    baseSpawnInterval = Math.max(0.55, 1.8 - (wave - 1) * 0.12);
+    maxConcurrent = Math.min(9, 4 + Math.floor((wave - 1) / 2));
+    showToast(`WAVE ${wave}`, '#ffcc66');
+  }
+
+  // Spawn
+  spawnTimer += dt;
+  if (spawnTimer >= baseSpawnInterval && fallingWords.length < maxConcurrent) {
+    spawnTimer = 0;
+    spawnWord();
+  }
+
+  // Heat drain (passive cooling)
+  heat = Math.max(0, heat - dt * 6);
+
+  // Move words
+  const ground = H - 130; // above input box
+  for (let i = fallingWords.length - 1; i >= 0; i--) {
+    const fw = fallingWords[i];
+    fw.y += fw.vy * dt;
+    if (fw.y > ground) {
+      // Word hit the ground — lose a life
+      fallingWords.splice(i, 1);
+      loseLife();
+    }
+  }
+
+  // Update particles
+  for (let i = particles.length - 1; i >= 0; i--) {
+    const p = particles[i];
+    p.age += dt;
+    if (p.age >= p.life) { particles.splice(i, 1); continue; }
+    p.x += p.vx * dt;
+    p.y += p.vy * dt;
+    p.vy += 320 * dt; // gravity
+    p.vx *= 0.98;
+  }
+
+  // Detect hovered (target) word
+  hoveredWord = findMatchingWord(inputBuffer);
+}
+
+function findMatchingWord(prefix) {
+  if (!prefix) return null;
+  // Prefer the lowest (closest to ground) match so the player can choose which to type first
+  let best = null;
+  let bestY = -Infinity;
+  for (const fw of fallingWords) {
+    if (fw.word.startsWith(prefix) && fw.y > bestY) {
+      best = fw;
+      bestY = fw.y;
+    }
+  }
+  return best;
+}
+
+function draw() {
+  ctx.clearRect(0, 0, W, H);
+
+  // Background
+  const grad = ctx.createLinearGradient(0, 0, 0, H);
+  grad.addColorStop(0, '#0a0a1a');
+  grad.addColorStop(1, '#10082a');
+  ctx.fillStyle = grad;
+  ctx.fillRect(0, 0, W, H);
+
+  // Stars
+  for (const s of stars) {
+    s.a += s.tw;
+    const a = (Math.sin(s.a) + 1) * 0.5 * 0.5 + 0.1;
+    ctx.fillStyle = `rgba(255,255,255,${a})`;
+    ctx.beginPath();
+    ctx.arc(s.x, s.y, s.r, 0, Math.PI * 2);
+    ctx.fill();
+  }
+
+  // Ground line
+  const ground = H - 130;
+  ctx.strokeStyle = 'rgba(255,255,255,0.08)';
+  ctx.lineWidth = 1;
+  ctx.setLineDash([4, 8]);
+  ctx.beginPath();
+  ctx.moveTo(0, ground);
+  ctx.lineTo(W, ground);
+  ctx.stroke();
+  ctx.setLineDash([]);
+
+  // Falling words
+  for (const fw of fallingWords) {
+    const isTarget = (fw === hoveredWord);
+    const font = `${isTarget ? 'bold ' : ''}${fw.fontSize}px "Trebuchet MS", system-ui, sans-serif`;
+    ctx.font = font;
+    ctx.textBaseline = 'middle';
+    ctx.textAlign = 'left';
+
+    // Glow
+    if (isTarget) {
+      ctx.shadowColor = fw.color;
+      ctx.shadowBlur = 18;
+    } else {
+      ctx.shadowBlur = 0;
+    }
+
+    // Background pill for target word (helps readability)
+    if (isTarget) {
+      const tw = ctx.measureText(fw.word).width;
+      ctx.fillStyle = 'rgba(255,255,255,0.06)';
+      ctx.beginPath();
+      const px = fw.x - 6, py = fw.y - fw.fontSize / 2 - 4;
+      const pw = tw + 12, ph = fw.fontSize + 8;
+      ctx.roundRect(px, py, pw, ph, 6);
+      ctx.fill();
+    }
+
+    // Draw typed portion in white, rest in color
+    const typed = inputBuffer && fw.word.startsWith(inputBuffer) ? inputBuffer : '';
+    if (typed) {
+      ctx.fillStyle = '#ffffff';
+      ctx.fillText(typed, fw.x, fw.y);
+      const typedW = ctx.measureText(typed).width;
+      ctx.fillStyle = fw.color;
+      ctx.fillText(fw.word.slice(typed.length), fw.x + typedW, fw.y);
+    } else {
+      ctx.fillStyle = fw.color;
+      ctx.fillText(fw.word, fw.x, fw.y);
+    }
+
+    ctx.shadowBlur = 0;
+  }
+
+  // Particles
+  for (const p of particles) {
+    const t = p.age / p.life;
+    ctx.fillStyle = p.color;
+    ctx.globalAlpha = 1 - t;
+    ctx.beginPath();
+    ctx.arc(p.x, p.y, p.size * (1 - t * 0.5), 0, Math.PI * 2);
+    ctx.fill();
+  }
+  ctx.globalAlpha = 1;
+}
+
+function loop(ts) {
+  const dt = Math.min(0.05, (ts - lastTime) / 1000 || 0);
+  lastTime = ts;
+  update(dt);
+  draw();
+  requestAnimationFrame(loop);
+}
+
+// ----- Input handling -----
+function processInput() {
+  const buf = inputBuffer;
+  if (!buf) return;
+
+  // Look for an exact match on screen
+  const target = fallingWords.find(fw => fw.word === buf);
+  if (target) {
+    // Destroy the word
+    destroyWord(target, buf);
+    inputEl.value = '';
+    inputBuffer = '';
+    return;
+  }
+
+  // Otherwise, if input buffer matches a prefix on multiple words, leave it (typing continues).
+  // If the buffer matches NOTHING on screen, treat as a mistake.
+  if (!hoveredWord && buf.length >= 2) {
+    mistake();
+  }
+}
+
+function destroyWord(fw, fullWord) {
+  const value = wordValue(fw.word);
+  score += value;
+  wordsDestroyed += 1;
+  combo += 1;
+  bestCombo = Math.max(bestCombo, combo);
+  wordsAttempted += 1;
+  // Remove the word
+  const idx = fallingWords.indexOf(fw);
+  if (idx >= 0) fallingWords.splice(idx, 1);
+  spawnExplosion(fw.x + fw.word.length * 4, fw.y, fw.color, 18);
+  showToast(`+${value}`, fw.color);
+  updateHUD();
+}
+
+function mistake() {
+  // Don't penalize for single-char prefixes (people often clear and retype)
+  if (inputBuffer.length < 2) return;
+  combo = 0;
+  heat = Math.min(100, heat + 18);
+  lastMistakeTime = performance.now();
+  showToast('✗', '#ff5577');
+  flashScreen('bad');
+  if (heat >= 100) {
+    overheatBreak();
+  }
+  updateHUD();
+}
+
+function overheatBreak() {
+  // Overheat: input flashes, all current progress is wiped; combo resets; small score penalty.
+  score = Math.max(0, score - 25);
+  heat = 0;
+  inputBuffer = '';
+  inputEl.value = '';
+  showToast('OVERHEAT!', '#ff7755');
+  flashScreen('bad');
+  updateHUD();
+}
+
+function loseLife() {
+  lives -= 1;
+  combo = 0;
+  flashScreen('bad');
+  showToast('−1 LIFE', '#ff5577');
+  updateHUD();
+  if (lives <= 0) endGame();
+}
+
+function updateHUD() {
+  scoreEl.textContent = score;
+  wordsEl.textContent = wordsDestroyed;
+  waveEl.textContent = wave;
+  livesEl.textContent = '♥'.repeat(Math.max(0, lives)) || '—';
+  livesEl.style.color = lives <= 1 ? '#ff5577' : '#ff88aa';
+  heatBarEl.style.width = heat + '%';
+  if (heat >= 70) inputEl.classList.add('overheat');
+  else inputEl.classList.remove('overheat');
+}
+
+function showToast(text, color) {
+  toastEl.textContent = text;
+  toastEl.style.color = color || '#fff';
+  toastEl.style.opacity = '1';
+  toastEl.style.transform = 'translate(-50%, -50%) scale(1.2)';
+  // Animate out
+  toastEl.animate([
+    { opacity: 1, transform: 'translate(-50%, -50%) scale(1.2)' },
+    { opacity: 0, transform: 'translate(-50%, -80%) scale(0.9)' }
+  ], { duration: 700, easing: 'ease-out' });
+  setTimeout(() => { toastEl.style.opacity = '0'; }, 50);
+}
+
+function flashScreen(kind) {
+  const gameEl = document.getElementById('game');
+  gameEl.classList.remove('flash-good', 'flash-bad');
+  void gameEl.offsetWidth; // restart anim
+  gameEl.classList.add(kind === 'good' ? 'flash-good' : 'flash-bad');
+}
+
+// ----- Game lifecycle -----
+function startGame() {
+  score = 0; wordsDestroyed = 0; lives = 3; wave = 1;
+  combo = 0; bestCombo = 0; heat = 0; inputBuffer = '';
+  wordsAttempted = 0;
+  fallingWords = []; particles = [];
+  baseFallSpeed = 50; baseSpawnInterval = 1.8; maxConcurrent = 4;
+  spawnTimer = 0; waveSpawnTimer = 0;
+  active = true; paused = false;
+  overlayEl.classList.add('hidden');
+  inputEl.disabled = false;
+  inputEl.value = '';
+  inputEl.focus();
+  updateHUD();
+}
+
+function pauseGame() {
+  if (!active) return;
+  paused = true;
+  showOverlay({
+    title: 'PAUSED',
+    subtitle: '',
+    body: '<p>Take a breath.</p><p>Press <span class="key">Esc</span> or click <strong>RESUME</strong></p>',
+    button: 'RESUME',
+    action: () => { paused = false; overlayEl.classList.add('hidden'); inputEl.focus(); }
+  });
+}
+
+function endGame() {
+  active = false;
+  paused = false;
+  inputEl.disabled = true;
+  inputEl.blur();
+  showOverlay({
+    title: 'GAME OVER',
+    subtitle: `Final Score: ${score}`,
+    body: '',
+    stats: {
+      'Words destroyed': wordsDestroyed,
+      'Best combo':      bestCombo,
+      'Wave reached':    wave,
+      'Score':           score
+    },
+    button: 'PLAY AGAIN',
+    action: startGame
+  });
+}
+
+function showOverlay({ title, subtitle, body, stats, button, action }) {
+  ovTitle.textContent = title;
+  if (subtitle) { ovSubtitle.style.display = ''; ovSubtitle.textContent = subtitle; }
+  else { ovSubtitle.style.display = 'none'; }
+  if (body) { ovBody.innerHTML = body; ovBody.style.display = ''; }
+  else { ovBody.style.display = 'none'; }
+  if (stats) {
+    let html = '<div class="stats">';
+    for (const [k, v] of Object.entries(stats)) {
+      html += `<div class="k">${k}</div><div class="v">${v}</div>`;
+    }
+    html += '</div>';
+    ovStats.innerHTML = html;
+    ovStats.style.display = '';
+  } else {
+    ovStats.style.display = 'none';
+  }
+  ovBtn.textContent = button;
+  ovBtn.onclick = action;
+  overlayEl.classList.remove('hidden');
+}
+
+// ----- Listeners -----
+inputEl.addEventListener('input', (e) => {
+  if (!active || paused) return;
+  // Normalize, strip non-letters, lowercase
+  const v = e.target.value.toLowerCase().replace(/[^a-z]/g, '');
+  inputBuffer = v;
+  e.target.value = v; // re-set so the field shows cleaned text
+  processInput();
+});
+
+// Handle backspace and Enter as well
+inputEl.addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') {
+    processInput();
+    e.preventDefault();
+  }
+});
+
+// Global shortcuts
+window.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') {
+    if (active && !paused) pauseGame();
+    else if (paused) { paused = false; overlayEl.classList.add('hidden'); inputEl.focus(); }
+  }
+});
+
+// Keep input focused — clicking on canvas should refocus
+canvas.addEventListener('mousedown', () => {
+  if (active && !paused) inputEl.focus();
+});
+document.addEventListener('click', (e) => {
+  // If overlay is up, do nothing (button handles it)
+  if (overlayEl.classList.contains('hidden') && active && !paused && e.target !== inputEl) {
+    inputEl.focus();
+  }
+});
+
+// ----- Boot -----
+function boot() {
+  resize();
+  initStars();
+  updateHUD();
+  showOverlay({
+    title: 'TYPEDOWN',
+    subtitle: '',
+    body: `<p>Words are falling from the sky. <strong>Type them before they hit the ground.</strong></p>
+           <p>Each word you destroy raises your <strong>Combo</strong>. Longer words and rare letters (Q X Z J K) score more.</p>
+           <p>Miss a word or mistype? Your <span style="color:#ff7755"><strong>overheat meter fills</strong></span> and your combo breaks. Hit 100% and you lose points.</p>
+           <p>Survive longer and waves speed up. <span class="key">Esc</span> to pause.</p>`,
+    button: 'START',
+    action: startGame
+  });
+  lastTime = performance.now();
+  requestAnimationFrame(loop);
+}
+
+boot();
+</script>
+</body>
+</html>
