@@ -45,6 +45,35 @@
   .hud-item { display: flex; gap: 8px; align-items: center; }
   .hud-label { opacity: 0.6; font-size: 11px; text-transform: uppercase; letter-spacing: 1.5px; }
   .hud-value { font-size: 22px; font-weight: bold; color: #ffcc66; font-variant-numeric: tabular-nums; }
+  .hud-value.best-value { color: #5cffae; font-size: 18px; }
+  #bestHud.beating .best-value { color: #5cffae; text-shadow: 0 0 12px rgba(92,255,174,0.6); }
+  #bestHud.beating { animation: bestPulse 1.6s ease-in-out infinite; }
+  @keyframes bestPulse {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(92, 255, 174, 0.0); }
+    50%      { box-shadow: 0 0 0 4px rgba(92, 255, 174, 0.15); }
+  }
+  .new-best-banner {
+    display: inline-flex; align-items: center; gap: 8px;
+    background: linear-gradient(135deg, rgba(92,255,174,0.18), rgba(102,204,255,0.18));
+    border: 1px solid rgba(92, 255, 174, 0.45);
+    color: #5cffae;
+    padding: 8px 16px;
+    border-radius: 999px;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    font-size: 13px;
+    margin: 0 auto 14px;
+    animation: newBestCelebrate 1.2s ease-out;
+    box-shadow: 0 0 24px rgba(92, 255, 174, 0.25);
+  }
+  .new-best-banner[hidden] { display: none; }
+  .new-best-banner .trophy { width: 18px; height: 18px; }
+  @keyframes newBestCelebrate {
+    0%   { transform: scale(0.6) translateY(-8px); opacity: 0; }
+    50%  { transform: scale(1.15) translateY(0);    opacity: 1; }
+    70%  { transform: scale(0.95); }
+    100% { transform: scale(1); }
+  }
   #lives { color: #ff5577; letter-spacing: 6px; }
   /* Canvas */
   #canvas {
@@ -127,6 +156,7 @@
     color: #ffcc66;
   }
   #overlay p { max-width: 480px; line-height: 1.6; margin-bottom: 12px; color: #ccd; font-size: 15px; }
+  #ov-extra { margin-bottom: 22px; }
   #overlay .key {
     display: inline-block;
     padding: 2px 8px;
@@ -209,6 +239,12 @@
         <div class="hud-value" id="lives">♥♥♥</div>
       </div>
     </div>
+    <div class="hud-item" id="bestHud" title="Your best score (saved in this browser)">
+      <div>
+        <div class="hud-label">Best</div>
+        <div class="hud-value best-value" id="bestScore">0</div>
+      </div>
+    </div>
   </div>
 
   <div id="input-wrap">
@@ -220,6 +256,12 @@
   <div id="toast"></div>
 
   <div id="overlay">
+    <div class="new-best-banner" id="ov-newbest" hidden>
+      <svg class="trophy" viewBox="0 0 24 24" aria-hidden="true">
+        <path fill="currentColor" d="M7 4h10v2h3v3a3 3 0 0 1-3 3h-.35A5 5 0 0 1 14 14.9V16h2v2H8v-2h2v-1.1A5 5 0 0 1 7.35 12H7a3 3 0 0 1-3-3V6h3V4Zm0 4H6v1a1 1 0 0 0 1 1V8Zm10 0v2a1 1 0 0 0 1-1V8h-1Z"/>
+      </svg>
+      <span>NEW HIGH SCORE!</span>
+    </div>
     <h1 id="ov-title">TYPEDOWN</h1>
     <h2 id="ov-subtitle" style="display:none"></h2>
     <div id="ov-stats" style="display:none"></div>
@@ -283,8 +325,22 @@ let baseFallSpeed = 50;     // px/s, grows with wave
 let baseSpawnInterval = 1.8; // s, shrinks with wave
 let maxConcurrent = 4;
 let combo = 0;
+// ----- Special-word state -----
+// Three specials: 💣 KABOOM (clear all), ❄️ CHILLZ (freeze), ⚡ RUSHX (2× multiplier)
+let freezeTimer = 0;       // >0 = currently frozen (seconds remaining)
+let multCount = 0;         // remaining words that score 2×
+// Each special: timer ticks each frame. First spawn happens when timer >= firstSpawn.
+// Subsequent spawns happen when timer >= spawnEvery (after a successful spawn).
+let bombTimer = 0;
+let freezeSpawnTimer = 0;
+let multSpawnTimer = 0;
+let bombSpawned = false;     // has bomb ever spawned?
+let freezeSpawned = false;   // has freeze ever spawned?
+let multSpawned = false;     // has mult ever spawned?
 let bestCombo = 0;
 let heat = 0;               // 0-100; fills on mistakes, drains over time
+let best = Number(localStorage.getItem('typedownBest') || 0);   // all-time high score
+let prevBest = 0;           // high score at start of current run (for "new high score" detection)
 let inputBuffer = '';
 let hoveredWord = null;
 let lastMistakeTime = 0;
@@ -292,6 +348,17 @@ let wordsAttempted = 0;
 
 const COLORS = ['#66ccff','#cc66ff','#ffaa66','#66ffaa','#ff6699','#ffcc66','#88ddff','#dd99ff'];
 const RARE_LETTERS = new Set(['q','x','z','j','k']);
+
+// ----- Special words -----
+// Each has: trigger word (uppercase), emoji icon, accent color, intervals (sec).
+const SPECIALS = {
+  bomb: { word: 'kaboom', icon: '💣', color: '#ff4466',
+          spawnEvery: 18, firstSpawn: 9, minWave: 2 },
+  freeze: { word: 'chillz', icon: '❄️', color: '#66ddff',
+          spawnEvery: 14, firstSpawn: 6, minWave: 1 },
+  mult: { word: 'rushx', icon: '⚡', color: '#ffd24a',
+          spawnEvery: 22, firstSpawn: 12, minWave: 2 },
+};
 
 function resize() {
   DPR = Math.min(window.devicePixelRatio || 1, 2);
@@ -361,6 +428,45 @@ function spawnWord() {
   });
 }
 
+// Spawn a special word. trigger = bomb | freeze | mult. Slower than normal so player can read it.
+function spawnSpecialWord(trigger) {
+  const spec = SPECIALS[trigger];
+  if (!spec) return;
+  const word = spec.word;
+  const fontSize = 24 + word.length * 2;
+  const textWidth = ctx.measureText(word).width;
+  const margin = 30;
+  // Avoid X-overlap with existing specials (so multiple specials don't visually merge).
+  // Use the MAX width of self+existing specials to compute the no-go zone.
+  let x;
+  for (let attempt = 0; attempt < 16; attempt++) {
+    x = margin + Math.random() * Math.max(1, W - 2 * margin - textWidth);
+    const tooClose = fallingWords.some(fw => {
+      if (!fw.isSpecial) return false;
+      // Compare against the widest of the two special pills + 60px safety gap
+      const fwW = ctx.measureText(fw.word).width;
+      const gap = Math.max(textWidth, fwW) + 60;
+      return Math.abs(fw.x - x) < gap;
+    });
+    if (!tooClose) break;
+  }
+  const vy = baseFallSpeed * (0.75 + Math.random() * 0.2);  // slightly slower than normal
+  fallingWords.push({
+    word,
+    x,
+    y: 80,
+    vy,
+    color: spec.color,
+    fontSize,
+    typed: '',
+    alpha: 1,
+    isSpecial: true,
+    specialType: trigger,
+    pulsePhase: 0
+  });
+  showToast(`${spec.icon} ${trigger.toUpperCase()} INCOMING!`, spec.color);
+}
+
 function wordValue(word) {
   // Base = letters. Bonus for longer words and rare letters.
   let v = word.length * 2;
@@ -369,6 +475,8 @@ function wordValue(word) {
   for (const c of word) if (RARE_LETTERS.has(c)) v += 3;
   // Combo multiplier
   v += Math.min(combo, 20);
+  // 2× special multiplier (RUSHX effect)
+  if (multCount > 0) v *= 2;
   return v;
 }
 
@@ -404,7 +512,37 @@ function update(dt) {
     showToast(`WAVE ${wave}`, '#ffcc66');
   }
 
-  // Spawn
+  // ----- Special-word spawn timers (each gated by its own minWave) -----
+  // First spawn happens at firstSpawn; subsequent at spawnEvery.
+  if (wave >= SPECIALS.bomb.minWave) {
+    bombTimer += dt;
+    const bombTarget = bombSpawned ? SPECIALS.bomb.spawnEvery : SPECIALS.bomb.firstSpawn;
+    if (bombTimer >= bombTarget) {
+      bombTimer = 0;
+      bombSpawned = true;
+      if (fallingWords.length < maxConcurrent) spawnSpecialWord('bomb');
+    }
+  }
+  if (wave >= SPECIALS.freeze.minWave) {
+    freezeSpawnTimer += dt;
+    const freezeTarget = freezeSpawned ? SPECIALS.freeze.spawnEvery : SPECIALS.freeze.firstSpawn;
+    if (freezeSpawnTimer >= freezeTarget) {
+      freezeSpawnTimer = 0;
+      freezeSpawned = true;
+      if (fallingWords.length < maxConcurrent) spawnSpecialWord('freeze');
+    }
+  }
+  if (wave >= SPECIALS.mult.minWave) {
+    multSpawnTimer += dt;
+    const multTarget = multSpawned ? SPECIALS.mult.spawnEvery : SPECIALS.mult.firstSpawn;
+    if (multSpawnTimer >= multTarget) {
+      multSpawnTimer = 0;
+      multSpawned = true;
+      if (fallingWords.length < maxConcurrent) spawnSpecialWord('mult');
+    }
+  }
+
+  // Spawn normal words
   spawnTimer += dt;
   if (spawnTimer >= baseSpawnInterval && fallingWords.length < maxConcurrent) {
     spawnTimer = 0;
@@ -414,15 +552,30 @@ function update(dt) {
   // Heat drain (passive cooling)
   heat = Math.max(0, heat - dt * 6);
 
-  // Move words
+  // Freeze timer (CHILLZ effect) — words don't move while frozen
+  if (freezeTimer > 0) {
+    freezeTimer = Math.max(0, freezeTimer - dt);
+    if (freezeTimer === 0) showToast('UNFROZEN', SPECIALS.freeze.color);
+  }
+
+  // Move words (skipped while frozen)
   const ground = H - 130; // above input box
-  for (let i = fallingWords.length - 1; i >= 0; i--) {
-    const fw = fallingWords[i];
-    fw.y += fw.vy * dt;
-    if (fw.y > ground) {
-      // Word hit the ground — lose a life
-      fallingWords.splice(i, 1);
-      loseLife();
+  if (freezeTimer === 0) {
+    for (let i = fallingWords.length - 1; i >= 0; i--) {
+      const fw = fallingWords[i];
+      fw.y += fw.vy * dt;
+      // Tick pulse phase for special words (for glow animation)
+      if (fw.isSpecial) fw.pulsePhase = (fw.pulsePhase || 0) + dt * 4;
+      if (fw.y > ground) {
+        // Word hit the ground — lose a life
+        fallingWords.splice(i, 1);
+        loseLife();
+      }
+    }
+  } else {
+    // Still tick pulse animation while frozen (so the freeze word itself pulses)
+    for (const fw of fallingWords) {
+      if (fw.isSpecial) fw.pulsePhase = (fw.pulsePhase || 0) + dt * 4;
     }
   }
 
@@ -494,23 +647,35 @@ function draw() {
     ctx.textBaseline = 'middle';
     ctx.textAlign = 'left';
 
-    // Glow
-    if (isTarget) {
+    // Pulsing glow for special words (and stronger glow when targeted)
+    if (fw.isSpecial) {
+      const pulse = 0.7 + 0.3 * Math.sin(fw.pulsePhase || 0);
+      ctx.shadowColor = fw.color;
+      ctx.shadowBlur = 12 + 12 * pulse + (isTarget ? 10 : 0);
+    } else if (isTarget) {
       ctx.shadowColor = fw.color;
       ctx.shadowBlur = 18;
     } else {
       ctx.shadowBlur = 0;
     }
 
-    // Background pill for target word (helps readability)
-    if (isTarget) {
+    // Background pill for target word OR all special words (helps readability + signals special)
+    if (isTarget || fw.isSpecial) {
       const tw = ctx.measureText(fw.word).width;
-      ctx.fillStyle = 'rgba(255,255,255,0.06)';
+      ctx.fillStyle = fw.isSpecial ? `rgba(255,255,255,0.08)` : 'rgba(255,255,255,0.06)';
       ctx.beginPath();
-      const px = fw.x - 6, py = fw.y - fw.fontSize / 2 - 4;
-      const pw = tw + 12, ph = fw.fontSize + 8;
-      ctx.roundRect(px, py, pw, ph, 6);
+      const px = fw.x - 8, py = fw.y - fw.fontSize / 2 - 6;
+      const pw = tw + 16, ph = fw.fontSize + 12;
+      ctx.roundRect(px, py, pw, ph, 8);
       ctx.fill();
+      // Dashed outline for special words (clearly different from normal)
+      if (fw.isSpecial) {
+        ctx.strokeStyle = fw.color;
+        ctx.lineWidth = 1.5;
+        ctx.setLineDash([4, 4]);
+        ctx.stroke();
+        ctx.setLineDash([]);
+      }
     }
 
     // Draw typed portion in white, rest in color
@@ -526,7 +691,47 @@ function draw() {
       ctx.fillText(fw.word, fw.x, fw.y);
     }
 
+    // Icon prefix for special words — render emoji to the LEFT of the word
+    if (fw.isSpecial && !typed) {
+      const spec = SPECIALS[fw.specialType];
+      if (spec) {
+        ctx.font = `${fw.fontSize * 0.9}px "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif`;
+        ctx.fillStyle = '#fff';
+        ctx.shadowColor = spec.color;
+        ctx.shadowBlur = 8;
+        ctx.fillText(spec.icon, fw.x - fw.fontSize * 1.1, fw.y);
+        ctx.shadowBlur = 0;
+      }
+    }
+
     ctx.shadowBlur = 0;
+  }
+
+  // ----- Active effect indicators (top-center) -----
+  if (freezeTimer > 0 || multCount > 0) {
+    const effects = [];
+    if (freezeTimer > 0) effects.push({ icon: '❄️', text: `FROZEN ${freezeTimer.toFixed(1)}s`, color: SPECIALS.freeze.color });
+    if (multCount > 0) effects.push({ icon: '⚡', text: `×2 (${multCount} left)`, color: SPECIALS.mult.color });
+    let yPos = 70;
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    for (const e of effects) {
+      ctx.font = 'bold 14px "Trebuchet MS", system-ui, sans-serif';
+      const tw = ctx.measureText(e.text).width;
+      ctx.fillStyle = 'rgba(0,0,0,0.55)';
+      ctx.beginPath();
+      ctx.roundRect(W / 2 - tw / 2 - 22, yPos - 11, tw + 44, 22, 11);
+      ctx.fill();
+      ctx.strokeStyle = e.color;
+      ctx.lineWidth = 1;
+      ctx.stroke();
+      ctx.fillStyle = e.color;
+      ctx.font = '14px "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif';
+      ctx.fillText(e.icon, W / 2 - tw / 2 - 8, yPos);
+      ctx.font = 'bold 14px "Trebuchet MS", system-ui, sans-serif';
+      ctx.fillText(e.text, W / 2 + 8, yPos);
+      yPos += 26;
+    }
   }
 
   // Particles
@@ -554,9 +759,19 @@ function processInput() {
   const buf = inputBuffer;
   if (!buf) return;
 
-  // Look for an exact match on screen
-  const target = fallingWords.find(fw => fw.word === buf);
+  // Look for an exact match on screen (prioritize specials so they always fire)
+  let target = fallingWords.find(fw => fw.isSpecial && fw.word === buf);
+  if (!target) target = fallingWords.find(fw => fw.word === buf);
   if (target) {
+    if (target.isSpecial) {
+      fireSpecial(target.specialType);
+      const idx = fallingWords.indexOf(target);
+      if (idx >= 0) fallingWords.splice(idx, 1);
+      spawnExplosion(target.x + target.word.length * 4, target.y, target.color, 22);
+      inputEl.value = '';
+      inputBuffer = '';
+      return;
+    }
     // Destroy the word
     destroyWord(target, buf);
     inputEl.value = '';
@@ -564,10 +779,35 @@ function processInput() {
     return;
   }
 
-  // Otherwise, if input buffer matches a prefix on multiple words, leave it (typing continues).
-  // If the buffer matches NOTHING on screen, treat as a mistake.
-  if (!hoveredWord && buf.length >= 2) {
-    mistake();
+  // Otherwise, if input buffer matches a prefix of ANY falling word (special or not),
+  // leave it (typing continues). We can't trust hoveredWord here because it's set in
+  // update() on the next animation frame — stale by one frame. Compute the match
+  // ourselves against the live fallingWords.
+  if (buf.length >= 2) {
+    const isValidPrefix = fallingWords.some(fw => fw.word.startsWith(buf));
+    if (!isValidPrefix) mistake();
+  }
+}
+
+// Fire a special-word effect.
+function fireSpecial(type) {
+  if (type === 'bomb') {
+    // 💣 KABOOM — clear all on-screen words. No score, but combo doesn't break.
+    const cleared = fallingWords.length;
+    fallingWords = [];
+    showToast(`💥 KABOOM! ${cleared} word${cleared===1?'':'s'} cleared`, SPECIALS.bomb.color);
+    flashScreen('good');
+    wordsAttempted += 1;  // counts as a successful action (no penalty)
+  } else if (type === 'freeze') {
+    // ❄️ CHILLZ — freeze all words for 5 seconds
+    freezeTimer = 5;
+    showToast(`❄️ FROZEN 5s`, SPECIALS.freeze.color);
+    flashScreen('good');
+  } else if (type === 'mult') {
+    // ⚡ RUSHX — next 8 destroyed words score 2×
+    multCount = 8;
+    showToast(`⚡ ×2 for 8 words`, SPECIALS.mult.color);
+    flashScreen('good');
   }
 }
 
@@ -578,6 +818,8 @@ function destroyWord(fw, fullWord) {
   combo += 1;
   bestCombo = Math.max(bestCombo, combo);
   wordsAttempted += 1;
+  // Consume one RUSHX charge (if active)
+  if (multCount > 0) multCount -= 1;
   // Remove the word
   const idx = fallingWords.indexOf(fw);
   if (idx >= 0) fallingWords.splice(idx, 1);
@@ -629,6 +871,14 @@ function updateHUD() {
   heatBarEl.style.width = heat + '%';
   if (heat >= 70) inputEl.classList.add('overheat');
   else inputEl.classList.remove('overheat');
+  // High-score chip: animate while current score > persisted best
+  const bestHud = document.getElementById('bestHud');
+  document.getElementById('bestScore').textContent = best;
+  if (score > best && score > 0) {
+    if (bestHud) bestHud.classList.add('beating');
+  } else {
+    if (bestHud) bestHud.classList.remove('beating');
+  }
 }
 
 function showToast(text, color) {
@@ -659,6 +909,12 @@ function startGame() {
   fallingWords = []; particles = [];
   baseFallSpeed = 50; baseSpawnInterval = 1.8; maxConcurrent = 4;
   spawnTimer = 0; waveSpawnTimer = 0;
+  // Special-word state
+  freezeTimer = 0; multCount = 0;
+  bombTimer = 0; freezeSpawnTimer = 0; multSpawnTimer = 0;
+  bombSpawned = false; freezeSpawned = false; multSpawned = false;
+  // Capture best-at-start-of-run BEFORE any update (in case we already beat it during play)
+  prevBest = best;
   active = true; paused = false;
   overlayEl.classList.add('hidden');
   inputEl.disabled = false;
@@ -684,8 +940,15 @@ function endGame() {
   paused = false;
   inputEl.disabled = true;
   inputEl.blur();
+  // Persist high score (only if a real improvement)
+  const isNewBest = score > best && score > 0;
+  if (isNewBest) {
+    best = score;
+    try { localStorage.setItem('typedownBest', best); } catch (e) { /* private mode */ }
+  }
+  const prevBestStr = prevBest > 0 ? `Previous best: <b style="color:#ffcc66">${prevBest}</b> · New best: <b style="color:#5cffae">${best}</b>` : `First score saved! Best: <b style="color:#5cffae">${best}</b>`;
   showOverlay({
-    title: 'GAME OVER',
+    title: isNewBest ? 'New high score!' : 'GAME OVER',
     subtitle: `Final Score: ${score}`,
     body: '',
     stats: {
@@ -694,12 +957,14 @@ function endGame() {
       'Wave reached':    wave,
       'Score':           score
     },
+    extraLine: isNewBest ? prevBestStr : `Best: <b style="color:#5cffae">${best}</b>`,
+    newBest: isNewBest,
     button: 'PLAY AGAIN',
     action: startGame
   });
 }
 
-function showOverlay({ title, subtitle, body, stats, button, action }) {
+function showOverlay({ title, subtitle, body, stats, button, action, extraLine, newBest }) {
   ovTitle.textContent = title;
   if (subtitle) { ovSubtitle.style.display = ''; ovSubtitle.textContent = subtitle; }
   else { ovSubtitle.style.display = 'none'; }
@@ -715,6 +980,33 @@ function showOverlay({ title, subtitle, body, stats, button, action }) {
     ovStats.style.display = '';
   } else {
     ovStats.style.display = 'none';
+  }
+  // High-score banner (NEW HIGH SCORE!)
+  const banner = document.getElementById('ov-newbest');
+  if (banner) {
+    if (newBest) {
+      banner.hidden = false;
+      // Re-trigger the entrance animation
+      banner.style.animation = 'none';
+      void banner.offsetWidth;
+      banner.style.animation = '';
+    } else {
+      banner.hidden = true;
+    }
+  }
+  // Optional extra line below stats (e.g. "Previous best: 12 · New best: 18")
+  let extraEl = document.getElementById('ov-extra');
+  if (extraLine) {
+    if (!extraEl) {
+      extraEl = document.createElement('div');
+      extraEl.id = 'ov-extra';
+      extraEl.style.cssText = 'margin-top:14px; margin-bottom:22px; font-size:13px; color:#aaa; letter-spacing:0.3px;';
+      ovStats.parentNode.insertBefore(extraEl, ovStats.nextSibling);
+    }
+    extraEl.innerHTML = extraLine;
+    extraEl.style.display = '';
+  } else if (extraEl) {
+    extraEl.style.display = 'none';
   }
   ovBtn.textContent = button;
   ovBtn.onclick = action;
@@ -762,12 +1054,17 @@ document.addEventListener('click', (e) => {
 function boot() {
   resize();
   initStars();
+  // Reflect persisted best in HUD even before any game
+  document.getElementById('bestScore').textContent = best;
   updateHUD();
   showOverlay({
     title: 'TYPEDOWN',
     subtitle: '',
     body: `<p>Words are falling from the sky. <strong>Type them before they hit the ground.</strong></p>
            <p>Each word you destroy raises your <strong>Combo</strong>. Longer words and rare letters (Q X Z J K) score more.</p>
+           <p><strong style="color:#ff4466">💣 KABOOM</strong> — clears the screen. &nbsp;
+              <strong style="color:#66ddff">❄️ CHILLZ</strong> — freezes words for 5s. &nbsp;
+              <strong style="color:#ffd24a">⚡ RUSHX</strong> — next 8 destroys score 2×.</p>
            <p>Miss a word or mistype? Your <span style="color:#ff7755"><strong>overheat meter fills</strong></span> and your combo breaks. Hit 100% and you lose points.</p>
            <p>Survive longer and waves speed up. <span class="key">Esc</span> to pause.</p>`,
     button: 'START',
@@ -778,6 +1075,24 @@ function boot() {
 }
 
 boot();
+
+// ----- Test hook: expose game state for end-to-end verification -----
+// Read-only inspector used by verify_specials.mjs. Harmless in production.
+window.__typedown = {
+  get fallingWords() { return fallingWords; },
+  get freezeTimer() { return freezeTimer; },
+  get multCount() { return multCount; },
+  get score() { return score; },
+  get wave() { return wave; },
+  get lives() { return lives; },
+  spawnSpecialWord,
+  fireSpecial,
+  forceEndGame() {  // test helper — immediately ends the current game
+    lives = 0;
+    if (typeof endGame === 'function') endGame();
+  },
+  resetSpecialTimers() { bombTimer = freezeSpawnTimer = multSpawnTimer = 0; bombSpawned = freezeSpawned = multSpawned = false; },
+};
 </script>
 </body>
 </html>
