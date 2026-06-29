@@ -54,6 +54,51 @@
   }
   .chip b { color: var(--ink-0); font-weight: 700; }
   .chip .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent-2); }
+  .chip.best { color: var(--ink-2); border-color: rgba(0, 224, 184, 0.25); }
+  .chip.best b { color: var(--accent-2); }
+  .chip.best.beating { border-color: var(--good); background: rgba(92, 255, 174, 0.08); animation: bestPulse 1.6s ease-in-out infinite; }
+  .chip.best.beating b { color: var(--good); }
+  @keyframes bestPulse {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(92, 255, 174, 0.0); }
+    50%      { box-shadow: 0 0 0 4px rgba(92, 255, 174, 0.15); }
+  }
+  .chip.turns .dot { background: var(--accent); }
+  .chip.turns.low { border-color: rgba(255, 196, 84, 0.45); }
+  .chip.turns.low b { color: #ffc454; }
+  .chip.turns.low .dot { background: #ffc454; }
+  .chip.turns.critical {
+    border-color: var(--warn);
+    background: rgba(255, 84, 112, 0.10);
+    animation: turnPulse 1.0s ease-in-out infinite;
+  }
+  .chip.turns.critical b { color: var(--warn); }
+  .chip.turns.critical .dot { background: var(--warn); }
+  @keyframes turnPulse {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(255, 84, 112, 0.0); }
+    50%      { box-shadow: 0 0 0 4px rgba(255, 84, 112, 0.25); }
+  }
+  .new-best-banner {
+    display: inline-flex; align-items: center; gap: 8px;
+    background: linear-gradient(135deg, rgba(0,224,184,0.18), rgba(124,92,255,0.18));
+    border: 1px solid rgba(0, 224, 184, 0.45);
+    color: var(--good);
+    padding: 8px 16px;
+    border-radius: 999px;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    font-size: 13px;
+    margin: 0 auto 12px;
+    animation: newBestCelebrate 1.2s ease-out;
+    box-shadow: 0 0 24px rgba(92, 255, 174, 0.25);
+  }
+  .new-best-banner[hidden] { display: none; }
+  .new-best-banner .trophy { width: 18px; height: 18px; }
+  @keyframes newBestCelebrate {
+    0%   { transform: scale(0.6) translateY(-8px); opacity: 0; }
+    50%  { transform: scale(1.15) translateY(0);    opacity: 1; }
+    70%  { transform: scale(0.95); }
+    100% { transform: scale(1); }
+  }
 
   .panel {
     background: linear-gradient(180deg, var(--bg-1), var(--bg-2));
@@ -221,6 +266,8 @@
       <div class="chip"><span class="dot"></span>Score <b id="score">0</b></div>
       <div class="chip">Letters <b id="letterCount">0</b>/26</div>
       <div class="chip">Lives <span class="lives" id="lives"></span></div>
+      <div class="chip turns" id="turnChip" title="You have 10 turns per game"><span class="dot"></span>Turns <b id="turnCount">0</b>/<b id="turnLimit">10</b></div>
+      <div class="chip best" id="bestChip" title="Your best score (saved in this browser)">Best <b id="bestScore">0</b></div>
     </div>
   </header>
 
@@ -263,6 +310,12 @@
 
 <div class="modal-back" id="modal">
   <div class="modal">
+    <div class="new-best-banner" id="modalNewBest" hidden>
+      <svg class="trophy" viewBox="0 0 24 24" aria-hidden="true">
+        <path fill="currentColor" d="M7 4h10v2h3v3a3 3 0 0 1-3 3h-.35A5 5 0 0 1 14 14.9V16h2v2H8v-2h2v-1.1A5 5 0 0 1 7.35 12H7a3 3 0 0 1-3-3V6h3V4Zm0 4H6v1a1 1 0 0 0 1 1V8Zm10 0v2a1 1 0 0 0 1-1V8h-1Z"/>
+      </svg>
+      <span>NEW HIGH SCORE!</span>
+    </div>
     <h2 id="modalTitle">Game over</h2>
     <div class="sub" id="modalSub">Nice run!</div>
     <div class="big-score" id="modalScore">0</div>
@@ -1752,6 +1805,8 @@ function newGame() {
     used: new Set(seed),
     score: 0,
     lives: 3,
+    turnsUsed: 0,
+    turnLimit: 10,
     gameOver: false,
     best: Number(localStorage.getItem('chainlinkBest') || 0),
   };
@@ -1801,6 +1856,7 @@ function submit() {
   state.chain.push(w);
   for (const c of w) state.used.add(c);
   state.score += gain;
+  state.turnsUsed += 1;
 
   $('wordInput').value = '';
   $('wordInput').classList.remove('bad');
@@ -1812,7 +1868,8 @@ function submit() {
 
   render(fresh);
 
-  if (state.used.size >= 26) endGame(true);
+  if (state.used.size >= 26) endGame('perfect');
+  else if (state.turnsUsed >= state.turnLimit) endGame('turns');
 }
 
 // SVG broken-heart icon: filled heart with a jagged crack down the middle.
@@ -1839,31 +1896,69 @@ function livesLeftText() {
 
 function flash(msg, type='error') {
   state.lives -= 1;
+  state.turnsUsed += 1;
   $('wordInput').classList.add('bad');
   setTimeout(() => $('wordInput').classList.remove('bad'), 350);
   const prefix = type === 'error' ? HEART_BROKEN_SVG : '';
   const suffix = type === 'error' ? livesLeftText() : '';
   setFeedback(prefix + msg + suffix, type);
   render();
-  if (state.lives <= 0) endGame(false);
+  if (state.lives <= 0) endGame('lives');
+  else if (state.turnsUsed >= state.turnLimit) endGame('turns');
 }
 
-function endGame(perfect) {
+function endGame(reason) {
   state.gameOver = true;
   $('wordInput').disabled = true;
   $('submitBtn').disabled = true;
+  // Perfect-run bonus: +5 per unused turn. Applied BEFORE high-score save so the bonus counts.
+  let turnBonus = 0;
+  if (reason === 'perfect') {
+    const remaining = state.turnLimit - state.turnsUsed;
+    turnBonus = remaining * 5;
+    state.score += turnBonus;
+  }
+  const prevBest = state.best;  // capture before any update
   if (state.score > state.best) {
     state.best = state.score;
     localStorage.setItem('chainlinkBest', state.score);
   }
-  const title = perfect ? '🏆 PERFECT — All 26 letters!' : 'Out of lives';
-  const sub = perfect
-    ? 'You played a flawless chain spanning the entire alphabet.'
-    : `You used ${state.used.size} of 26 letters across ${state.chain.length} words.`;
+  const isNewBest = state.score > prevBest && state.score > 0;
+
+  // Build title + sub based on why the game ended.
+  let title, sub;
+  if (reason === 'perfect') {
+    const remaining = state.turnLimit - state.turnsUsed;
+    title = isNewBest ? '🏆 PERFECT + NEW HIGH SCORE!' : '🏆 PERFECT — All 26 letters!';
+    sub = `Flawless! You used ${state.turnsUsed} of ${state.turnLimit} turns to span the alphabet across ${state.chain.length} words. Turn bonus: <b style="color:var(--accent-2)">+${turnBonus}</b> (${remaining} unused turn${remaining===1?'':'s'} × 5).`;
+  } else if (reason === 'turns') {
+    title = isNewBest ? 'New high score — but you ran out of turns.' : 'Out of turns';
+    const shortBy = 26 - state.used.size;
+    sub = `You used ${state.used.size} of 26 letters across ${state.chain.length} words in ${state.turnsUsed} turns. ${shortBy} letter${shortBy===1?'':'s'} short of a perfect run.`;
+  } else { // 'lives'
+    title = isNewBest ? 'New high score — but you ran out of lives.' : 'Out of lives';
+    sub = `You used ${state.used.size} of 26 letters across ${state.chain.length} words in ${state.turnsUsed} turn${state.turnsUsed===1?'':'s'}.`;
+  }
+
   $('modalTitle').textContent = title;
   $('modalSub').textContent = sub;
   $('modalScore').textContent = state.score;
-  $('modalSmall').innerHTML = `Best: <b>${state.best}</b>`;
+  const banner = $('modalNewBest');
+  if (isNewBest) {
+    banner.hidden = false;
+    // Re-trigger animation by toggling the element off/on
+    banner.style.animation = 'none';
+    void banner.offsetWidth;
+    banner.style.animation = '';
+    if (prevBest > 0) {
+      $('modalSmall').innerHTML = `Previous best: <b>${prevBest}</b> &nbsp;·&nbsp; New best: <b style="color:var(--good)">${state.best}</b>`;
+    } else {
+      $('modalSmall').innerHTML = `First score saved! Best: <b style="color:var(--good)">${state.best}</b>`;
+    }
+  } else {
+    banner.hidden = true;
+    $('modalSmall').innerHTML = `Best: <b>${state.best}</b>`;
+  }
   $('modal').classList.add('on');
   render();
 }
@@ -1914,6 +2009,10 @@ function render(flashLetters = []) {
   });
 
   $('score').textContent = state.score;
+  $('bestScore').textContent = state.best;
+  const bestChip = $('bestChip');
+  if (state.score > state.best) bestChip.classList.add('beating');
+  else bestChip.classList.remove('beating');
   $('letterCount').textContent = state.used.size;
   const lives = $('lives');
   lives.innerHTML = '';
@@ -1921,6 +2020,18 @@ function render(flashLetters = []) {
     const h = document.createElement('span');
     h.className = 'heart' + (i < state.lives ? '' : ' gone');
     lives.appendChild(h);
+  }
+
+  // Turns chip — paint remaining turns + color states
+  const remaining = state.turnLimit - state.turnsUsed;
+  $('turnCount').textContent = state.turnsUsed;
+  $('turnLimit').textContent = state.turnLimit;
+  const turnChip = $('turnChip');
+  turnChip.classList.remove('low', 'critical');
+  if (remaining <= 2 && remaining > 0) {
+    turnChip.classList.add('critical');
+  } else if (remaining <= 4) {
+    turnChip.classList.add('low');
   }
 }
 
@@ -1938,6 +2049,9 @@ function renderEmpty() {
   $('chain').innerHTML = '<span class="empty">No chain yet — start a new game.</span>';
   $('score').textContent = '0';
   $('letterCount').textContent = '0';
+  $('turnCount').textContent = '0';
+  const turnChip = $('turnChip');
+  if (turnChip) turnChip.classList.remove('low', 'critical');
   const lives = $('lives');
   lives.innerHTML = '';
   for (let i = 0; i < 3; i++) {
