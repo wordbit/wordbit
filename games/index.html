@@ -79,10 +79,13 @@
   /* ----- Grid ----- */
   .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(440px, 1fr));
-    gap: 28px;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 24px;
   }
-  @media (max-width: 520px) {
+  @media (max-width: 1024px) {
+    .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+  @media (max-width: 680px) {
     .grid { grid-template-columns: 1fr; }
   }
 
@@ -150,12 +153,13 @@
     flex: 1;
   }
   .body h2 {
-    font-size: 26px;
+    font-size: 22px;
     font-weight: 800;
     letter-spacing: -0.5px;
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 8px;
+    line-height: 1.15;
   }
   .body .tagline {
     color: var(--ink-1);
@@ -311,9 +315,10 @@
   }
   .card { animation: rise 0.5s ease-out backwards; }
   .card:nth-child(1) { animation-delay: 0.05s; }
-  .card:nth-child(2) { animation-delay: 0.15s; }
-  .card:nth-child(3) { animation-delay: 0.25s; }
-  .card:nth-child(4) { animation-delay: 0.35s; }
+  .card:nth-child(2) { animation-delay: 0.12s; }
+  .card:nth-child(3) { animation-delay: 0.19s; }
+  .card:nth-child(4) { animation-delay: 0.26s; }
+  .card:nth-child(5) { animation-delay: 0.33s; }
 </style>
 </head>
 <body>
@@ -323,6 +328,7 @@
       <span class="eyebrow">A growing collection</span>
       <h1 class="title">Word Games</h1>
       <p class="subtitle">Small, original browser games built as single self-contained HTML files — no backend, no tracking, no install. Pick one and play.</p>
+      <p style="margin-top:10px;font-size:13px;color:var(--ink-2);">3 games · 3 different verbs · 1 shared dictionary</p>
     </header>
 
     <main class="grid" id="grid">
@@ -351,6 +357,36 @@
           <div class="actions">
             <button class="btn btn-primary" data-action="play">▶ Open in browser</button>
             <a class="btn btn-secondary" href="games/chainlink.html" target="_blank" rel="noopener">↗ New tab</a>
+          </div>
+        </div>
+      </article>
+
+      <!-- LETTER WHEEL -->
+      <article class="card" data-game="letterwheel" data-src="games/letterwheel.html" data-name="LETTER WHEEL">
+        <div class="thumb">
+          <img src="games/thumbs/letterwheel-play.png" alt="LETTER WHEEL — 4×4 letter grid, ghost word GHOST at top, 3 of 5 letters traced, score 420, streak 3, 18s timer, 2 hearts">
+          <span class="badge">New</span>
+          <span class="mechanic">Path-trace · timed</span>
+        </div>
+        <div class="body">
+          <h2 style="flex-wrap:wrap;">LETTER WHEEL <span style="font-size:11px;color:var(--accent-3);font-weight:700;letter-spacing:0.8px;background:rgba(255,210,74,0.10);border:1px solid rgba(255,210,74,0.35);border-radius:999px;padding:3px 9px;margin-left:2px;text-transform:uppercase;">Ghost Words</span></h2>
+          <p class="tagline">A ghost word pulses at the top of a 4×4 letter grid. Trace a path of <strong>adjacent cells</strong> — including diagonals — to spell it before the timer runs out. Chain ghosts to build streaks.</p>
+          <div class="rules">
+            <span class="label">How to play</span>
+            <ul>
+              <li>A <strong>ghost word</strong> (3–6 letters) appears at the top of a 4×4 grid of random letters.</li>
+              <li><strong>Click or tap adjacent cells</strong> — including diagonals — to trace a path that spells the ghost.</li>
+              <li>Tap a cell again to <strong>backtrack</strong> it off your path.</li>
+              <li>Hit <strong>SUBMIT</strong> to confirm. <strong>CLEAR</strong> wipes the current path.</li>
+              <li>You have <strong>30 seconds</strong> on the first ghost, and the timer <strong>shrinks by 1 second</strong> after every successful find (floored at 5s). Build a streak while you still have time. <strong>3 lives</strong> — three misses ends the run.</li>
+              <li><strong>Score</strong> by ghost length: 3 = 30, 4 = 50, 5 = 80, 6 = 120.</li>
+              <li>Bonuses: <strong style="color:#ffd24a">+50% speed bonus</strong> if found in under 5s, <strong style="color:#5cffae">+25% streak bonus</strong> per consecutive find. New letters fall in to refill the grid after each find.</li>
+              <li>Dictionary: official Scrabble word list (NSWL2023), 3–6 letters, repeats allowed.</li>
+            </ul>
+          </div>
+          <div class="actions">
+            <button class="btn btn-primary" data-action="play">▶ Open in browser</button>
+            <a class="btn btn-secondary" href="games/letterwheel.html" target="_blank" rel="noopener">↗ New tab</a>
           </div>
         </div>
       </article>
