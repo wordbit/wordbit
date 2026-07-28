@@ -79,10 +79,10 @@
   /* ----- Grid ----- */
   .grid {
     display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 24px;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 20px;
   }
-  @media (max-width: 1024px) {
+  @media (max-width: 1180px) {
     .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   }
   @media (max-width: 680px) {
@@ -314,11 +314,11 @@
     to { opacity: 1; transform: translateY(0); }
   }
   .card { animation: rise 0.5s ease-out backwards; }
-  .card:nth-child(1) { animation-delay: 0.05s; }
-  .card:nth-child(2) { animation-delay: 0.12s; }
-  .card:nth-child(3) { animation-delay: 0.19s; }
-  .card:nth-child(4) { animation-delay: 0.26s; }
-  .card:nth-child(5) { animation-delay: 0.33s; }
+  .card:nth-child(1) { animation-delay: 0.04s; }
+  .card:nth-child(2) { animation-delay: 0.10s; }
+  .card:nth-child(3) { animation-delay: 0.16s; }
+  .card:nth-child(4) { animation-delay: 0.22s; }
+  .card:nth-child(5) { animation-delay: 0.28s; }
 </style>
 </head>
 <body>
@@ -328,7 +328,7 @@
       <span class="eyebrow">A growing collection</span>
       <h1 class="title">Word Games</h1>
       <p class="subtitle">Small, original browser games built as single self-contained HTML files — no backend, no tracking, no install. Pick one and play.</p>
-      <p style="margin-top:10px;font-size:13px;color:var(--ink-2);">3 games · 3 different verbs · 1 shared dictionary</p>
+      <p style="margin-top:10px;font-size:13px;color:var(--ink-2);">4 games · 4 different verbs · 1 shared dictionary</p>
     </header>
 
     <main class="grid" id="grid">
@@ -357,6 +357,35 @@
           <div class="actions">
             <button class="btn btn-primary" data-action="play">▶ Open in browser</button>
             <a class="btn btn-secondary" href="games/chainlink.html" target="_blank" rel="noopener">↗ New tab</a>
+          </div>
+        </div>
+      </article>
+
+      <!-- WORD KNOT -->
+      <article class="card" data-game="wordknot" data-src="games/wordknot.html" data-name="WORD KNOT">
+        <div class="thumb">
+          <img src="games/thumbs/wordknot-play.png" alt="WORD KNOT — strand of letters with bonus pills above, score and 3 hearts in HUD">
+          <span class="badge">New</span>
+          <span class="mechanic">Score chase · vocabulary</span>
+        </div>
+        <div class="body">
+          <h2 style="flex-wrap:wrap;">WORD KNOT <span style="font-size:11px;color:var(--accent);font-weight:700;letter-spacing:0.8px;background:rgba(255,210,74,0.10);border:1px solid rgba(255,210,74,0.35);border-radius:999px;padding:3px 9px;margin-left:2px;text-transform:uppercase;">No Timer</span></h2>
+          <p class="tagline">A strand of ~20 letters. Type any <strong>valid 4-6 letter word</strong> whose letters appear <strong>left-to-right</strong> — the leftmost occurrence is removed, the strand collapses. Score <strong>5 points per letter</strong>. The strand also hides <strong>3-5 bonus words</strong> shown as length-pills above (yellow = findable, red = unfindable, green ✓ = found). Main goal: <strong>chase a high score</strong> before a dead-end.</p>
+          <div class="rules">
+            <span class="label">How to play</span>
+            <ul>
+              <li>A <strong>strand</strong> of ~20 letters is given, hiding <strong>3-5 bonus words</strong>. You see each bonus's <strong>length</strong> and its <strong>possible points</strong> (length × 5).</li>
+              <li>Type any <strong>valid dictionary word</strong> (4-6 letters) whose letters appear <strong>left-to-right</strong> in the strand and press <strong>Enter</strong> (or <strong>Pull</strong>).</li>
+              <li>The <strong>leftmost occurrence</strong> is removed. The remaining letters collapse together.</li>
+              <li>Pulls that aren't real words, or words whose letters can't be found in order, <strong>cost a life</strong>. You have <strong>3 lives</strong>.</li>
+              <li>Score: <strong>5 points per letter</strong>. 4-letter = 20, 5-letter = 25, 6-letter = 30. Bonus and non-bonus words score the same — bonuses just show you what's possible.</li>
+              <li>The game ends when <strong>no valid word</strong> can be formed from the remaining letters (dead-end) — or after 3 wrong pulls.</li>
+              <li>No timer. No reflexes. <strong>Pure vocabulary</strong> and a sharp eye.</li>
+            </ul>
+          </div>
+          <div class="actions">
+            <button class="btn btn-primary" data-action="play">▶ Open in browser</button>
+            <a class="btn btn-secondary" href="games/wordknot.html" target="_blank" rel="noopener">↗ New tab</a>
           </div>
         </div>
       </article>
