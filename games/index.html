@@ -77,15 +77,15 @@
   }
 
   /* ----- Grid ----- */
+  /* Desktop: 2 cards per row, each card ≈ half the page width ≈ 2× the
+     previous single-column width. Tablet drops to 2-up at narrower widths
+     (same — already 2-up). Phone collapses to a single column. */
   .grid {
     display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 20px;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 24px;
   }
-  @media (max-width: 1180px) {
-    .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  }
-  @media (max-width: 680px) {
+  @media (max-width: 880px) {
     .grid { grid-template-columns: 1fr; }
   }
 
@@ -100,6 +100,12 @@
     flex-direction: column;
     transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
     backdrop-filter: blur(6px);
+  }
+  /* Featured card (TYPEDOWN) — spans full row on desktop so the 5th card
+     doesn't sit alone. On mobile/narrow it collapses to single column. */
+  .card-wide { grid-column: 1 / -1; }
+  @media (max-width: 880px) {
+    .card-wide { grid-column: auto; }
   }
   .card:hover {
     transform: translateY(-3px);
@@ -328,7 +334,7 @@
       <span class="eyebrow">A growing collection</span>
       <h1 class="title">Word Games</h1>
       <p class="subtitle">Small, original browser games built as single self-contained HTML files — no backend, no tracking, no install. Pick one and play.</p>
-      <p style="margin-top:10px;font-size:13px;color:var(--ink-2);">4 games · 4 different verbs · 1 shared dictionary</p>
+      <p style="margin-top:10px;font-size:13px;color:var(--ink-2);">6 games · 6 different verbs · 1 shared dictionary</p>
     </header>
 
     <main class="grid" id="grid">
@@ -449,7 +455,33 @@
         </div>
       </article>
 
-      <!-- TYPEDOWN -->
+      
+      <!-- WORD-DROP -->
+      <article class="card" data-game="worddrop" data-src="games/worddrop.html" data-name="WORD-DROP">
+        <div class="thumb">
+          <img src="games/thumbs/worddrop.png" alt="WORD-DROP — three columns of letters, some highlighted in cyan">
+          <span class="badge">New</span>
+          <span class="mechanic">Column-clear · survival</span>
+        </div>
+        <div class="body">
+          <h2>WORD-DROP</h2>
+          <p class="tagline">A high-pressure survival game. Type words to clear letters from three columns before they overflow the top.</p>
+          <div class="rules">
+            <span class="label">How to play</span>
+            <ul>
+              <li>Letters spawn one-by-one across three columns.</li>
+              <li>Type any dictionary word using available letters from any column.</li>
+              <li>Clear an entire column to stop letters from spawning there.</li>
+              <li>Win by clearing all three columns. Lose if any active column overflows.</li>
+            </ul>
+          </div>
+          <div class="actions">
+            <button class="btn btn-primary" data-action="play">▶ Open in browser</button>
+            <a class="btn btn-secondary" href="games/worddrop.html" target="_blank" rel="noopener">↗ New tab</a>
+          </div>
+        </div>
+      </article>
+<!-- TYPEDOWN -->
       <article class="card" data-game="typedown" data-src="games/typedown.html" data-name="TYPEDOWN">
         <div class="thumb">
           <img src="games/thumbs/typedown.png" alt="TYPEDOWN — a falling word on a starfield, HUD shows score, wave, lives">
